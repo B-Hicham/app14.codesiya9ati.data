@@ -1,0 +1,964 @@
+{
+  "id": 53,
+  "title": "Quiz 53",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_1.jpg",
+  "source": "siya9ati_v2",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_1.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_1.mp3",
+      "description": "يمكن لي نتجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "الطريق ذات إتجاه واحد ويمكنني التجاوز، لا توجد علامة طرقية تمنعنا من التجاوز، بالنسبة للعلامة الطرقية فهي خاصة بالشاحنات وتشير إلى أنه يمنع على الشاحنات التجاوز وليس على السيارات العادية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_2.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_2.mp3",
+      "description": "يمكن لي نتوقف",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الطريق ذات إتجاهين ولا يمكننا التوقف في الجهة المعاكسة، لذلك في هذه الحالة لدينا الحق في التوقف فقط في الجهة اليمنى.",
+      "optionGroups": [
+        {
+          "description": "على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_3.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_3.mp3",
+      "description": "سبب طقطقة عند المرور من مستوى لآخر يمكن يكون ناتج عن",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "بالنسبة لصوت الطرطقة عند المرور من مستوى إلى اخر بالنسبة لمحول السرعة فهو بسبب الإستعمال السريع لعلبة التحكم وأيظا قد تكون الحالة السيئة للواصل.",
+      "optionGroups": [
+        {
+          "description": "استعمال سريع لعلبة التحكم :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "الحالة السيئة للواصل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_4.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_4.mp3",
+      "description": "يمكن لي نتجاوز السيارة البيضا",
+      "answer": [
+        2
+      ],
+      "explanation": "السيارة البيضاء سوف تغيّر الإتجاه الى اليمين، إذا قمت بتجاوزها فيوجد تشوير أفقي وهو السهم يجبرنا للإنعطاف إلى اليسار، إذا لا يمكنني تجاوز السيارة البيضاء بإستعمال المسلك الثاني. يجب في هذه الحالة الإنتباه والتقليل من السرعة والمرور بعد تغيير السيارة البيضاء لإتجاهها.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_5.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_5.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "عندما يندمج الراجلين في المسلك فيجب علينا إعطائهم حق الأسبقية والإنتظار للمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_6.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_6.mp3",
+      "description": "واجب تطبيق تحديد السرعة",
+      "answer": [
+        1
+      ],
+      "explanation": "بالنسبة لتحديد السرعة للعلامة الطرقية الخاصة ب 30 كلم في الساعة، فيتم تطبيقها من عند العلامة دائما.",
+      "optionGroups": [
+        {
+          "options": [
+            "فورا",
+            "على بعد 150 متر",
+            "عند المنعرج المقبل"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_7.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_7.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "يوجد خطر كما توضح الصورة، بالنسبة للسيارة أو الشاحنة فهي غير متوقفة بشكل جيد في الطريق وهذا يشكل خطر، وأيظا خطر اخر في الجهة اليسرى بالنسبة للسيارة التي تريد الإندماج في الطريق. لذلك في هذه الحالة يجب الإنتباه والتخفيف من السرعة والتنبيه بالمنبّه الصوتي.",
+      "optionGroups": [
+        {
+          "description": "ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "يمكن لي ننبه بالمنبه الصوتي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_8.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_8.mp3",
+      "description": "التوقف ممنوع",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "بالنسبة للعلامة الطرقية فهي تعني المنع، ولا يوجد سهم الذي يعني قبل العلامة، لذلك هنا في هذه الحالة فالمنع يطبّق من عند العلامة وبعدها.",
+      "optionGroups": [
+        {
+          "description": "قبل هاذ العلامة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بعد هاذ العلامة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_9.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_9.mp3",
+      "description": "يمكن لي نبدل المسلك باش ندخل لهاذ المحطة",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة لتغيير المسلك ففي هذه الحالة فلا يمكن ذلك لأني وصلت إلى الخط المتصل الذي يمنعني من تغيير المسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_10.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_10.mp3",
+      "description": "",
+      "answer": [
+        3
+      ],
+      "explanation": "يوجد علامات طرقية تعني أنه ليس لدينا حق الأسبقية ولكن عند وجود الإشارات الضوئية فتلك العلامات تلغى، لذلك في هذه الحالة لدينا الضوء أخضر إذا علينا المرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعطي حق الاسبقية لليمن",
+            "نعطي حق الاسبقية لليسر",
+            "ندوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_11.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_11.mp3",
+      "description": "يمكن لي",
+      "answer": [
+        3
+      ],
+      "explanation": "الإشارات الأفقية سهم في الطريق يعني الإجبار للإنعطاف إلى اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتابع السير للقدام",
+            "ندور على ليسر",
+            "ندور على ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_12.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_12.mp3",
+      "description": "بيني وبين العربة لي قدامي، واجب علي نخلي مسافة كتقدر",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "بالنسبة لعلامة المنع التي تعني أنه يجب ترك مسافة 200 متر بين العربتين فهي خاصة بالشاحنات وليس السيارات، بالنسبة لمسافة الأمان دائما تقدر تقريبا بثانيتين.",
+      "optionGroups": [
+        {
+          "description": "ب 200 متر:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بثانيتين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_13.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_13.mp3",
+      "description": "نتجاوز سائق الدراجة",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة للشاحنة فقد إرتكب سائقها مخالفة ولا يجب التجاوز مثله لأن الخط متصل ولا يمكننا إتباعه لكي نتجاوز سائق الدرّاجة، لذلك لا يمكنني التجاوز الان.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_14.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_14.mp3",
+      "description": "الاشارات المرسومة على الارض كتسمح",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "بالنسبة للإشارات المرسومة على الأرض فيقصدون بها الخط المتقطع، وفي بعض الحالات يقول السؤال التشوير الأفقي وهو يعني كذلك الإشارات المرسومة على الأرض، في هذه الحالة بالنسبة للإشارات المرسومة على الأرض الخط المتقطع فهي تسمح لنا بالنتجاوز ولكن لا يمكنني التجاوز الان لأنه يوجد علامات طرقية عمودية تمنعنا من التجاوز الان.",
+      "optionGroups": [
+        {
+          "description": "بالتجاوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نتجاوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_15.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_15.mp3",
+      "description": "بعد ساعتين ديال السياقة، انا مازال فحالة جيدة",
+      "answer": [
+        2
+      ],
+      "explanation": "القانون يقول أنه بعد كل ساعتين من السياقة فالشخص يحتاج إلى 15 دقيقة من الإستراحة، لذلك في هذه الحالة يجب أن نقوم بوقفة إستراحة وبعد ذلك نقوم بإكمال السير.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتابع السير",
+            "نقوم بوقفة للاستراحة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_16.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_16.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "عندما تكون سيارة تستعد لتجاوزنا فلا نزيد من السرعة ولا ننقص منها يجب البقاء في نفس السرعة، وكذلك البقاء في مسلكنا الخاص بالسيّر العادي.",
+      "optionGroups": [
+        {
+          "description": "ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نشد ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_17.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_17.mp3",
+      "description": "باش ندور ليسر، نستعمل المسلك لي على ليسر",
+      "answer": [
+        1
+      ],
+      "explanation": "بما أنني أريد الإنعطاء إلى اليسار، يجب أن أنحاز الى المسلك الاخر من الان، لأن التشوير الأفقي أي السهم المرسوم على الأرض يجبرني للإنعطاف إلى اليسار، لذلك يجب عليّ من الان السير في المسلك الاخر للإنعطاف لليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "من دابا",
+            "من عند السهم الاول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_18.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_18.mp3",
+      "description": "انا في الوضع المناسب باش",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "في كلتا الحالتين لست في مكان جيد للإنعطاف لليمين أو اليسار، دائما بالنسبة للإنعطاف لليمين أو اليسار يجب ان أتواجد في المسلك الموجود على اليمين أي المسلك العادي للسير.",
+      "optionGroups": [
+        {
+          "description": "نغير الاتجاه ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نتبع انعطاف المنعرج ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_19.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_19.mp3",
+      "description": "ماربطش حزام السلامة، يمكن لي نمسك نفسي إلا وقع الاصطدام بسرعة 30 كلم فالساعة",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة لحزام السلامة فهو ضروري في أي سرعة أسير بها، ومهما كانت السرعة التي أسير بها فلا يمكن لي أن أتحكم في نفسي عند الإصطدام.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_20.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_20.mp3",
+      "description": "غادي نتجه للمخرج لي على ليمن، نقوم بالحصر الآن",
+      "answer": [
+        2
+      ],
+      "explanation": "نحن في طريق سيّار ولم نصل بعد إلى مخرج اليمين لكي نقوم بعملية الحصر وننقص من السرعة، سوف نقوم بعملية الحصر عندما نقترب من المسلك الخاص بالإنعطاف لليمين وليس الان.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_21.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_21.mp3",
+      "description": "العلامات الطرقية كتعلم على",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "بالنسبة للعلامات الطرقية فهي تعني طريق ذات إتجاه واحد وليس طريق ذات مسلك واحد، كما توضح الصورة فالطريق تتوفّر على مسلكين وبالنسبة للعلامة الطرقية فهي تعني فقط أن الطريق ذات إتجاه واحد.",
+      "optionGroups": [
+        {
+          "description": "طريق ذو اتجاه واحد :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "وجود مسلك واحد للسير :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_22.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_22.mp3",
+      "description": "هاد السيارة وقفات",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "يجب الإنتباه دائما لهذا النوع من الأسئلة، في الصورة توجد علامة قف بالنسبة للسيارة السوداء ويجب عليها الوقوف، إذن يجب علي فقط ان أخفف من السرعة وأقوم بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "ننقص من السرعة",
+            "ندوز",
+            "نوقف",
+            "ننتحاز لليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_23.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_23.mp3",
+      "description": "عاد حصلت على رخصة السياقة من صنف ب (B) يمكن لي نسوق دراجة نارية عادية",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة لرخصة السياقة من صنف (باء) (B) فهي خاصة فقط بسياقة السيارة ليس الدراجة النارية، بالنسبة للدراجة النارية فتحتاج إلى رخصة السياقة من نوع (ألف) (A).",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_24.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_24.mp3",
+      "description": "يمكن لي ندور",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "بالنسبة لهذه الحالة يمكنني الإنعطاف لليمين أو السير مباشرة لأنه يوجد تشوير أفقي السهم المرسوم على الأرض، ولا يمكنني الإنعطاف لليسار لأنه توجد علامة طرقية تمنعني من الإنعطاف لليسار.",
+      "optionGroups": [
+        {
+          "description": "على ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_25.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_25.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "حركة السير متوقّفة ولا مشكلة في ترك السيارة تندمج في حركة السير، لذلك أيظا يجب علي أن أقلل من السرعة التي أسير بها لكي اترك السيارة تندمج في حركة السير.",
+      "optionGroups": [
+        {
+          "description": "يمكن لي نخلي تخرج هاذ السيارة اللي كتستعد باش تندمج فحركة السير:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ننقص من السرعة:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_26.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_26.mp3",
+      "description": "مني ندور على ليمن، واجب علي نعطي حق الاسبقية",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "عند الإنعطاف لليمين فيوجد ممر الراجلين الذي يجبرني على أن أقوم بإعطاء حق الأسبقية للراجل، كذلك يوجد سائق دراجة من الخلف ويجب عليّ أن أعطيه حق الأسبقية للمرور أولا وأقوم بالمرور بعد ذلك.",
+      "optionGroups": [
+        {
+          "description": "للراجل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "لسائق الدراجة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_27.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_27.mp3",
+      "description": "مازال يمكن لي ناخذ الطريق اللي على ليمن ديالي",
+      "answer": [
+        2
+      ],
+      "explanation": "لا يمكنني الان أن أقوم بتغيير الإتجاه لليمين لتغيير المسلك لأنه الخط متّصل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_28.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_28.mp3",
+      "description": "للقيام بالتوقف على ليمن، من الافضل القيام بهاذ العملية",
+      "answer": [
+        1
+      ],
+      "explanation": "في الحالتين مسموح بهما أي التوقف على اليمين يمكنني القيام به وأنا أسير مباشرة وأيظا يمكنني القيام به وأنا راجع للخلف، لكن من الأفضل كما يقول السؤال في هذه الحالة أفضل طريقة للتوقف على اليمين هي الرجوع من الخلف، لانه عندما أريد الخروج بعد ذلك تكون العملية سهلة ولا يكون هنالك خطر كبير لانه سوف أخرج مباشرة من الموقف وتكون الرؤية واضحة أكثر.",
+      "optionGroups": [
+        {
+          "options": [
+            "ونا راجع للخلف",
+            "ونا سير للقدام"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_29.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_29.mp3",
+      "description": "من الواجب علي ندور على ليسر",
+      "answer": [
+        2
+      ],
+      "explanation": "التشوير الأفقي السهم المرسوم على الأرض يجبرني للإنعطاف لليسار، لكن لم نصل إليه بعد يمكننا السير في المسلك الذي فيه سهم والذي يتيح السير مباشرة، لذلك في هذه الحالة لم أصل بعد إلى السهم ولذلك لست مجبر من الان ان أنعطف لليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_30.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_30.mp3",
+      "description": "أنا فالوضع المناسب للسير",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة للمسلك الخاص بالسير العادي فهو المسلك الأول الموجود على اليمين، أنا الان أتواجد في المسلك الخاص بالتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_31.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_31.mp3",
+      "description": "فهاد الظروف، من لاحسن",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "بالنسبة لهذه الظروف فيوجد مطر، بالنسبة للشاحنة فهي قادمة أمامي، يجب علي أن أسير في المسلك الخاص بي بشكل جيد، وبالنسبة لمسّاحات الزجاج في السرعة القصوى فمن الأفضل ذلك لكي أستطيع رؤية الطريق بشكل أفضل.",
+      "optionGroups": [
+        {
+          "description": "نشد ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ندير مساحات الزجاج فالسرعة القصوى :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_32.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_32.mp3",
+      "description": "باش نتجاوز سائق هاذ الدراجة، واجب نخلي مسافة امان ما تقلش على",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة لتجاوز الدراجات داخل المدينة فيجب علي أن أترك مسافة أمان لا تقل عن متر واحد، وفي خارج المدينة نترك متر ونصف. في هذه الحالة نحن نتواجد داخل المدينة إذن يجب أن نترك مسافة لا تقّل عن متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "0,50 متر",
+            "1,00 متر",
+            "1,50 متر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_33.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_33.mp3",
+      "description": "العلامات الطرقية كتسمح بتجاوز",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "بالنسبة للعلامة الطرقية فهي تعني منع التجاوز لجميع العربات التي تتوفر على 4 عجلات، بالنسبة للجرار فيتوفر على 4 عجلات إذن لا يمكنني تجاوزه، بالنسبة للدراجة النارية فيمكننا تجاوزها لأنها تتوفر على عجلتين.",
+      "optionGroups": [
+        {
+          "description": "جرار:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "دراجة نارية:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_34.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_34.mp3",
+      "description": "من هذا المركز لي كتشير ليه العلامة يمكن لي نتصل ب",
+      "answer": [
+        1
+      ],
+      "explanation": "نحن نتواجد في طريق سيّار ويتوفّر على مركز النجدة، هذا المركز يتيح لنا فقط الإتصال بالنّجدة ولا شيئ اخر.",
+      "optionGroups": [
+        {
+          "options": [
+            "النجدة",
+            "ميكانيكي",
+            "صديق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_35.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_35.mp3",
+      "description": "ننحاز ليسر",
+      "answer": [
+        1
+      ],
+      "explanation": "يوجد مطر، وفي القانون عندما نريد التقابل مع شخص فيجب ترك مسافة، لذلك في هذه الحالة يجب الإنحياز قليلا لليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_36.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_36.mp3",
+      "description": "عنقلل من تاثير التعب ونا سايق إلا",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "تقليل تأثير التعب له علاقة ببرنامج السير أو خط السير، فمثلا عند الذهاب إلى مدينة اخرى وكان برنامج السير واضح فسوف نقلل المسافة ونعرف أين يجب أن نذهب مباشرة وبذلك سوف نقلل من تأثير التعب، وبالنسبة لوقفة إستراحة كل ساعتين فهذا واجب وضروري لأن القانون يقول أنه بعد كل ساعتين من السير فيجب على السائق أخد قسط من الراحة يبلغ على الأقل 15 دقيقة.",
+      "optionGroups": [
+        {
+          "description": "كنت موجد خط السير ديالي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نقوم بوقفة للاستراحة كل ساعتين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_37.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_37.mp3",
+      "description": "فهاد التجمع السكني، يمكن لي السير",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "في الليل إستعمال اَواء العربة ضروري حتى مع وجود إنارة المدينة، إذن في الليل يمكنني السير بأضواء الوضع وحدهم بما أننا داخل التجمع السكاني ويوجد إنارة عمومية او يمكننا كذلك السير بأضواء التقابل، لا يمكن السير بدون اضواء في الفترة الليلية وايضا لا يمكن إستعمال أضواء الطّريق داخل التّجمعات السّكانية. إذا الإجابة الصحيحة هي رقم 2 و 3.",
+      "optionGroups": [
+        {
+          "options": [
+            "بدون اضواء",
+            "باضواء الوضع وحدهم",
+            "باضواء التقابل",
+            "باضواء الطريق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_38.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_38.mp3",
+      "description": "العربة كترجع للخلف ببطء نبه بالمنبه الصوتي",
+      "answer": [
+        2
+      ],
+      "explanation": "المنبّه الصوتي ممنوع في المدينة إلّا للضرورة القصوى، بالنسبة للسؤال بما أنه يقول أن العربة ترجع للخلف ببطئ فهنا لا نستعمل المنبه الصوتي. في بعض المرات السؤال يقول أن العربة ترجع للخلف (بدون ذكر كلمة ببطئ) في هذه الحالة نقوم بالتّنبيه بالمنبّه الصوتي.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_39.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_39.mp3",
+      "description": "كنتوفر على تأمين خسائر اصطدام. انزلقت بيا السيارة فالمنعرج ووقعوا لي خسائر. غناخد تعويض",
+      "answer": [
+        2
+      ],
+      "explanation": "التأمين فيه العديد من الانواع، مثلا التأمين على السرقة، التأمين على الحريق، التأمين على الخسائر المادية، وما إلى غير ذلك من أنواع التأمين،، في هذه الحالة السؤال يقول على أننا نتوفر على تأمين خاص بخسائر بالإصطدام، لذلك شركة التأمين لن تقوم بتعويضي لانه لديّ فقط تامين الإصطدام وليس تأمين للخسائر.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_53/quiz_53_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_53/quiz_s_53_40.mp3",
+      "mp3": "files/audio/quiz_53/quiz_s_53_40.mp3",
+      "description": "نعطي حق الاسبقية",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "أعطي حق الأسبقية بالنسبة للراجل لأنه يتواجد في ممر الراجلين، وأيظا أعطي حق الأسبقية للشاحنة لأن في ملتقيات الطرق الأسبقية للعربات القادمة من الجهة اليمنى.",
+      "optionGroups": [
+        {
+          "description": "للرجل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "للشاحنة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    }
+  ]
+}

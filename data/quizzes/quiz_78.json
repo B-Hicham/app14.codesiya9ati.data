@@ -1,0 +1,882 @@
+{
+  "id": 78,
+  "title": "Quiz 78",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_1.jpg",
+  "source": "siya9ati_v2",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_1.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_1.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "سيارة الإسعاف في مهمّة وهذا واضح من خلال ضوء التّنبيه بالأحمر الذي يشتغل فوقها، عندما تكون سيارة الإسعاف في مهمّة استعجالية فالأولوية لها على الرّغم من أن الإشارة الضوئية خضراء. إذن في هذه الحالة يجب عليّ الوقوف والسّماح لسيارة الإسعاف بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_2.gif",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_2.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_2.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "على الرغم من وجود سيارة متوقّفة في جهة سيارة المطافئ فيجب علي إعطاء حق الأسبقية لسيارة المطافئ لأنها في مهمَّة استعجالية كما تبين الأضواء الحمراء التي تشتغل فوقها.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز انا الاول",
+            "نعطي حق الاسبقية للعربة الحمراء"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_3.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_3.mp3",
+      "description": "نعطي حق الاسبقية لهاذ السيارة",
+      "answer": [
+        2
+      ],
+      "explanation": "السيّارة المتواجدة على اليمين فهي تخرج من موقف سيارات (لم تكن في حالة سير) كانت متواجدة في مكان خاص ويجب عليها التوقف. إذن في هذه الحالة لا أقوم بإعطاء حق الأسبقية للسّيارة المتواجدة على اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_4.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_4.mp3",
+      "description": "عندي الحمى و كنشغل بكثرة الحالة اللي انا فيها يمكن تسبب لي ضعف فالتركيز",
+      "answer": [
+        1
+      ],
+      "explanation": "بما أنني في حالة صحّية غير جيّدة، فبطبيعة الحال سوف يسبب لي هذا الأمر قلّة في التّركيز أثناء السّياقة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_5.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_5.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "العلامة الطّرقية تعني أنه ليس لدي حق الأسبقية في هذا الملتقى الطّرقي، وهذا يعني على أنه يجب عليّ إعطاء حق الأسبقية للعربات القادمة من الجهة اليمنى وكذلك للعربات القادمة من الجهة اليسرى، في هذه الحالة فلا يجب عليّ الإنقاص من السّرعة والمرور لأنه توجد سيارة على اليمين ويجب عليّ أن أسمح لها بالمرور أوّلا بما أنه ليس لي حق الأسبقية، وأيضا أقوم بالوقوف لكي أسمح للسيّارة بالمرور أوّلا.",
+      "optionGroups": [
+        {
+          "description": "ننقص من السرعة و ندوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_6.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_6.mp3",
+      "description": "التقابل غير ممكن",
+      "answer": [
+        2
+      ],
+      "explanation": "التّقابل غير ممكن معناه أنه لا يمكنني المرور أنا والسيّارة مع بعض في هذه الطّريق الضيّقة، يمكن أن يمّر واحد فقط، في هذه الحالة بما أن السيّارة التي أمامي هي التي وصلت أوّلا إلى الطّريق الضيّقة (يمكن أن تكون تلك قنطرة) فيجب عليّ أن أعطيها حق الأسبقية وأن أسمح لها بالمرور أوّلا.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز أنا الأول",
+            "نعطي حق الأسبقية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_7.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_7.mp3",
+      "description": "نوقف باش نسمح لسيارة الحمرا تدوز",
+      "answer": [
+        2
+      ],
+      "explanation": "بما أن السيّارة تخرج من مكان خاص (كراج) فيجب عليها الوقوف وإعطائي حق الأسبقية في المرور أوّلا. إذن في هذه الحالة ليس من الواجب عليّ الوقوف والسّماح للسيّارة بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_8.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_8.mp3",
+      "description": "واجب على هاذ السيارة تعطيني حق الاسبقية",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّرقية تعني أنه ليس لديّ حق الأسبقية في هذا الملتقى الطّرقي، وهذا يعني على أنه يجب عليّ إعطاء حق الأسبقية للعربات القادمة من الجهة اليمنى وكذلك للعربات القادمة من الجهة اليسرى. في هذه الحالة ليس من الواجب على السيّارة الموجودة على اليسار إعطائي حق الأسبقية، لأنه الأسبقية لها.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_9.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_9.mp3",
+      "description": "غادي نغير الاتجاه على ليمن",
+      "answer": [
+        1
+      ],
+      "explanation": "سوف أقوم بالانعطاف على اليمين، وكما نلاحظ يوجد ممر للرّاجلين وأيضا يوجد راجل مندمج في ممر الرّاجلين. إذن يجب عليّ الوقوف و إحترام ممر الرّاجلين وإعطاء حق الأسبقية للرّاجل بالمرور أوّلا.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعطي حق الاسبقية لهاذ الراجل",
+            "واجب على الراجل يعطيني حق الاسبقية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_10.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_10.mp3",
+      "description": "باش نغير الاتجاه ليمن، واجب علي نعطي حق الاسبقية للسيارة الكحلا",
+      "answer": [
+        2
+      ],
+      "explanation": "نتواجد قرب ملتقى الطّرق، وبما أنه لا توجد علامات طرقية إذن القاعدة تقول الأسبقية للعربات القادمة من الجهة اليمنى، إذن في هذه الحالة بما أنني أتواجد على يمين السيّارة السوداء فيجب عليها الوقوف وإعطائي حق الأسبقية. إذن لكي أقوم بالانعطاف على اليمين ليس من الواجب عليّ إعطاء حق الأسبقية للسيّارة السّوداء.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_11.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_11.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية تعني أنه ليس لديّ حق الأسبقية في هذا الملتقى الطّرقي، وهذا يعني على أنه يجب عليّ إعطاء حق الأسبقية للعربات القادمة من الجهة اليمنى وكذلك للعربات القادمة من الجهة اليسرى. في هذه الحالة يجب عليّ إعطاء حق الأسبقية.",
+      "optionGroups": [
+        {
+          "options": [
+            "أعطي حق الأسبقية",
+            "أمر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_12.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_12.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3,
+        4
+      ],
+      "explanation": "أتواجد قرب ملتقى الطّرق، توجد علامة قف وهذا يعني على أن الوقوف إجباري في ملتقى الطّرق، وبما أنه يوجد لديّ علامة قف فيجب عليّ في هذه الحالة الوقوف وإعطاء حق الأسبقية للسيارات القادمة من الجهة اليمنى وكذلك السيارات القادمة من الجهة اليسرى.",
+      "optionGroups": [
+        {
+          "options": [
+            "ننقص من السرعة و ندوز",
+            "نوقف",
+            "نعطي حق الاسبقية اللي جاي من ليسر",
+            "نعطي حق الاسبقية اللي جاي من اليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_13.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_13.mp3",
+      "description": "باش ندور على لليمن",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "عندما يكون شرطي المرور يعطيني بالظّهر أو يقف أمامي مباشرة فهذا يعني الوقوف بالنسبة لي ويجب عليّ الوقوف وانتظار إشارته للمرور. في هذه الحالة بما أن شرطي المرور يقف أمامي مباشرة فيجب عليّ الوقوف مهما كان اتّجاهي.",
+      "optionGroups": [
+        {
+          "description": "ندوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_14.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_14.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": " بما أن السيّارة التي أمامي توجد في القنطرة ولكي أقوم بتسهيل عملية التّقابل فيجب عليّ إعطائها حق الأسبقية. (لا توجد قاعدة في القنطرة، العربة التي تتواجد أولا قرب القنطرة هي التي لديها حق أسبقية المرور أوّلا).",
+      "optionGroups": [
+        {
+          "options": [
+            "نكمل السير للقدام",
+            "نعطي حق الاسبقية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_15.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_15.mp3",
+      "description": "باش نغير الاتجاه على ليمن",
+      "answer": [
+        2
+      ],
+      "explanation": "عندما يكون شرطي المرور يعطيني بالظّهر أو يقف أمامي مباشرة فهذا يعني الوقوف بالنسبة لي ويجب عليّ الوقوف وانتظار إشارته للمرور. في هذه الحالة بما أن شرطي المرور يقف أمامي مباشرة فيجب عليّ الوقوف مهما كان اتّجاهي.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_16.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_16.mp3",
+      "description": "غادي نعطي حق الاسبقية",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "العلامة الطّرقية تعني إنتباه خطر ملتقى طرق على بعد 150 متر والأسبقية للعربات القادمة من اليمين. إذن في هذه الحالة سوف أقوم بإعطاء حق الأسبقية للعربات القادمة من اليمين فقط.",
+      "optionGroups": [
+        {
+          "description": "لي جاي من ليمين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "لي جاي من ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_17.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_17.mp3",
+      "description": "واجب على السيارة الرمادية تعطيني حق الاسبقية",
+      "answer": [
+        1
+      ],
+      "explanation": "بما أنه السيّارة الرّمادية لديها علامة قف، فيجب عليها الوقوف وإعطاء حق الأسبقية للعربات القادمة من الجهة اليمنى واليسرى، إذن في هذه الحالة فإنه من الواجب على السيّارة الرّمادية إعطائي حق الأسبقية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_18.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_18.mp3",
+      "description": "",
+      "answer": [
+        3
+      ],
+      "explanation": "نتواجد قرب ملتقى الطّّرق، السيارة الحمراء يجب عليها إعطاء حق الأسبقية للعربات القادمة من اليمين واليسار بما أنه لديها علامة قف. في هذه الحالة بما أن السيّارة الحمراء قامت بمخالفة فلا يمكنني الزّيادة في السّرعة والمرور قبلها لأنه يوجد خطر الاصطدام بها، وبما أنّني أتواجد داخل المجال الحضري فلا يمكنني استعمال المنبّه الصوتي إلّا في حالة الخطر والضّرورة. إذن القرار المنطقي في هذه الحالة هو الإنقاص من السّرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نزيد فالسرعة ديالي باش ندوز قبل هاذ السيارة",
+            "ننبه بالمنبه الصوتي",
+            "نقص من السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_19.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_19.mp3",
+      "description": "نعطي حق الاسبقية للي جاي من جهة لیمن",
+      "answer": [
+        2
+      ],
+      "explanation": "بما أن السيّارة تخرج من مكان خاص (كراج) فيجب عليها الوقوف وإعطائي حق الأسبقية في المرور أوّلا. إذن في هذه الحالة ليس من الواجب عليّ الوقوف والسّماح للسيّارة بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_20.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_20.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "نتواجد قرب ملتقى طرق ولا توجد علامة طرقية تنظّم حركة السيّر، في هذه الحالة القاعدة تقول الأسبقية للعربات القادمة من الجهة اليمنى، إذن في هذا الملتقى الطّرقي سوف أقوم بالوقوف و إعطاء حق الأسبقية للسيارة السوداء المتواجدة على اليمين لأن الأسبقية لها فقط.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعطي حق الاسبقوية للسيارة الزرقا",
+            "نعطي حق الاسبقية للسيارة الكحلا",
+            "ندوز بلا ما نعطي حق الاسبقية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_21.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_21.mp3",
+      "description": "",
+      "answer": [
+        3
+      ],
+      "explanation": "عندما يتواجد شرطي المرور فتلغى جميع الإشارات الضوئية و الإشارات الطّرقية، في هذه الحالة على الرّغم من وجود علامة قف فيجب علينا إتّباع وضعية الشّرطي، وضعية الشّرطي فهي بالجنب وهي تعني أنه يسمح لي بالمرور، إذن في هذه الحالة أقوم بالمرور مباشرة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعطي حق الاسبقية للي جاي من ليمن",
+            "نعطي حق الاسبقية للي جاي من ليسر",
+            "ندوز مباشرة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_22.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_22.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "وضعية شرطي المرور فهي بالجنب وهي تعني أنه يسمح لي بالمرور، إذن في هذه الحالة أقوم بالمرور أنا الأول.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعطي حق الاسبقية للي جاي من ليمن وندوز",
+            "ندوز الان"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_23.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_23.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "العلامة الطّرقية تعني انتباه خطر طريق ضيّقة على الجانبين (قنطرة)، توجد شاحنة قادمة من الأمام ولكي يكون التّقابل سهل فالقاعدة تقول عندما نتواجد في طريق ضيّقة ونتقابل مع عربة يتجاوز طولها 7 أمتار أو يتجاوز عرض العربة 2 أمتار فيجب عليها الوقوف والسّماح للعربة الأخرى بالمرور أوّلا. إذن في هذه الحالة أقوم بالمرور أنا الأول وأقوم بالإنقاص من السّرعة بما أنه يوجد خطر طريق ضيّقة.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز فورا",
+            "نخلي الشاحنة تدوز",
+            "ننقص من السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_24.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_24.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "نتواجد قرب ملتقى طرق ولا توجد علامة طرقية تنظّم حركة السيّر، في هذه الحالة القاعدة تقول الأسبقية للعربات القادمة من الجهة اليمنى، إذن في هذا الملتقى الطّرقي سوف أقوم بالوقوف و إعطاء حق الأسبقية للسيارة البيضاء المتواجدة على اليمين لأن الأسبقية لها.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعطي حق الاسبقية",
+            "ندوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_25.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_25.mp3",
+      "description": "نوقف ونعطي حق الاسبقية للي جاي من ليمن",
+      "answer": [
+        1
+      ],
+      "explanation": "أتواجد قرب ملتقى الطّرق، توجد علامة قف وهذا يعني على أن الوقوف إجباري في ملتقى الطّرق، وبما أنه يوجد لديّ علامة قف فيجب عليّ في هذه الحالة الوقوف وإعطاء حق الأسبقية للسيارات القادمة من الجهة اليمنى وكذلك السيارات القادمة من الجهة اليسرى. إذن يجب عليّ الوقوف وإعطاء حق الأسبقية للقادمين من الجهة اليمنى.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_26.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_26.mp3",
+      "description": "نستعد باش نعطي حق الاسبقية للي جاي",
+      "answer": [
+        2
+      ],
+      "explanation": "نتواجد قرب ملتقى طرق ولا توجد علامة طرقية تنظّم حركة السيّر، في هذه الحالة القاعدة تقول الأسبقية للعربات القادمة من الجهة اليمنى، إذن في هذا الملتقى الطّرقي سوف أقوم بالاستعداد لكي أعطي حق الأسبقية للعربات القادمة من اليمين فقط.",
+      "optionGroups": [
+        {
+          "options": [
+            "من ليسر",
+            "من ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_27.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_27.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "نتواجد قرب ملتقى طرق ولا توجد علامة طرقية تنظّم حركة السيّر، في هذه الحالة القاعدة تقول الأسبقية للعربات القادمة من الجهة اليمنى فقط، إذن في هذا الملتقى الطّرقي يجب على السيّارة المتواجدة على اليسار أن تقوم بالوقوف وإعطائي حق الأسبقية لأنني أتواجد على يمينها. إذن أقوم بالمرور أنا الأول.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعطي حق الاسبقية",
+            "ندوز انا الاول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_28.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_28.mp3",
+      "description": "واجب على السيارة اللي جايا من ليسر تعطيني حق الاسبقية",
+      "answer": [
+        2
+      ],
+      "explanation": "أتواجد قرب ملتقى الطّرق، توجد علامة قف وهذا يعني على أن الوقوف إجباري في ملتقى الطّرق، وبما أنه يوجد لديّ علامة قف فيجب عليّ في هذه الحالة الوقوف وإعطاء حق الأسبقية للسيارات القادمة من الجهة اليمنى وكذلك السيارات القادمة من الجهة اليسرى. إذن ليس من الواجب على السيّارة القادمة من اليسار إعطائي حق الأسبقية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_29.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_29.mp3",
+      "description": "عند ملتقى الطرق اللي جاي، من الواجب",
+      "answer": [
+        1,
+        3,
+        4
+      ],
+      "explanation": "العلامة الطّرقية تعني ليس لديّ حق الأسبقية وأيضا توجد علامة قف بعد 150 متر في ملتقى الطّرق القادم. إذن في ملتقى الطّرق القادم من الواجب عليّ الوقوف بما أنه لديّ علامة قف فيه،وبما أنه ليس لدي حق الأسبقية إذن من الواجب عليّ إعطاء حق الأسبقية للعربات القادمة من اليمين وكذلك من اليسار.",
+      "optionGroups": [
+        {
+          "description": "نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "options": [
+            "نعطي حق الاسبقية اللي جاي من ليسر",
+            "نعطي حق الاسبقية اللي جاي من لليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_30.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_30.mp3",
+      "description": "باغي نغير الاتجاه على ليسر، ندوز قبل هاذ السيارة",
+      "answer": [
+        1
+      ],
+      "explanation": "نتواجد قرب ملتقى طرق ولا توجد علامة طرقية تنظّم حركة السيّر، في هذه الحالة القاعدة تقول الأسبقية للعربات القادمة من الجهة اليمنى فقط، إذن في هذا الملتقى الطّرقي يجب على السيّارة البيضاء المتواجدة على اليسار أن تقوم بالوقوف وإعطائي حق الأسبقية لأنني أتواجد على يمينها. إذن أقوم بالمرور قبل هذه السيّارة البيضاء.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_31.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_31.mp3",
+      "description": "عند ملتقى الطرق، من الواجب علي",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "العلامة الطّرقية تعني ليس لي حق الأسبقية في ملتقى الطّرق القادم الذي يتواجد على بعد 150 متر، إذن في ملتقى الطّرق القادم ليس من الواجب الوقوف لأنه لا توجد لدي علامة قف في ملتقى الطّرق القادم، العلامة الطّرقية تعني على أنه يجب عليّ إعطاء حق الأسبقية للعربات القادمة من الجهة اليمنى وكذلك من الجهة اليسرى.",
+      "optionGroups": [
+        {
+          "options": [
+            "نوقف",
+            "نعطي حق الاسبقية للي جاي من ليمين",
+            "نعطي حق الاسبقية للي جاي من ليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_32.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_32.mp3",
+      "description": "بغيت نغير الاتجاه على ليسر، ندوز",
+      "answer": [
+        2
+      ],
+      "explanation": "نتواجد قرب ملتقى الطرق، لدي علامة قف والسيّارة التي أمامي لديها أيضا علامة قف، في هذه الحالة بما أنني أريد تغيير الاتّجاه إلى اليسار إذن سوف تصبح السيّارة البيضاء على يميني وفي هذه الحالة يجب عليّ السماح لها بالمرور أولا. إذن إذا أردت تغيير الاتّجاه إلى اليسار أقوم بذلك بعد مرور السيّارة البيضاء.",
+      "optionGroups": [
+        {
+          "options": [
+            "قبل هاذ السيارة",
+            "من بعد هاذ السيارة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_33.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_33.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "بما أنه يوجد عائق (سيارة) في جهة السيّارة التي تقابلني إذن يجب عليها أن تقف وتنتظرني أن أقوم بالمرور أنا أولا، لأنه أنا ليس لديّ عائق في جهتي. إذن أقوم بالمرور أنا الأول.",
+      "optionGroups": [
+        {
+          "options": [
+            "نسمح بالمرور لهاذ السيارة",
+            "ندوز انا الاول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_34.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_34.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "عندما تكون وضعية شرطي المرور بالظّهر مثل الصورة فهذا يعني أنه يجب عليّ الوقوف وانتظار إشارة شرطي المرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف وننتظر اشارة شرطي المرور"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_35.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_35.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "يوجد شرطي مرور في وسط ملتقى الطّرق لكي يقوم بتنظيم حركة السّير، في هذه الحلة القاعدة لا تتغيّر، عندما تكون وضعية الشّرطي بالظّهر كما الصورة فيجب عليّ الوقوف. إذن في هذه الحالة يجب عليّ السّماح بالسيّارة بالمرور (ولا أقوم بالمرور بعد ذلك)، بل يجب عليّ أن أقوم بالوقوف وأنتظر إشارة شرطي المرور لكي أقوم بالمرور.",
+      "optionGroups": [
+        {
+          "description": "نسمح بالمرور للسيارات وندوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نوقف و ننتظر اشارة شرطي المرور :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_36.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_36.mp3",
+      "description": "غادي يكون من الواجب علي",
+      "answer": [
+        2
+      ],
+      "explanation": "كما نلاحظ فالطّريق على اليمين وعلى اليسار في ملتقى الطّرق لديهم علامة طرقية تعني أنه ليس لديهم حق الأسبقية إذن الأسبقية لي في ملتقى الطّرق القادم أي أنني في طريق ذات أولوية. إذن في هذه الحالة ليس من الواجب عليّ الوقوف ولا أقوم بإعطاء حق الأسبقية للسيارات القادمة من اليمين وكذلك من اليسار.",
+      "optionGroups": [
+        {
+          "description": "نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "options": [
+            "نعطي حق الاسبقية اللي جايين من ليسر",
+            "نعطي حق الاسبقية اللي جايين من ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_37.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_37.mp3",
+      "description": "باش نغير الاتجاه ليمن",
+      "answer": [
+        1
+      ],
+      "explanation": "عندما يتواجد شرطي المرور فتلغى جميع الإشارات الضوئية و الإشارات الطّرقية، في هذه الحالة على الرّغم من أن الإشارة الضوئية حمراء فيجب علينا إتّباع وضعية الشّرطي، وضعية الشّرطي تعني على أنه يسمح لي بالمرور، إذن لكي أقوم بتغيير الاتّجاه لليمين فأقوم بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_38.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_38.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "بما أن سيارة الإطفاء لا تستعمل إشارات التّنبيه فهي تعتبر في هذه الحالة عربة عادية مثل باقي العربات وليس لها حق الأسبقية، إذن بما أنني أتواجد على يمين سيارة الإطفاء ولا توجد علامات طرقية تنظّم حركة السّير فيجب على سيارة الإطفاء أن تعطيني حق الأسبقية، إذن في هذه الحالة أقوم بالمرور أولا.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_39.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_39.mp3",
+      "description": "يمكن لي ندور",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "وضعية شرطي المرور الموضّحة في الصورة تسمح لي بالمرور (فاش يكون عاطيني بالجنب ندوز وفاش يكون عاطيني بوجهو ولا ظهرو خاص نوقف)، السيارت المتواجدة على اليمين واليسار فهي واقفة لان وضعية الشرطي بالنسبة لهم تعني أن عليهم الوقوف. إذن يمكنني المرور على اليمين أو على اليسار بما أن شرطي المرور يسمح لي بالمرور.",
+      "optionGroups": [
+        {
+          "description": "على اليمين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_78/quiz_78_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_78/quiz_s_78_40.mp3",
+      "mp3": "files/audio/quiz_78/quiz_s_78_40.mp3",
+      "description": "",
+      "answer": [
+        3
+      ],
+      "explanation": "العلامة الطّرقية تعني انتباه طريق ذات أولوية (هذا يعني الأسبقية لي)، بما أننا نتواجد خارج المجال الحضري فبعد 150 متر سوف نجد ملتقى طرق والأسبقية فيه سوف تكون لي. إذن سوف أقوم بالمرور دون أن أعطي حق الأسبقية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعطي حق الاسبقية للي جايين من ليسر",
+            "نعطي حق الاسبقية للي جايين من ليمن",
+            "ندوز بلا ما نعطي حق الاسبقية"
+          ]
+        }
+      ]
+    }
+  ]
+}

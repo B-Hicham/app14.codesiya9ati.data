@@ -1,0 +1,936 @@
+{
+  "id": 18,
+  "title": "Quiz 18",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_1.jpg",
+  "source": "siya9a_maroc",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_1.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_1.mp3",
+      "description": "يمكن لي استعمال اضواء الضبابة ديال الخلف",
+      "answer": [
+        2
+      ],
+      "explanation": "فاش كيطيح الشتا كنستعملو الضو ديال التقابل وضو الضباب القدامي ماشي الخلفي، يعني مايمكنش نستعمل الضو ديال الضباب الخلفي.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_2.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_2.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "العلامة الطرقيّة كتعني خطر منحدر حاد ومعاها علامة تكميلية كتقول بلي راه على بعد 800 متر، ونسبة الانحدار هي 6% يعني 6 مترفكل 100 متر.",
+      "optionGroups": [
+        {
+          "description": "كيتواجد المنحدر الخطير على بعد 800 مترو :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "الانحدار هو 6 مترو لكل 100 مترو :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_3.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_3_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_3.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_3.mp3",
+      "description": "ندوز",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "حنا فملتقى الطرق، الأسبقية للسيارات اللي جايين من اليمين، ولكن فهذ الحالة السيارة الخضرا عندها علامة قف (الخط المرسوم على الأرض) يعني ما نعطيهاش حق الأسبقية، والسيارة الزرقا على ليساري ما نعطيهاش حق الأسبقية كذلك. فهذ الحالة أنا نمر قبل السيارة الخضرا والزرقا.",
+      "optionGroups": [
+        {
+          "description": "قبل العربة الخضرا :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "قبل العربة الزرقا :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_4.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_4.mp3",
+      "description": "يمكن لي نقوم بتجاوز هاذ الشاحنة",
+      "answer": [
+        2
+      ],
+      "explanation": "حنا فبداية عقبة، الرؤية ما واضحاش، وكاين سيارة جاية فالاتجاه المعاكس، يعني مايمكنش نتجاوز الشاحنة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_5.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_5.mp3",
+      "description": "يمكن لي نغادر هاذ المكان",
+      "answer": [
+        2
+      ],
+      "explanation": "الرؤية ما واضحاش ما نقدرش نعرف واش كاين شي سيارة جاية من ورايا، فهذ الحالة ما يمكنش نغادر.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_6.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_6.mp3",
+      "description": "فهاد الاتجاه من الطريق، يمكن لي التوقف بعد هاذ العلامة",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "العلامة الطرقيّة كتمنع الوقوف، مايمكنش نوقف على اليمين ولا على اليسار حيث الطريق بجوج اتجاهات والوقوف ممنوع على الجهة اليسرى.",
+      "optionGroups": [
+        {
+          "description": "على ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_7.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_7.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "يمكننا ننبهو السيارة الجاية بالإشارة الضوئية باش يبدل الضو اللي غادي بيه، وأفضل فالليل ننقص السرعة عند التقابل.",
+      "optionGroups": [
+        {
+          "description": "يمكن لي نستعمل اشارة ضوئية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_8.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_8_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_8.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_8.mp3",
+      "description": "هذ العلامة كتعلم على",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطرقيّة كتعني نهاية مسلك التجاوز على بعد 100 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "ان السير فالاتجاه واحد",
+            "انتهاء مسلك التجاوز",
+            "انتهاء السير فالاتجاه واحد",
+            "مسلك النجدة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_9.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_9.mp3",
+      "description": "حركة السير فهاد الطريق غتكون مؤقتة فالاتجاهين بزوج",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقيّة الصفراء كتعني بلي الطريق غادي تكون فالاتجاهين بشكل مؤقت.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_10.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_10_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_10.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_10.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "خاصني ننقص السرعة حيث الجرار كيتمشى ببطء وخاصو يعطيني الطريق باش ما يعرقلش السير.",
+      "optionGroups": [
+        {
+          "description": "فهاذ الحالة، من الواجب ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "هاذ الجرار اللي العرض دياله كيزيد على 2 ديال امتار، خاصه يسمح لي بالمرور :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_11.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_11.mp3",
+      "description": "الاشارات الطرقية كتعلم على",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقيّة كتعني خطر منحدر حاد على بعد 1000 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "منحدر خطير",
+            "طريق دون مخرج",
+            "مسلك النجدة",
+            "مكان للاستراحة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_12.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_12.mp3",
+      "description": "عند ملتقى الطرق اللي جاي، غندوز على ليسر. نعطي حق الأسبقية",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "العلامة الطرقيّة كتعني عندي حق الأسبقية فالملتقى الطرق الجاي، إذا ما نعطيش الأسبقية للعربات الجاية من اليمين واليسار.",
+      "optionGroups": [
+        {
+          "description": "ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_13.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_13.mp3",
+      "description": "يمكن لي التجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "الأسهم المرسومة على الأرض كتلزمني على الانحياز لليمين، يعني مايمكنش نتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_14.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_14.mp3",
+      "description": "يمكن لي نوقف على ليمن على جنب الطريق",
+      "answer": [
+        1
+      ],
+      "explanation": "يمكنني نوقف على اليمين فجنب الطريق، ما كايناش علامة طرقيّة كتمنعني، وكاينة مسافة كافية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_15.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_15.mp3",
+      "description": "بعد هاد العلامات، يمكن لي السير ب",
+      "answer": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "العلامة الطرقيّة كتعني نهاية المنع، و فالطريق الوطنية السرعة محدودة ف 100 كلم/س، يعني يمكنني نمشي ب 70 كلم/س، 90 كلم/س، أو 100 كلم/س.",
+      "optionGroups": [
+        {
+          "options": [
+            "70 كلم فالساعة",
+            "90 كلم فالساعة",
+            "100 كلم فالساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_16.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_16_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_16.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_16.mp3",
+      "description": "يمكن لي التجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "حنا فالطريق السيار، الخط المتصل على اليسار يعني الطريق فجهة وحدة، والخط المتقطع كيسمحلي بالتجاوز، وما كايناش سيارة من ورايا غادي تتجاوزني.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_17.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_17.mp3",
+      "description": "غندوز على ليمن عند ملتقى الطرق للي جاي",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "العلامة الطرقيّة كتقول ما عنديش حق الأسبقية ومعاها علامة (قف) كتجبرني نوقف فالملتقى الطرق الجاي ونعطي الأسبقية للعربات الجاية من اليمين واليسار.",
+      "optionGroups": [
+        {
+          "description": "من اللازم نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "غنعطي حق الاسبقية للي جايين على ليسر فقط :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_18.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_18.mp3",
+      "description": "اول علامة كتشير ل",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطرقيّة كتعني نهاية المنع.",
+      "optionGroups": [
+        {
+          "options": [
+            "خط متصل",
+            "انتهاء المنع",
+            "عقبة",
+            "ان التوقف ممنوع"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_19.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_19.mp3",
+      "description": "يمكن لي التجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "مايمكنش نتجاوز حيث العلامة الطرقيّة كتعني وجود ملتقى الطرق وما عنديش حق الأسبقية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_20.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_20.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "فالشتا والأرض مبللة كاين خطر الانزلاق، ولازم نسير بالضو ديال التقابل.",
+      "optionGroups": [
+        {
+          "description": "فهاذ الظروف، هناك خطر انزلاق العربة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "من الواجب نمشي باضواء التقابل مشعولة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_21.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_21.mp3",
+      "description": "يمكن لي نتابع التجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "الخط المتصل على اقصى اليسار كيعني حنا فالطريق السيار والخط المتقطع كيسمح بالتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_22.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_22_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_22.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_22.mp3",
+      "description": "العربة الحمرا نقصت من السرعة ديالها",
+      "answer": [
+        2
+      ],
+      "explanation": "خاصني ننتظر باش نتجاوز حيث السيارة البيضا غادي تندمج فالمسلك ديالها.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز",
+            "ننتظر باش نتجاوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_23.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_23.mp3",
+      "description": "السائق تيكون معرض للتعب اكثر إلا كانت أحوال الجو",
+      "answer": [
+        2
+      ],
+      "explanation": "فالأحوال الجوية الجيدة السائق ما معرضش للتعب، لكن فالظروف الخايبة كيكون معرض للتعب حيث خاصو يدير مجهود باش ينتبه.",
+      "optionGroups": [
+        {
+          "options": [
+            "مزيانة",
+            "صعيبة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_24.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_24.mp3",
+      "description": "إحصائيا، هناك خطر باش نتعرض لحادثة جسمانية",
+      "answer": [
+        1
+      ],
+      "explanation": "قريبة من داري كتعني داخل المدينة وبعيدة كتعني خارج المدينة، والإحصائيات كتشير أن الحوادث كتر داخل المدينة.",
+      "optionGroups": [
+        {
+          "options": [
+            "قريبة من داري",
+            "بعيدة من داري"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_25.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_25.mp3",
+      "description": "باش نتجاوز صاحب الدراجة النارية، من الواجب نترك مسافة جانبية ما تتقلش على",
+      "answer": [
+        1
+      ],
+      "explanation": "خارج المدينة خاصني نخلي مسافة جانبية على الأقل متر ونص باش نتجاوز صاحب الدراجة، فالطريق الضيقة خاصني نخلي متر واحد.",
+      "optionGroups": [
+        {
+          "options": [
+            "مترو",
+            "1,50 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_26.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_26.mp3",
+      "description": "كنمشي بسرعة 90 كلم فالساعة. مسافة الامان كافية",
+      "answer": [
+        1
+      ],
+      "explanation": "لحساب مسافة الأمان خاصني نضرب العدد العشري ديال السرعة ديالي في 6، في هذه الحالة 9 ضرب 6 = 54 متر، وبما ان في الطريق كل خط على اليمين كيمثل 20 متر و كل فراغ كيمثل 5 متر، يعني كاينة مسافة 55 إلى 60 متر بيني و بين العربة قدامي، يعني المسافة كافية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_27.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_27.mp3",
+      "description": "كنمشي بسرعة 70 كلم فالساعة. انا فالوضع المناسب من الطريق",
+      "answer": [
+        1
+      ],
+      "explanation": "حنا فالمسلك الصحيح ديال الطريق، المسلك اللي على اليسار خاص بالاندماج.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_28.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_28.mp3",
+      "description": "هناك خطر ننحاز من المسار",
+      "answer": [
+        1
+      ],
+      "explanation": "كاين خطر الانحياز حيث منعرج و كاين خطر الرياح كما كتشير العلامة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_29.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_29_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_29.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_29.mp3",
+      "description": "يمكن لي نتجاوز العربة الزرقا",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "مايمكنش نتجاوز من اليمين، ومن اليسار الخط المتقطع كيسمح لي ولكن حيت كين الزحام من الأفضل ننتظر.",
+      "optionGroups": [
+        {
+          "description": "من ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "من ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_30.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_30_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_30.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_30.mp3",
+      "description": "ننحاز للمسلك ديال ليمن",
+      "answer": [
+        2
+      ],
+      "explanation": "ما كايناش علامة كتجبرني ننحاز لليمين، وأنا أصلا بديت عملية نتجاوز السيارة البيضا، و السيارات يقدرو اتجاوزوني حيت فالطريق السيار يمكن عدة سيارات يديرو عملية التجاوز مرة واحدة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_31.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_31.mp3",
+      "description": "عند ملتقى الطرق، يمكن لي",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "فملتقى الطرق الجاي مايمكنش ننعطف لليمين حيث كاينة علامة كتمنعني، لكن لليسار يمكن حيث ما كايناش علامة كتمنعني.",
+      "optionGroups": [
+        {
+          "description": "نغير الاتجاه لليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نغير الاتجاه لليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_32.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_32.mp3",
+      "description": "يمكن لي التوقف على الرصيف ديال ليمن",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "العلامة الطرقيّة كتمنعني من الوقوف على الرصيف الأيمن قبل وبعد العلامة.",
+      "optionGroups": [
+        {
+          "description": "قبل العلامة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بعد العلامة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_33.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_33.mp3",
+      "description": "كنجر قاطرة، يمكن لي نغير الاتجاه لليمن",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامات الطرقيّة كتمنع الشاحنات والعربات اللي ارتفاعها 3 أمتار، لكن ما كتمنعش السيارات اللي عندها قاطرة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_34.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_34.mp3",
+      "description": "مني نربط حزام السلامة، نراقب ان السمطة",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "عند ربط حزام السلامة خاصني نتأكد أنه مربوط بشكل مزيان يعني ماملتويش و داير على الخصر ديالي.",
+      "optionGroups": [
+        {
+          "description": "موضوعة على الخصر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ماملتويش :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_35.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_35_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_35.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_35.mp3",
+      "description": "بعد ما طلبت النجدة، من الافضل ننتظر الاغاثة",
+      "answer": [
+        2
+      ],
+      "explanation": "بعد طلب النجدة من الأفضل ننتظر خلف قضبان الأمان.",
+      "optionGroups": [
+        {
+          "options": [
+            "فالعربة ديالي",
+            "خلف قضبان الامان"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_36.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_36.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "عند اندماج الراجلين في ممر الراجلين خاصني نوقف ونعطيهم حق الأسبقية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نقص من السرعة و ندوز",
+            "لازم نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_37.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_37.mp3",
+      "description": "هاد العربات كتمشي بشوية. يمكن لي نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "الخط المتصل على الأرض كيعني ممنوع التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_38.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_38.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3,
+        4
+      ],
+      "explanation": "الطريق ذات اتجاه واحد، والعلامة الطرقيّة كتمنع التوقف على الجهة اليسرى فقط.",
+      "optionGroups": [
+        {
+          "description": "يمكن لي نتوقف :",
+          "options": [
+            "على لليمن",
+            "على لليسر"
+          ]
+        },
+        {
+          "description": "يمكن لي نوقف :",
+          "options": [
+            "على لليمن",
+            "على لليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_39.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_39_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_39.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_39.mp3",
+      "description": "انا فالمكان المناسب باش ندور على ليمن فملتقى الطرق للي جاي",
+      "answer": [
+        1
+      ],
+      "explanation": "هذا المكان خاص بالحافلات وممنوع الوقوف أو التوقف فيه، ولكن يمكن استعماله للانعطاف لليمين بشرط نكون متأكد انه ماكاينش عائق لي غيحتم عليا نوقف فمكان الحافلات.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_18/quiz_18_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_18/quiz_s_18_40.mp3",
+      "mp3": "files/audio/quiz_18/quiz_s_18_40.mp3",
+      "description": "فهاد الحالة، المسافة اللي بيني وبين الشاحنة اللي قدامي كافية",
+      "answer": [
+        1
+      ],
+      "explanation": "فالشتا مسافة الأمان خاصها تكون أطول، والمسافة اللي بيني وبين الشاحنة كافية حيث ما يمكننيش نقرا لوحة الترقيم ديالها.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    }
+  ]
+}

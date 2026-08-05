@@ -1,0 +1,905 @@
+{
+  "id": 72,
+  "title": "Quiz 72",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_1.jpg",
+  "source": "siya9ati_v2",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_1.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_1.mp3",
+      "description": "باقي لي كلم واحد باش نوصل، على بعد 300 مترو",
+      "answer": [
+        2
+      ],
+      "explanation": "كما تشير إليه العلامة الطّرقية، فإنها تشير على أنه بعد 300 متر سوف تصبح الطّريق مقطوعة، أي سوف يتغيّر اتّجاهي وسوف أُصبح مجبر على تغيير الاتّجاه.",
+      "optionGroups": [
+        {
+          "options": [
+            "نكمل السير للقدام",
+            "من الواجب علي تغيير الاتجاه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_2.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_2.mp3",
+      "description": "هاد العلامة كتعلمني",
+      "answer": [
+        2
+      ],
+      "explanation": "كما تشير إليه العلامة الطّرقية، فإن الطّريق سوف تُصبح منحرفة.",
+      "optionGroups": [
+        {
+          "options": [
+            "ان هاد الطريق غادي تكون مقطوعة",
+            "اني غادي فطريق منحرفة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_3.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_3.mp3",
+      "description": "هاذ العلامة كتمنع المرور على العربات",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "علامة المنع التي توجد في الصّورة فهي لا تمنع مرور العربات التي يتجاوز علوّها 2 أمتار، لأن علامة المنع هذه فهي خاصة بالعرض وليس بالعلو. بالنسبة للعرض فهي تمنع العربات التي يتجاوز عرضها 2 أمتار يعني مثلا تمنع العربات التي يكون عرضها 2.5 أمتار أو 3 أمتار إلخ.. يعني العربات التي عرضها 2 أمتار يمكنها المرور ولا يطبّق عليها المنع. إذن الإجابة الصّحيحة 2 و 4.",
+      "optionGroups": [
+        {
+          "description": "للي كيتجاوز لعلو ديالها 2 مترو",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "للي العرض ديالها 2 مترو",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_4.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_4.mp3",
+      "description": "هاد العلامة كتعلم على ممر السكة الحديدية",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية تعني ممر للسكك الحديدة بالحواجز. بالنسبة للعلامة الطّرقية التي تعني أن ممر السكك الحديدية بدون حواجز يكون مرسوم فيها قطار.",
+      "optionGroups": [
+        {
+          "options": [
+            "بالحواجز",
+            "بدون حواجز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_5.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_5.mp3",
+      "description": "غادي بسرعة 60 كلم في الساعة",
+      "answer": [
+        2
+      ],
+      "explanation": "عندنا توجد العلامات المؤقتة الخاصة بالأشغال، فيجب عليّ دائما الإنقاص من السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نبقى غادي بنفس السرعة",
+            "ننقص من السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_6.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_6.mp3",
+      "description": "فهاد الطريق السيار، و ابتداء من هاذ العلامة، يمكن لي نسوق",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "العلامة الطّرقية تشير على أن المنع الذي كان لديّ سابقا قد إنتهى، بما أننا أسير في طريق سّيار إذن فالسرعة القصوى التي يمكنني السّير بها هي 120 كلم في الساعة، إذن في هذه الحالة يمكنني السّير ب 100 كلم في الساعة أو 120 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "ب 100 كلم فالساعة",
+            "ب 120 كلم فالساعة",
+            "ب 130 كلم فالساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_7.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_7.mp3",
+      "description": "باش نتجاوز، يمكن لي نستعمل الممر اللي فالوسط",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة العمودية تشير على أنه يوجد لديّ مسلك واحد للسّير العادي، ومسلكين للسيارات القادمة في الاتّجاه المعاكس، هذا ما تشير إليه، وهي لا تشير إلى أنه لا يمكنني استعمال المسلك الثاني لكي أتجاوز بما أن التّشوير الأفقي الخط المتقطّع يسمح لي بذلك. إذن يمكنني استعمال المسلك الذي يوجد على اليسار للتّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_8.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_8.mp3",
+      "description": "غادي بسرعة 40 كلم في الساعة. واجب علي ننقص من السرعة",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّرقية تعني تحديد السرعة في 40 كلم في الساعة. أي أن العلامة الطّرقية تمنعني من السّير بأكثر من 40 كلم في الساعة. بما أنني أسير ب 40 كلم في الساعة إذن أنا أحترم العلامة الطّرقية وليس واجدب عليّ أن أنقص من السّرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_9.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_9.mp3",
+      "description": "كنسوق شاحنة صغيرة. يمكن لي نكمل السير فالطريق الموجودة على ليمن ديالي",
+      "answer": [
+        2
+      ],
+      "explanation": "شاحنة صغيرة تعني سيّارة عادية، أي التي تتطّلب رخصة السياقة من صنف (ب)، وبالتّالي تمنع مرور السّيارات التي تحتاج إلى رخصة السياقة من صنف (ب) إذن فهي تعنيني، إذن لا يمكنني أن أكمل السّير في الطّريق الموجودة على يميني.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_10.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_10.mp3",
+      "description": "هاد العلامة كتعلم على",
+      "answer": [
+        1
+      ],
+      "explanation": "الإشارة الطّرقية تشير إلى وجود ممر راجلين في نفس المكان وليس على بعد 50 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "مكان ممر الراجلين",
+            "ممر الراجلين على بعد 50 متر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_11.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_11.mp3",
+      "description": "قبل الانطلاق من الواجب علي نراقب",
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "explanation": "قبل الانطلاق دائما فيجب عليّ التاكد ومراقبة كل من مستوى الحصار يعني مستوى زيت الفرامل، أيضا يجب عليّ التاكد من مستوى سائل البطّارية (في السيارات القديمة) السّيارات الجديدة لا يوجد فيها هذا السائل، بالنسبة لحالة سمطات التّحريك الميكانيكي فهي مهمّة الميكانيكي ولا دخل لي فيها ولا أقوم بمراقبتها دائما. وضبط الأضواء فهو شيئ ضروري دائما قبل الانطلاق.",
+      "optionGroups": [
+        {
+          "options": [
+            "مستوى سائل الحصار",
+            "مستوى سائل البطارية",
+            "حالة سمطات التحريك الميكانيكي",
+            "الضبط ديال الاضواء"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_12.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_12.mp3",
+      "description": "مجموع الوزن مع الحمولة لهاذ المقطورة هو 500 كلغ باش نسوق هاذ المجموعة، خاصني نتوفر على رخصة السياقة من صنف ب (B) و هـ (E)",
+      "answer": [
+        2
+      ],
+      "explanation": "رخصة السّياقة التي لدي ب B فهي تُمكّنني من جر مقطورة لكن بشرط أن لا يتعدى وزنها الإجمالي مع الحمولة 750 كلغ. إذن في هذه الحالة بما أن هذه المقطورة وزنها مع الحمولة هو 500 كلغ إذن يمكنني جر هذه المقطورة فقط برخصة السّياقة من نوع ب B بدون الحاجة لرخصة السياقة هـ E، لأنها لا تتعدى وزن 750 كلغ.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_13.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_13.mp3",
+      "description": "الاستهلاك المرتفع ديال الوقود يمكن ينتج على",
+      "answer": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "من بين الأسباب التي تؤدي إلى الاستهلاك المرتفع للوقود فيمكن أن يكون بسبب صفاية الهواء متّسخة، أو أن يسوف السائق العربة بطريقة متوتّرة، يعني سوف يستعمل محوّل السرعة بطريقة غير جيّدة  ويضغط دواسة السرعة (لاكسيراتور) بطريقة غير جيّدة. أيضا الضغط الهوائي للعجلات غير كافي (وجود حمولة مثلا) أو جميعهم. (بطارية فارغة ليس لها دخل في إستهلاك مرتفع للوقود).",
+      "optionGroups": [
+        {
+          "options": [
+            "الصفاية ديال الهواء موسخة",
+            "السياقة بطريقة متوترة",
+            "الضغط الهوائي ديال العجلات ماكافيش",
+            "بطارية فارغة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_14.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_14.mp3",
+      "description": "من الواجب نقوم بمراقبة اجهزة الحصر من طرف التقني المتخصص",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "إذا كانت دوَّاسة الحصار (دوَّاسة الفرامل) مرنة بشكل غير عادي أي أنها خفيفة جدّا عند الضغط عليها وهذا يدل على أن الفرامل لا تعمل بشكل جيّد، فيجب عليّ في هذه الحالة أن أقوم بمراقبتها عند تقني متخصص. وعند القيام بعملية الحصر (استعمال الفرامل ) ولاحظت أن السيارة تجر إلى الجهة اليمنى أو اليسرى فهذا يدل على مشكل في الفرامل ويجب عليّ كذلك أن أقوم بمراقبة السّيارة عند التقني المتخصص.",
+      "optionGroups": [
+        {
+          "description": "إلا كانت دواسة الحصار مرنة بشكل غير عادي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "إلا كانت السيارة كتجر لجهة وحدة عند الحصر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_15.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_15.mp3",
+      "description": "العناية بالسيارة باستمرار عند التقني المتخصص يمكن",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "العناية ومراقبة السّيارة باستمرار عند التقني المتخصص فهي توفّر عليّ الإصلاحات المكلّفة لأنني سوف أقوم باكتشاف المشكلة والخلل قبل حدوثه وأيضا مراقبة السيّارة باستمرار سوف تجنّبني إحتمال الوقوع في حادثة لأن هذه المراقبة سوف تقوم بإصلاح المشاكل المتواجدة في السيّارة إذا وجدت وبالتالي السّياقة بسيارة بدون مشاكل تنقص من إحتمال الوقوع في حادثة.",
+      "optionGroups": [
+        {
+          "description": "توفّر عليا الإصلاحات الغالية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "تنقص من احتمال وقوع حادثة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_16.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_16.mp3",
+      "description": "من الواجب علي نراقب ديما الاشتغال الجيد",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "بصفة عامة فإن مراقبة أضواء السّيارة كيفما كانت فهي من الأمور الواجب عليّ القيام بها باستمرار.",
+      "optionGroups": [
+        {
+          "description": "للأضواء الحمرين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "لأضواء التوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_17.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_17.mp3",
+      "description": "مستوى زيت الحصار كان فالحد الاقصى فالاسبوع الماضي",
+      "answer": [
+        3
+      ],
+      "explanation": "إذا كان مستوى زيت الحصار (الفرامل) في الحد الأقصى الأسبوع الماضي وأصبح قرب مستوى MINI كما توضّح الصورة فهذا يدّل على أن هنالك إستهلاك مفرط وكبير لزيت الحصّار (الفرامل) ويوجد مشكل لأن إستهلاك زيت الحصّار كبير جدا. إذن في هذه الحالة بما أن هنالك مشكلة في أجهزة الحصر الخاصة بي فيجب عليّ أن أقوم بفحص المشكل الان عند أقرب مركز فحص. وليس عند الفحص القادم لأن المشكلة خطيرة خصوصا عندما يتعلق الأمر بالفرامل. لا يمكنني فقط إضافة سائل الفرامل والسّير لأن هذه الجملة في السؤال (أقوم بإضافة غير سائل خاص، فهي تعني هذا هو الحل فقط، لكن لا، يجب عليّ الان الذّهاب إلى مركز الفحص وليس زيادة فقط سائل خاص). الإجابة الصحيحة هي رقم 3.",
+      "optionGroups": [
+        {
+          "options": [
+            "نزيد غير سائل خاص"
+          ]
+        },
+        {
+          "description": "كيتعين علي نقوم بالمراقبة للاجهزة الحصر ديالي :",
+          "options": [
+            "عند الفحص المقبل",
+            "الان"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_18.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_18.mp3",
+      "description": "مسموح لي نستمر فالسير بهاذ العجلة، بالنسبة لمسافات قصيرة",
+      "answer": [
+        2
+      ],
+      "explanation": "كما تظهر الصورة فإن هذه العجلة في حالة غير جيّدة ويبدو عليها تآكل واضح، لذلك غير مسموح لي بإستعمال هذه العجلة للسّير.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_19.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_19.mp3",
+      "description": "مستوى السائل اللي فهاد البطارية مضبوط",
+      "answer": [
+        2
+      ],
+      "explanation": "كما نلاحظ فإنه بعض المستويات في هذه البطّارية تحت MINI (الحد الادنى) وهدا يعني على أن مستوى السائل في هذه البطّارية غير مضبوط.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_20.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_20.mp3",
+      "description": "العناية بالسيارة باستمرار",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "العناية بالسّيارة ومراقبتها بشكل دائما يجنّبها خطر الوقوع في اعطاب ومشاكل ميكانيكية. كما أن هذه المراقبة لا تنقص من مدة صلاحية السّيارة، بل بالعكس تحافظ هذه المراقبة الدّورية للسيارة في إطالة مدة صلاحية السّيارة وليس النقصان.",
+      "optionGroups": [
+        {
+          "description": "كتحد من اخطار وقوع اعطاب :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "كتنقص من مدة صلاحية السيارة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_21.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_21.mp3",
+      "description": "على نفس المحور، يمكن لي نجهز العربة ديالي بعجلات ذات",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "السيارة تحتوي على محورين للعجلات، المحور الذي يوجد في أمام السّيارة والذي يحتوي على عجلتين، والمحور الثاني الذي يوجد في الخلف والذي يحتوي على عجلتين أيضا. في نفس المحور لا يمكن أن أستعمل عجلتين مختلفتين في البنية، مثلا لو كانت عَجَلَة واحدة مقاسها 18، فيجب أن أستعمل أيضا نفس المقاس في العجلة الثانية وليس أن أستعمل مقاس مختلف 19 أو 20 ... بالنسبة لاختلاف مَصْنَعْ العجلات (شَرِكة العجلات) فليست هنالك مشكلة في استعمال عجلات ذات مَصْنَعْ مختلف لأن الأهم هو استعمال عجلات بنفس البنية في نفس المحور الخاص بالعربة.",
+      "optionGroups": [
+        {
+          "description": "نوعية مختلفة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بنية مختلفة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_22.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_22.mp3",
+      "description": "الاقراص و صفائح الحصر لازم ديما يتغيرو فوقت واحد",
+      "answer": [
+        2
+      ],
+      "explanation": "أقراص وصفائح الحصر (صفائح الفرامل) يتم مراقبتهم تقريبا كلّما قطعنا مسافة 30000 كلم، بالنسبة للمراقبة، فإن الميكانيكي يقوم بمراقبة الأقراص هل لازالت صالحة أم لا. ليس من الضّروري تغيير أقراص وصفائح الحصر في وقت واحد.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_23.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_23.mp3",
+      "description": "من الواجب على السائق يراقب ديما نظافة الاضواء الخلفية",
+      "answer": [
+        1
+      ],
+      "explanation": "بطبيعة الحال فمراقبة نظافة الأضواء الخلفية للسّيارة فهي من الأمور الضرورية التي يجب على السائق القيام بها بشكل دوري قبل الانطلاق.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_24.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_24.mp3",
+      "description": "الفحص التقني الاجباري للعربات اللي عمرها كيزيد على 5 سنين من الواجب يتجدد",
+      "answer": [
+        1
+      ],
+      "explanation": "عندما تكون السّيارة جديدة فلا نقوم بعمل فحص تقني لها حتى يصل عمرها إلى 5 سنوات. وفي تلك اللحظة عندما يصل عمر السّيارة إلى 5 سنوات فإنه من الواجب القيام بالفحص التّقني كل عام.",
+      "optionGroups": [
+        {
+          "options": [
+            "كل عام",
+            "كل عامين",
+            "كل خمس سنين"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_25.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_25.mp3",
+      "description": "واجب علي نزيد الزيت ديال الفرامل",
+      "answer": [
+        2
+      ],
+      "explanation": "ليس من الضروري أن يكون مستوى زيت الفرامل في مستوى MAXI لكي نقول عنه أنه كاف، فأيضا لو كان متسوى زيت الفرامل بين مستوى MAXI و MINI فإن هذا المستوى كاف. إذن في الصورة يتّضح أن مستوى زيت الفرامل كيف وليس من الواجب عليّ زيادته. (فقط لا يجب أن يكون أقل من MINI، لأنه سوف يكون غير كاف ويجب عليّ إضافته).",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_26.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_26.mp3",
+      "description": "مستوى زيت هاذ المحرك مضبوط",
+      "answer": [
+        1
+      ],
+      "explanation": "زيت المحرّك لإنه من الأمور الضرورية التي يجب عليّ مراقبتها باستمرار. كما توضّح الصورة فإن مقياس الزيت يوضّح أن مستوى الزّيت بين تلك الفتحات (في المنتصف) وهذا يعني أنه كاف و مضبوط. نقول أنه غير كافي أو غير مضبوط عندما تكون الزيت أسفل الفتحة في الأسفل التي توجد في مقياس الزيت.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_27.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_27.mp3",
+      "description": "مراقبة الاضواء الامامية كيضم",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "عندما أقوم بمراقبة الأضواء فيجب عليّ التأكد من نظافتهم لكي أتأكد أنها نظيفة والأضواء سوف تكون مرئية. وأيضا هذه المراقبة تشتمل على ضبط مستوى الأضواء (ضبط مجال الإضاءة).",
+      "optionGroups": [
+        {
+          "description": "نظافة الاضواء :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ضبط الاضواء :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_28.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_28.mp3",
+      "description": "يمكن لي ناخذ مكاني من الطريق اللي على ليسر",
+      "answer": [
+        2
+      ],
+      "explanation": "في الصورة تظهر أسهم الإجبار مرسومة على الأرض، وهي تجبرني على إكمال السّير مباشرة أو الانعطاف على اليمين، وأيضا المكان الذي يظهر في وسط الصورة وفيه خطوط فممنوع علي الوقوف او التوقّف فيه وأيضا ممنوع عليّ السّير فيه. إذن لا يمكنني أخد مكان من الطّريق التي على اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_29.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_29.mp3",
+      "description": "غادي بسرعة 60 كلم فالساعة، واجب علي ننقص من السرعة",
+      "answer": [
+        1
+      ],
+      "explanation": "عندنا توجد العلامات المؤقتة الخاصة بالأشغال، فيجب عليّ دائما الإنقاص من السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_30.gif",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_30.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_30.mp3",
+      "description": "نستعمل المنبه الصوتي",
+      "answer": [
+        2
+      ],
+      "explanation": "داخل التجمّع السكني فاستعمال المنبّه الصّوتي فهو ممنوع إلاّ في حالة وجود خطر أو للضرورة. في هذه الحالة لا يوجد خطر والسيّارة فقط تستعد لعملية التوقّف إذن لا أستعمل المنبّه الصّوتي.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_31.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_31.mp3",
+      "description": "حصلت على رخصة السياقة هاذي ثلاث شهور . فهاد الطريق، السرعة ديالي محدودة ف",
+      "answer": [
+        2
+      ],
+      "explanation": "حصلت على رخصة السّياقة منذ 3 أشهر وهذا يعني على أنني لازلت في الفترة الاختبارية ومدّتها سنتين (2)، و تسمح لي بسياقة السيّارة بسرعة قصوى تصل إلى 90 كلم في الساعة. إذن في الطّريق السيّارة أيضا فَسُرعتي محدودة في 90 كلم في الساعة ولا أستطيع تجاوزها.",
+      "optionGroups": [
+        {
+          "options": [
+            "80 كلم فالساعة",
+            "90 كلم فالساعة",
+            "100 كلم فالساعة",
+            "120 كلم فالساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_32.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_32.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "أتواجد في طريق وطنية والسّرعة فيها محدودة في 100 كلم في الساعة، لكن عندما تكون أحوال الطّقس صعبة (مطر، ضباب، ثلج…) فدائما يجب عليّ أن أنقص من السرعة لأنه في أحوال الطّقس الصعبة يوجد خطر أكثر.",
+      "optionGroups": [
+        {
+          "options": [
+            "يمكن لي نبقى غادي بسرعة 100 كلم في الساعة",
+            "واجب علي ننقص من السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_33.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_33.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "أتواجد في مسلك الاندماج، ولكي أدخل في حركة السّير بإستعمال المسلك المتواجد على اليسار فلا يمكنني الان لأنه الخط الذي على اليسار فهو متّصل لذلك لا يمكنني الدخول في حركة السّير الان ويجب عليّ إكمال السّير في المسلك الذي أتواجد فيه الان إلى حين أن يصبح الخط متقطّع على اليسار وبعد ذلك يمكنني الدخول في حركة السير.",
+      "optionGroups": [
+        {
+          "description": "ندخل فحركة السير الان :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نبقى غادي فهاذ المسلك :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_34.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_34.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "لدي حق المرور بما أن الإشارة الضّوئية خضراء تسمح لي بالمرور، وبما أنّني قرب ملتقى طرق فيجب عليّ الانتباه وذلك عبر الإنقاص من السّرعة الاستعداد للوقوف لأنه ربّما تكون سيّارة قامت بمخالفة ولم تقم بالوقوف وسوف تقوم بالمرور. لذلك أقوم بالمرور وفقط أقوم بالانتباه بالإنقاص من السّرعة وأن أستعد للوقوف إذا كان هنالك خطر.",
+      "optionGroups": [
+        {
+          "options": [
+            "نزيد فالسرعة",
+            "ننقص من السرعة",
+            "نستعد باش نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_35.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_35.mp3",
+      "description": "ابتداء من هاذ العلامة يمكن لي نسوق ب",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "العلامة الطّرقية خاصة بالإرشاد وهي تعلمني على أنني سوف أدخل إلى تجمع سكني (الصخيرات) وفي المجال الحضري فالسرعة القصوى هي 60 كلم في الساعة، إذن إبتداء من هذه العلامة يمكنني السياقة بسرعة 40 كلم في الساعة وأيضا يمكنني السياقة بسرعة 60 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "40 كلم فالساعة",
+            "60 كلم فالساعة",
+            "70 كلم فالساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_36.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_36.mp3",
+      "description": "تبدل الضوء للصفر",
+      "answer": [
+        1
+      ],
+      "explanation": "الضوء الأصفر يبقى ثواني قليلة وبعد ذلك يشتغل الضوء الأحمر، القاعدة تجبرني على الوقوف عند اشتعال الضوء الأصفر. لكن هنالك استثناء: مسموح بالمرور في الضوء الأصفر إذا كان الوقوف سوف يعرِّضْ للخطر. مثال إذا كنت سوف أقف وأفاجِأْ عربة من الخلف كانت قريبة منّي سوف أعرّضها لخطر الاصطدام بالعربة الخاصة بي. في هذه الحالة مسموح لي بالمرور في الضّوء الأصفر.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_37.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_37.mp3",
+      "description": "أنا غادي ب60 كلم فالساعة",
+      "answer": [
+        2
+      ],
+      "explanation": "بما أن الحافلة استعملت الفرامل (الضوء الفرامل الحمراء من الخلف) إذن فهذا يعني على أن الحافلة تستعد للوقوف لأنها وصلت إلى محطة وقوف كما توضّح أيضا الإشارة الطّرقية على اليمين. إذن في هذه الحالة بما أن الحافلة تستعد للوقوف فيجب عليّ الإنقاص من السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نحتفظ بالسرعة ديالي",
+            "نقص من السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_38.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_38.mp3",
+      "description": "فهاد الطريق ذات اتجاه وحيد، أنا فالمكان المناسب باش ندور على ليسر",
+      "answer": [
+        2
+      ],
+      "explanation": "حتى وإن كانت الطّريق ذات إتّجاه واحد فيجب عليّ إحترام قواعد السّير، فالقاعدة تقول على أنه إذا كنت في طريق ذات إتّجاه واحد وأردت الانعطاف على اليسار فيجب عليّ أن أتواجد في المسلك المتواجد على اليسار. لكن في الصورة يظهر على أن مِقْوَدْ السيّارة يوجد في وسط الطّريق وهذا يعني على أنني أقود السيّارة في وسط الطّريق وليس في المسلك المتواجد على اليسار لكي أنعطف على اليسار. إذن أنا لست في المكان المناسب للانعطاف على اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_39.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_39.mp3",
+      "description": "كنسوق بسرعة 60 كلم فالساعة",
+      "answer": [
+        1
+      ],
+      "explanation": "أتواجد في طريق غير معبَّدَة (السّياقة فيها صعبة قليلا) وأيضا يوجد أمامي منعرج، إذن يجب عليّ الإنقاص من السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نقص من السرعة ديالي",
+            "نحتفظ بنفس السرعة ديالي",
+            "نزيذ من السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_72/quiz_72_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_72/quiz_s_72_40.mp3",
+      "mp3": "files/audio/quiz_72/quiz_s_72_40.mp3",
+      "description": "انا فالمكان المناسب باش نغير الاتجاه ليمن",
+      "answer": [
+        2
+      ],
+      "explanation": "لكي أقوم بالانعطاف على اليمين فيجب عليّ أن أكون متواجد في المسلك المتواجد على اليمين. لكن كما تظهر الصورة فأنا متواجد في المسلك الذي يوجد على اليسار. إذن أنا لست في المكان المناسب للانعطاف على اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    }
+  ]
+}

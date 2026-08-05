@@ -1,0 +1,817 @@
+{
+  "id": 5,
+  "title": "Quiz 5",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_1.jpg",
+  "source": "siya9a_maroc",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_1.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_1.mp3",
+      "description": "هاد العلامة كتعني ان",
+      "answer": [
+        3
+      ],
+      "explanation": "العلامة كتعني الخطر، وكتعني أن هاد المكان ممر خاص بالراجلين.",
+      "optionGroups": [
+        {
+          "options": [
+            "المكان كيستعملوه الاطفال",
+            "ممر ممنوع على اللي كيتمشاو على رجليهم",
+            "ممر خاص باللي كيتمشاو على رجليهم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_2.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_2.mp3",
+      "description": "باش ندوز على ليسر، ندوز انا الاول",
+      "answer": [
+        1
+      ],
+      "explanation": "فملتقيات الطرق، ملي ما كايناش علامات ضو أو لافتات طرقية أو شرطي كينظم حركة المرور، ديما الأسبقية لليمين. فهاد الحالة، حيت أنا على يمين الطوموبيل الكحلة، خاص السائق ديالها يسمح لي ندوز أنا الأول.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_3.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_3.mp3",
+      "description": "كنسوق بسرعة 40 كلم في الساعة، من الواجب عليا ننقص من السرعة",
+      "answer": [
+        2
+      ],
+      "explanation": "اللافتة الطرقية كاتحدد السرعة فـ 40 كلم فـ الساعة، وأنا غادي ب40 كلم فـ الساعة، يعني أنا غادي بسرعة قانونية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_4.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_4.mp3",
+      "description": "فجنب الرصيف ديال ليمين، يمكن ليا نوقف بعض الوقت باش نسمح للركاب ينزلو",
+      "answer": [
+        2
+      ],
+      "explanation": "كاينين بلايص ممنوع الوقوف أو التوقف فيهم، بحال بلايص ديال الحافلات أو سيارات الأجرة. كما موضح فالصورة، كاينة لافتة عمودية خاصة بالحافلات.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_5.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_5.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "كاين خط متصل اللي كايمنع التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز",
+            "نتسنى باش نتجاوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_6.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_6.mp3",
+      "description": "من بعد هاذ العلامة، غادي يمكن ليا نسوق بسرعة",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "حنا فطريق وطنية اللي السرعة ديالها محددة فـ 100 كلم فـ الساعة، ولكن حيت كاينة علامة تحديد السرعة فـ 60 كلم فـ الساعة، خاص نتبع العلامة الطرقية، يعني 60 كلم فـالساعة كحد أقصى.",
+      "optionGroups": [
+        {
+          "options": [
+            "50 كلم في الساعة",
+            "60 كلم في الساعة",
+            "70 كلم في الساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_7.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_7.mp3",
+      "description": "يمكن ليا نسوق و انا شاعل ضواو",
+      "answer": [
+        2
+      ],
+      "explanation": "كما كيبان فالصورة، كاين الضباب. فحالة الضباب، القاعدة كتقول خاصني نسوق بأضواء الضباب من الأمام والخلف + أضواء التقابل.",
+      "optionGroups": [
+        {
+          "options": [
+            "الوضع",
+            "التقابل",
+            "الطريق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_8.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_8.mp3",
+      "description": "نسمح للسيارة الزرقا تدوز",
+      "answer": [
+        1
+      ],
+      "explanation": "فملتقيات الطرق، خاصني نلتزم باللافتات الطرقية. كاينة قف، خاصني نوقف ونعطي الأسبقية للسيارات الجاية من اليمين ومن اليسار. فهاد الحالة، خاصني نسمح للسيارة الزرقاء بالمرور الأول ومن بعد يمكن لي ندوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_9.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_9.mp3",
+      "description": "من هاذ الإشارة تكون السرعة ديالي المحدودة في 60 كلم في الساعة",
+      "answer": [
+        2
+      ],
+      "explanation": "حنا فطريق وطنية والسرعة محدودة فـ 100 كلم فـ الساعة. العلامة الطرقية اللي كاتحدد السرعة فـ 60 كلم فـ الساعة ما كتهمناش حيث هي خاصة بالشاحنات.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_10.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_10.mp3",
+      "description": "حزام السلامة كيحميني باش ما نترماش للقدام إلى وقع اصطدام",
+      "answer": [
+        1
+      ],
+      "explanation": "حزام السلامة إجباري داخل المدينة وخارجها. كيحمي الراكب فحالة وقوع اصطدام.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_11.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_11.mp3",
+      "description": "غادي ندوز على ليمين",
+      "answer": [
+        2
+      ],
+      "explanation": "دائما الأسبقية للراجلين. بما أن الراجلين دخلوا فالممر، خاصني ننتظر.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز قدام اللي غاديين على رجليهم",
+            "ندوز من ورا اللي غاديين على رجليهم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_12.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_12.mp3",
+      "description": "من الواجب على السائق يحتفظ بشهادة التأمين",
+      "answer": [
+        2
+      ],
+      "explanation": "جميع الوثائق الخاصة بالسيارة خاصها تكون معايا، ومن بينها ورقة شهادة التأمين. إلى طلبها مني الشرطي، خاصني نكون قادر نقدمها ليه ويقوم بالتأكد منها.",
+      "optionGroups": [
+        {
+          "options": [
+            "في دارو",
+            "معاه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_13.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_13.mp3",
+      "description": "جريت الفراميل ديال اليد و سديت مضاد السرقة. يمكن ليا نغادر العربة ديالي دابا",
+      "answer": [
+        1
+      ],
+      "explanation": "السيارة متوقفة فمكان صحيح وما كاينش طوموبيل جاية من الخلف، وفعّلت فرامل اليد وقفلت مضاد السرقة، يمكن لي نغادر السيارة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_14.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_14.mp3",
+      "description": "المسلك اللي موجود فاقصى ليمين ممنوع على العربات اللي كتجرها الحيوانات",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطرقية كتعني الإجبار، وكتجبر العربات اللي كتجرها الحيوانات باش يدوزو من المسلك الخاص وماشي كتمنعهم.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_15.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_15.mp3",
+      "description": "قبل ما نتجاوز، ننبه هاذ مستعمل الطريق",
+      "answer": [
+        1
+      ],
+      "explanation": "بما أنها دراجة هوائية وما عندهاش مراية، إذا نبهت بالضوء سائق الدراجة الهوائية ما غيشوفش الضوء. لذلك نبه بالمنبه الصوتي.",
+      "optionGroups": [
+        {
+          "options": [
+            "بالمنبه الصوتي",
+            "بالضواو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_16.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_16.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "حنا فملتقى الطرق، وكاينة لافتة طرقية كتعني ما عندناش حق الأسبقية. يعني خاصنا نسمحو للسيارة الحمراء باش دوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نسمح بالمرور",
+            "ندوز انا الاول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_17.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_17.mp3",
+      "description": "قبل ما نتجاوز يمكن ليا ننبه بالضو",
+      "answer": [
+        1
+      ],
+      "explanation": "القاعدة كتقول خاص المراقبة والتنبيه ثم التجاوز ومن بعد نرجع لليمين. فهاد الحالة، السيارة عندها مراية والسائق غيشوف الضوء. يعني يمكن لي نبه بالضوء.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_18.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_18.mp3",
+      "description": "إلا تفاجأت، و أنا كنسوق بهاذ السرعة، غادي نحتاج تقريبا ل",
+      "answer": [
+        1
+      ],
+      "explanation": "مسافة التوقف هي السرعة اللي كنسير بها كنحيد منها الرقم 0 وكنضرب 6. فهاد الحالة، أنا كنسير بسرعة 60، يعني مسافة التوقف هي: 6 ضرب 6، النتيجة 36. (فبعض الحالات ما كايكونش العدد بالضبط فـ الاختيارات، لذلك نختار أقرب عدد).",
+      "optionGroups": [
+        {
+          "options": [
+            "36 مترو",
+            "26 مترو",
+            "16 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_19.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_19.mp3",
+      "description": "إلا بدأت كتبان عليا العلامات الأولى ديال لعيا",
+      "answer": [
+        3
+      ],
+      "explanation": "خاصني كل ساعتين من السياقة المتواصلة نستريح 15. لذلك، إذا حسيت بالتعب، خاصني نوقف وناخذ استراحة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نزيد فالسرعة باش نوصل فأقرب وقت",
+            "ننقص من السرعة ديالي",
+            "نوقف باش نرتاح"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_20.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_20.mp3",
+      "description": "غادي يمكن ليا",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقية كتجبرني نسير مباشرة، يمكن لي ننعطف لليمين، ولكن ما يمكنش ندير نصف دورة حيث علامة الإجبار كتجبرني نسير مباشرة.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز على ليمين",
+            "ندير نص دورة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_21.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_21.mp3",
+      "description": "فخارج المناطق السكنية العامرة، من الواجب على اللي راكب القدام يربط حزام السلامة",
+      "answer": [
+        1
+      ],
+      "explanation": "حزام السلامة ضروري سواء فالمدينة ولا براها للسائق واللي راكبين، حيت كيعطي حماية من الاصطدام ومن الدفع للقدام.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_22.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_22.mp3",
+      "description": "",
+      "answer": [
+        3
+      ],
+      "explanation": "المنبّه الصوتي ممنوع فالمدينة إلا للضرورة القصوى ملي كاين خطر، وما خاصنيش نزيد فالسرعة حيت ممكن يدخل شي واحد فالطريق. فهاد الحالة حسن ننقص السرعة وندوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نستعمل المنبه الصوتي",
+            "نسرع باش نتجاوز هاذ اللي غاديين على رجليهم",
+            "ننقص من السرعة باش نتجاوز هاذ اللي غاديين على رجليهم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_23.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_23.mp3",
+      "description": "من الواجب عليا قبل كل شي",
+      "answer": [
+        2
+      ],
+      "explanation": "فحالة الإسعافات الأولية، أول حاجة خاصني نديرها هي نحمي مكان الحادث ونبه الناس بالمثلث، باش ما يوقعش حادث آخر.",
+      "optionGroups": [
+        {
+          "options": [
+            "نخبر النجدة",
+            "نحمي مكان الحادثة و ننبه ليه",
+            "نتوجه بسرعة للناس المجروحين باش نساعدهم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_24.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_24.mp3",
+      "description": "السائق تيكون معرض للتعب اكثر إلا كانت احوال الجو",
+      "answer": [
+        2
+      ],
+      "explanation": "ملي كاين الشتا ولا الضباب ولا الحرارة الزايدة، السياقة كتصعّب شوية على السائق.",
+      "optionGroups": [
+        {
+          "options": [
+            "مزيانة",
+            "صعيبة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_25.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_25.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "كاين علامة قف للطوموبيل البيضاء، خاصها توقف وتعطي الأسبقية للعربات الجاية من اليمين واليسار. أنا ندوز اللول.",
+      "optionGroups": [
+        {
+          "options": [
+            "نسمح للي جاي من ليمين يدوز",
+            "ندوز انا الاول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_26.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_26.mp3",
+      "description": "لقياس ديال الزيت فهاد السيارة مزيان",
+      "answer": [
+        2
+      ],
+      "explanation": "باش نقيس الزيت فالطوموبيل، كنشوف النقطتين: اللي فالأسفل تعني أقل حاجة يعني Minimum واللي فوقها Maximum. فالصورة، الزيت فالحد الأدنى يعني القياس ماشي مزيان.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_27.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_27.mp3",
+      "description": "الخط المرسوم على ليسر ديالي يمكن ليا نتخطاه",
+      "answer": [
+        1
+      ],
+      "explanation": "فهاد الحالة الخط اللي على يساري متقطع يعني يمكن لي نتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_28.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_28.mp3",
+      "description": "إلا ضطريت نفرمل بالزربة، من الواجب عليا نثبت العجلات",
+      "answer": [
+        2
+      ],
+      "explanation": "تثبيت العجلات يعني نخلي الطوموبيل غادية نيشان، ولكن هادشي خطير فالمنعرجات، حيت إذا ثبتّ العجلات غادي نخرج من الطريق. يعني ما خاصنيش ندير تثبيت العجلات إلا إذا كنت مجبور نوقف بسرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_29.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_29.mp3",
+      "description": "قمت بالتوقف بطريقة مزيانة",
+      "answer": [
+        2
+      ],
+      "explanation": "فالهاد الحالة الطوموبيل واقفة تقريبا وسط الطريق وماشي براها، يعني كاين خطر على حركة المرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_30.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_30.mp3",
+      "description": "واجب علي",
+      "answer": [
+        2
+      ],
+      "explanation": "البوليسي كيعمل هاد الحركة باش يقولي نوقف على جنب الطريق فاليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز صاحب هاذ الدراجة النارية",
+            "نوقف على الجنب ديال ليمين"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_31.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_31.mp3",
+      "description": "يمكن ليا التوقف بين هاذ زوج سيارات",
+      "answer": [
+        2
+      ],
+      "explanation": "ما نقدرش نوقف حيث الوقوف فممر الراجلين ممنوع.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_32.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_32.mp3",
+      "description": "انا كنسوق بسرعة 60 كلم فالساعة، مسافة الامان اللي كنحافظ عليها كافية",
+      "answer": [
+        2
+      ],
+      "explanation": "الطوموبيل اللي قدامي واقفة وأنا غادي بسرعة 60 كلم فالساعَة والمسافة قريبة بزاف، يعني مسافة الأمان ما كافياش.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_33.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_33.mp3",
+      "description": "انا داخل لمنطقة عامرة بالسكان",
+      "answer": [
+        1
+      ],
+      "explanation": "اللافتة الطرقية كتعني أنك داخل لتجمع سكني، يعني غادي تدخل منطقة عامرة بالناس.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_34.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_34.mp3",
+      "description": "في السير العادي، انا موجود في الممر المناسب",
+      "answer": [
+        2
+      ],
+      "explanation": "فهاد الحالة، حنا فالممر الإستعجالي وماشي الممر العادي اللي على اليسار، يعني أنا ماشي فالممر الصحيح.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_35.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_35.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "حنا فطريق غير معبّدة، الحافلة فطريق رئيسية، عندها الأسبقية. خاصني نخليها تدوز ومن بعد ندوز أنا.",
+      "optionGroups": [
+        {
+          "options": [
+            "من الواجب عليا نخلي هاذ العربة تدوز",
+            "ندوز انا الاول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_36.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_36.mp3",
+      "description": "كنسوق بسرعة 120 كلم في الساعة مسافة الامان اللي خليت كافية",
+      "answer": [
+        2
+      ],
+      "explanation": "السرعة هي 120 كلم فالساعَة، إلا حسبنا الخطوط اللي على اليمين غادي نلقاوها تقريبا 30 ولا أقل، وهي اللي كتحدد المسافة بيني وبين الطوموبيل اللي قدامي. يعني بسرعة 120 كلم فالساعَة، مسافة الأمان ما كافياش.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_37.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_37.mp3",
+      "description": "من الواجب علي ننتظر باش نتجاوز راكب الدراجة",
+      "answer": [
+        2
+      ],
+      "explanation": "كاين سائق ديال الدراجة النارية، ما كايناش طوموبيل كتحضر للتجاوز من اللور، والطريق قدامي خاوية وكافية للتجاوز. يعني ما كاينش مشكل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_38.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_38.mp3",
+      "description": "أنا فالمكان المناسب باش نتجه للخروج",
+      "answer": [
+        2
+      ],
+      "explanation": "إذا بغيت نخرج، كان خاصني نمشي فالممر اللي على أقصى اليمين حيت هو الممر الخاص بالخروج. دابا ماشي فالبلاصة الصحيحة للخروج.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_39.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_39_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_39.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_39.mp3",
+      "description": "نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "حيت كاينة طوموبيل فاللور كتحضر للتجاوز، ما خاصنيش ندير التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_5/quiz_5_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_5/quiz_s_5_40.mp3",
+      "mp3": "files/audio/quiz_5/quiz_s_5_40.mp3",
+      "description": "من الواجب عليا السير على ليسر",
+      "answer": [
+        2
+      ],
+      "explanation": "اللافتة الطرقية هي لافتة مؤقتة. ما كتلزمنيش نمشي على اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    }
+  ]
+}

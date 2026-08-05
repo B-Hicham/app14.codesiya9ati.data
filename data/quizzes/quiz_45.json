@@ -1,0 +1,872 @@
+{
+  "id": 45,
+  "title": "Quiz 45",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_1.jpg",
+  "source": "siya9ati_v2",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_1.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_1.mp3",
+      "description": "السرعة محدودة في",
+      "answer": [
+        3
+      ],
+      "explanation": "بما أنها طريق وطنية فالسرعة محدودة في 100 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "80 كلم/س",
+            "90 كلم/س",
+            "100 كلم/س",
+            "110 كلم/س"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_2.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_2.mp3",
+      "description": "إلا كنت غادي بسرعة 90 كلم/س، واجب علي نحافظ على مسافة الأمان ماتنقصش على",
+      "answer": [
+        2
+      ],
+      "explanation": "مسافة الأمان في هذه الحالة هي ضرب 9 في 6 النتيجة 54،  إدا هدا العدد هو القريب من 50 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "25 متر",
+            "50 متر",
+            "81 متر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_3.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_3.mp3",
+      "description": "نسمح للسيارات اللي جايا من ليسر بالمرور",
+      "answer": [
+        2
+      ],
+      "explanation": "السيارة الموجودة على اليسار لديها لافتة ليس لها حق الأسبقية، ادا لا أسمح لها بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_4.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_4.mp3",
+      "description": "نتجاوز الشاحنة",
+      "answer": [
+        2
+      ],
+      "explanation": "التشوير الطرقي يسمح لي بالتجاوز ولكن السيارة الحمراء تستعد للدخول الى مسارها، ادا لا يمكنني تجاوز الشاحنة الان.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_5.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_5.mp3",
+      "description": "هاد العلامة كتمنع الوقوف",
+      "answer": [
+        2
+      ],
+      "explanation": "اللافتة الطرقية تعني ممنوع الوقوف والتوقف، وفي هذه الحالة ممنوع الوقوف حتى ملتقى الطرق القادم.",
+      "optionGroups": [
+        {
+          "options": [
+            "على طول الزنقة",
+            "حتى لملتقى الطرق التالي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_6.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_6.mp3",
+      "description": "نسمح للسيارة اللي جاية من اليمن بالمرور",
+      "answer": [
+        2
+      ],
+      "explanation": " نحن نتواجد في طريق رئيسية وليس في ملتقى الطرق، في هذه الحالة لدينا حق الأسبقية، ولا نسمح للسيارة المتواجدة على اليمين بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_7.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_7.mp3",
+      "description": "يمكن لي نسير بلا ضو",
+      "answer": [
+        2
+      ],
+      "explanation": "الفترة الليلية يتوجب علينا السير بأضواء الوضع والتقابل حتى وان كانت توجد إنارة، في الليل أضواء السيارة ضرورية. لذلك لا يمكن السير بدون أضواء.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_8.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_8.mp3",
+      "description": "عدد الراجلين اللي كيتقتلوا فالطريق هو اكثر عند",
+      "answer": [
+        2
+      ],
+      "explanation": "الإحصائيات تقول ان المسنين والأطفال هم الفئة العمرية الأكثر عرضة لحوادث السير.",
+      "optionGroups": [
+        {
+          "options": [
+            "الكبار",
+            "الصغار و العجزة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_9.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_9.mp3",
+      "description": "نسمح للعربات اللي جايا قبالتي بالمرور",
+      "answer": [
+        1
+      ],
+      "explanation": "توجد شاحنة متوقفة في الطريق وفي جهة مروري، وفي الجهة الأخرى من الطريق توجد سيارات مقابلة قادمة، إذا يجب السماح لها وإنتظارها لكي تمر لانها تتواجد في مسلكها الخاص وبعد ذلك يمكنني المرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_10.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_10.mp3",
+      "description": "باش نتجاوز اصحاب الدراجات واجب علي نخلي بيني و بينهم على الاقل مسافة",
+      "answer": [
+        2
+      ],
+      "explanation": "القاعدة تقول بالنسبة لتجاوز الدراجات داخل المدينة يجب ترك مسافة متر، وخارج المدينة متر ونصف، في هده الحالة نحن نتواجد في المدينة إذا واجب علي نخلي بيني وبين الدراجات متر واحد على الأقل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نصف متر",
+            "متر واحد",
+            "متر و نصف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_11.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_11.mp3",
+      "description": "عندي الحق فاصبقية المرور فوق هاذ القنطرة الصغيرة",
+      "answer": [
+        2
+      ],
+      "explanation": "في القنطرة لا توجد الأسبقية لأي عربة، الأسبقية تكون بالتفاهم او للعربة التي دخلت أولا للقنطرة هي اللتي تمر أولا.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_12.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_12.mp3",
+      "description": "باش نتجاوز هاذ العربات يمكن لي نستعمل الممر الثالث",
+      "answer": [
+        1
+      ],
+      "explanation": "بما أننا نتواجد في طريق سيار، ولا توجد سيارات ورائنا تستعد للتجاوز والممرالثالث فارغ فيمكننا إستعماله للتجاوز بدون مشكلة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_13.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_13.mp3",
+      "description": "هاد العلامة كتعلمني بوجود",
+      "answer": [
+        2
+      ],
+      "explanation": "اللافتة تعني انه ممر غادي للحافة.",
+      "optionGroups": [
+        {
+          "options": [
+            "منحدر خطير",
+            "ممر غادي لحافة",
+            "قنطرة متحركة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_14.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_14.mp3",
+      "description": "باش تبان ليا الطريق بوضوح نبقى تابع من قريب السيارة اللي قدامي",
+      "answer": [
+        2
+      ],
+      "explanation": " في حالة الضباب يجب استعمال أضواء التقابل والإضواء الأمامية والخلفية، وفي حالة الضباب أو حالة جوية سيئة فمسافة الأمان تتضاعف يعني انه يجب ان أترك مسافة أكبر بيني وبين السيارة وليس الإقتراب منها. ",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_15.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_15.mp3",
+      "description": "هاد العلامة كتغنيني إلا كنت كنسوق شاحنة صغيرة",
+      "answer": [
+        1
+      ],
+      "explanation": "اللافتة الطرقية تخص الشاحنات الكبيرة 3,5 طن، وهي لا تعنيني.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_16.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_16.mp3",
+      "description": "غير نتقابل مع هاذ السيد اللي على رجليه واجب علي نبدل لضو الطريق",
+      "answer": [
+        1
+      ],
+      "explanation": "نعم يجب تغيير الأضواء لكي لا يتم إبهار الشخص وبعد تجاوزه يمكننا اعادة الأضواء المناسبة للسير.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_17.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_17.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "أولا نحن في ممر خاص بالعربات البطيئة، ولا يمكن بأي حال التجاوز من الجهة اليمنى، إذا يجب البقاء وراء الشاحنات وليس التجاوز من الجهة اليمنى.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز الشاحنات من جهة ليمن",
+            "نبقى وراها"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_18.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_18.mp3",
+      "description": "يمكن ليا نكمل السير إلا كنت غادي",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "بالنسبة للشرطي، إذا كان يقابلنا بالظهر او ينظر الينا مباشرة فليس لنا الحق في المرور مباشرة او تغيير الإتجاه، يجب الوقوف وإنتظار إشاراته اللتي تسمح لنا بإكمال السير.",
+      "optionGroups": [
+        {
+          "description": "للـقدام :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نغير الاتجاه لليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_19.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_19.mp3",
+      "description": "غادي نكمل السير ديالي للقدام، يمكن ليا نتجاوز هاذ السيارة",
+      "answer": [
+        1
+      ],
+      "explanation": "الضوء أخضر ويوجد مسلك على اليسار فارغ والتشوير فيه يسمح بتغيير الإتجاه الى اليسار او إكمال السير للقدام، إدا يمكنني إستعمال هذا المسلك لتجاوز هذه السيارة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_20.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_20.mp3",
+      "description": "هاذي مدة طويلة و انا كنسوق وعييت، واجب علي",
+      "answer": [
+        2
+      ],
+      "explanation": "بما أنني تعبت من السياقة، فيجب عليّ اني نوقف في أقرب وقت لكي أرتاح وأتجنب حوادث السير وبعد ذلك يمكنني إكمال الطريق.",
+      "optionGroups": [
+        {
+          "options": [
+            "نسوق بسرعة اقل",
+            "نوقف في اقرب وقت"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_21.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_21.mp3",
+      "description": "غادي يلزمني نسمح بالمرور للي جاي من",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "اللافتة الطرقية تعني ان الطريق ذات اولوية ولدي حق الأسبقية، إدا ليس من الواجب علي ان أعطي حق الأسبقية للعربات القادمة من اليمين واليسار.",
+      "optionGroups": [
+        {
+          "description": "ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_22.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_22.mp3",
+      "description": "يمكن ليا ناخد طريق الخروج المعلوم بها",
+      "answer": [
+        2
+      ],
+      "explanation": "انا في الممر الأيسر ولدي الحق فقط في الذهاب مباشرة وليس الذهاب الى طريق الخروج الموجود على اليمين، كما أنه توجد سيارة ورائي في مسلك اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_23.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_23.mp3",
+      "description": "مراقبة ضغط عجلة الاحتياط بانتظام ضرورية",
+      "answer": [
+        1
+      ],
+      "explanation": "بكل تأكيد فعملية المراقبة لبعض التجهيزات في السيارة بإنتظام ضرورية، ومن بينها مراقبة ضغط العجلات الإحتياطية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_24.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_24.mp3",
+      "description": "هاد الشاحنة طالعة بصعوبة. نوقف باش نسهل عليها المرور",
+      "answer": [
+        1
+      ],
+      "explanation": "أنا موجود في منحدر، في هذه الحالة يجب الوقوف وإفساح الطريق لتسهيل مرور العربة القادمة في الإتجاه المعاكس للمرور أولا.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_25.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_25.mp3",
+      "description": "واجب علي نغير الاتجاه لجهة ليمين",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقة الموجودة على اليسار كاتمنع علينا السير في ذلك الإتجاه، والعلامة المقابلة لنا باللون الأزرق فهي علامة الإجبار تجبرنا على تغيير الإتجاه إلى اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_26.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_26.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "يجب الوقوف، لانه يوجد راجلين في ممر الراجلين، واجب عليا نوقف.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتبع السيارة البيضاء ولا",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_27.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_27.mp3",
+      "description": "باش ننقص من استهلاك الوقود نحط لحمل ديالي",
+      "answer": [
+        1
+      ],
+      "explanation": "لكي لا تستهلك السيارة الوقود يجب وضع الأشياء الخاصة بي او الحمولة داخل السيارة وليس فوق سطح السيارة.",
+      "optionGroups": [
+        {
+          "options": [
+            "داخل السيارة ديالي",
+            "فوق سطح السيارة ديالي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_28.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_28.mp3",
+      "description": "الكيس الواقي اللي كيتنفخ عند الاصطدام",
+      "answer": [
+        1
+      ],
+      "explanation": "حزام السلامة إجباري وضروري للسلامة، والكيس الواقي او ما يعرف ب Airbag فعند الإصطدام كيكمل دور حزام السلامة ولا يعوضه.",
+      "optionGroups": [
+        {
+          "options": [
+            "كيكمل دور حزام السلامة",
+            "كيعوض حزام السلامة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_29.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_29.mp3",
+      "description": "باش نكمل السير للقدام، واجب علي",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "اللافتة الطرقية قف والخط في الطريق يعنيان انه يجب علي الوقوف وإعطاء حق الأسبقية لليمين واليسار، وبطبيعة الحال يجب ان اتوقف عند خط الوقوف.",
+      "optionGroups": [
+        {
+          "description": "نسمح لراكب الدراجة بالمرور :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نوقف عند خط الوقوف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_30.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_30.mp3",
+      "description": "هاد الاشارة",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقية البيضاء بأسهم حمراء كاتعني انه الطريق سوف تضياق وليس تغيير الإتجاه على اليسار لانه علامة تغيير الإتجاه على اليسار تكون باللون الأزرق وبسهم أبيض نحو اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "كتعلم على ان الطريق كتضياق",
+            "كترغم علي تغيير الاتجاه على ليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_31.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_31.mp3",
+      "description": "احتمال خطر سقوط الحجر كيبدا",
+      "answer": [
+        3
+      ],
+      "explanation": "علامة الخطر تبدأ من مسافة 150 متر، لكن في هذه الحالة يوجد إستثناء لانه يوجد علامة تكميلية فيها 300 متر وهي تعني انه إحتمال خطر سقوط الحجر سوف يبدأ من بعد 300 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "من العلامة",
+            "من بعد 150 متر",
+            "من بعد 300 متر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_32.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_32.mp3",
+      "description": "في هاذ الزنقة يمكن لي نسير",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": " داخل المجمّعات السكنية وفي الفترة الليلية، يجب إستعمال أضواء الوضع وأضواء التقابل، حتى وان كانت هنالك إنارة عمومية في الطريق.",
+      "optionGroups": [
+        {
+          "options": [
+            "غير بضو الوضع",
+            "بضو التقابل",
+            "بضو الطريق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_33.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_33.mp3",
+      "description": "هادي اربعة ديال سوايع وانا كنسوق، وعييت، خطر اني نتعرض لحادثة كيتضاعف اربعة المرات",
+      "answer": [
+        1
+      ],
+      "explanation": "في الحالة العادية السياقة لمدّة ساعتين يجب أخد قسط من الراحة لمدة 15 دقيقة على الأقل، وفي هذه الحالة 4 ساعات وأنا أسوق، فبطبيعة الحال يوجد خطر التعرض لحادثة سياقة وايظا يتضاعف هذا الخطر أربع مرات.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_34.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_34.mp3",
+      "description": "بغيت نغير الاتجاه لليسر، واش نسمح",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "دائما في ملتقيات الطرق الأسبقية لليمين ادا لم تتواجد هنالك اشارات او علامات، ادا يجب السماح للسيارة التي على اليمين بالمرور أولا، وبالنسبة للسيارة المقابلة لي فيجب ان أسمح لها أيظا بالمرور لاني إدا أردت تغيير الإتجاه الى اليسار فسوف تصبح هي على يميني، ادا يجب علي ان اعطيها حق الأسبقية في المرور.",
+      "optionGroups": [
+        {
+          "description": "اللي جايين قبالتي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "اللي ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_35.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_35.mp3",
+      "description": "باش نكون جالس مرتاح قدام المقود وضعية الكرسي واجب تخليني اقرب ما يمكن من زجاج الواقية الامامية",
+      "answer": [
+        2
+      ],
+      "explanation": "لا يمكن ان اكون قريبا جدا من زجاج السيارة الأمامي لاني لن اكون قادر على التحكم بمقود السيارة بشكل مريح وجيد، ولا أستطيع رؤية المرايا الجانبية، إذا يجب ان أترك مسافة معقولة بيني وبين الزجاج وليس الإقتراب منه كثيرا.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_36.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_36.mp3",
+      "description": "حركة السير متوقفة واش نسمح السيارة الزرقاء بالمرور",
+      "answer": [
+        1
+      ],
+      "explanation": "السياقة قبل كل شيئ هي سلوك وتسامح، وبما ان حركة السير متوقفة فلابأس بالسماح للسيارة الزرقاء بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_37.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_37.mp3",
+      "description": "هاد الاشارة كتعلم ب",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "العلامات الطرقية تتواجد عندما نكون قريبين من الخروج من الطريق السيّار، وليس هنالك اي علامة طرقية تشير الى وجود محطة للأداء. (معلومة: إشارة محطة الأداء تتواجد قبل إشارة نهاية الطريق السيّار)",
+      "optionGroups": [
+        {
+          "description": "نهاية الطريق السيار :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "محطة الاداء :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_38.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_38.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "بطبيعة الحال الراجلين متواجدين في ممر الراجلين فيجب الوقوف وإعطائهم حق الأسبقية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نوقف و نسمح للراجلين يقطعو الطريق",
+            "نستعمل الممر اللي على ليسر و نكمل طريقي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_39.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_39.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "عندما تقوم عربة بتجاوزنا فجب علينا ان نحتفط بنفس سرعتنا وأيظا بنفس المسلك الخاص بنا.",
+      "optionGroups": [
+        {
+          "options": [
+            "ننقص من السرعة",
+            "نحتفظ بنفس السرعة",
+            "نزيد في السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_45/quiz_45_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_45/quiz_s_45_40.mp3",
+      "mp3": "files/audio/quiz_45/quiz_s_45_40.mp3",
+      "description": "إلا اشعل هذا الضو و أنا غادي فهو كيعني",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "هذه الإضواء تسمى الأضواء الجاذبة وتتواجد في لوحة قيادة السيارة، عندما يظهر فيها اللون الأحمر فهذا يعني ان المحرك تجاوز الحد الطبيعي للحرارة، وبطبيعة الحال يجب عليّ ان أتوقف لكي لا تتطوّر الأمور أكثر.",
+      "optionGroups": [
+        {
+          "description": "أن المحرك فات الحد فالسخونية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "يلزمني نوقف فالحال :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "id": 14,
+  "title": "Quiz 14",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_1.jpg",
+  "source": "siya9a_maroc",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_1.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_1.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّرقية تمنعني من تجاوز السيارات اللي عندهم 4 عجلات، فهاد الحالة نقدر نتجاوز الدراجة حيث الخط متقطّع والمنع ما كيشملش الدراجة.",
+      "optionGroups": [
+        {
+          "options": [
+            "ننتظر باش نتجاوز",
+            "نتجاوز صاحب الدراجة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_2.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_2.mp3",
+      "description": "نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "ما يمكنش نتجاوز دابا، الإشارة الطرقية كتعلمنا بوجود ملتقى الطرق وفملتقيات الطرق التجاوز ممنوع، كاين الخط المتّصل اللي كيمنع التجاوز أيضا.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_3.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_3.mp3",
+      "description": "نتجاوز هاذ الشاحنة",
+      "answer": [
+        2
+      ],
+      "explanation": "ما يمكنش نتجاوز الشاحنة دابا، حيت حنا فمُنعرج، وكاين خط متصل كيمنعنا من التجاوز كذلك.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_4.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_4.mp3",
+      "description": "هاد العربة قامت بالتوقف بشكل صحيح",
+      "answer": [
+        2
+      ],
+      "explanation": "هاد السيارة ما وقفاتش بطريقة صحيحة، حيث الوقوف الصحيح خاص يكونو جميع العجلات خارج الطريق الرئيسية، وفهاد الصورة العجلات باقين فطريق، يعني الوقوف غير صحيح.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_5.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_5.mp3",
+      "description": "باش نتوقف على ليمن، ننتظر حتى تنتهي هاذ العربة من عملية الرجوع للخلف",
+      "answer": [
+        1
+      ],
+      "explanation": "باش نوقف على الجهة اليمنى، خاصني ننتظر حتى السيارة اللي قدامي تكمل الرجوع للخلف وبعدها يمكنني نوقف على الجهة اليمنى.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_6.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_6.mp3",
+      "description": "هاد الخط الأصفر كيسمح بالوقوف على طول هاذ الرصيف",
+      "answer": [
+        2
+      ],
+      "explanation": "هاد الخط الأصفر المتّصل كيمنع الوقوف والتّوقّف على طول الرصيف.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_7.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_7.mp3",
+      "description": "بالتوقيع على المعاينة الودية، أقر على أن المعلومات المكتوبة هي صحيحة",
+      "answer": [
+        1
+      ],
+      "explanation": "من بعد التوقيع على المعاينة الودّية يعني أنني موافق على أن جميع المعلومات اللي أمضيت عليها.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_8.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_8.mp3",
+      "description": "إلا كانت إحدى الخانات ما مملوناش جيدا",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "قبل التوقيع على المعاينة الودّية خاصني نتأكد أنني عَمَرت جميع الخانات بشكل صحيح، حيث أي خطأ يمكن يسبب في عكس المسؤولية.",
+      "optionGroups": [
+        {
+          "description": "يمكن تسبب فعكس المسؤولية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "المعاينة الودية كتبقى صالحة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_9.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_9.mp3",
+      "description": "وقت وضع مضغطة لازم يكون مشار ليه",
+      "answer": [
+        1
+      ],
+      "explanation": "فحالة وضع شخص ضمادة لمصاب خاص اللي حط الضمادة يكتب الوقت اللي حطها فيه.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_10.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_10.mp3",
+      "description": "باش نتجه للطريق اللي على يسار المدار، نتبع",
+      "answer": [
+        2
+      ],
+      "explanation": "اذا بغيت ندور فالمدار خاصني نتبع المسار الأصفر. (المسار الأحمر نتبعو لو بغيت ندور على اليمين أو نستمر مباشرة)",
+      "optionGroups": [
+        {
+          "options": [
+            "المسار اللي بالاحمر",
+            "المسار اللي بالاصفر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_11.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_11.mp3",
+      "description": "عاد حصلت على رخصة السياقة من صنف ب (B) ، يمكن لي السير ب",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "عاد حصلت على رخصة السياقة من صنف ب (B) (يعني أنني فالفترة التجريبية اللي كتستمر لعامين) فالسرعة القصوى اللي نقدر نسير بها هي 90 كلم او أقل، بالنسبة للعلامة الطرقية الخاصة بتحديد السرعة في 80 كلم في الساعة فهي خاصة بالعربات اللي غادي تبدل المسلك إلى مسلك  التباطؤ وما كتهمنيش.",
+      "optionGroups": [
+        {
+          "options": [
+            "80 كلم فالساعة",
+            "90 كلم فالساعة",
+            "100 كلم فالساعة",
+            "120 كلم فالساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_12.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_12.mp3",
+      "description": "يمكن لي نسوق",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "عند هطول الأمطار، نقدر نستعمل أضواء التّقابل وأضواء الضبابة الأمامية للسير. (بالنسبة لأضواء الضبابة الخلفية، نستعملها عند وجود الثلج أو الضبابة فالطريق).",
+      "optionGroups": [
+        {
+          "options": [
+            "باضواء الوضع",
+            "باضواء التقابل",
+            "باضواء ضبابة ديال لقدام",
+            "باضواء ضبابة ديال لخلف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_13.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_13.mp3",
+      "description": "فالليل، بالمقارنة مع النهار، العين كتشوف",
+      "answer": [
+        3
+      ],
+      "explanation": "فالفترة الليلية الرؤية صعيبة شي شوية مقارنة مع الفترة الصباحية اللي الرؤية فيها واضحة أثناء السير. إذن العين كتشوف أقل فليل.",
+      "optionGroups": [
+        {
+          "options": [
+            "احسن",
+            "بالطريقة نفسها",
+            "قل"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_14.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_14.mp3",
+      "description": "فهاد الحالة",
+      "answer": [
+        3,
+        4
+      ],
+      "explanation": "فالفترة الليلية وعند التقابل مع سيارة ما نستعملوش أضواء الوضع حيت ما كنستعملوهومش خارج المدينة، وما نستعملوش المنبّه الصوتي حيت ممنوع إلا فحالات الخطر. ونقدر نعمل إشعار ضوئي قصير باش السيارة اللي فالجهة المعاكسة تبدل أضواء الطريق اللي كتستعمل وأيضا نبهها بوجودي، وبطبيعة الحال نخفف السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نحول لاضواء الوضع",
+            "ننبه بواسطة المنبه الصوتي",
+            "ننبه باشارة ضوئية قصيرة",
+            "ننقص من السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_15.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_15.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "كاين تساقطات مطرية والأرض مبللة إذن كاين خطر الانزلاق. وعند القيادة فالأمطار خاصنا نستعملو أضواء التّقابل وأضواء الضباب الأمامية.",
+      "optionGroups": [
+        {
+          "description": "فهاد الحالة هناك خطر الانزلاق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "من الواجب نشغل اضواء التقابل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_16.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_16.mp3",
+      "description": "إلا كنت غادي بسرعة 100 كلم فالساعة، مسافة الكبح هي 2 مرات طول بالمقارنة إلا كنت غادي ب 50 كلم فالساعة",
+      "answer": [
+        2
+      ],
+      "explanation": "مسافة الكبح هي المسافة بين الضغط على الفرامل ووقوف السيارة. مسافة الكبح إذا كنت أسير بسرعة 100 كلم في الساعة ماشي بالضرورة أطول بمرتين لو كنت أسير بسرعة 50 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_17.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_17.mp3",
+      "description": "مسافة الوقوف هي المسافة المقطوعة اثناء",
+      "answer": [
+        3
+      ],
+      "explanation": "مسافة الوقوف هي مسافة وقت رد الفعل + مسافة الفرملة.",
+      "optionGroups": [
+        {
+          "options": [
+            "وقت رد الفعل",
+            "الكبح",
+            "وقت رد الفعل + الكبح"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_18.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_18.mp3",
+      "description": "هاد العلامة كتشير ل",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقية كتعني وجود وَهْدَة أو حَذَبَة على بعد 50 متر (لأن العلامة تتواجد داخل المدينة).",
+      "optionGroups": [
+        {
+          "options": [
+            "وهدة او حدبة",
+            "قنطرة كتحرك",
+            "مخفض السير على الطريق",
+            "طريق فيها اشغال"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_19.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_19.mp3",
+      "description": "المنع كيتطبق",
+      "answer": [
+        1
+      ],
+      "explanation": "علامة المنع كتطبق دائما من عند العلامة الطرقية. (يعني المنع من تجاوز سرعة 80 كلم في الساعة كيبدا من عند العلامة الطرقية ماشي فالمنعرج فقط).",
+      "optionGroups": [
+        {
+          "options": [
+            "ابتداء من العلامة",
+            "فالمنعرج فقط"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_20.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_20.mp3",
+      "description": "ممنوع التجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "بالنسبة لعلامة منع التجاوز، كتطبق من عند العلامة، ولكن كاينة علامة تكميلية أسفلها (150 متر) وهي كتوضح أن المنع من التجاوز غيبدا من بعد 150 متر ماشي دابا.",
+      "optionGroups": [
+        {
+          "options": [
+            "150 متر من بعد العلامة",
+            "على طول 150 متر",
+            "من عند العلامة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_21.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_21.mp3",
+      "description": "الاشارات الطرقية",
+      "answer": [
+        1
+      ],
+      "explanation": "الإشارة الطرقية كتعني الإجبار، وفهاد الحالة، كتلزمني ندور لليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "كتجبرني ندور على ليسر",
+            "كتعلمني ان الطريق دون مخرج",
+            "كتعلمني ان الممر ذو اتجاه واحد"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_22.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_22.mp3",
+      "description": "هاد العلامة كتعلم على",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقية كتعني أن هاد ممر خاص بالراجلين.",
+      "optionGroups": [
+        {
+          "options": [
+            "ممر الراجلين",
+            "نقطة انطلاق رحلات المشاة",
+            "ممر اجباري للراجلين"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_23.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_23.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "أنا دابا ماشي فطريق السيار، العلامة الطرقية كتعني أنني غادي نستعمل الطريق السيار لو بدلت الاتجاه لليمين. بالنسبة للطريق السيار فهو مدفوع ماشي مجاني.",
+      "optionGroups": [
+        {
+          "description": "كنسير على طريق سيار :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "الطريق السيار \"الرباط\" بالخلاص :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_24.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_24.mp3",
+      "description": "الخط المرسوم فالارض بالاصفر كيعلم على تشوير طرقي مؤقت",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطرقية الموجودة على اليسار كتعني أن هاد المكان خاص بالحافلات. بالنسبة للخط الأصفر المرسوم على الأرض فهو دائم وكيشير أن هاد المكان خاص بالحافلات (ما يمكنش الوقوف والتوقّف فهاد المكان).",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_25.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_25.mp3",
+      "description": "هاد العلامة كتعلم على ان",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "هاد العلامة الطرقية ما كتعنيش أن حركة السير غادي تكون فالاتجاهين على بعد 800 متر. كيفما أنه على بعد 800 متر (أي بعد انتهاء مسافة 800 متر اللي كتشير لها العلامة الطرقية) خاصنا نبدلو المسلك.",
+      "optionGroups": [
+        {
+          "description": "حركة السير غتكون فالإتجاهين على بعد 800 متر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "من الواجب نغيير المسلك على بعد 800 متر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_26.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_26.mp3",
+      "description": "غادي نوجد",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامات الطرقية كتوضح الأشغال، والخطر اللي كاين خطر مؤقت حيت العلامات صفراء مؤقتة.",
+      "optionGroups": [
+        {
+          "options": [
+            "خطر دائم",
+            "خطر مؤقت",
+            "ما غادي نوجد حتى خطر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_27.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_27.mp3",
+      "description": "هاد الارمات كتعلم على",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "مني نلقاو الأرمات كلها باللون الأبيض فهي كتشير لملتقى الطرق. (مني يكون لون أحمر فالأعلى ديال الأرمات فهي كتوضح منعرج).",
+      "optionGroups": [
+        {
+          "description": "مكان المنعرج:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "مكان ملتقى الطرق:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_28.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_28.mp3",
+      "description": "بعض الادوية اللي كيوصفها الطبيب يمكن تكون عندها اعراض وخيمة على السياقة",
+      "answer": [
+        1
+      ],
+      "explanation": "نعم كاين بعض الأدوية اللي كيديروا أعراض وخيمة للسائق وكيسببوا فالنوم أثناء القيادة وعدم التّركيز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_29.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_29.mp3",
+      "description": "إلا ما احترمتش التوقف الإجباري للي كيفرضه علي الضوء الأحمر، غنتعاقب ب",
+      "answer": [
+        2
+      ],
+      "explanation": "إذا ما احترمتش الوقوف الإجباري اللي كتحتمه الإشارة الضوئية الحمراء فالغرامة المالية كتكون بين 400 درهم و900 درهم.",
+      "optionGroups": [
+        {
+          "options": [
+            "400 إلى 900 درهم",
+            "300 إلى 400 درهم",
+            "200 إلى 300 درهم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_30.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_30.mp3",
+      "description": "وقت رد الفعل غالبا ما كيكون اكثر من ثانية",
+      "answer": [
+        1
+      ],
+      "explanation": "نعم، بالنسبة لوقت رد الفعل غالبا كيكون أكثر من ثانية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_31.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_31.mp3",
+      "description": "دواسة الفرامل لها تأثير",
+      "answer": [
+        3
+      ],
+      "explanation": "دواسة الفرامل كتحكم فجميع عجلات السيارة الأربعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "على زوج ديال العجلات ديال القدام فقط",
+            "على زوج ديال العجلات ديال الخلف فقط",
+            "على العجلات باربعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_32.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_32.mp3",
+      "description": "الدخان اللي خارج من العادم، يمكن يشير",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "الدخان اللي كخرج من العادم كيشير أن كاين استهلاك غير عادي للزيت، وما كيشيرش أن البطارية فارغة.",
+      "optionGroups": [
+        {
+          "description": "لاستهلاك غير عادي للزيت :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بطارية خاوية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_33.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_33.mp3",
+      "description": "الحمولة ديال العربة يمكن لها تجاوز",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الحمولة اللي نقدر نحط فوق السيارة يمكن تتجاوز السيارة من الخلف فقط، والحمولة يمكن تتجاوز مسافة 3 أمتار من الخلف كحد أقصى.",
+      "optionGroups": [
+        {
+          "options": [
+            "من القدام",
+            "من الخلف"
+          ]
+        },
+        {
+          "description": "فحدود",
+          "options": [
+            "3 مترو على الاكثر",
+            "مترو على الاكثر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_34.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_34.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطرقية كتعني أنه ما عندناش حق الأسبقية، إذن غادي نعطي حق الأسبقية للسيارات الأخرى.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز بلا ما نعطي حق الاسبقية",
+            "نعطي حق الاسبقية",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_35.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_35.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "ما نزيدوش السرعة فملتقيات الطرق، وبما أننا قراب من ملتقى الطرق وعلى الرغم من أن الإشارة الضوئية خضراء خاصنا نستعد للفرملة تحسبا لأي خطر.",
+      "optionGroups": [
+        {
+          "options": [
+            "نزيد من السرعة",
+            "نستعد للفرملة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_36.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_36.mp3",
+      "description": "",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "بما أن الأسبقية للسيارات القادمة من الجهة اليمنى إذن خاصني ننقص من السرعة ونعطي للعربة القادمة من اليمين حق الأسبقية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نقص من السرعة",
+            "نعطي حق الاسبقية للي جاي من ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_37.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_37.mp3",
+      "description": "عند ملتقى الطرق اللي جاي، نعطي حق الاسبقية",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "العلامة الطرقية كتعني انتباه خطر طريق ذات أولوية المرور (طريق كبيرة فصغيرة) خاص ننقص من السرعة ونمرو لأن الأسبقية لنا.",
+      "optionGroups": [
+        {
+          "description": "للي جاي من ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "للي جاي من ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_38.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_38.mp3",
+      "description": "هاد الخطوط المرسومة على الارض كتكون مصحوبة بالعلامة",
+      "answer": [
+        1
+      ],
+      "explanation": "بالنسبة للخط المرسوم على الأرض فهو كيعني ان الوقوف المفروض بعلامة قف خاص يكون عند داك الخط.",
+      "optionGroups": [
+        {
+          "options": [
+            "رقم 1",
+            "رقم 2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_39.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_39.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "السيارة كتواجد فطريق غير مُعَبَّدة فهاد الحالة الأسبقية لنا على الرغم من أنها كتواجد فالجهة اليمنى خاصها توقف وتنتظر للمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نسمح للسيارة بالمرور",
+            "ندوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_40.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_14/quiz_14_40_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_14/quiz_s_14_40.mp3",
+      "mp3": "files/audio/quiz_14/quiz_s_14_40.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "على الرغم من أن سيارة الشرطة عندها علامة قف خاصنا نوقفو ونسمحو لها بالمرور حيت فمهمة كما كتوضح الأضواء الحمراء فوق سيارة الشرطة.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف"
+          ]
+        }
+      ]
+    }
+  ]
+}

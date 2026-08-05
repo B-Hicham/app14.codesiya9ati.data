@@ -1,0 +1,853 @@
+{
+  "id": 43,
+  "title": "Quiz 43",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_1.jpg",
+  "source": "siya9ati_v2",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_1.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_1.mp3",
+      "description": "هاذ اللافتة كتشير إلى",
+      "answer": [
+        2
+      ],
+      "explanation": "اللافتة الطّرقية مكتوب فيها حرف P، والتي تعني Parking أي موقف خاص بالسيارات.",
+      "optionGroups": [
+        {
+          "options": [
+            "مركز الشرطة",
+            "موقف السيارات"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_2.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_2.mp3",
+      "description": "يمكن لي نغير الاتجاه لليمين",
+      "answer": [
+        2
+      ],
+      "explanation": "لا يمكن تغيير الإتجاه إلى اليمين، العلامة الطّرقية بسهم إلى السيار تعني الإجبار، وهذا يعني أن الطريق ذات مسار واحد وهي تجبرني على الإنعطاف إلى اليسار، إذن يمكنني فقط تغيير الإتجاه الى السيار ولا يمكنني تغيير الإتّجاه إلى اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_3.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_3.mp3",
+      "description": "هاد اللافتة كتنبه لمدخل الطريق السيار",
+      "answer": [
+        2
+      ],
+      "explanation": "حاليا أنا متواجد في طريق سيّار، والعلامة الطّرقية تعني طريق سيّار ولكن مشطوبة بخط أحمر وهذا يعني عن إنتهاء الطريق السيار وليس مدخل لطريق سيّار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_4.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_4.mp3",
+      "description": "المنعرج اللي جاي غادي يدور",
+      "answer": [
+        1
+      ],
+      "explanation": "أولا العلامة الطّرقية تعني الخطر، وهي تعني على أنه بعد اللافتة بمسافة 150 متر سوف يتواجد منعرج على اليمين وبعده منعرج إلى اليسار، إذن المنعرج القادم أي أول منعرج سوف يكون على اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "على ليمين",
+            "على ليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_5.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_5.mp3",
+      "description": "هاد اللافتة كتعلم على",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّرقية تعني الخطر، وفي هذه الحالة العلامة الطرقية تعني على أنه يوجد أشغال.",
+      "optionGroups": [
+        {
+          "options": [
+            "طريق محفرة",
+            "اشغال"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_6.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_6.mp3",
+      "description": "ممنوع المرور على العربات اللي لعلو ديالها اكثر من 3,1 متر",
+      "answer": [
+        1
+      ],
+      "explanation": "اللافتة تعني العلو الأقصى المسموح به للعربات للمرور تحت القنطرة، في هذه الحالة أي عربة علوها اكثر من 3,1 متر فيمنع عليها المرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_7.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_7.mp3",
+      "description": "باش نتبع هاذ العربة يمكن لي نخلي بيني و بينها",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الإشارة الطّرقية تعني المنع وتبدأ من عند العلامة، هي تعني أقل مسافة يجب عليّ أن أتركها مع العربة التي توجد أمامي، في هذه الحالة أقل مسافة يجب عليّ تركها بيني وبين العربة التي أمامي هي 70 متر، يعني يمكن ان أترك مسافة 70 متر أو 80 متر أو أكثر، ولا يمكنني ترك مسافة أقل من 70 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "60 مترو",
+            "70 مترو",
+            "80 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_8.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_8.mp3",
+      "description": "من بعد هاذ اللافتة يمكن لي نسوق بسرعة",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "اللافتة تعني المنع وتبدأ من عند العلامة، العلامة في هده الحالة تمنعني من ان اتخطى سرعة 60 كلم/الساعة. يعني انه يمكنني ان اسير ب 50 كلم في الساعة ويمكنني ايظا ان اسير بسرعة 60 كلم في الساعة..",
+      "optionGroups": [
+        {
+          "options": [
+            "50 كلم فالساعة",
+            "60 كلم فالساعة",
+            "70 كلم فالساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_9.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_9.mp3",
+      "description": "من بعد هاذ اللافتة، يمكن لي نسوق ب 80 كلم فالساعة",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية تعني نهاية المنع، انا اسير في طريق وطنية يمكنني السير بسرعة 80 كلم في الساعة. الحد الأقصى هو 100 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_10.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_10.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "كما هو مبين في الصورة توجد أمامنا سيارة إطفاء، لديها حق الأسبقية.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز دابا",
+            "نسمح بالمرور للي جاي قدامي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_11.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_11.mp3",
+      "description": "باش ندوز على ليسر، ندوز قبل السيارة الكحلا",
+      "answer": [
+        2
+      ],
+      "explanation": "الأسبقية للسيارة القادمة من اليمين، يجب انتظار السيارة السوادء لكي تمر وبعد ذلك يمكننا المرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_12.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_12.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "الشخص موجود في ممر الراجلين، يجب التوقف والسماح له بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتوقف",
+            "نستعمل المنبه الصوتي و ندوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_13.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_13.mp3",
+      "description": "ندوز قبل السيارة الحمرا",
+      "answer": [
+        2
+      ],
+      "explanation": "اللافتة تعني الخطر، على بعد 50 متر سوف تجد كروازمة، الأسبقية للعربات القادمة من اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_14.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_14.mp3",
+      "description": "نسمح بالمرور للسيارة الزرقا",
+      "answer": [
+        1
+      ],
+      "explanation": "توجد لافتة قف، يجب التوقف وإعطاء الأسبقية للسيارة الزرقاء.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_15.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_15.mp3",
+      "description": "واجب علي نسمح للعربة اللي جاية من ليمين بالمرور",
+      "answer": [
+        2
+      ],
+      "explanation": "السيارة تخرج من الكراج او المراَب، الأسبقية لنا وليس للسيارة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_16.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_16.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "يجب السماح للسيارة بالمرور لانها توجد في الطريق الرئيسية.",
+      "optionGroups": [
+        {
+          "options": [
+            "واجب علي نسمح لهذه العربة بالمرور",
+            "ندوز أنا الأول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_17.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_17.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "توجد العلامة الطّرقية قف، في هده الحالة يجب الاستعداد للفرملة والتوقف عند الوصول لعلامة قف.",
+      "optionGroups": [
+        {
+          "options": [
+            "نوريد فالسرعة",
+            "نستعد للتوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_18.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_18.mp3",
+      "description": "أنا غادي ب 40 كلم فالساعة، واجب علي ننقص من السرعة",
+      "answer": [
+        2
+      ],
+      "explanation": "علامة المنع تجبرني على عدم السير بسرعة اكثر من 40 كلم في الساعة، يعني يمكنني السير بهده السرعة او أقل وليس واجب علي ان انقص من 40 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_19.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_19.mp3",
+      "description": "كنتنقل ب 60 كلم في الساعة",
+      "answer": [
+        2
+      ],
+      "explanation": "نحن في المدينة والسرعة محدودة في 60 كلم في الساعة، لكن على يمين الطريق توجد أشغال، في هده الحالة واجب علي ان انقص من السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نكمل بنفس السرعة",
+            "واجب علي ننقص من السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_20.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_20.mp3",
+      "description": "أنا غادي ب 100 كلم فالساعة، واجب علي ننقص من السرعة",
+      "answer": [
+        1
+      ],
+      "explanation": "يوجد منعرج،أسير بسرعة 100 كلم في الساعة، واجب علي ان أنقص من السرعة، وقاعدة المنعرج تقول انه يجب علينا تقليل السرعة في بداية المنعرج وزياردة السرعة في وسط المنعرج.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_21.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_21.mp3",
+      "description": "فالسير العادي، انا غادي فالمكان المناسب من الطريق",
+      "answer": [
+        2
+      ],
+      "explanation": "المكان المناسب من الطريق هو في اليمين، ونحن نتواجب في الوسط.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_22.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_22.mp3",
+      "description": "انا فالمكان المناسب باش",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "لست في مكان مناسب للسير مباشرة، يجب السير في الممر الأيمن، لان هدا المسار هو خاص للتجاوز وفي هذه الحالة نحن لا نتجاوز أي عربة، يجب السير في الممر الأيمن للذهاب مباشرة. وللذهاب للمخرج فنحن كذلك لسنا في المكان المناسب لانه يجب علينا السير في الممر الموجود في اٌقصى اليمين قبل الوصول الى مخرج التباطؤ.",
+      "optionGroups": [
+        {
+          "description": "نكمل السير للقدام:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نتجه للمخرج:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_23.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_23.mp3",
+      "description": "غلطت فالاتجاه، يمكن ليا من بعد ما نرد البال، نقطع الشريط الارضي اللي وسط الطريق باش ندير نصف دورة",
+      "answer": [
+        2
+      ],
+      "explanation": "لا يمكن ذلك، لاننا متواجدون في طريق السيار ولا يمكن عمل نصف دورة والرجوع.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_24.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_24.mp3",
+      "description": "أنا غادي ب 40 كلم فالساعة، واش",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "يوجد أطفال في الطريق وهدا يعني انه يوجد خطر، يجب تقليل السرعة والإستعداد للفرملة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نحتفظ بنفس السرعة",
+            "واجب علي ننقص من السرعة",
+            "نستعد للفرملة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_25.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_25.mp3",
+      "description": "نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "هذه طريق وطنية، السيارة البيضاء تستعد للتجاوز، يعني لا يمكنني التجاوز حاليا.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_26.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_26.mp3",
+      "description": "واش نتجاوز؟",
+      "answer": [
+        2
+      ],
+      "explanation": "السيارة البيضاء تستعد للتجاوز، يعني لا يمكنني التجاوز حاليا.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_27.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_27.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "السيارة السوداء تستعد للتجاوز، واجب عليا نشد اليمين وعدم الزيادة في السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "يمكن لي نزيد في السرعة",
+            "نشد ليمين"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_28.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_28.mp3",
+      "description": "يمكن لي التوقف القار بين هاذ زوج سيارات",
+      "answer": [
+        1
+      ],
+      "explanation": "لا يوجد اي علامة تمنعني من التوقف، يمكنني التوقف القار بين السيارتين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_29.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_29.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "المرايا إجبارية وضرورية داخل السيارة بكل تأكيد لكي ترى من ورائك وايظا من يقوم بتجاوزك، وأيظا يجب التحقق منها قبل الإنطلاق في السيارة.",
+      "optionGroups": [
+        {
+          "description": "لمرايا إجبارية داخل السيارة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "واجب علي نقادها ديما قبل ما ننطلق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_30.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_30.mp3",
+      "description": "من الواجب مراقبة نظافة الاضواء الخلفية باستمرار",
+      "answer": [
+        1
+      ],
+      "explanation": "واجب علي مراقبة نظافة الأضواء الخلفية لكي تظهر الضوء الخلفي بشكل جيد.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_31.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_31.mp3",
+      "description": "واجب على السائق يراقب ديما",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "نعم واجب ان تكون الضواء نظيفة وايظا تشتغل بشكل جيد لكي لا تتعرض لمخالفة.",
+      "optionGroups": [
+        {
+          "description": "واش الضو نظيف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "واش خدام مزيان :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_32.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_32.mp3",
+      "description": "صيانة العربة باستمرار عند التقني المتخصص كتحد من الاخطار اللي كتسبب فالحوادث",
+      "answer": [
+        1
+      ],
+      "explanation": "يجب من وقت لاخر مراقبة السيارة عند تقني متخصص للسيارات لكي يتأكد من ان السيارة تعمل بشكل جيد وجميع اجزائها تشتغل بشكل جيد وإصلاح الأعطاب إدا وجدت في السيارة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_33.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_33.mp3",
+      "description": "حزام السلامة كيمنع الركاب من الاندفاع خارج السيارة إلا وقع اصطدام",
+      "answer": [
+        1
+      ],
+      "explanation": "حزام السلامة هو جهاز سلامة للمركبة مصمم لحماية الرّاكب من الأذى عند التصادم أو التوقف المفاجئ، ويمنع الراكب من أن يُقذف خارج المركبة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_34.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_34.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "لا يوجد شيئ في السّياقة إسمه المرور بسرعة أو التّجاوز بسرعة يجب الإنتباه، يجب التّوقف والسّماح لسيارة الإطفاء بالمرور لأن لأديها حق الأسبقية في المرور أولا.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز بسرعة",
+            "نتوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_35.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_35.mp3",
+      "description": "كنسوق ب 90 كلم في الساعة، باش نتوقف إلا فاجأني شي خطر كيلمزني مسافة",
+      "answer": [
+        3
+      ],
+      "explanation": "مسافة الوقوف: ضرب العدد في نفسه، يعني 9x9 هي 81، يعني يلزمني مسافة 81 متر للتوقف إذا فجأني خطر في الطريق.",
+      "optionGroups": [
+        {
+          "options": [
+            "39 مترو",
+            "51 مترو",
+            "81 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_36.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_36.mp3",
+      "description": "باش نعلم باني قربت",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "المنبّه الصوتي مسموح في حالة الخطر، في هذه الحالة فهو ممنوع فلا يوجد خطر يجبرني على إستعمال المنبّه الصوتي، يكفي التنبيه بالضوء.",
+      "optionGroups": [
+        {
+          "description": "نستعمل المنبه الصوتي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ننبه بالضو :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_37.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_37.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "يوجد تشوير أفقي وهو الخط المتصل، وهو يعني أنه ممنوع التجاوز. يجب الانتظار للتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز",
+            "ننتظر باش نتجاوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_38.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_38.mp3",
+      "description": "أنا غادي ب 90 كلم فالساعة، واش هاذ مسافة الأمان كافية",
+      "answer": [
+        2
+      ],
+      "explanation": "في هده الحالة السرعة هي 90 كلم في الساعة، مسافة الامان هي هذه الحالة هي 9 ضرب 6 هي 54 متر، السيارة البيضاء قريبة جدا واقل بكثير من 54 متر، وهدا يعني ان مسافة الأمان غير كافية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_39.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_39.mp3",
+      "description": "باش ننقص من سرعة العربة ديالي فهاد الهبطة، واجب علي",
+      "answer": [
+        1
+      ],
+      "explanation": "فهاد الهبطة يجب خفض السرعة بالتدريج فقط.",
+      "optionGroups": [
+        {
+          "options": [
+            "نخفض من السرعة بالتدريج",
+            "نبدل للمستوى الصفر",
+            "نستمر في الضغط على الفرامل"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_43/quiz_43_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_43/quiz_s_43_40.mp3",
+      "mp3": "files/audio/quiz_43/quiz_s_43_40.mp3",
+      "description": "بعض الادوية يمكن ليها تجيب النعاس للسائق",
+      "answer": [
+        1
+      ],
+      "explanation": "نعم، يوجد بعض الأدوية التي تجلب النوم، لذلك وجب الحذر عند تناول الأدوية والسياقة بعد ذلك.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    }
+  ]
+}

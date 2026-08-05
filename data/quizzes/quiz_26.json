@@ -1,0 +1,1001 @@
+{
+  "id": 26,
+  "title": "Quiz 26",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_1.jpg",
+  "source": "siya9a_maroc",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_1.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_1.mp3",
+      "description": "هذ السيارة كتمشي بسرعة 110 كلم/س. نتابع التجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "حنا دابا في طريق سيار حيت كاين الخط متصل على اليسار، والسرعة القصوى هي 120 كلم/س، وبما أن هاد السيارة غادة غير بـ 110 كلم/س، يمكن لي نتابع التجاوز ديالي بكل أمان.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_2.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_2.mp3",
+      "description": "على علبة الادوية للي كنتناولها، تتوجد هاد العلامة خاصني",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "هاد العلامة الحمراء (Niveau 3) كتعني باللي الدوا كيشكل خطر كبير على السياقة، داكشي علاش ضروري تقرا الورقة (Notice) باش تعرف التأثيرات ديالو، وممنوع عليك تسوق نهائيا يلا كنتي شاربو.",
+      "optionGroups": [
+        {
+          "description": "نقرا الارشادات الطبية (Notice) :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "فكل الاحوال يمكن لي نسوق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_3.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_3.mp3",
+      "description": "التشوير الطرقي كيشير على ان",
+      "answer": [
+        2
+      ],
+      "explanation": "البلاكة ديال الخطر اللي لتحت كتعلم بلي كاين مخفض ديال السرعة (dos-d'âne) قدامك، وبالنسبة للبلاكة الدائرية فهي كتحدد السرعة في 30 ماشي منطقة 30.",
+      "optionGroups": [
+        {
+          "options": [
+            "هاد المنطقة 30",
+            "مخفض السرعة",
+            "طريق ذات اتجاه وحيد"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_4.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_4.mp3",
+      "description": "يمكن لي الوقوف على طول هاذ الرصيف باش ننزل راكب",
+      "answer": [
+        1
+      ],
+      "explanation": "الرصيف مصبوغ بالأبيض والأحمر، وهاد العلامة كتعني ممنوع التوقف (ممنوع تخلي الطوموبيل وتمشي)، ولكن الوقوف باش تنزل شي حد وتكمل طريقك راه مسموح به.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_5.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_5.mp3",
+      "description": "غنعطي حق الاسبقية للعربات",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "أنا دابا في مسلك الاندماج وعندي علامة 'ليس لكم حق الأسبقية'، يعني خاصني نعطي للي جايين من اليسار حيت هما اللي كاينين في الطريق الرئيسية، أما اليمين راه ما جاي منو حد حيت الطريق غير كدي.",
+      "optionGroups": [
+        {
+          "description": "الجاية من ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "الجاية من ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_6.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_6.mp3",
+      "description": "مسافة الحصر كتغير حسب",
+      "answer": [
+        1,
+        2,
+        3
+      ],
+      "explanation": "مسافة الحصر كتعلق بكل ما هو تقني ومادي، بحال السرعة باش غادي، والتقلية (الحمولة) اللي هاز، وحتى حالة الطريق واش فازكة بالشتا، أما وقت رد الفعل كيتعلق غير بالشيفور بوحدو.",
+      "optionGroups": [
+        {
+          "options": [
+            "حالة الطقس",
+            "حمولة العربة",
+            "السرعة",
+            "وقت رد الفعل"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_7.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_7.mp3",
+      "description": "وحدي فهاد النفق، يمكن لي نمشي",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "فالنفق ديما كنشعلو ضو التقابل باش نبانو للي جايين ونشوفو الطريق مزيان، واخا نكونو بوحدنا، أما ضو الطريق ممنوع حيت كيجهر السائقين للي يقدرو يبانو فالمراية ولا يخرجو من المنعرج.",
+      "optionGroups": [
+        {
+          "description": "بضواو التقابل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بضواو الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_8.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_8.mp3",
+      "description": "قلة التركيز يمكن تحدث اثناء",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "أي حاجة كتشغل السائق على الطريق بحال البحث على شي ورقة فبواط آ غون (boîte à gants) ولا الهضرة والتوتر مع الركاب، كينقصو من التركيز وكيقدرو يتسببو فحادثة.",
+      "optionGroups": [
+        {
+          "description": "البحث على بطاقة فعلبة السيارة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "التوتر مع راكب معايا :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_9.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_9.mp3",
+      "description": "انا فالمكان المناسب باش نمشي",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "نتا دابا شاد وسط الطريق ومازال ما دخلتيش فالمسالك اللي كايفرقو الاتجاهات، يعني عندك الحق تختار تمشي للمطار من جيهة اليسر ولا تكمل للدار البيضاء من جيهة اليمن.",
+      "optionGroups": [
+        {
+          "options": [
+            "للمطار",
+            "الدار البيضاء"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_10.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_10.mp3",
+      "description": "من الواجب علي نسمح بالمرور لهاد الشاحنة",
+      "answer": [
+        2
+      ],
+      "explanation": "هاد الشاحنة خارجة من مكان خاص (ورشة بناء) وكتقطع الرصيف باش تدخل للطريق الرئيسية، داكشي علاش هي اللي خاصها توقف وتسمح ليا بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_11.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_11.mp3",
+      "description": "باش نتجاوز صاحب هاذ الدراجة، يمكن لي نتخطى الخط المتصل",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "الخط المتصل كيتعتبر بمثابة حيط، ممنوع كليا نمشي فوق الخط أو نتخطاه باش نتجاوز. وبما أننا خارج التجمع الحضري، القانون كيفرض نخلي مسافة أمان جانبية ما كتقلش على متر ونصف بيني وبين الدراجة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نترك مسافة جانبية ما كتقلش على :",
+          "options": [
+            "0,5 مترو",
+            "1,50 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_12.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_12.mp3",
+      "description": "",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "البلاكة الزرقاء واضحة، كاتبيّن تعريفة الأداء في لوطوروت: بالنسبة للسيارات الخفيفة الثمن هو 10 دراهم، أما 15 درهم فهي خاصة بالكيران والشاحنات.",
+      "optionGroups": [
+        {
+          "description": "من الواجب علي نخلص :",
+          "options": [
+            "10 دراهم",
+            "15 دراهم"
+          ]
+        },
+        {
+          "description": "ما غادي نخلص والو :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_13.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_13.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "هاد العلامة كتعلمك بلي غادي تلقى 'ليس لك حق الأسبقية' على بعد 200 متر، وبما أن العلامة التكميلية فيها غير المسافة بوحدها وما مكتوباش فيها 'STOP'، فهذا كيعني أنك غتلقى نفس العلامة ماشي علامة قف.",
+      "optionGroups": [
+        {
+          "description": "على بعد 200 مترو، غنوجد علامة قف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "علامة إعطاء حق الأسبقية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_14.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_14.mp3",
+      "description": "نسمح بالمرور لهذا الراجل",
+      "answer": [
+        1
+      ],
+      "explanation": "القاعدة كتقول غير يحط الراجل رجليه فوق ممر الراجلين، واجب عليا نوقف ونعطيه حق الأسبقية، وهاد الراجل راه ديجا بدا كيقطع الطريق.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_15.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_15.mp3",
+      "description": "نتجاوز هاذ الجرار",
+      "answer": [
+        2
+      ],
+      "explanation": "وخا الجرار كيمشي بشوية، راه كاين خط متصل ممنوع عليا نتخطاه، وزايدون الطريق فيها منعرج والرؤية ما واضحةش القدام.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_16.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_16.mp3",
+      "description": "على بعد 4 كلم، غادي يمكن",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "البلاكة الزرقاء كتعلمنا بلي كاينة محطة استراحة على بعد 4 كلم، والرموز اللي فيها كيبينو بلي كتوفر على محطة بنزين باش تزود بالوقود ومطعم فين تقدر تاكل وجبة.",
+      "optionGroups": [
+        {
+          "description": "التزود بالوقود :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "تناول وجبة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_17.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_17.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "الأسهم اللي مرسومة في الأرض (أسهم التوجيه) كتسمح ليك تمشي نيشان ولا تدور على ليمن، وبما أنك شاد هاد المسلك، فأنت في وضعية صحيحة لهاد جوج اختيارات.",
+      "optionGroups": [
+        {
+          "description": "انا فالمكان المناسب باش ندور على ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "باش نكمل للامام :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_18.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_18.mp3",
+      "description": "تقوم هذه السيارة بالرجوع للخلف. ننبه بالمنبه الصوتي",
+      "answer": [
+        1
+      ],
+      "explanation": "هاد السيارة اللي على اليمين راجعة للخلف والضوء ديال المارشي أريير شاعل، وبما أن الرؤية عند السائق ديالها محدودة ومقدرش يشوفني، كاين خطر ديال الاصطدام، داكشي علاش خاصني نستعمل المنبه الصوتي باش نعلمو بوجودي.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_19.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_19.mp3",
+      "description": "هاد العلامة كتنهي",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "هاد العلامة هي نهاية جميع أنواع المنع اللي كانت قبل، بحال السرعة ولا التجاوز، ولكن ما عندها حتى علاقة بالوقوف والتوقف حيت المنع ديالهم كيتنهى غير بملتقى الطرق. وبالنسبة للتجاوز، هي كتنهي 'منع التجاوز' ماشي كتنهي 'التجاوز' براسو.",
+      "optionGroups": [
+        {
+          "description": "منع الوقوف على جنب الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "التجاوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_20.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_20.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "السيارة الزرقاء اللي خارجة من اليمين عندها خط متقطع في الأرض، وهذا كيعني بلي عندها علامة \"ليس لك حق الأسبقية\"، داكشي علاش خاصها هي توقف وتسمح لي بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نزيذ للقدام",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_21.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_21.mp3",
+      "description": "هذا الضو الجاذب قام بالاشتعال",
+      "answer": [
+        1
+      ],
+      "explanation": "هاد الضو الجاذب اللي شعل كيعلمك بلي المازوط قرب يسالي، ماشي عطب تقني خطير، دونك كمل طريقك حتى لأقرب محطة وقود وزيد المازوط، أما الوقوف فداك المكان المخطط (مساحة الأمان) راه ممنوع إلا فالحالات الاستعجالية بحال عطب فالمحرك.",
+      "optionGroups": [
+        {
+          "options": [
+            "نكمل السير",
+            "نوقف فالمكان المخطط للي فليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_22.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_22.mp3",
+      "description": "باش ندور على ليسر",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "ملي كنبغي ندور على ليسر فملتقى طرق ما فيهش علامات، خاصني نعطي حق الأسبقية للي جاي من القدام حيت غادي يولي على يميني، أما اللي جاي من ليسر راه عندو خط متصل (علامة قف) وخاصو هو اللي يعطيني الأسبقية.",
+      "optionGroups": [
+        {
+          "description": "نعطي حق الاسبقية للي جايين من القدام :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نعطي حق الاسبقية للي جايين من ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_23.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_23.mp3",
+      "description": "يمكن لي نتجاوز هاذ العربة إلا كنت غادي ب",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "الطريق قدامك خاوية والخط متقطع كيسمح بالتجاوز، وباش تجاوز هاد السيارة خاصك تكون غادي بسرعة كتر منها، يعني بـ 80 ولا 100 كلم/س حيت السرعة القصوى فهاد الطريق هي 100 كلم/س.",
+      "optionGroups": [
+        {
+          "description": "100 كلم/س :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "80 كلم/س :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_24.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_24.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "الضوء الأحمر شاعل، يعني ضروري خاصني ندير الوقوف ونخلي الراجلين يقطعوا الطريق حيت عندهم حق الأسبقية في ممر الراجلين.",
+      "optionGroups": [
+        {
+          "description": "نعطي حق الاسبقية لراجل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "من الواجب علي نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_25.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_25.mp3",
+      "description": "فهاد الحالة",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "خط الوسط والتشوير الطرقي باللون الأبيض كيعني أنها علامات دائمة ماشي مؤقتة، وبما أن علامة المنع كتمنع تجاوز العربات ذات محرك اللي عندها أكثر من جوج روايض، فالتجاوز ممنوع على الجرار ومسموح غير للدراجات النارية.",
+      "optionGroups": [
+        {
+          "options": [
+            "خط الوسط دائم",
+            "العلامة مؤقتة"
+          ]
+        },
+        {
+          "description": "يمكن لي نتجاوز :",
+          "options": [
+            "جرار",
+            "صاحب دراجة نارية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_26.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_26_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_26.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_26.mp3",
+      "description": "غنكمل السير للقدام، نعطي حق الاسبقية للي جايين",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "فهاد الملتقى ما كاين حتى علامة كتنظم السير، إذن كنطبقو القاعدة العامة ديال الكروازمان اللي هي الأسبقية لليمن، وبما أنك غادي نيشان والسيارة اللي جاية من القدام باغا تدور على ليسر ديالها (دايرة السينيال)، فراه خاصها هي تسمح ليك بالمرور.",
+      "optionGroups": [
+        {
+          "description": "- من ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "- من لقدام :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_27.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_27_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_27.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_27.mp3",
+      "description": "يمكن لي نتجاوز هاذ الحافلة من ليمن",
+      "answer": [
+        1
+      ],
+      "explanation": "القاعدة كتقول ممنوع نتجاوز من ليمن، إلا فاش كتكون العربة اللي قدامي دايرة السينيال باش تدور على ليسر، وهاد الحافلة راها شاعلة السينيال ديال ليسر إذن مسموح لي نتجاوزها من جيهة ليمن.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_28.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_28.mp3",
+      "description": "على جنب الطريق ديال ليمن، يمكن لي",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "حاشية الطريق خاوية وما كاين حتى شي علامة كتمنع، وبما أننا باقين بعاد على المنعرج بمسافة كافية، فمسموح لينا نديرو الوقوف ولا التوقف على جنب الطريق ديال ليمن.",
+      "optionGroups": [
+        {
+          "description": "- نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "- نتوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_29.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_29.mp3",
+      "description": "حتى حد ما جاي من الاتجاه المعاكس. ندوز",
+      "answer": [
+        2
+      ],
+      "explanation": "وخا الطريق خاوية قدامك، كاين إشارة ضوئية مؤقتة شاعلة باللون الأحمر، والقانون كيفرض عليك توقف وتنتظر حتى يشعل الضو الأخضر عاد يمكن ليك تدوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_30.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_30.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "فاش كتكون الطريق عامرة وحركة السير كثيفة، خاصك تبقى فالمسلك ديالك وما تبدلوش باش ما تزيدش تعرقل الحركة، وبالنسبة لمسافة الأمان راه ضروري تخلي جوج ثواني بينك وبين اللي قدامك باش تتفادى أي خطر مفاجئ.",
+      "optionGroups": [
+        {
+          "description": "نبدل المسلك، مني تكون حركة السير كثيفة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نخلي مسافة امان كتقدر ب 2 ديال الثواني :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_31.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_31.mp3",
+      "description": "فهاد موقف السيارات، يمكن لي نتوقف",
+      "answer": [
+        1
+      ],
+      "explanation": "البلاكة ديال موقف السيارات (P) فيها علامة تكميلية لتحت كاتبين فيها باللي هاد البلاصة مسموح فيها بالوقوف للسيارات وحتى العربات اللي هازة مقطورة، إذن التوقف مسموح ليك تما.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_32.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_32.mp3",
+      "description": "يمكن نتجاوز صاحب هاذ الدراجة",
+      "answer": [
+        1
+      ],
+      "explanation": "الخط لي فوسط الطريق متقطع كيسمح بالتجاوز، والضوء ديال السكة منطفئ والحواجز طالعين يعني الطريق خاوية، وبما أننا داخل تجمع سكني خاصني غير نخلي مسافة أمان جانبية ديال مترو ونتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_33.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_33.mp3",
+      "description": "باش نتجاوز، يمكن لي نمشي حتى لـ",
+      "answer": [
+        3
+      ],
+      "explanation": "الخط لي على اليسار متقطع كيعني أن الطريق كيدي وكيجيب، وحنا دابا في طريق وطنية السرعة فيها محدودة في 100 كلم/س، داكشي علاش باش نتجاوز يمكن لي نوصل لهاد السرعة كحد أقصى.",
+      "optionGroups": [
+        {
+          "options": [
+            "80 كلم/س",
+            "90 كلم/س",
+            "100 كلم/س",
+            "120 كلم/س"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_34.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_34.mp3",
+      "description": "",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "البلاكة ديال الإرشاد مكتوب فيها (الوادي المالح) وهاد السمية كتدل على مجرى مائي، أما الطريق فكتبان عادية وما كاين حتى علامة كتقول بلي غتضيق فداك المنعرج.",
+      "optionGroups": [
+        {
+          "description": "غنعبر :",
+          "options": [
+            "مجرى ديال الما",
+            "مكان مسمى"
+          ]
+        },
+        {
+          "description": "الطريق غتكون ضيقة فالمنعرج :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_35.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_35.mp3",
+      "description": "ندوز",
+      "answer": [
+        1
+      ],
+      "explanation": "الطوبيس واقف في المحطة ديالو (الخطوط الصفراء المتعرجة) وما دايرش السينيال باش يخرج، والطريق قدامي خاوية، إذن نقدر ندوز بلا مشكل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_36.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_36.mp3",
+      "description": "التوقف مسموح به",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "التوقف مسموح به غير على ليسر حيت كاين بلاكة ديال الباركينغ فيها الرمز ديال اليد (الأداء)، أما على ليمن الرصيف مصبوغ بالأبيض والأصفر اللي كيمنع التوقف.",
+      "optionGroups": [
+        {
+          "options": [
+            "على ليمن",
+            "على ليسر",
+            "التوقف بالاداء",
+            "التوقف بالمجان"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_37.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_37.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "البلاكة ديال الخطر كتعلمنا بلي كاين ممر الراجلين على بعد 300 متر، وبما أن الخطر قدامي ضروري خاصني ننقص من السرعة من دابا باش نكون مستعد لأي مفاجأة.",
+      "optionGroups": [
+        {
+          "description": "غنوجد ممر للراجلين على بعد 300 مترو :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "انقص من السرعة فالحين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_38.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_38.mp3",
+      "description": "يمكن لي نتجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "الطريق قدامي خاوية والخط لي فوسط الطريق متقطع كيسمح بالتجاوز، وحتى السيارة لي ورايا فالمراية ما دايرة سينيال ما ناوية تجاوزني، إذن الشروط كاملة كاينة باش نتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_39.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_39.mp3",
+      "description": "يمكن لي نمشي ب",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "فاش كتكون الشتا مجهدة بحال هكا، الرؤية كتنقص بزاف، داكشي علاش خاصنا نشعلو ضواو التقابل ومعاهم ضواو الضبابة ديال القدام باش نبانو مزيان ونشوفو الطريق، أما ضواو الوضع بوحدهم ما كافيينش فهاد الحالة.",
+      "optionGroups": [
+        {
+          "description": "بضواو الوضع مشعولة وحدها :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بضواو الضبابة ديال القدام :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_26/quiz_26_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_26/quiz_s_26_40.mp3",
+      "mp3": "files/audio/quiz_26/quiz_s_26_40.mp3",
+      "description": "فحالة وجود حريق، مراكز الاغاثة كتمكن من",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "مراكز الإغاثة اللي كنشوفو فالتصويرة فيها علامة الهاتف باش نطلبو النجدة وعلامة طفاية العافية باش نستعملوها، أما الحماية من الدخان والحرارة فكتكون فمخارج الطوارئ ماشي فهاد المراكز.",
+      "optionGroups": [
+        {
+          "options": [
+            "طلب النجدة",
+            "استعمال مطفئة الحريق",
+            "كتحمي من الدخان",
+            "كتحمي من الحرارة"
+          ]
+        }
+      ]
+    }
+  ]
+}

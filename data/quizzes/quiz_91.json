@@ -1,0 +1,877 @@
+{
+  "id": 91,
+  "title": "Quiz 91",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_1.jpg",
+  "source": "siya9ati_v2",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_1.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_1.mp3",
+      "description": "ابتداء من هاذ العلامة يمكن لي نسوق بسرعة",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية تعني تحديد السرعة في 40 كلم في الساعة، وهي تعني على أنه يمكنني السّير بأي سرعة أريد فقط لا أجاوز سرعة 40 كلم في الساعة. إذن في هذه الحالة يمكنني السّير بسرعة 30 كلم في الساعة ويمكنني أيضا السّير بسرعة 40 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "30 كلم في الساعة",
+            "40 كلم في الساعة",
+            "60 كلم في الساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_2.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_2.mp3",
+      "description": "بعد هاذ العلامة يمكن لي نقوم بنصف دورة",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّّرقية تعني طريق ذات إتّجاه واحد، يعني أنه لا توجد سيّارات قادمة من الاتّجاه المعاكس، يعني لو قمت بعمل نصف دورة فسوف أتقابل مع عربات في الاتّجاه الذي كنت فيه سابقا وهذا ممنوع لأن الطّريق ذات إتّجاه واحد فقط. إذن في هذه الحالة و بعد هذه العلامة لا يمكنني القيام بنصف دورة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_3.gif",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_3.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_3.mp3",
+      "description": "هذ العلامة كتعلم على",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية تعني انتباه خطر طريق زلقة.",
+      "optionGroups": [
+        {
+          "options": [
+            "منعرجات متابعة",
+            "خطر تطاير الحصى",
+            "طريق كتزلق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_4.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_4.mp3",
+      "description": "من بعد 500 متر، غادي يكون واجب علي نغير الاتجاه ليمن",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّرقية مكتوب بها على أن الطريق سوف يصبح منحرف على بعد 500 متر، العلامة الطّرقية الدائرية الخاصة بالمنع في المسلك على اليسار في العلامة الطّرقية فهي تعني على أن ذلك الطّريق لو قمت بسلكه والذّهاب مباشرة سوف يكون مسدود ولا يمكنني المرور فيه. يعني أنه واجب على جميع العربات أنها تأخد المسار المنحرف على اليمين لأن الطّريق مباشرة ممنوع فيها المرور بسبب الأشغال. إذن في هذه الحالة من بعد 500 متر سوف يكون من الواجب عليّ تغيير الاتّجاه",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_5.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_5.mp3",
+      "description": "هاذ العلامة كتعلم على",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية تعني انتباه خطر وْهذَة أو حَذَبة.",
+      "optionGroups": [
+        {
+          "options": [
+            "وهدة",
+            "حدبة",
+            "عقبات متتابعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_6.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_6.mp3",
+      "description": "هاد العلامة كتعلم بلي المرور ممنوع على جميع أنواع الدراجات",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية تعني ممنوع المرور على جميع أنواع الدّراجات (بما فيها الدّراجات العادية والدّراجات النارية).",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_7.gif",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_7.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_7.mp3",
+      "description": "هذ العلامة كتعلم على",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّرقية تعني انتباه خطر طريق ضيّقة على مسافة محدودة (علامة الأشغال والقنطرة المتحركة علاماتهما ليست مثل هذه العلامة بل لديهم علاماتهم الخاصة). إذن في هذه الحالة هذه العلامة تُعْلِمْ على طريق ضيّقة على مسافة محدودة.",
+      "optionGroups": [
+        {
+          "options": [
+            "طريق ضيقة على مسافة محدودة",
+            "قنطرة متحركة",
+            "اشغال"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_8.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_8.mp3",
+      "description": "هاد العلامة كتعلم على وجود",
+      "answer": [
+        1
+      ],
+      "explanation": "هذه العلامة الطّرقية التي تحتوي على هذا الرمز فهي تُعْلمْ على وجود مركز إصلاح السيارات.",
+      "optionGroups": [
+        {
+          "options": [
+            "مركز إصلاح السيارات",
+            "مركز الفحص التقني"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_9.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_9.mp3",
+      "description": "طريق غادي تضياق",
+      "answer": [
+        2
+      ],
+      "explanation": "علامة انتباه خطر طريق ضيّقة تحتوي على علامة تكميلية أسفلها مكتوب فيها 200 متر مع أسهم للأعلى، تلك الأسهم تعني على مسافة أو على إمتداد أو تعني كذلك على طول ولا تعني على بعد. إذن في هذه الحالة الطريق سوف تصبح ضيّقة على طول 200 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "على بعد 200 متر",
+            "على طول 200 متر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_10.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_10.mp3",
+      "description": "هاد العلامة كتمنع المرور على العربات اللي كيتعدى العلو ديالها 3,5 متر",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية تمنع مرور العربات التي يتجاوز علوّها 3,5 متر (كما توضّح أسهل العلو في العلامة الطّرقية)، العربات التي علوّها 3,5 متر يمكنها المرور لكن التي علوّها أكثر من 3,5 متر لا يمكنها المرور مثلا علو 3,6 متر أو 4 متر لا يمكنها المرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_11.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_11.mp3",
+      "description": "ابتداء من هاذ العلامة يمكن لي نسوق بسرعة 80 كلم في الساعة",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّرقية تعني انتهاء جميع أنواع المنع التي كانت سابقا (باستثناء علامات الوقوف والتوقّف لا تقوم بإلغائهم) بما أنني خارج التجمّع الحضري والسرعة محددة في 100 كلم في الساعة إذن يمكنني السّير بأي سرعة فقط لا أتجاوز سرعة 100 كلم في الساعة. إذن في هذه الحالة إبتداء من هذه العلامة يمكنني السّير بسرعة 80 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_12.gif",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_12.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_12.mp3",
+      "description": "المنعرج الاول داير",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية تعني انتباه خطر منعرجات، المنعرج الاول على اليسار و الثاني على اليمين. (لكي لا تتشتت(ي) في العلامة الخاصة ب المنعرجات المتتالية نلاحظ فقط في أي جهة ينعطف المسار، كما نلاحظ في العلامة الانعطاف الأول على اليسار إذن المنعرج الأول سوف يكون على اليسار).",
+      "optionGroups": [
+        {
+          "options": [
+            "على ليسر",
+            "على ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_13.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_13.mp3",
+      "description": "هاد العلامة كتعلم على وجود",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّرقية تحتوي على رمز الطّريق السيّار مع خط أحمر، الخط الأحمر يعني انتهاء الطّريق السيّار. إذن في هذه الحالة العلامة تُعْلِمْ على نهاية الطّريق السيّار. ",
+      "optionGroups": [
+        {
+          "options": [
+            "طريق سيار مسدود",
+            "نهاية الطريق السيار"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_14.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_14.mp3",
+      "description": "هاد العلامة كتعلم بوجود",
+      "answer": [
+        1
+      ],
+      "explanation": "علامة الإرشاد P الظّاهرة في الصورة تعني موقف سيارات.",
+      "optionGroups": [
+        {
+          "options": [
+            "موقف للسيارات",
+            "محطة الاداء"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_15.gif",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_15.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_15.mp3",
+      "description": "إلى تبعت هاذ الاتجاه غادي نكون كنسير فطريق",
+      "answer": [
+        2
+      ],
+      "explanation": "كما نلاحظ في الصورة فالإشارات الصغيرة فوق علامة الاتّجاه فهي باللون الأحمر واللون الأحمر يشير على أن الطّريق وطنية، لو كان اللون أخضر لقُلنا على أنها طريق جهوية. إذن في هذه الحالة إذا قمت بإتّباع هذا الاتّجاه فسوف أكون أسير في طريق وطنية.",
+      "optionGroups": [
+        {
+          "options": [
+            "وطنية",
+            "جهوية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_16.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_16.mp3",
+      "description": "واجب علي نغير الاتجاه",
+      "answer": [
+        1
+      ],
+      "explanation": "علامة الإجبار الظاهرة على الصورة تحتوي على سهم يتّجه إلى اليمين وهو يعني الإجبار للانعطاف على اليمين. إذن من الواجب عليّ تغيير الاتّجاه إلى اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "على ليمن",
+            "على ليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_17.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_17.mp3",
+      "description": "هاد العلامة كتعلم على",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّرقية الظاهرة في الصورة تعني انتباه خطر ممر الرّاجلين (العلامة الطّرقية الخاصة بالمنع تكون دائرية وليس داخل مثلث وبالنسبة لمكان يتواجد فيه الأطفال فهنالك علامة طرقية اخرى لذلك) إذن في هذه الحالة هذه العلامة تُعْلِمْ على ممر للرّاجلين.",
+      "optionGroups": [
+        {
+          "options": [
+            "ممنوع المرور على الراجلين",
+            "مكان كيتواجدو به الاطفال",
+            "ممر ديال الراجلين"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_18.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_18.mp3",
+      "description": "ابتداء من هاذ العلامة يمكن لي نسوق بسرعة",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية تعني السرعة الدنيا الإجبارية 30 كلم في الساعة وهي تعني أنه لا يمكنني السّير بسرعة أقل من 30 كلم في الساعة. بما أنني داخل المجال الحضري والسّرعة محددة في 60 كلم في الساعة إذن يمكنني السّير بسرعة 30 كلم في الساعة أو 40 كلم في الساعة او 50 كلم في الساعة أو 60 كلم في الساعة (فقط لا أسير بأقل من 30 كلم في الساعة ولا أسير بأكثر من 60 كلم في الساعة لأنني داخل المجال الحضري) إذن في هذه الحالة إبتداء من هذه العلامة يمكنني السّير بسرعة 30 كلم في الساعة و ب 60 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "20 كلم في الساعة",
+            "30 كلم في الساعة",
+            "60 كلم في الساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_19.gif",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_19.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_19.mp3",
+      "description": "المنعرج الاول داير",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطّرقية تعني انتباه خطر منعرجات، المنعرج الاول على اليمين و الثاني على اليسار. (لكي لا تتشتت(ي) في العلامة الخاصة ب المنعرجات المتتالية نلاحظ فقط في أي جهة ينعطف المسار، كما نلاحظ في العلامة الانعطاف الأول على اليمين إذن المنعرج الأول سوف يكون على اليمين).",
+      "optionGroups": [
+        {
+          "options": [
+            "على ليمن",
+            "على ليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_20.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_20.mp3",
+      "description": "هاد العلامة كتعلم بوجود",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية الخاصة بالإرشاد تعني أنه على بعد 1000 متر سوف نجد مركز للإغاثة.",
+      "optionGroups": [
+        {
+          "options": [
+            "صيدلية",
+            "مركز الاغاثة",
+            "موقف السيارات محروس بالليل"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_21.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_21.mp3",
+      "description": "واجب علي نغير الاتجاه ليسر",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية الصفراء فهي علامة مؤقّتة وهي تُعلموني على أن الطّريق تؤدي للرباط فهي على اليسار، العلامة فقط تُعلمني على أن طريق الرباط على اليسار ولا تجبرني للانعطاف على اليسار، ويمكنني الانعطاف على اليمين. إذن في هذه الحالة ليس من الواجب عليّ تغيير الاتّجاه على اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_22.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_22.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "لا يوجد تشوير طرقي يُعلم على أنه ممنوع القيام بنصف دورة، يوجد تشوير طرقي عمودي ممنوع الانعطاف على اليسار، أيضا أقصى اليمين يوجد التّشوير الطّرقي الذي يشير إلى أن هنالك منعرج على اليسار و يوجد تشوير طرقي عمودي في الأمامي يشير إلى تحديد السّرعة في 40 كلم في الساعة. إذن التّشوير الطّرقي يمنع الانعطاف على اليسار ويُعْلِمْ التّشوير الطّرقي على منعرج على اليسار وكذلك تحديد السّرعة في 40 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "description": "التشوير الطرقي كيمنع :",
+          "options": [
+            "القيام بنصف دورة",
+            "ندوز على ليسر"
+          ]
+        },
+        {
+          "description": "كيعلم على :",
+          "options": [
+            "منعرج على ليسر",
+            "تحديد السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_23.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_23.mp3",
+      "description": "المرور ممنوع",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطّرقية الظاهرة في الصورة فهي لا تعني ممنوع مرور العربات ذات الأسبقية ولا تعني كذلك ممنوع مرور عربات نقل البضائع، العلامة الطّرقية تعني ممنوع مرور العربات التي تحمل متفجّرات",
+      "optionGroups": [
+        {
+          "description": "على العربات ذات الاسبقية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على عربات نقل البضائع :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_24.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_24.mp3",
+      "description": "تناول الادوية مع الكحول، يمكن يجعل السائق",
+      "answer": [
+        2
+      ],
+      "explanation": "إن تناول الأدوية مع الكحول يزيد أكثر إرتباك السائق ويجعله أكثر عصبية بسبب الخلط بين الأدوية و الخمر سوياََ، كما أن تناولهم معاََ يزيد من خطر النوم وعدم الانتباه. (لذلك وجب الإبعاد عن شرب الخمر وتناول الأدوية قبل و أثناء السّياقة).",
+      "optionGroups": [
+        {
+          "description": "عصبي بشكل غير عادي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "يعرضوا لخطر النوم اثناء السياقة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_25.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_25.mp3",
+      "description": "كتقدر الفترة للي شفت فيها العائق و اللحظة ديال رد الفعل، بتقريبا",
+      "answer": [
+        1
+      ],
+      "explanation": "وقت رد الفعل : هي اللحظة منين كيشوف السائق الخطر ويبدا كيفية التعامل معه وتفاديه، ووقت رد الفعل يقدر بثانية ويتعلق دائما بالسائق ويتغير من سائق لاخر حسب العمر حالته البدنية والنفسية. في المتوسط وقت رد الفعل هو 1 ثانية.",
+      "optionGroups": [
+        {
+          "options": [
+            "1/10 جزء من الثانية",
+            "نصف ثانية",
+            "ثانية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_26.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_26.mp3",
+      "description": "التعب ديال السائق كيزيد من خطر وقوع حوادث السير",
+      "answer": [
+        1
+      ],
+      "explanation": "التعب والنوم أهم أسباب حوادث السير، الإرهاق والشعور بالنعاس من بين أبرز الأسباب التي تتسبب في حوادث سير مؤلمة تخطف أرواح الكثير من مستعملي الطرق، وعلى عكس الجوع والعطش فإن النوم لا يمكن كبته، وإذا حاولت مقاومته فسيعود مجددا ليواصل إزعاجه. لذلك التوقف عن السياقة والاستراحة بعد كل ساعتين مهم للغاية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_27.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_27.mp3",
+      "description": "العدد الاقصى ديال الركاب اللي يمكن ننقلهم فالسيرة مكتوب",
+      "answer": [
+        2
+      ],
+      "explanation": "العدد الأقصى أو بتعبير أخر عدد المقاعد المسموح بها في السيّارة فتوجد في شهادة التأمين. لأن شركة التأمين هي التي تُرَخِّصْ عدد المقاعد المسموح بها في السيّارة أي في شهادة التأمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "فالبطاقة الرمادية",
+            "فشهادة التامين"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_28.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_28.mp3",
+      "description": "رخصة السياقة من صنف ب (B) كتسمح لي نسوق عربة كيوصل مجموع الوزن ديالها مع الحمولة إلى",
+      "answer": [
+        1
+      ],
+      "explanation": "رخصة السّياقة من صنف ب (B) تسمح لي بسياقة عربة يصل مجموع حمولتها إلى 3500 كلغ كحد أقصى، يعني عندما يكون وزن العربة مع الحمولة يساوي أو يقل عن 3500 كلغ يمكنني سياقتها.",
+      "optionGroups": [
+        {
+          "options": [
+            "2500 كلغ",
+            "3500 كلغ",
+            "3800 كلغ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_29.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_29.mp3",
+      "description": "من الواجب القيام بالاستراحة",
+      "answer": [
+        2
+      ],
+      "explanation": "التوقف عن السياقة والاستراحة بعد كل ساعتين مهم للغاية لكي يستريح السائق، لأن السّياقة المتواصلة بدون راحة فإنّها تؤدي إلى النوم، وعلى عكس الجوع والعطش فإن النوم لا يمكن كبته، وإذا حاولت مقاومته فسيعود مجددا ليواصل إزعاجه. لذلك أخد إستراحة بعد كل ساعتين وتناول الطعام والشراب بشكل معتدل لاستعادة طاقتك ونشاطك  فهو أمر مهم جدا للتّخلّص من التّعب.",
+      "optionGroups": [
+        {
+          "description": "على الاقل كل ساعتين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ملي يبدا السائق يحس بالعيا :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_30.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_30.mp3",
+      "description": "من الواجب على اللي راكب القدام يربط حزام السلامة خارج التجمعات السكنية",
+      "answer": [
+        1
+      ],
+      "explanation": "استعمال حزام السلامة من قبل السائق والرّكاب إجباري خارج التجمعات السّكنية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_31.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_31.mp3",
+      "description": "شرب الخمر من طرف السائق",
+      "answer": [
+        2
+      ],
+      "explanation": "شرب الخمر هو من بين أحد الأسباب التي تؤدي إلى ضعف التّركيز وضعف التّركيز يؤدي إلى زيادة وقت رد الفعل، يعني السائق سوف يأخد وقت طويل عندما يريد أن يَتّخِدَ قرار على عكس سائق عادي لم يشرب الخمر فوقت رد الفعل عنده يكون عادي. وعندما يزيد وقت رد الفعل فهذا يؤدي إلى أرتفاع نسبة وقوع حوادث سير. مثال سائق شرب الخمر وفقد تركيزه في هذه الحالة لو كان يسير في الطّريق وأمامه عربة قامت بإستعمال الفرامل فجأة، فهذا السائق الذي شرب الخمر سوف يحتاج إلى وقت أطول لإستعاب الحالة وأن العربة التي أمامه توقّفت فجأة ولن يقوم بإستعمال الفرامل بسرعة وبالتالي سوف يصطدم بالعربة التي أمامه. إذن في هذه الحالة شرب الخمر من طرف السائق سوف يؤدي إلى زيادة وقت رد الفعل وبالتالي زيادة مخاطر وقوع حوادث سير.",
+      "optionGroups": [
+        {
+          "description": "تزيد من الوقت ديال رد الفعل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "تزيد من مخاطر وقوع الحوادث :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_32.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_32.mp3",
+      "description": "شرب الخمر",
+      "answer": [
+        1
+      ],
+      "explanation": "شرب الخمر هو من بين أحد الأسباب التي تؤدي إلى ضعف في العصب البصري  وهو يعني حدوث تدني تدريجي في حدة الإبصار في كلتا العينين مع حدوث ضعف في الإبصار الملون أو تمييز الألوان. كما أن شرب الخمر مسؤول عن تباطؤ عمل الدماغ، وكذلك إفراز عدد من المنشطات التي تؤدي إلى الإحساس بالهلوسة وفقدان الوعي، وبالتالي فقدان التركيز والإحساس بما حولنا، بما في ذلك الأصوات والأضواء وغير ذلك. إذن في هذه الحالة شرب الخمر يقلل من النظر وكذلك يؤدي شربه إلى عدم التّركيز.",
+      "optionGroups": [
+        {
+          "description": "كيقلل من الشوف",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "تينقص من القدرة على التركيز",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_33.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_33.mp3",
+      "description": "حصلت على رخصة السياقة هاذي ثلاث شهور . فهاد الطريق، السرعة ديالي محدودة ف",
+      "answer": [
+        2
+      ],
+      "explanation": "نتواجد في طريق سيار وهذا واضح من خلال العلامة الطّرقية الزرقاء الخاصة بالطّريق السّيار، والسرعة القصوى في الطريق السيّار هي 120 كلم في الساعة. لكن في هذه الحالة بما أنني حصلت على رخصة السياقة منذ 3 شهور فهذا يعني على أنني ما زلت في الفترة الاختبارية، وفي الفترة الاختبارية فإن سرعتي محدودة في سرعة 90 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "80 كلم فالساعة",
+            "90 كلم فالساعة",
+            "100 كلم فالساعة",
+            "120 كلم فالساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_34.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_34.mp3",
+      "description": "من الواجب علي نربط حزام السلامة إلا كنت سايق خارج التجمعات السكنية",
+      "answer": [
+        1
+      ],
+      "explanation": "إستعمال حزام السّلامة فهو واجب بالنسبة لسائق السيارة داخل وخارج التجمعات السّكنية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_35.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_35.mp3",
+      "description": "من الواجب على الاطفال يركبوا",
+      "answer": [
+        2
+      ],
+      "explanation": "الأطفال الذين تقل أعمارهم عن 10 سنوات،  يجب وضعهم في المقاعد الخلفية و تثبيتهم بحزام الأمن وفي حالة عدم وجود حزام الأمن يجب مراقبتهم بعدم فتح الأبواب و النوافذ.",
+      "optionGroups": [
+        {
+          "options": [
+            "في المقاعد الامامية للسيارة",
+            "في المقاعد الخلفية للسيارة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_36.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_36.mp3",
+      "description": "عاد شريت سيارة مستعملة",
+      "answer": [
+        1
+      ],
+      "explanation": "عندما أشتري سيارة مستعملة فمن الواجب عليّ تقديم طلب لتغيير الورقة الرّمادية التي تحمل اسم صاحب السيارة ومعلوماته إلى ورقة رمادية جديدة تحمل إسمي ومعلوماتي.",
+      "optionGroups": [
+        {
+          "options": [
+            "من الواجب علي نحتفظ بالورقة الرمادية ديال صاحب السيارة السابق",
+            "من الواجب علي نطلب ورقة رمادية جديدة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_37.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_37.mp3",
+      "description": "الضريبة الخصوصية على السيارات",
+      "answer": [
+        2
+      ],
+      "explanation": "في مدوّنة السّير الجديدة فلم يعد إجباري إلصاق ملصق الضّريبة على السيّارة على الزجاج الأمامي للسيّارة. (لأنه في الماضي كانت تؤدى الضّريبة على السيّارة فقط في دار الضّريبة وكان إلزامي إلصاق الضّريبة على الزجاج الأمامي للسيّارة، لكن الان يمكن تأديتها في البنوك أو مكاتب تسهيلات وسوف يحصل السائق فقط على وصل بأنه قام بالدفع ويجب على الساّئق الاحتفاظ به مع باقي أوراق السيّارة). إذن الجواب الصحيح هو رقم 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "خاصها تكون ملصقة على الزجاج الامامي للسيارة",
+            "من الواجب الاحتفاظ بها مع الاوراق الاخرين ديال السائق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_38.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_38.mp3",
+      "description": "رخصة السياقة من صنف ب (B) كتسمح لي نسوق عربة لنقل الاشخاص كتوفر زيادة على مقعد السائق على",
+      "answer": [
+        1
+      ],
+      "explanation": "رخصة السّياقة من صنف ب (B) تسمح للسائق بسياقة عربة لنقل الأشخاص بعدد مقاعد هو 8 مقاعد، إضافة للسائق.",
+      "optionGroups": [
+        {
+          "options": [
+            "8 ديال المقاعد",
+            "9 ديال المقاعد",
+            "10 ديال المقاعد"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_39.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_39.mp3",
+      "description": "عند وقوع اصطدام، حزام السلامة",
+      "answer": [
+        2
+      ],
+      "explanation": "حزام السلامة هو جهاز سلامة للمركبة مصمم لحماية الرّاكب من الأذى عند التصادم أو التوقف المفاجئ. تهدف أحزمة الأمان إلى تقليل الإصابات بإيقاف مرتديه من الاصطدام في الأجزاء القاسية من المركبة ويمنع الراكب من أن يُقذف خارج المركبة ويساعد في البقاء في حالة وعي. إذن في هذه الحالة عند وقوع اصطدام حزام السّلامة يمنع من الارتماء خارج العربة وكذلك حزام السّلامة يزيد من فرصة البقاء في حالة وعي.",
+      "optionGroups": [
+        {
+          "description": "كيمنع من الارتماء للخارج :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "كيزيد من فرصة البقاء فحالة الوعي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_91/quiz_91_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_91/quiz_s_91_40.mp3",
+      "mp3": "files/audio/quiz_91/quiz_s_91_40.mp3",
+      "description": "مسموح نتجاوز الحمولة القصوى لمشار ليها فشهادة التأمين",
+      "answer": [
+        1
+      ],
+      "explanation": "غير مسموح بتاتا بتجاوز الحمولة القانونية المشار إليها في شهادة التأمين حتى وإن كانت المسافة قصيرة.",
+      "optionGroups": [
+        {
+          "options": [
+            "لمسافة قصيرة",
+            "ما مسموحش به بالمرة"
+          ]
+        }
+      ]
+    }
+  ]
+}

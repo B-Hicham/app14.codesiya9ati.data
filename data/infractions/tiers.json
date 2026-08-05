@@ -1,0 +1,61 @@
+[
+  {
+    "id": "classe_1",
+    "order": 1,
+    "slug": "1ere-classe",
+    "label_fr": "1ère classe",
+    "label_ar": "الدرجة الأولى",
+    "description_fr": "Les infractions de première classe sont considérées comme faisant partie des dépassements les plus graves du Code de la route, passibles d'une amende de 700 DH. Ce montant peut être réduit à 400 DH en cas de paiement dans un délai de 24 heures, ou à 500 DH si le paiement est effectué sous 15 jours. Cette mesure vise à renforcer la sécurité routière et à inciter les conducteurs au respect du Code de la route afin d'éviter tout retrait de points.",
+    "description_ar": "تعتبر مخالفات الدرجة الأولى من أخطر التجاوزات التي تستوجب غرامة قدرها 700 درهم، مع إمكانية تخفيضها إلى 400 درهم في حال الأداء خلال 24 ساعة أو 500 درهم خلال 15 يوما. يهدف هذا الإجراء لتعزيز السلامة الطرقية وحث السائقين على احترام قانون السير لتجنب سحب النقاط.",
+    "fine": {
+      "amende_maximale_DH": 700,
+      "paiement_immediat_ou_24h_DH": 400,
+      "paiement_dans_15_jours_DH": 500,
+      "currency": "DH"
+    },
+    "color": "#FC6067"
+  },
+  {
+    "id": "classe_2",
+    "order": 2,
+    "slug": "2eme-classe",
+    "label_fr": "2ème classe",
+    "label_ar": "الدرجة الثانية",
+    "description_fr": "Les infractions de deuxième classe constituent une catégorie de gravité intermédiaire dans le Code de la route marocain, passible d'une amende de 500 DH. Le contrevenant peut bénéficier d'une réduction pour un paiement immédiat s'élevant à 300 DH dans les 24 heures, ou à 350 DH en cas de paiement effectué dans un délai de 15 jours.",
+    "description_ar": "تعتبر مخالفات الدرجة الثانية فئة متوسطة الخطورة في قانون السير المغربي، حيث تستوجب غرامة قدرها 500 درهم. يمكن للمخالف الاستفادة من تخفيض الأداء الفوري بـ 300 درهم خلال 24 ساعة، أو 350 درهم في حالة الأداء داخل أجل 15 يوماً.",
+    "fine": {
+      "amende_maximale_DH": 500,
+      "paiement_immediat_ou_24h_DH": 300,
+      "paiement_dans_15_jours_DH": 350,
+      "currency": "DH"
+    },
+    "color": "#FCB860"
+  },
+  {
+    "id": "classe_3",
+    "order": 3,
+    "slug": "3eme-classe",
+    "label_fr": "3ème classe",
+    "label_ar": "الدرجة الثالثة",
+    "description_fr": "Ces infractions sont classées parmi les catégories simples du Code de la route marocain, avec une valeur initiale de trois cents (300) DH. Le contrevenant peut bénéficier d'une réduction pour ne payer que cent cinquante (150) DH en cas de paiement immédiat ou dans les 24 heures, ou deux cents (200) DH si le paiement est effectué dans un délai de 15 jours.",
+    "description_ar": "تُصنف هذه المخالفات ضمن الفئات البسيطة في قانون السير المغربي، حيث تبلغ قيمتها الأصلية ثلاثمائة (300) درهم. يمكن للمخالف الاستفادة من تخفيض ليؤدي مائة وخمسين (150) درهماً فقط في حال الأداء الفوري أو خلال 24 ساعة، أو مائتي (200) درهم إذا تم الأداء داخل أجل 15 يوماً.",
+    "fine": {
+      "amende_maximale_DH": 300,
+      "paiement_immediat_ou_24h_DH": 150,
+      "paiement_dans_15_jours_DH": 200,
+      "currency": "DH"
+    },
+    "color": "#60C7FC"
+  },
+  {
+    "id": "delits",
+    "order": 4,
+    "slug": "delits",
+    "label_fr": "Délits",
+    "label_ar": "الجنح",
+    "description_fr": "Les délits routiers sont considérés comme les infractions les plus graves, car ils ne sont pas soumis au système des amendes transactionnelles et forfaitaires, mais sont directement portés devant la justice pour décision. Le juge prononce à l'encontre du contrevenant des sanctions pénales strictes pouvant inclure de lourdes amendes financières ou des peines privatives de liberté, en plus de la possibilité du retrait définitif du permis de conduire.",
+    "description_ar": "تعتبر الجنح السيرية من أشد المخالفات خطورة، حيث لا تخضع لنظام الغرامات التصالحية والجزافية، بل تُحال مباشرة على القضاء للبث فيها. ويصدر القاضي في حق المخالف عقوبات جنائية صارمة قد تشمل غرامات مالية ثقيلة أو عقوبات حبسية، بالإضافة إلى إمكانية سحب رخصة السياقة بشكل نهائي.",
+    "fine": null,
+    "color": "#7B61FF"
+  }
+]

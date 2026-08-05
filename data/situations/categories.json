@@ -1,0 +1,96 @@
+[
+  {
+    "id": "priority",
+    "label_fr": "Priorité et droit de passage",
+    "label_ar": "الأسبقية",
+    "count": 24,
+    "subcategories": [
+      {
+        "id": "priority.signs",
+        "label_fr": "Priorité par signalisation",
+        "label_ar": "الأسبقية بالإشارة",
+        "count": 11
+      },
+      {
+        "id": "priority.right",
+        "label_fr": "Priorité à droite",
+        "label_ar": "الأسبقية لليمين",
+        "count": 7
+      },
+      {
+        "id": "priority.special",
+        "label_fr": "Cas spéciaux",
+        "label_ar": "حالات خاصة",
+        "count": 3
+      },
+      {
+        "id": "priority.roundabout",
+        "label_fr": "Rond-point",
+        "label_ar": "الدورة الإجبارية",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "id": "overtaking",
+    "label_fr": "Dépassement et croisement",
+    "label_ar": "التجاوز و التقابل",
+    "count": 7,
+    "subcategories": [
+      {
+        "id": "overtaking.procedure",
+        "label_fr": "Procédure de dépassement",
+        "label_ar": "كيفية التجاوز",
+        "count": 5
+      },
+      {
+        "id": "overtaking.prohibited",
+        "label_fr": "Dépassement interdit",
+        "label_ar": "التجاوز الممنوع",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "parking",
+    "label_fr": "Arrêt et stationnement",
+    "label_ar": "الوقوف و التوقف",
+    "count": 2,
+    "subcategories": [
+      {
+        "id": "parking.rules",
+        "label_fr": "Règles de stationnement",
+        "label_ar": "قواعد الوقوف",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "maneuvering",
+    "label_fr": "Manoeuvres",
+    "label_ar": "المناورات",
+    "count": 2,
+    "subcategories": [
+      {
+        "id": "maneuvering.turns",
+        "label_fr": "Virages",
+        "label_ar": "المنعرجات",
+        "count": 2
+      }
+    ]
+  },
+  {
+    "id": "highway",
+    "label_fr": "Conduite sur autoroute",
+    "label_ar": "الطريق السيار",
+    "count": 1,
+    "subcategories": [
+      {
+        "id": "highway.entry_exit",
+        "label_fr": "Entrée et sortie",
+        "label_ar": "الدخول و الخروج",
+        "count": 1
+      }
+    ]
+  }
+]

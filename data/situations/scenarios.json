@@ -1,0 +1,608 @@
+[
+  {
+    "id": "maw_01",
+    "order": 1,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_01.jpg",
+    "title_fr": "Sortie de garage",
+    "title_ar": "الخروج من الكراج",
+    "prompt_fr": "La voiture qui sort du garage a-t-elle la priorité pour s'insérer immédiatement ?",
+    "prompt_ar": "واش السيارة اللي خارجة من الكراج عندها حق الأسبقية تندمج فالحين؟",
+    "explanation_fr": "Non, la voiture qui sort du garage doit s'arrêter et laisser passer les véhicules venant de droite et de gauche, car c'est elle qui s'insère sur la chaussée principale.",
+    "explanation_ar": "لا، السيارة اللي خارجة من الكراج خاصها توقف وتسمح بالمرور للي جايين من اليمن واليسر حيت هي اللي غادة تندمج فالطريق الرئيسية.",
+    "category": "priority",
+    "subcategory": "priority.special",
+    "tags": [
+      "garage-exit"
+    ]
+  },
+  {
+    "id": "maw_02",
+    "order": 2,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_02.jpg",
+    "title_fr": "Dépassement sur ligne discontinue",
+    "title_ar": "التجاوز في خط متقطع",
+    "prompt_fr": "La voiture bleue est-elle autorisée à dépasser la voiture rouge ?",
+    "prompt_ar": "واش السيارة الزرقاء مسموح ليها تتجاوز السيارة الحمراء؟",
+    "explanation_fr": "Oui, la voiture bleue est autorisée à dépasser car la ligne au milieu de la chaussée est discontinue et non continue.",
+    "explanation_ar": "نعم، مسموح للسيارة الزرقاء تتجاوز حيت الخط لي فوسط الطريق متقطع وماشي متصل.",
+    "category": "overtaking",
+    "subcategory": "overtaking.procedure",
+    "tags": [
+      "dashed-line"
+    ]
+  },
+  {
+    "id": "maw_03",
+    "order": 3,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_03.jpg",
+    "title_fr": "Dépassement sur ligne continue",
+    "title_ar": "التجاوز في خط متصل",
+    "prompt_fr": "La voiture blanche est-elle autorisée à dépasser la voiture verte dans cette situation ?",
+    "prompt_ar": "واش مسموح للسيارة البيضاء تجاوز السيارة الخضراء فهاد الحالة؟",
+    "explanation_fr": "Non, le dépassement est interdit car il y a une ligne continue, et la ligne continue est considérée comme un mur qu'il est interdit de franchir.",
+    "explanation_ar": "لا، التجاوز ممنوع حيت كاين خط متصل، والخط المتصل كيتعتبر بمثابة جدار ممنوع نتخطاوه.",
+    "category": "overtaking",
+    "subcategory": "overtaking.prohibited",
+    "tags": [
+      "solid-line"
+    ]
+  },
+  {
+    "id": "maw_04",
+    "order": 4,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_04.jpg",
+    "title_fr": "Dépassement avec lignes doubles",
+    "title_ar": "التجاوز مع خطوط مزدوجة",
+    "prompt_fr": "La voiture bleue est-elle autorisée à dépasser la voiture rouge dans cette situation ?",
+    "prompt_ar": "واش السيارة الزرقاء مسموح ليها تتجاوز السيارة الحمراء فهاد الحالة؟",
+    "explanation_fr": "Non, il lui est interdit de dépasser car la ligne située de son côté est continue, même si la ligne de l'autre côté est discontinue.",
+    "explanation_ar": "لا، ممنوع عليها التجاوز حيت الخط لي من جيهتها متصل، واخا الخط لي من الجيهة الأخرى متقطع.",
+    "category": "overtaking",
+    "subcategory": "overtaking.prohibited",
+    "tags": [
+      "solid-line",
+      "dashed-line"
+    ]
+  },
+  {
+    "id": "maw_05",
+    "order": 5,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_05.jpg",
+    "title_fr": "Dépassement avec ligne double",
+    "title_ar": "التجاوز مع خط مزدوج",
+    "prompt_fr": "La voiture jaune est-elle autorisée à dépasser la voiture bleue dans cette situation ?",
+    "prompt_ar": "واش السيارة الصفراء مسموح ليها تجاوز السيارة الزرقاء فهاد الحالة؟",
+    "explanation_fr": "Oui, elle est autorisée car la ligne située de son côté est discontinue, même si la ligne de l'autre côté est continue.",
+    "explanation_ar": "نعم، مسموح ليها حيت الخط اللي من جيهتها متقطع، واخا الخط اللي من الجيهة الأخرى متصل.",
+    "category": "overtaking",
+    "subcategory": "overtaking.procedure",
+    "tags": [
+      "dashed-line",
+      "solid-line"
+    ]
+  },
+  {
+    "id": "maw_06",
+    "order": 6,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_06.jpg",
+    "title_fr": "Dépassement multiple sur autoroute",
+    "title_ar": "تجاوز عدة عربات في الطريق السيار",
+    "prompt_fr": "Est-il autorisé de dépasser ces deux voitures en même temps sur cette chaussée ?",
+    "prompt_ar": "واش مسموح ليا نتجاوز هاد السيارات بجوج فمرة وحدة فهاد الطريق؟",
+    "explanation_fr": "Oui, c'est autorisé, car lorsqu'il s'agit d'une route à sens unique comme l'autoroute, il est possible de dépasser plus d'un véhicule à la fois.",
+    "explanation_ar": "إيه مسموح، حيت فاش كتكون الطريق ذات اتجاه واحد بحال الطريق السيار، يمكن ليك تجاوز كتر من عربة فدقة وحدة.",
+    "category": "overtaking",
+    "subcategory": "overtaking.procedure",
+    "tags": [
+      "highway"
+    ]
+  },
+  {
+    "id": "maw_07",
+    "order": 7,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_07.jpg",
+    "title_fr": "Dépassement sur chaussée à double sens",
+    "title_ar": "التجاوز في طريق ذو اتجاهين",
+    "prompt_fr": "La voiture rouge et la voiture bleue sont-elles autorisées à dépasser en même temps sur cette chaussée ?",
+    "prompt_ar": "واش مسموح للسيارة الحمراء والزرقاء يتجاوزو في نفس الوقت فهاد الطريق؟",
+    "explanation_fr": "Oui, elles sont toutes les deux autorisées car la chaussée dispose de deux voies dans le même sens, la ligne est discontinue et il n'y a aucun danger venant de l'avant.",
+    "explanation_ar": "إيه، مسموح ليهم بجوج حيت الطريق فيها جوج مسالك في نفس الاتجاه والخط متقطع، وما كاين حتى خطر جاي من القدام.",
+    "category": "overtaking",
+    "subcategory": "overtaking.procedure",
+    "tags": [
+      "dashed-line"
+    ]
+  },
+  {
+    "id": "maw_08",
+    "order": 8,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_08.jpg",
+    "title_fr": "Stationnement hors chaussée",
+    "title_ar": "التوقف خارج قارعة الطريق",
+    "prompt_fr": "La voiture rouge est-elle stationnée dans une position correcte ?",
+    "prompt_ar": "واش السيارة الحمراء واقفة فوضعية صحيحة؟",
+    "explanation_fr": "Oui, la voiture rouge est bien stationnée car elle est complètement sortie de la chaussée et ne gêne pas le trafic.",
+    "explanation_ar": "إيه، السيارة الحمراء واقفة مزيان حيت خرجات من الطريق تماماً ومكتعرقلش حركة السير.",
+    "category": "parking",
+    "subcategory": "parking.rules",
+    "tags": []
+  },
+  {
+    "id": "maw_09",
+    "order": 9,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_09.jpg",
+    "title_fr": "Position d'arrêt correcte",
+    "title_ar": "طريقة الوقوف الصحيحة",
+    "prompt_fr": "La voiture jaune est-elle stationnée dans une position correcte ?",
+    "prompt_ar": "واش السيارة الصفراء واقفة فوضعية صحيحة؟",
+    "explanation_fr": "Non, la voiture jaune n'est pas bien arrêtée. Elle doit dégager la chaussée complètement pour ne pas gêner le trafic et laisser la voie libre pour les autres véhicules qui circulent.",
+    "explanation_ar": "لا، السيارة الصفراء ماواقفاش مزيان. خاصها تخرج من الطريق بشكل كامل باش ماتعرقلش حركة السير وتخلي الطريق خاوية للطوموبيلات اللي دايزين.",
+    "category": "parking",
+    "subcategory": "parking.rules",
+    "tags": []
+  },
+  {
+    "id": "maw_10",
+    "order": 10,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_10.jpg",
+    "title_fr": "Priorité en montée",
+    "title_ar": "الأسبقية في العقبة",
+    "prompt_fr": "Dans cette montée, qui doit céder le passage à l'autre ?",
+    "prompt_ar": "فهاد العقبة، شكون لي خاصو يعطي حق الأسبقية للآخر؟",
+    "explanation_fr": "Le véhicule qui monte doit céder le passage, car l'arrêt ou la marche arrière est plus facile pour lui par rapport au véhicule qui descend.",
+    "explanation_ar": "العربة لي طالعة هي لي خاصها تعطي الطريق، حيت التراجع أو الوقوف كيكون أسهل عليها مقارنة مع العربة لي هابطة.",
+    "category": "priority",
+    "subcategory": "priority.special",
+    "tags": [
+      "hill"
+    ]
+  },
+  {
+    "id": "maw_11",
+    "order": 11,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_11.jpg",
+    "title_fr": "Positionnement à l'intersection",
+    "title_ar": "التموضع في ملتقى الطرق",
+    "prompt_fr": "Ces deux voitures occupent-elles la voie appropriée pour tourner ?",
+    "prompt_ar": "واش هاد السيارات بجوج شادين المسلك المناسب باش يدورو؟",
+    "explanation_fr": "Oui, les deux voitures sont dans la bonne voie : celle qui va tourner à droite serre à droite, et celle qui va tourner à gauche serre à gauche.",
+    "explanation_ar": "إيه، السيارات بجوج فالمسلك الصحيح: اللي غاتدور على اليمين شادة اليمين، واللي غاتدور على اليسار شادة اليسار.",
+    "category": "maneuvering",
+    "subcategory": "maneuvering.turns",
+    "tags": [
+      "intersection"
+    ]
+  },
+  {
+    "id": "maw_12",
+    "order": 12,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_12.jpg",
+    "title_fr": "Positionnement dans les voies au virage",
+    "title_ar": "التموضع في المسالك عند المنعرج",
+    "prompt_fr": "Ces voitures sont-elles dans la voie appropriée pour changer de direction ?",
+    "prompt_ar": "واش هاد السيارات في المسلك المناسب باش يغيروا الاتجاه؟",
+    "explanation_fr": "Non, les deux voitures sont dans la mauvaise voie. Celle qui veut tourner à droite doit serrer à droite, et celle qui veut tourner à gauche doit serrer à gauche.",
+    "explanation_ar": "لا، السيارات بجوج في المسلك غير المناسب. اللي بغا يدور على اليمين خاصو يشد اليمين، واللي بغا يدور على اليسار خاصو يشد اليسار.",
+    "category": "maneuvering",
+    "subcategory": "maneuvering.turns",
+    "tags": [
+      "intersection"
+    ]
+  },
+  {
+    "id": "maw_13",
+    "order": 13,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_13.jpg",
+    "title_fr": "Priorité en carrefour",
+    "title_ar": "الأسبقية في ملتقى طرق",
+    "prompt_fr": "Qui a la priorité à ce carrefour, la voiture rouge ou la voiture jaune ?",
+    "prompt_ar": "شكون عندو حق الأسبقية فهاد ملتقى الطرق، السيارة الحمراء ولا السيارة الصفراء؟",
+    "explanation_fr": "La voiture rouge a la priorité car elle se trouve à la droite de la voiture jaune, et en l'absence de signalisation, on applique la règle de la priorité à droite.",
+    "explanation_ar": "السيارة الحمراء هي اللي عندها حق الأسبقية حيت هي اللي كاينة في اليمين ديال السيارة الصفراء، وفي غياب العلامات كنطبقو قاعدة اليمين.",
+    "category": "priority",
+    "subcategory": "priority.right",
+    "tags": [
+      "intersection"
+    ]
+  },
+  {
+    "id": "maw_14",
+    "order": 14,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_14.jpg",
+    "title_fr": "Priorité à droite au carrefour",
+    "title_ar": "أسبقية اليمين في ملتقى طرق",
+    "prompt_fr": "À ce carrefour, la voiture bleue a-t-elle la priorité pour passer en premier ?",
+    "prompt_ar": "فهاد ملتقى الطرق، واش السيارة الزرقاء هي اللي عندها حق الأسبقية باش تدوز اللولة؟",
+    "explanation_fr": "Non, c'est le camion qui a la priorité car il se trouve à la droite de la voiture bleue, et dans un carrefour sans signalisation, la priorité revient toujours à droite.",
+    "explanation_ar": "لا، الشاحنة هي اللي عندها حق الأسبقية حيت هي اللي كاينة في اليمين ديال السيارة الزرقاء، وفملتقى طرق بلا علامات الأسبقية ديما لليمين.",
+    "category": "priority",
+    "subcategory": "priority.right",
+    "tags": [
+      "intersection",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_15",
+    "order": 15,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_15.jpg",
+    "title_fr": "Ordre de passage au carrefour",
+    "title_ar": "ترتيب المرور في ملتقى طرق",
+    "prompt_fr": "Quel est l'ordre de passage de ces véhicules à ce carrefour ?",
+    "prompt_ar": "شنو هو ترتيب المرور ديال هاد العربات فهاد ملتقى الطرق؟",
+    "explanation_fr": "La voiture bleue passe en premier car elle a la priorité. Ensuite, le camion passe car il se trouve à la droite de la voiture rouge, et enfin, la voiture rouge passe en dernier.",
+    "explanation_ar": "السيارة الزرقاء كتدوز هي اللولة حيت عندها حق الأسبقية. من بعد كتدوز الشاحنة حيت هي اللي فليمن ديال السيارة الحمراء، وفاللخر كتدوز السيارة الحمراء.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "truck",
+      "yield-sign"
+    ]
+  },
+  {
+    "id": "maw_16",
+    "order": 16,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_16.jpg",
+    "title_fr": "Carrefour sans signalisation",
+    "title_ar": "ملتقى طرق بدون علامات",
+    "prompt_fr": "Dans ce carrefour sans aucun panneau, qui a la priorité pour passer en premier ?",
+    "prompt_ar": "فهاد ملتقى الطرق اللي ما فيه حتى علامة، شكون اللي عندو حق الأسبقية باش يدوز اللول؟",
+    "explanation_fr": "Lorsqu'un carrefour ne comporte aucune signalisation, on applique la règle de la priorité à droite. Le camion s'avance d'abord jusqu'au milieu de l'intersection, puis la voiture rouge passe car sa droite est désormais libre, suivie de la voiture jaune, et enfin le camion termine sa manœuvre.",
+    "explanation_ar": "فاش كيكون ملتقى طرق بلا علامات، كنطبقو قاعدة الأسبقية لليمين. الشاحنة كتقدم لوسط الطريق، من بعد كتدوز السيارة الحمراء حيت ليمين ديالها خوى، تبعها الصفراء، وفالأخير كتكمل الشاحنة طريقها.",
+    "category": "priority",
+    "subcategory": "priority.right",
+    "tags": [
+      "intersection",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_17",
+    "order": 17,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_17.jpg",
+    "title_fr": "Carrefour sans signalisation",
+    "title_ar": "ملتقى طرق بدون علامات",
+    "prompt_fr": "Dans ce carrefour, qui a la priorité pour passer en premier ?",
+    "prompt_ar": "فهاد ملتقى الطرق، شكون اللي عندو حق الأسبقية باش يدوز الأول؟",
+    "explanation_fr": "Puisqu'il n'y a aucune signalisation dans ce carrefour, on applique la règle de la priorité à droite. Le camion passera en premier car sa droite est libre, suivi de la voiture jaune, et enfin la voiture rouge.",
+    "explanation_ar": "بما أن ملتقى الطرق ما فيه حتى علامة، كنطبقو قاعدة الأسبقية لليمين. الشاحنة غادوز هي الأولى حيت اليمين ديالها خاوي، موراها السيارة الصفراء، وفالأخير السيارة الحمراء.",
+    "category": "priority",
+    "subcategory": "priority.right",
+    "tags": [
+      "intersection",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_18",
+    "order": 18,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_18.jpg",
+    "title_fr": "Carrefour sans signalisation",
+    "title_ar": "ملتقى طرق بدون علامات",
+    "prompt_fr": "Dans ce carrefour sans aucun panneau, qui a la priorité et dans quel ordre les véhicules vont-ils passer ?",
+    "prompt_ar": "فهاد ملتقى الطرق اللي ما فيه حتى علامة، شكون اللي عندو حق الأسبقية وبأي ترتيب غادي يدوزو؟",
+    "explanation_fr": "Puisque le carrefour ne comporte aucune signalisation, on applique la règle de la priorité à droite. La voiture bleue passera en premier, suivie de la voiture orange, puis de la voiture verte, et enfin le camion.",
+    "explanation_ar": "بما أن الملتقى ما فيه حتى علامة، كنطبقو قاعدة الأسبقية لليمين. غتدوز السيارة الزرقاء هي الأولى، تبعها البرتقالية، ثم الخضراء، وفالأخير الشاحنة.",
+    "category": "priority",
+    "subcategory": "priority.right",
+    "tags": [
+      "intersection",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_19",
+    "order": 19,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_19.jpg",
+    "title_fr": "Priorité au carrefour",
+    "title_ar": "الأسبقية في ملتقى طرق",
+    "prompt_fr": "Qui a la priorité de passage à ce carrefour ?",
+    "prompt_ar": "شكون عندو حق الأسبقية يدوز اللول فهاد ملتقى الطرق؟",
+    "explanation_fr": "La voiture jaune et la voiture rouge passent en premier car elles circulent sur la route principale, tandis que la voiture bleue rencontre un panneau de cédez le passage et doit attendre que la chaussée soit libre.",
+    "explanation_ar": "السيارة الصفراء والحمراء هما اللي كيدوزو اللولين حيت هما في الطريق الرئيسية، أما السيارة الزرقاء عندها علامة إعطاء حق الأسبقية وخصها تسنى حتى تخوى الطريق.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "yield-sign"
+    ]
+  },
+  {
+    "id": "maw_20",
+    "order": 20,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_20.jpg",
+    "title_fr": "Priorité de passage à l'intersection",
+    "title_ar": "أسبقية المرور في ملتقى الطرق",
+    "prompt_fr": "Dans cette intersection, qui a le droit de priorité pour passer en premier ?",
+    "prompt_ar": "فهاد ملتقى الطرق، شكون اللي عندو حق الأسبقية باش يدوز الأول؟",
+    "explanation_fr": "Le véhicule de police passe en premier car il est prioritaire. Ensuite, c'est au tour de celui dont la droite est libre. La voiture blanche s'engage au milieu de la chaussée et s'arrête, la voiture verte et le bus passent, et enfin la voiture blanche termine son chemin.",
+    "explanation_ar": "سيارة الشرطة هي اللي كدوز اللولة حيت عندها الأولوية، من بعد كيدوز اللي اليمين ديالو خاوي. السيارة البيضاء كتعمر وسط الطريق وتوقف، كدوز السيارة الخضراء والحافلة، وفالأخير كتكمل السيارة البيضاء طريقها.",
+    "category": "priority",
+    "subcategory": "priority.right",
+    "tags": [
+      "intersection"
+    ]
+  },
+  {
+    "id": "maw_21",
+    "order": 21,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_21.jpg",
+    "title_fr": "Ordre de passage à l'intersection",
+    "title_ar": "ترتيب المرور في ملتقى الطرق",
+    "prompt_fr": "Dans cette intersection, quel véhicule a la priorité pour passer en premier ?",
+    "prompt_ar": "فهاد ملتقى الطرق، شكون هي السيارة اللي عندها حق الأسبقية باش دوز الأولى؟",
+    "explanation_fr": "Le camion passera en premier car le véhicule vert a un panneau Stop, ensuite passera le véhicule bleu puis le jaune, et enfin le véhicule vert car il doit marquer l'arrêt et céder le passage à tous les autres.",
+    "explanation_ar": "الشاحنة هي اللي غاتدوز الأولى حيت السيارة الخضراء عندها علامة قف، من بعد غاتدوز الزرقاء ثم الصفراء، وفالأخير عاد دوز الخضراء حيت خاصها توقف وتسمح للكل بالمرور.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "stop-sign",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_22",
+    "order": 22,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_22.jpg",
+    "title_fr": "Priorité à l'intersection avec panneaux",
+    "title_ar": "الأسبقية في ملتقى الطرق بالعلامات",
+    "prompt_fr": "Dans cette intersection, qui a la priorité pour passer en premier ?",
+    "prompt_ar": "فهاد ملتقى الطرق، شكون اللي عندو حق الأسبقية باش يدوز اللول؟",
+    "explanation_fr": "La voiture jaune et la voiture bleue passent en premier car elles circulent sur une route prioritaire, tandis que la voiture verte et le camion rencontrent un panneau cédez le passage et doivent attendre.",
+    "explanation_ar": "السيارة الصفراء والزرقاء هما اللي كيدوزو اللولين حيت عندهم علامة طريق ذات أولوية، أما السيارة الخضراء والشاحنة عندهم علامة إعطاء حق الأسبقية وخصهم يتسناو.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "yield-sign",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_23",
+    "order": 23,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_23.jpg",
+    "title_fr": "Priorité à l'intersection avec véhicule de police",
+    "title_ar": "الأسبقية في ملتقى الطرق مع سيارة شرطة",
+    "prompt_fr": "Dans cette intersection, qui a le droit de priorité pour passer en premier ?",
+    "prompt_ar": "فهاد ملتقى الطرق، شكون اللي عندو حق الأسبقية باش يدوز اللول؟",
+    "explanation_fr": "Le véhicule de police passe en premier car il est prioritaire. Ensuite, on applique la règle de la priorité à droite : la voiture rouge passe en deuxième, suivie de la voiture verte, et enfin le camion.",
+    "explanation_ar": "سيارة الشرطة هي اللي كتدوز اللولة حيت عندها الأولوية، من بعد كيدوز اللي اليمين ديالو خاوي. السيارة الحمراء كتدوز هي الثانية، تبعها الخضراء، وفالأخير الشاحنة.",
+    "category": "priority",
+    "subcategory": "priority.right",
+    "tags": [
+      "intersection",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_24",
+    "order": 24,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_24.jpg",
+    "title_fr": "Priorité à une intersection avec feux",
+    "title_ar": "الأسبقية في ملتقى بالتشوير الضوئي",
+    "prompt_fr": "Quels véhicules ont le droit de passer à cette intersection ?",
+    "prompt_ar": "شكون هما العربات اللي عندهم الحق يدوزو فهاد ملتقى الطرق؟",
+    "explanation_fr": "Le camion et la voiture bleue ont le droit de passer car ils ont le feu vert, tandis que la voiture jaune et la voiture rouge doivent s'arrêter car elles ont le feu rouge.",
+    "explanation_ar": "الشاحنة والسيارة الزرقاء عندهم الحق يدوزو حيت عندهم الضوء الأخضر، أما السيارة الصفراء والحمراء خاصهم يوقفو حيت عندهم الضوء الأحمر.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "traffic-light",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_25",
+    "order": 25,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_25.jpg",
+    "title_fr": "Intersection avec feu et panneau Stop",
+    "title_ar": "ملتقى الطرق بالضوء وعلامة قف",
+    "prompt_fr": "Si le feu tricolore est fonctionnel, devez-vous marquer l'arrêt au panneau Stop ?",
+    "prompt_ar": "إلى كان الضوء خدام، واش خاصني نوقف عند علامة قف؟",
+    "explanation_fr": "Non, lorsque le feu fonctionne, il annule l'effet du panneau Stop. Cependant, si le feu est éteint ou en panne, il faut alors appliquer la règle du panneau Stop.",
+    "explanation_ar": "لا، فاش كيكون الضوء خدام كيتلغى مفعول علامة قف. ولكن إلى كان الضوء طافي أو مخدامش، ديك ساعة كنرجعو نطبقو علامة قف.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "traffic-light",
+      "stop-sign"
+    ]
+  },
+  {
+    "id": "maw_26",
+    "order": 26,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_26.jpg",
+    "title_fr": "Intersection avec feu et signalisation",
+    "title_ar": "ملتقى الطرق بالضوء والعلامة",
+    "prompt_fr": "Si le feu tricolore est fonctionnel, dois-je appliquer la règle du panneau Cédez le passage ?",
+    "prompt_ar": "إلى كان الضوء خدام، واش خاصني نطبق القاعدة ديال علامة إعطاء حق الأسبقية؟",
+    "explanation_fr": "Non, lorsque le feu fonctionne, il annule l'effet du panneau de signalisation. Le panneau n'est pris en compte que si le feu est éteint ou en panne.",
+    "explanation_ar": "لا، فاش كيكون الضوء خدام كيتلغى مفعول العلامة. العلامة كنخدمو بها غير إلا كان الضوء طافي أو مخدامش.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "traffic-light",
+      "yield-sign"
+    ]
+  },
+  {
+    "id": "maw_27",
+    "order": 27,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_27.jpg",
+    "title_fr": "Intersection avec agent de police",
+    "title_ar": "ملتقى الطرق مع شرطي المرور",
+    "prompt_fr": "À cette intersection, qui a le droit de passer immédiatement ?",
+    "prompt_ar": "فهاد ملتقى الطرق، شكون اللي عندو الحق يدوز دابا؟",
+    "explanation_fr": "La voiture jaune et le camion ont le droit de passer car l'agent de police leur fait signe de profil. En revanche, la voiture verte et la voiture rouge doivent attendre car l'agent leur fait face ou leur tourne le dos.",
+    "explanation_ar": "السيارة الصفراء والشاحنة هما اللي عندهم الحق يدوزو حيت الشرطي عاطيهم بالجنب، أما السيارة الخضراء والحمراء خاصهم يتسناو حيت الشرطي عاطيهم بالصدر والظهر.",
+    "category": "priority",
+    "subcategory": "priority.special",
+    "tags": [
+      "intersection",
+      "police-officer",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_28",
+    "order": 28,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_28.jpg",
+    "title_fr": "Intersection avec agent de police",
+    "title_ar": "ملتقى الطرق مع شرطي المرور",
+    "prompt_fr": "Qui a la priorité de passage à cette intersection ?",
+    "prompt_ar": "فهاد ملتقى الطرق، شكون اللي عندو حق الأسبقية باش يدوز؟",
+    "explanation_fr": "Le véhicule bleu et le véhicule vert ont la priorité car l'agent de police leur fait signe de passer par le profil (côté). Même s'il y a un feu vert, les ordres de l'agent de police annulent et remplacent la signalisation lumineuse.",
+    "explanation_ar": "السيارة الزرقاء والخضراء هما اللي عندهم الحق يدوزو حيت الشرطي عاطيهم بالجنب، واخا كاين الضوء الأخضر راه إشارات الشرطي هي اللي كتلغي الأضواء.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "police-officer",
+      "traffic-light",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_29",
+    "order": 29,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_29.jpg",
+    "title_fr": "Carrefour avec feux et panneau Stop",
+    "title_ar": "ملتقى طرق بالضوء وعلامة قف",
+    "prompt_fr": "Dans ce carrefour, quel est l'ordre de passage de ces véhicules ?",
+    "prompt_ar": "فهاد ملتقى الطرق، شنو هو ترتيب المرور ديال هاد العربات؟",
+    "explanation_fr": "Le camion passe en premier car il a le feu vert. La voiture rouge doit s'arrêter car elle a le feu rouge, et la voiture jaune doit s'arrêter car elle rencontre un panneau Stop.",
+    "explanation_ar": "الكاميو هو اللي كيدوز الأول حيت عندو الضوء الأخضر. السيارة الحمراء خاصها توقف حيت عندها الضوء الأحمر، والسيارة الصفراء خاصها توقف حيت عندها علامة قف.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "traffic-light",
+      "stop-sign",
+      "truck"
+    ]
+  },
+  {
+    "id": "maw_30",
+    "order": 30,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_30.jpg",
+    "title_fr": "Intersection avec feux tricolores",
+    "title_ar": "ملتقى الطرق بالتشوير الضوئي",
+    "prompt_fr": "La voiture jaune est-elle autorisée à continuer tout droit tandis que la voiture rouge doit s'arrêter ?",
+    "prompt_ar": "واش السيارة الصفراء مسموح ليها تكمل السير للقدام والسيارة الحمراء خاصها توقف؟",
+    "explanation_fr": "Oui, la voiture jaune a le feu vert allumé pour la flèche pointant vers l'avant, ce qui signifie qu'elle est autorisée à passer. En revanche, la voiture rouge a un feu rouge et doit obligatoirement s'arrêter.",
+    "explanation_ar": "إيه، السيارة الصفراء عندها الضوء الأخضر شاعل للسهم اللي كيشوف للقدام، يعني مسموح ليها دوز. أما السيارة الحمراء عندها الضوء الأحمر وخاصها توقف.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "traffic-light"
+    ]
+  },
+  {
+    "id": "maw_31",
+    "order": 31,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_31.jpg",
+    "title_fr": "Priorité au rond-point sans signalisation",
+    "title_ar": "الأسبقية في مدار بدون علامات",
+    "prompt_fr": "Dans ce rond-point sans aucun panneau, quel est l'ordre de passage des véhicules ?",
+    "prompt_ar": "فهاد المدار (الرومبوان) اللي ما فيه حتى علامة، شنو هو ترتيب مرور السيارات؟",
+    "explanation_fr": "Puisque le rond-point ne comporte aucune signalisation, on applique la règle de la priorité à droite. Le véhicule jaune passe en premier car sa droite est libre, suivi du véhicule vert, puis du rouge, puis du blanc, et enfin le véhicule bleu passe en dernier.",
+    "explanation_ar": "بما أن المدار ما فيه حتى علامة، كنطبقو قاعدة الأسبقية لليمن. السيارة الصفراء غدوز هي الأولى حيت يمنها خاوي، موراها الخضراء، ثم الحمراء، ثم البيضاء، والسيارة الزرقاء هي الأخيرة.",
+    "category": "priority",
+    "subcategory": "priority.roundabout",
+    "tags": [
+      "roundabout",
+      "intersection"
+    ]
+  },
+  {
+    "id": "maw_32",
+    "order": 32,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_32.jpg",
+    "title_fr": "Priorité au rond-point avec panneau Stop",
+    "title_ar": "الأسبقية في مدار مع علامة قف",
+    "prompt_fr": "Dans ce rond-point, quels sont les véhicules qui ont la priorité pour passer en premier ?",
+    "prompt_ar": "فهاد المدار، شكون هي السيارات اللي عندها حق الأسبقية باش دوز اللولة؟",
+    "explanation_fr": "La voiture blanche et la voiture jaune passeront en premier car le véhicule à leur droite rencontre un panneau Stop ; elles seront suivies par la voiture verte, puis la voiture bleue, et enfin le camion.",
+    "explanation_ar": "السيارة البيضاء والصفراء هما اللي غايدوزوا اللولين حيت اليمين ديالهم فيه علامة قف، من بعد تبعهم الخضراء، عاد الزرقاء، وفالأخير الشاحنة.",
+    "category": "priority",
+    "subcategory": "priority.roundabout",
+    "tags": [
+      "roundabout",
+      "stop-sign",
+      "truck",
+      "intersection"
+    ]
+  },
+  {
+    "id": "maw_33",
+    "order": 33,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_33.jpg",
+    "title_fr": "Priorité au rond-point avec signalisation",
+    "title_ar": "الأسبقية في المدار مع علامة",
+    "prompt_fr": "Dans ce rond-point, qui a la priorité, la voiture bleue ou la voiture blanche ?",
+    "prompt_ar": "فهاد المدار، شكون اللي عندو حق الأسبقية، السيارة الزرقاء ولا السيارة البيضاء؟",
+    "explanation_fr": "La voiture bleue passera en premier car elle est déjà engagée dans le rond-point, et le panneau de cédez le passage oblige la voiture blanche à se préparer et à laisser passer le véhicule qui circule déjà à l'intérieur.",
+    "explanation_ar": "السيارة الزرقاء هي اللي غاتدوز الأولى حيت هي اللي دخلات للمدار الأول، وعلامة إعطاء حق الأسبقية كتفرض على السيارة البيضاء توجد راسها وتسمح للي داخل المدار يدوز.",
+    "category": "priority",
+    "subcategory": "priority.roundabout",
+    "tags": [
+      "roundabout",
+      "yield-sign"
+    ]
+  },
+  {
+    "id": "maw_34",
+    "order": 34,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_34.jpg",
+    "title_fr": "Priorité aux piétons à l'intersection",
+    "title_ar": "أسبقية الراجلين في ملتقى الطرق",
+    "prompt_fr": "La voiture bleue peut-elle continuer sa route immédiatement ou doit-elle attendre ?",
+    "prompt_ar": "واش السيارة الزرقاء يمكن ليها تكمل طريقها دابا ولا خاصها تسنى؟",
+    "explanation_fr": "La voiture bleue doit céder le passage aux piétons qui ont commencé à traverser la chaussée même si son feu est vert, et la voiture rouge doit s'arrêter car son feu est rouge.",
+    "explanation_ar": "السيارة الزرقاء خاصها تعطي حق الأسبقية للراجلين اللي بداو كيقطعو الطريق واخا عندها الضوء أخضر، والسيارة الحمراء خاصها توقف حيت عندها الضوء أحمر.",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection",
+      "pedestrian",
+      "traffic-light"
+    ]
+  },
+  {
+    "id": "maw_35",
+    "order": 35,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_35.jpg",
+    "title_fr": "Dépassement par la droite",
+    "title_ar": "التجاوز من جهة اليمين",
+    "prompt_fr": "La voiture bleue a-t-elle le droit de dépasser la voiture verte par la droite ?",
+    "prompt_ar": "واش السيارة الزرقاء عندها الحق تتجاوز السيارة الخضراء من اليمين؟",
+    "explanation_fr": "Oui, le dépassement par la droite est autorisé dans un seul cas : lorsque le véhicule qui vous précède a actionné son clignotant pour tourner à gauche.",
+    "explanation_ar": "إيه، مسموح التجاوز من اليمين في حالة وحدة وهي إلا كانت السيارة اللي قدامك دايرة السينيال باش تدور على اليسر.",
+    "category": "overtaking",
+    "subcategory": "overtaking.procedure",
+    "tags": []
+  },
+  {
+    "id": "maw_36",
+    "order": 36,
+    "image": "https://assets.conduire.ma/mawaqif/images/maw_36.jpg",
+    "title_fr": "Insertion sur autoroute",
+    "title_ar": "الاندماج في الطريق السيار",
+    "prompt_fr": "Le véhicule bleu doit-il céder le passage au véhicule vert pour s'insérer sur l'autoroute ?",
+    "prompt_ar": "واش السيارة الزرقاء خاصها تعطي حق الأسبقية للسيارة الخضراء باش تندمج في الطريق السيار؟",
+    "explanation_fr": "Oui, le véhicule bleu doit ralentir, serrer à droite et céder la priorité au véhicule vert qui circule déjà sur l'autoroute avant de s'insérer.",
+    "explanation_ar": "إيه، السيارة الزرقاء خاصها تنقص من السرعة وتشد اليمين وتعطي الأسبقية للسيارة الخضراء اللي ديجا كاينة في الطريق السيار عاد تندمج.",
+    "category": "highway",
+    "subcategory": "highway.entry_exit",
+    "tags": [
+      "highway"
+    ]
+  }
+]

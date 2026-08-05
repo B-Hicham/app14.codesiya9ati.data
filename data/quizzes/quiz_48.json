@@ -1,0 +1,818 @@
+{
+  "id": 48,
+  "title": "Quiz 48",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_1.jpg",
+  "source": "siya9ati_v2",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_1.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_1.mp3",
+      "description": "هاد العلامة كتعني ان",
+      "answer": [
+        3
+      ],
+      "explanation": "العلامة تعني الخطر، وهي تعني انه ممر خاص بالراجلين.",
+      "optionGroups": [
+        {
+          "options": [
+            "المكان كيستعملوه الاطفال",
+            "ممر ممنوع على اللي كيتمشاو على رجليهم",
+            "ممر خاص باللي كيتمشاو على رجليهم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_2.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_2.mp3",
+      "description": "باش ندوز على ليسر، ندوز انا الاول",
+      "answer": [
+        1
+      ],
+      "explanation": "في ملتقيات الطرق وعندما لا توجد العلامات الضوية أو اللافتات الطرقية او شرطي ينظم حركة المرور فدائما الأسبقية لليمين، لذلك في هذه الحالة فأنا أتواجد على يمين السيارة السوداء لذلك يجب على سائقها ان يسمح لي بالمرور أنا الأول.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_3.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_3.mp3",
+      "description": "كنسوق بسرعة 40 كلم في الساعة، من الواجب عليا ننقص من السرعة",
+      "answer": [
+        2
+      ],
+      "explanation": "اللافتة الطرقية تحدد السرعة في 40 كلم في الساعة، وانا أسير بسرعة 40 كلم في الساعة، إذا ليس من الواجب عليّ ان أنقص من السرعة لأني أسير بسرعة قانونية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_4.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_4.mp3",
+      "description": "فجنب الرصيف ديال ليمين، يمكن ليا نوقف بعض الوقت باش نسمح للركاب ينزلو",
+      "answer": [
+        2
+      ],
+      "explanation": "يوجد أماكن ممنوع الوقوف او التوقف فيها، مثل أماكن الحافلات أو سيارات الأجرة، كما توضّح الصورة فيوجد لافتة عمودية خاصة بالحافلات، كما انه في بعض المرات يوجد تشوير أفقي مرسوم على الأرض يوضح أن المكان خاص ولا يمكن في هذا المكان الوقوف أو التوقف.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_5.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_5.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "بكل بساطة يوجد خط متّصل واللذي يمنع منعا باتا التجاوز فيه.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز",
+            "نتسنى باش نتجاوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_6.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_6.mp3",
+      "description": "من بعد هاذ العلامة، غادي يمكن ليا نسوق بسرعة",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "نحن تواجد في طريق وطنية واللتي سرعتها محددة في 100 كلم في الساعة، لكن بما انه يوجد علامة تحديد السرعة في 60 كلم في الساعة فتلغى القاعدة الأولى ويجب إتباع العلامة الطرقية 60 كلم في الساعة كحد أقصى، ويمكنني أن أسير بسرعة 50 كلم في الساعة، المهم لا يجب ان أتجاوز سرعة 60 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "50 كلم في الساعة",
+            "60 كلم في الساعة",
+            "70 كلم في الساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_7.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_7.mp3",
+      "description": "يمكن ليا نسوق و انا شاعل ضواو",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "كما نلاحظ في هذه الحالة فيوجد ضباب، عند وجود ضباب فنقوم بإستعمال أضواء الضباب الخلفية والأمامية وأضواء التقابل، بالاضافة لإمكانية إستعمال أضواء الوضع مع أضواء التقابل او الضبابة، وبما انه لا يوجد أضواء الضبابة ضمن الإختيارات التي في السؤال فنقوم بإختيار أضواء التقابل وأضواء الوضع. أضواء الطريق (الضوء العالي) كتعكس الضباب وكترجع الضوء لعينيك، الشي اللي كينقص من الرؤية.\n ⚠️ ملاحظة: يمكن استعمال أضواء الوضع في آن واحد مع أضواء الطريق وأضواء التقابل والأضواء الخاصة بالضباب، ويمكن كذلك استعمالها وحدها عند وقوف المركبة أو توقفها أو عندما تكون ظروف الإنارة على الطرق، ماعدا الطريق السيار أو الطرق ذات المسالك الخاصة. الجواب الصحيح هو رقم 1 و 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "الوضع",
+            "التقابل",
+            "الطريق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_8.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_8.mp3",
+      "description": "نسمح للسيارة الزرقا تدوز",
+      "answer": [
+        1
+      ],
+      "explanation": "في ملتقيات الطرق يجب الإلتزام باللافتات الطرقية، يوجد لافتة قف، يجب الوقوف والسماح للسيارات القادمة من اليمين بالمرور وا]ظا السيارات القادمة من السيار بالمرور، وفي هذه الحالة نعم يجب أن أسمح للسيارة الزرقاء بالمرور أولا وبعد ذلك يمكنني المرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_9.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_9.mp3",
+      "description": "من هاذ الإشارة تكون السرعة ديالي المحدودة في 60 كلم في الساعة",
+      "answer": [
+        2
+      ],
+      "explanation": "نحن نتواجد في طريق وطنية والسعة محدودة في 100 كلم في الساعة، بالنسبة للافتة الطرقية تحديد السرعة في 60 كلم في الاسعة فهي لا تعنينا لأنها خاصة بالشاحنات كما توضحه العلامة التكميلية الموجودة تحت اللافتة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_10.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_10.mp3",
+      "description": "حزام السلامة كيحميني باش ما نترمااش للقدام إلا وقع اصطدام",
+      "answer": [
+        1
+      ],
+      "explanation": "أولا حزام السلامة إجباري داخل المدينة وخارجها، حزام السلامة له دور أساسي في حمايتي من الصدمات وأيظا يحمي الراكب من الإندفاع للأمام في حالة وقوع إصطدام.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_11.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_11.mp3",
+      "description": "غادي ندوز على ليمين",
+      "answer": [
+        2
+      ],
+      "explanation": "دائما الأسبقية للرّاجلين، وبما ان الراجلين إندمجوا في ممر الراجلين فيجب عليّ الإنتظار ةالمرور بعد ذلك.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز قدام اللي غاديين على رجليهم",
+            "ندوز من ورا اللي غاديين على رجليهم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_12.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_12.mp3",
+      "description": "من الواجب على السائق يحتفظ بشهادة التامين",
+      "answer": [
+        2
+      ],
+      "explanation": "بصفة عامة جميع الوثائق الخاصة بالسيارة يجب ان تكون معي ومن بينها بطبيعة الحال ورقة شهادة الـتأمين، ولا يجب تركها في المنزل، لانه إدا طلبها مني الشرطي لكي أقدم له الأوراق ويقوم بالتأكد منها مهما كانت الظروف.",
+      "optionGroups": [
+        {
+          "options": [
+            "في دارو",
+            "معاه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_13.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_13.mp3",
+      "description": "جريت الفرامل ديال اليد و سديت مضاد السرقة. يمكن ليا نغادر العربة ديالي دابا",
+      "answer": [
+        1
+      ],
+      "explanation": "بما ان السيارة متوقفة في مكان صحيح ولا توجد سيارة قادمة من الخلف وكذلك فعّلت فرامل اليد زقفلت مضاد الشرقة فيمكنني مغادرة السيّارة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_14.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_14.mp3",
+      "description": "المسلك اللي موجود فاقصى ليمين ممنوع على العربات اللي كتجرها الحيوانات",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة الطرقية تعني الإجبار، وهي تجبر العربات الخاصة التي توضحها اللافتة الطرقية بالمرور في المسلك الخاص في أقصى اليمين وليس في الطريق الرئيسية، إذن اللافتة الطرقية تجبر العربات التي تجرّها الحيوانات وليس منعها.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_15.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_15.mp3",
+      "description": "قبل ما نتجاوز، ننبه هاذ مستعمل الطريق",
+      "answer": [
+        1
+      ],
+      "explanation": "بما انها دراجة هوائية وليس لديها مراة وإذا قمت بالتنبيه بالضوء فليس له أي معنا لأن سائق الدراجة الهوائية لن يرى الضوء، لذلك أقوم بالتنبيه بالمنبّه الصوتي.",
+      "optionGroups": [
+        {
+          "options": [
+            "بالمنبه الصوتي",
+            "بالضواو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_16.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_16.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "نحن نتواجد في ملتقى الطرق، وتوجد لافتة طرقية تعني انه ليس لنا حق الأسبقية، إذن يجب السماح للسيارة الحمراء بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نسمح بالمرور",
+            "ندوز انا الاول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_17.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_17.mp3",
+      "description": "قبل ما نتجاوز يمكن ليا ننبه بالضو",
+      "answer": [
+        1
+      ],
+      "explanation": "تذكير:  من قواعد التجاوز يجب المراقبة والتنبيه ثم أتجاوز وبعد ذلك أنحاز لليمين، في هذه الحالة السيارة تتوفر على مراة عاكسة وسوف يرى السايق الضوء، إذن يمكنني التنبيه بالضوء الإجابة رقم 1.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_18.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_18.mp3",
+      "description": "إلا تفاجأت، وأنا كنسوق بهاذ السرعة، غادي نحتاج تقريبا ل",
+      "answer": [
+        1
+      ],
+      "explanation": "تذكير: مسافة التوقف هي العدد العشري من السرعة التي أسير فيها ضرب 6، في هذه الحالة انا اسير بسرعة 60 اذن مسافة التوقف هنا هي: 6 ضرب 6 النتيجة 36، الإجابة رقم 1. في بعض الحالات لا يوجد العدد بالضبط في الإختيارات، لذلك نقوم بإختيار أقرب رقم للعد الذي حصلنا عليه في العملية الحسابية.",
+      "optionGroups": [
+        {
+          "options": [
+            "36 مترو",
+            "26 مترو",
+            "16 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_19.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_19.mp3",
+      "description": "إلا بدات كتبان عليا العلامات الأولى ديال لعيا",
+      "answer": [
+        3
+      ],
+      "explanation": "من قواعد السياقة فيجب علي كل ساعتين من السياقة المتواصلة ان أستريح 15 دقيقة لتفادي أي إحتمال لحادثة سير، لذلك أي علامة للتّعب يجب عليّ ان أقوم بالتوقف وأخد إستراحة، وبعد ذلك يمكنني المواصلة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نزيد فالسرعة باش نوصل فأقرب وقت",
+            "ننقص من السرعة ديالي",
+            "نوقف باش نرتاح"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_20.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_20.mp3",
+      "description": "غادي يمكن ليا",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقية تعني الإجبار، وهي تجبرني للسير مباشرة، ويمكنني الإنعطاف الى اليمين، ولكن لا يمكنني ان أعمل نصف دورة لان الطريق ديّقة أول شيئ وثاني شيئ فعلامة الإجبار تجبرني للسير مباشرة لان الطريق ذات إتجاه واحد ولا يمكنني عمل نصف دورة.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز على ليمين",
+            "ندير نص دورة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_21.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_21.mp3",
+      "description": "فخارج المناطق السكنية العامرة، من الواجب على اللي راكب القدام يربط حزام السلامة",
+      "answer": [
+        1
+      ],
+      "explanation": "بالنسبة لحزام السلامة فهو أمر إجباري الان داخل المدينة وخارج المدينة للسائق والراكبين، لانه يقوم بحماية الرّكاب من الإصطدام والإندفاع الى الامام.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_22.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_22.mp3",
+      "description": "",
+      "answer": [
+        3
+      ],
+      "explanation": "المنبّه الصوتي ممنوع داخل المدينة إلاّ للضرورة القصوى عندما يكون هنالك خطر محدق، ولا يجب ان أسير بسرعة بسبب إحتمال دخول أحد الراجلين الى وسط الطريق مثلا، لذلك في هده الحالة من الأفضل ان اقوم بإنقاص السرعة واقوم بعملية التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نستعمل المنبه الصوتي",
+            "نشرع باش نتجاوز هاذ اللي غاديين على رجليهم",
+            "ننقص من السرعة باش نتجاوز هاذ اللي غاديين على رجليهم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_23.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_23.mp3",
+      "description": "من الواجب عليا قبل كل شي",
+      "answer": [
+        2
+      ],
+      "explanation": "في هذه الحالة بخصوص الإسعافات الاولية واجب عليّ قبل كل شيئ (يعني أول شيئ يجب أن أقوم به) في هذه الحالة يجب عليّ أن أقوم بحماية مكان الحادثة وأنبه لها بالمثلث او شيئ لكي أنبه لمكان الحادث لكي لا تحدث حادثة اخرى في المكان.",
+      "optionGroups": [
+        {
+          "options": [
+            "نخبر النجدة",
+            "نحمي مكان الحادثة و ننبه ليه",
+            "نتوجه بسرعة للناس المجروحين باش نساعدهم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_24.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_24.mp3",
+      "description": "السائق تيكون معرض للتعب اكثر إلا كانت أحوال الجو",
+      "answer": [
+        2
+      ],
+      "explanation": "عندما يكون هنالك مطر او ضباب وفي بعض المرات الحرارة المفرطة، فالسياقة في هذه الاوال الجوية تكون صعبة قليلا للسائق.",
+      "optionGroups": [
+        {
+          "options": [
+            "مزيانة",
+            "صعيبة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_25.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_25.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "يوجد تشوير طرقي ينظم حركة السّيروهي علامة قف للسيارة البيضاء، التي يجب عليها الوقوف وإعطاء حق الأسبقية للعربات القادمة من اليمين واليسار، أقوم أنا بالمرور أولا الإجابة رقم 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "نسمح للي جاي من ليمين يدوز",
+            "ندوز انا الاول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_26.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_26.mp3",
+      "description": "لقياس ديال الزيت فهاد السيارة مزيان",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة لقياس الزيت في السيارة نقوم بالتحقق من تلك النقطتين الموجودتين، بالنسبة التي توجد في الأسفل فهي تعني على الأقل يعني Minimum والنقطة التي توجد فوقها فهي Maximum ، في هذه الحالة في الصورة فالزيت توجد في النقطة السفلى إذن قياس الزيت غير جيد في هذه الحالة الإجابة رقم 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_27.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_27.mp3",
+      "description": "الخط المرسوم على ليسر ديالي يمكن ليا نتخطاه",
+      "answer": [
+        1
+      ],
+      "explanation": "في هذه الحالة فالخط المتواجد على يساري فهو متقطع لذلك يمكنني ان أتخطّاه.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_28.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_28.mp3",
+      "description": "إلا اضطريت نفرمل بالزربة، من الواجب عليا نثبت العجلات",
+      "answer": [
+        2
+      ],
+      "explanation": "مصطلح تثبيت العجلات فهو يعني أن أقوم بتثبيت مِقود السيارة في الإتجاه مباشرة، لذلك إذا قمت بتثبيت العجلات فيوجد خطر على حسب الحالة، فمثلا إادا كنت متواجد في منعرج؟ إذا قمت بتثبيت العجلات فسوف أنحرف خارج الطريق، لذلك ليس من الواجب أبدا تثبيت العجلات ادا إضطريت للتوقف بسرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_29.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_29.mp3",
+      "description": "قمت بالتوقف بطريقة مزيانة",
+      "answer": [
+        2
+      ],
+      "explanation": "في هذه الحالة السيارة متواجدة تقريبا وسط الطريق وليس خارجها لكي أؤمن حركة المرور، يوجد خطر في وقف السيارة في هذا المكان داخل الطريق، لذلك لم أقم بالتوقف بطريقة سليمة الإجابة رقم 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_30.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_30.mp3",
+      "description": "واجب علي",
+      "answer": [
+        2
+      ],
+      "explanation": "الدرك الملكي يقوم بهذه الحركة والتي تعني يجب علي أن أتوقف على الجانب الأيمن.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز صاحب هاذ الدراجة النارية",
+            "نوقف على الجنب ديال ليمين"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_31.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_31.mp3",
+      "description": "يمكن ليا التوقف بين هاذ زوج سيارات",
+      "answer": [
+        2
+      ],
+      "explanation": "لا يمكنني التوقف بين السّيارتين، لان الوقوف أو التوقف في مسلك الراجلين فهو ممنوع.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_32.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_32.mp3",
+      "description": "انا كنسوق بسرعة 60 كلم فالساعة، مسافة الامان اللي كنحافظ عليها كافية",
+      "answer": [
+        2
+      ],
+      "explanation": "نستعمل العين المجردة للحساب، في هذه الحالة السيارة التي امامنا متوقفة وأنا أسير بسرعة 60 كلم في الساعة والمسافة قريبة جدا لذلك مسافة الأمان غير كافية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_33.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_33.mp3",
+      "description": "أنا داخل لمنطقة عامرة بالسكان",
+      "answer": [
+        1
+      ],
+      "explanation": "الللافتة الطرقية يعني انه أنك في تجمّع سكني عير حرودة، أي انه بعد قليل سوف تدخل منطقة عامرة بالسكان.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_34.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_34.mp3",
+      "description": "في السير العادي، أنا موجود في الممر المناسب",
+      "answer": [
+        2
+      ],
+      "explanation": "في هذه الحالة نحن متواجدون في الممر الإستعجالي وليس في الممر الخاص بالسير العادي المتواجد على اليسار لذلك انا غير متواجد في المممر المناسبن الإجابة الصحيحة 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_35.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_35.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "في ملتقيات الطرق وبما أننا نتواجد في طريق غير معبّدة أي أننا في طريق غير رئيسية والطريق المعبّدة فهي طريق رئيسية، والحافلة تتواجد في طريق رئيسية والأسبقية لها لأنها في طريق رئيسية، لذلك من الواجب علي ان أقوم بترك الحالفة تمر وبعد ذلك أقوم بالمرور الإجابة رقم 1.",
+      "optionGroups": [
+        {
+          "options": [
+            "من الواجب عليا نخلي هاذ العربة تدوز",
+            "ندوز انا الاول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_36.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_36.mp3",
+      "description": "كنسوق بسرعة 120 كلم في الساعة مسافة الامان اللي خليت كافية",
+      "answer": [
+        2
+      ],
+      "explanation": "السرعة هي 120 كلم في الساعة، وأذا قمنا بحساب الخطوط اللتي تتواجد على اليمين فهي تقريبا 30 مثل او أقل، وهي التي تعني المسافة بيني وبين السيارة التي امامنا، لذلك سرعة 120 كلم في الساعة فإن مسافة الأمان غير كافية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_37.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_37.mp3",
+      "description": "من الواجب علي ننتظر باش نتجاوز راكب الدراجة",
+      "answer": [
+        2
+      ],
+      "explanation": "يوجد سائق دراجة نارية، لا توجد سيارة تستعد للتجاوز من الخلف والطريق أمامي لا يوجد سيارات وعرض الطريق يكفي للتجتوز إذا لا يوجد مشكلة في التجاوز، الإجابة الصحيحة 2 ليس من الواجب عليّ الإنتظار للتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_38.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_38.mp3",
+      "description": "انا فالمكان المناسب باش نتجه للخروج",
+      "answer": [
+        2
+      ],
+      "explanation": "إدا كنت أريد الخروج فكان يجب علي أن اقوم بالسير في المسلك المتواجد أقصى اليمين لانه الممر الخاص بالخروج، لذلك الان ليست في المكان المناسب للخروج.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_39.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_39.mp3",
+      "description": "نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "بما انه توجد سيارة في الخالف تستعد لعملية التجاوز فلا يجب علي أن اقوم بعملية التجاوز، الإجابة رقم 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_48/quiz_48_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_48/quiz_s_48_40.mp3",
+      "mp3": "files/audio/quiz_48/quiz_s_48_40.mp3",
+      "description": "من الواجب عليا السير على ليسر",
+      "answer": [
+        2
+      ],
+      "explanation": "اللافتة الطرقية تعني الإعلام فقط وليس الإجبار وهي لافتة مؤقتة، ولا تجبرني على السير على اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    }
+  ]
+}

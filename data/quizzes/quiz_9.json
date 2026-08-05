@@ -1,0 +1,985 @@
+{
+  "id": 9,
+  "title": "Quiz 9",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_1.jpg",
+  "source": "siya9a_maroc",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_1.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_1.mp3",
+      "description": "فهاد الطريق، التوقف ممنوع",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "حنا فطريق ديال اتجاه واحد، فهذ النوع ديال الطرقان نقدر نوقف على اليمين ولا اليسار و ما كايناش علامة كتمنعني من التوقف.",
+      "optionGroups": [
+        {
+          "description": "على طول الرصيف الايمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على طول الرصيف الايسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_2.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_2.mp3",
+      "description": "صديق ديالي خلا لي سيارتو",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "الحالة ديال الطوموبيل خاصها تبقى تحت المراقبة ديما، سواء كانت ديالك، ديال شي حد اخر، ولا كرا. الوراق الأصلية خاصها تكون معاك في حالة شي مراقبة طرقية من البوليس ولا الجمارك.",
+      "optionGroups": [
+        {
+          "description": "نراقب حالة السيارة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ندير نسخة على الاوراق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_3.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_3.mp3",
+      "description": "باش ندوز فهاد المنعرج بامان، واجب",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "فالمنعرجات خاصك تنقص من السرعة قبل ما توصل، وفاش توصل للمنعرج تزيد شوية فالسرعة باش تدوز بسلام.",
+      "optionGroups": [
+        {
+          "description": "ننقص من السرعة قبل المنعرج :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نزيد شوية من السرعة فالمنعرج :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_4.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_4.mp3",
+      "description": "واجب نعطي حق الاسبقية",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "العلامة الطرقية كتقول عندك حق الأسبقية، بما أنك فطريق رئيسية، كدوز أنت الأول.",
+      "optionGroups": [
+        {
+          "description": "لل جاي من ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "لل جاي من ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_5.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_5.mp3",
+      "description": "السيارة الكحلا وقفات",
+      "answer": [
+        1
+      ],
+      "explanation": "الطوموبيل الكحلة وقفات غير باش تتأكد من حالة الطريق، حيث حنا فملتقى الطرق خاص كل طوموبيل تنقص من السرعة وترد البال قبل ما تدوز. كاينة علامة ديال ملتقى الطرق والأسبقية للسيارات اللي جاية من اليمين، خاصني نوقف ونعطيها.",
+      "optionGroups": [
+        {
+          "options": [
+            "نوقف",
+            "ندوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_6.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_6.mp3",
+      "description": "عند ملتقى الطرق، من الواجب علي",
+      "answer": [
+        1,
+        3,
+        4
+      ],
+      "explanation": "الوقوف إجباري عند علامة \"قف\"، والأسبقية فالملتقى للسيارات الجاية من اليمين ومن اليسار حتى هي.",
+      "optionGroups": [
+        {
+          "description": "نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "options": [
+            "نسمح بالمرور اللي جاي على ليسر",
+            "نسمح بالمرور اللي جاي على ليمين"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_7.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_7.mp3",
+      "description": "من الواجب علي تغيير مسافة الامان حسب",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "كلما كانت السرعة ديال الطوموبيل كبيرة، كتحتاج لمسافة أمان طويلة بينك وبين الطوموبيل اللي قدامك. حالة الطريق حتى هي سبب باش تزيد فمسافة الأمان، حيت إلى كاينة الشتا ولا الثلج خاصك تزيد فالمسافة، ونوع الطوموبيل ما عندوش علاقة.",
+      "optionGroups": [
+        {
+          "options": [
+            "السرعة",
+            "حالة الطريق",
+            "نوع السيارة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_8.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_8.mp3",
+      "description": "عند وقوع حادثة عنيفة، غيكون السائق في امان اكثر إلا كان",
+      "answer": [
+        2
+      ],
+      "explanation": "الطوموبيل فيها نظام أمان أكثر بحال الكيس الواقي (Airbag) وحزام السلامة. الجواب الصحيح هو الطوموبيل.",
+      "optionGroups": [
+        {
+          "options": [
+            "فالدبابة",
+            "فالسيارة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_9.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_9.mp3",
+      "description": "السير بسرعة عنده تأثير على",
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "explanation": "السرعة كتأثر على مسافة الفرملة، ومسافة الوقوف، وكلما كانت السرعة كبيرة تكون الحادثة أكثر خطورة. ولكن وقت رد الفعل ما عندوش علاقة بالسرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "مسافة الحصر (الفرملة)",
+            "مسافة الوقوف",
+            "وقت رد الفعل",
+            "خطر الاصطدام"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_10.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_10.mp3",
+      "description": "من بعد ما وقع اصطدام، ملئت المعاينة الودية واجب",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "إذا وقعت حادثة والخسائر كانت مادية فقط، كنديرو معاينة ودية وما خاصاش تصادق عليها البوليس، خاصك تبعتها لشركة التأمين قبل 5 أيام.",
+      "optionGroups": [
+        {
+          "description": "نعطيها للشرطة باش تصادق عليها :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نرسلها لشركة التأمين ديالي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_11.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_11.mp3",
+      "description": "بعد هاذ العلامة يمكن لي",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "العلامة الطرقية كتقول ممنوع الوقوف والتوقف، وفيها علامة إضافية بزوج ديال السهام اللي كتعني على طول الطريق.",
+      "optionGroups": [
+        {
+          "description": "التوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "الوقوف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_12.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_12.mp3",
+      "description": "غيكون من الواجب علي",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "فالملتقى الأسبقية ديما للعربات الجاية من اليمين، وعلامة الطرقية كتقول خاص تغيير الاتجاه لليسار.",
+      "optionGroups": [
+        {
+          "description": "نعطي حق الاسبقية ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ندوز على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_13.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_13.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "المسلك اللي على اليسار خاص بالتجاوز، والمسلك اللي على اليمين خاص بالعربات اللي بغات تندمج. أنا فالمسلك الصحيح وكنبقى فيه.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز للمسلك اللي على ليسر ديالي",
+            "نبقى فهاذ المسلك"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_14.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_14.mp3",
+      "description": "المنحدر الخطير",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "العلامة الطرقية كتقول الخطر، ولكن في هذ الحالة كاينة علامة إضافية ديال 400 متر، يعني المنحدر بعد 400 متر.",
+      "optionGroups": [
+        {
+          "description": "كيبدا على بعد 150 متر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "كيمتد على طول 400 متر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_15.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_15.mp3",
+      "description": "فحالة وقوع اصطدام، السائق عليه يملأ المعاينات الودية بقدر ما يوجد من السيارات اللي اصطدمت بسيارتو",
+      "answer": [
+        1
+      ],
+      "explanation": "أي طوموبيل صدماتك خاصك تملأ معاينة ودية معها. مثلا إذا صدماتك جوج سيارات خاصك تملأ جوج معاينات ودية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_16.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_16.mp3",
+      "description": "ملي كتكون سيارتي مجهزة بالاكياس الواقية، ربط حزام السلامة خارج التجمعات السكنية كيكون",
+      "answer": [
+        1
+      ],
+      "explanation": "الكيس الواقي (Airbag) كيقلل غير من خطر الاصطدام، حزام السلامة ضروري حتى مع وجود الكيس الواقي.",
+      "optionGroups": [
+        {
+          "options": [
+            "ضروري",
+            "بدون فائدة",
+            "مستحب"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_17.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_17.mp3",
+      "description": "",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "غادي نحيد شوية لليسار حيت كاين راجل جاي، نستعمل مؤشر تغيير الاتجاه حيت كاينة طوموبيل من الخلف وما كاينش خطر باش ننبه بالمنبه الصوتي.",
+      "optionGroups": [
+        {
+          "description": "نستعمل مؤشر تغيير الاتجاه (الوامض) :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نبه بالمنبه الصوتي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_18.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_18.mp3",
+      "description": "باش نتجاوز هاذ سائق الدراجة، من الواجب علي نستعمل مؤشر تغيير الاتجاه (الوامض)",
+      "answer": [
+        1
+      ],
+      "explanation": "ديما خاصك تستعمل مؤشر تغيير الاتجاه فاش تبغي تتجاوز ولا تنحاز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_19.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_19.mp3",
+      "description": "يمكن لي ندور",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "خاصك ديما تلاحظ العلامات الطرقية، مثلا السرعة محددة فـ 40 كلم في الساعة وعلامة ممنوع تغيير الاتجاه لليسار، والتشوير الأفقي كيجبرك على السير مباشرة.",
+      "optionGroups": [
+        {
+          "description": "على ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_20.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_20.mp3",
+      "description": "هاد الاشارات تتعلم على",
+      "answer": [
+        4
+      ],
+      "explanation": "الإشارات الطرقية فالصورة كتشير لملتقى الطرق.",
+      "optionGroups": [
+        {
+          "options": [
+            "إعطاء حق الاسبقية لليمن",
+            "إعطاء حق الاسبقية",
+            "رأس العقبة",
+            "ملتقى الطرق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_21.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_21.mp3",
+      "description": "نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "كاين منعرج وخط متصل كيمنع التجاوز، يعني ما يمكنش نتجاوز فهذ الحالة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_22.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_22.mp3",
+      "description": "يمكن لي",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "العلامة الطرقية كتقول تغيير الاتجاه لليسار إجباري، يعني ما يمكنش نغير الاتجاه لليمين.",
+      "optionGroups": [
+        {
+          "description": "ندور على ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ندور على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_23.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_23.mp3",
+      "description": "سبب انزلاق السيارة، فطريق مغمورة بالما، يمكن يكون ناتج على",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الانزلاق ما عندوش علاقة بالفرامل، كيكون سببه السرعة، العجلات، ولا حالة الطريق.",
+      "optionGroups": [
+        {
+          "description": "الحصر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_24.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_24.mp3",
+      "description": "نسمح بالمرور لهاذ الراجلين",
+      "answer": [
+        2
+      ],
+      "explanation": "إذا كاينة إشارة ضوئية كتلغي الإشارات الطرقية الأخرى، فالضوء الأخضر كيحق لي نمر، والراجلين خاصهم ينتظرو.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_25.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_25.mp3",
+      "description": "باش نتجاوز، يمكن لي نستعمل",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "3 مسالك، المسلك الأول للسير العادي، الثاني للتجاوز، والثالث ما يمكنش نستعمله حيت فيه خط متصل.",
+      "optionGroups": [
+        {
+          "description": "المسلك الثاني :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "المسلك الثالث :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_26.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_26.mp3",
+      "description": "يمكن لي ندوز على ليمن",
+      "answer": [
+        1
+      ],
+      "explanation": "نحن فملتقى الطرق، إذا بغيت نغير الاتجاه لليمين نقدر ندوز حيت الخط المتصل غير فوسط الطريق.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_27.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_27.mp3",
+      "description": "غايصبح السير فالاتجاهين",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "علامة الخطر تطبق من عند العلامة ولكن إذا كاينة علامة إضافية بحال 200 متر، يعني السير في الاتجاهين بعد 200 متر.",
+      "optionGroups": [
+        {
+          "description": "- فورا :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "- على طول 200 متر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_28.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_28.mp3",
+      "description": "قبل ما ندخل فهاد الطريق الضيقة، ننبه بالمنبه الصوتي",
+      "answer": [
+        2
+      ],
+      "explanation": "ما خاصنيش ننبه بالمنبه الصوتي حيت الطريق ذات اتجاه واحد.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_29.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_29.mp3",
+      "description": "نسمح بخروج هاذ السيارة من المركن",
+      "answer": [
+        2
+      ],
+      "explanation": "بعض الحالات يمكن التساهل، ولكن إذا كاينة سيارة بغات تندمج وما زال ما اندمجت خاصها تنتظر.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_30.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_30.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "الإشارات الأفقية كتهم السيارات الجاية من الاتجاه المعاكس، والخط المتقطع كيسمح لي بالتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نواصل التجاوز",
+            "نشد ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_31.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_31.mp3",
+      "description": "العلامات الطرقية كتعلم على",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "العلامات الطرقية اللي فيها اللون الأحمر كتقول منعرج، واللي ما فيهاش كتقول ملتقى الطرق.",
+      "optionGroups": [
+        {
+          "description": "منعرجات :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ملتقى الطرق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_32.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_32.mp3",
+      "description": "نسمح للسيارة البيضا تدوز",
+      "answer": [
+        2
+      ],
+      "explanation": "نحن فملتقى الطرق، عندي حق الأسبقية حيت طريقي خاوية والسيارة البيضاء خاصها تنتظر حتى تمر.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_33.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_33.mp3",
+      "description": "يمكن لي نوجد احجار متساقطة",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "العلامة الطرقية كتقول الخطر، من اليمين واليسار بحال سقوط الأحجار ولا هبوب الرياح.",
+      "optionGroups": [
+        {
+          "description": "على ليمن ديال الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على ليسر ديال الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_34.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_34.mp3",
+      "description": "إعطاء بعض الأدوية دون وصفة طبية يمكن يتسبب",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "بعض الأدوية كتأثر على السائق وتجعله يشعر بالنوم أو الدوار، خاص الإنتباه.",
+      "optionGroups": [
+        {
+          "description": "فالنعاس :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بالدوار :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_35.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_35.mp3",
+      "description": "",
+      "answer": [
+        3
+      ],
+      "explanation": "الإشارات الأفقية كتعني الإنحياز والخط المتصل كيعني ممنوع التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز العربة الاولى وحدها",
+            "نتجاوز العربة الثانية وحدها",
+            "نشد ليمن فورا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_36.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_36.mp3",
+      "description": "واجب نشعل",
+      "answer": [
+        2
+      ],
+      "explanation": "فحالة الضباب خاصك تشعل أضواء الضباب والأضواء الأمامية والخلفية.",
+      "optionGroups": [
+        {
+          "options": [
+            "اضواء الطريق",
+            "اضواء التقابل",
+            "اضواء الوضع وحدهم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_37.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_37.mp3",
+      "description": "عند وقوع اصطدام لسيارتي مع السيارة اللي قدامي و السيارة اللي فالخلف ديالي، نملئ",
+      "answer": [
+        2
+      ],
+      "explanation": "أي طوموبيل صدماتك خاصك تملأ معاينة ودية معها، فهذ الحالة إذا صدماتك جوج سيارات تملأ جوج معاينات ودية.",
+      "optionGroups": [
+        {
+          "options": [
+            "معاينة ودية واحدة",
+            "زوج ديال المعاينات الودية",
+            "ثلاثة معاينات الودية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_38.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_38.mp3",
+      "description": "انا فالمكان المناسب باش",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "التشوير الأفقي كيعني الإجبار، والسهام كتجبرك على تغيير الاتجاه لليسار أو السير مباشرة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نكمل السير للقدام",
+            "ندور على لیمن",
+            "ندور على لیسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_39.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_39.mp3",
+      "description": "هاد العلامة كتمنع الوقوف على الجوانب بزوج ديال الطريق",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامة كتقول الوقوف فهذ الطريق اللي أنا فيه.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_9/quiz_9_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_9/quiz_s_9_40.mp3",
+      "mp3": "files/audio/quiz_9/quiz_s_9_40.mp3",
+      "description": "من الواجب علي نوقف عند",
+      "answer": [
+        2
+      ],
+      "explanation": "ممنوع الوقوف فوق ممر الراجلين، وخاصني نوقف عند الخط المتصل باش ندوزو الراجلين.",
+      "optionGroups": [
+        {
+          "options": [
+            "ممر الراجلين",
+            "الخط المتصل"
+          ]
+        }
+      ]
+    }
+  ]
+}

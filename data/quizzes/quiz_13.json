@@ -1,0 +1,922 @@
+{
+  "id": 13,
+  "title": "Quiz 13",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_1.jpg",
+  "source": "siya9a_maroc",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_1.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_1.mp3",
+      "description": "يمكن لي نستعمل المسلك اللي على ليمن ديالي باش نتجاوز هاذ العربة",
+      "answer": [
+        2
+      ],
+      "explanation": "حتى إلا كان الطريق على اليمين خاوي، التجاوز خاص يكون غير من اليسار ماشي من اليمين. إلا إلا كانت شي طوموبيل غادا تدور لليسار، هنا نقدر نتجاوز من اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_2.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_2_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_2.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_2.mp3",
+      "description": "يمكن لي نستعمل مؤشر تغيير الاتجاه ديال ليسر باش نستعد لتجاوز هاذ العربة",
+      "answer": [
+        2
+      ],
+      "explanation": "الخط المتقطع كيعطينا الحق فالتجاوز، ولكن إلا كان طوموبيل ورايا شاعلة السينيال باش تتجاوز، ما يمكنش نتجاوز حيث الطوموبيل اللي ورايا غادا تتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_3.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_3.mp3",
+      "description": "هاد العربة كتمشي ببطء. نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "ما يمكنش نتجاوز الطوموبيل اللي قدامي الخط المتصل كمنعنا.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_4.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_4.mp3",
+      "description": "التوقف مسموح فالجوانب بزوج ديال الطريق",
+      "answer": [
+        1
+      ],
+      "explanation": "التوقف مسموح على اليمين وعلى اليسار، حيث الطريق فيها اتجاه واحد، ما كاينش طوموبيلات جاية من الاتجاه المعاكس. هادشي اللي كيبينه السهم اللي مرسوم على الأرض.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_5.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_5.mp3",
+      "description": "فهاد المكان، التوقف",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "هاد البلاصة التوقف مسموح، وكاين بلاصة ديال الطوموبيلات، ولكن ماشي مجاني، هادشي كيبينه الإشارة الخاص بالدّفع على اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "ممنوع",
+            "مسموح به",
+            "بلا خلاص",
+            "بالخلاص"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_6.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_6.mp3",
+      "description": "عند وقوع حادثة مادية، استعمال المعاينة الودية",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "إلا وقعات حادثة مادية، ماشي ضروري نستعمل المعاينة الودية، ولكن مزيان نستعملها.",
+      "optionGroups": [
+        {
+          "options": [
+            "إجباري",
+            "مستحب",
+            "يوصى به"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_7.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_7.mp3",
+      "description": "التامين الدنيوي الإجباري كيمكن من التعويض عن الخسائر للي كيتسببوا فيها الاخرين",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "التأمين الإجباري كيغطي الخسائر اللي تسبب فيها الآخرين، وهنا كنسميها المسؤولية المدنية. ولكن التأمين الشامل كيغطي حتى المسؤولية المادية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "كتسمى :",
+          "options": [
+            "المسؤولية المدنية",
+            "المسؤولية المادية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_8.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_8.mp3",
+      "description": "معظم الحوادث كتوقع",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "الحوادث الطرقية ماشي ضروري توقع فطريق مبللة ولا فالمنعرجات، الحوادث تقدر توقع فأي طريق، غالبا السبب هو السلوك ديال السائق.",
+      "optionGroups": [
+        {
+          "description": "فطريق مبللة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "فالمنعرجات :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_9.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_9.mp3",
+      "description": "السير منظم على شكل صفوف : يمكن لي تغيير المسلك",
+      "answer": [
+        2
+      ],
+      "explanation": "إلا كانت الطريق عامرة، ما يمكنش نبدل المسلك باش نسرع، يمكن نبدل المسلك غير باش نبدل الاتجاه.",
+      "optionGroups": [
+        {
+          "options": [
+            "باش نسرع شوية",
+            "باش نوجد لتغيير الاتجاه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_10.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_10.mp3",
+      "description": "أثناء السير العادي، أنا فالوضع المناسب",
+      "answer": [
+        1
+      ],
+      "explanation": "فالسير العادي، المسلك المناسب هو اللي على اليمين. فالصورة باين حنا في المسلك اللي على اليمين، يعني حنا فالمكان المناسب.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_11.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_11.mp3",
+      "description": "انا فالوضع المناسب باش",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "فهاد الحالة، يمكن نبدل الاتجاه نحو اليمين حيث السهم المرسوم كيأمرني ندور، والإشارة الضوئية الخضرا كتسمح لي بالإنعطاف على اليمين. بالنسبة لتجاوز العربة البيضا ماخصنيش نتجاوز حيث، اولا التجاوز خاص يكون من اليسار وماشي من هاد المسلك، ثانيا الإشارة الضوئية حمراء، و ثلثا الخط المتصل على اليسار كيمنع التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز العربة البيضا",
+            "نغير الاتجاه"
+          ]
+        },
+        {
+          "description": "من الواجب نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_12.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_12.mp3",
+      "description": "يمكن لي السير",
+      "answer": [
+        2
+      ],
+      "explanation": "إلا كنت فوضعية التقابل مع طوموبيل، خاصني نستعمل الأضواء ديال التقابل.",
+      "optionGroups": [
+        {
+          "options": [
+            "باضواء الوضع وحدهم",
+            "باضواء التقابل",
+            "باضواء الطريق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_13.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_13.mp3",
+      "description": "ننبه بواسطة اشارة ضوئية",
+      "answer": [
+        1
+      ],
+      "explanation": "فالفترة الليلية وقرب ملتقى الطرق، يمكن نستعمل الإشارة الضوئية باش ننبه الطوموبيلات اللي جاية من اليمين واليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_14.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_14.mp3",
+      "description": "المنبهات الصوتية و الاشارات الضوئية هما اكثر فعالية ملي كيستعملوا",
+      "answer": [
+        2
+      ],
+      "explanation": "المنبهات الصوتية والإشارات الضوئية كيكونو فعالين إلا استعملناهم لوقت قليل وبصفة مكررة.",
+      "optionGroups": [
+        {
+          "options": [
+            "لوقت طويل و باستمرار",
+            "لوقت قليل و بصفة متكررة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_15.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_15.mp3",
+      "description": "الكبح كيكون احسن",
+      "answer": [
+        1
+      ],
+      "explanation": "الكبح كيبقى أفضل فوق طريق مزفتة.",
+      "optionGroups": [
+        {
+          "options": [
+            "على طريق مزفتة",
+            "على طريق مبلط",
+            "على طريق مكونة بالحصى"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_16.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_16.mp3",
+      "description": "عاد قمت بانزال راكب. يمكن لي ننطلق",
+      "answer": [
+        2
+      ],
+      "explanation": "إلا نزلت راكب، يمكن نكمل بالسير بالمستوى الأول من السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "بنقطة عطالة (point mort)",
+            "بالمستوى الاول ديال السرعة",
+            "بالمستوى الثاني ديال السرعة",
+            "بالمستوى الثالث ديال السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_17.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_17.mp3",
+      "description": "مسافة الامان اللي خليت كافية",
+      "answer": [
+        1
+      ],
+      "explanation": "فالصورة كيبان أن بيني وبين الشاحنة تقريبا 75 متر، مسافة أمان كافية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_18.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_18.mp3",
+      "description": "هاد العلامة كتعلم",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "الإشارة الطرقية كتعني الطريق ضيقة على مسافة محدودة، ماشي جوانب الطريق.",
+      "optionGroups": [
+        {
+          "description": "طريق ضيقة على مسافة محدودة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "جنب طريق ضيق على مسافة محدودة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_19.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_19.mp3",
+      "description": "كنسوق شاحنة صغيرة، يمكن لي ندور على اليمن",
+      "answer": [
+        1
+      ],
+      "explanation": "الإشارة الطرقية كمنع الشاحنات الكبيرة من المرور على اليمين، وأنا كنقود طوموبيل صغيرة، يعني المنع ما كيعنينيش.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_20.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_20.mp3",
+      "description": "فهاد الشارع",
+      "answer": [
+        2
+      ],
+      "explanation": "الإشارة الطرقية كتعني ممنوع نسوق بسرعة فوق 30 كلم/ساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "مسموح لي نسوق ب 30 كلم فالساعة على الاقل",
+            "ممنوع علي نسوق باكثر من 30 كلم فالساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_21.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_21.mp3",
+      "description": "هاد العلامة كتعلم على",
+      "answer": [
+        3
+      ],
+      "explanation": "الإشارة الطرقية كتعني السرعة الدنيا الإجبارية، يعني ممنوع نسوق بسرعة أقل من 30 كلم/ساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "السرعة الي كينصحوا بها",
+            "السرعة القصوى المسموح بها",
+            "السرعة الدنيا الاجبارية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_22.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_22.mp3",
+      "description": "هاد العلامة كتعلم على",
+      "answer": [
+        1
+      ],
+      "explanation": "الإشارة الطرقية كتعني أن ممرات التجاوز كاينة على مسافة 1300 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "وجود ممرات للتجاوز على مسافة 1300 مترو",
+            "عدد الممرات غينقص",
+            "طريق ذو اتجاه واحد على بعد 1300 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_23.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_23.mp3",
+      "description": "من هاذ مخدع الهاتف يمكن لي",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "الإشارة الطرقية كتعني مخدع الهاتف، يمكن نستعمله فقط لطلب المساعدة بسبب عطب.",
+      "optionGroups": [
+        {
+          "description": "نطلب المساعدة عند وقوع عطب :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نعلم على انني غنتأخر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_24.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_24.mp3",
+      "description": "هاد الصوى كتعلم على اني غادي",
+      "answer": [
+        2
+      ],
+      "explanation": "الصوى اللي مكتوب عليها طنجة كتعني أننا فطريق وطنية.",
+      "optionGroups": [
+        {
+          "options": [
+            "على مسار خطير",
+            "طريق وطنية",
+            "مسلك من تراب"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_25.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_25.mp3",
+      "description": "بعد العلامة",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "ما كايناش إشارة طرقية كتقول أن الطريق غادي تولي ذات أولوية للمرور. بما أننا دخلنا للمدينة، السرعة محدودة ف 60 كلم/ساعة ماشي 100 كلم/ساعة.",
+      "optionGroups": [
+        {
+          "description": "الطريق غتصبح ذات اولوية المرور :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "السرعة محدودة ف 100 كلم فالساعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_26.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_26.mp3",
+      "description": "تخطي او تجاوز الخط المتصل",
+      "answer": [
+        1
+      ],
+      "explanation": "تجاوز الخط المتصل ممنوع دائما.",
+      "optionGroups": [
+        {
+          "options": [
+            "دايما ممنوع",
+            "مسموح به عند تجاوز عربة ذات عجلتين",
+            "مسموح به عند تغيير الاتجاه"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_27.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_27.mp3",
+      "description": "هاد العلامة كتعلم على",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الإشارة الطرقية ما كتعنيش نقصان من عدد المسالك الطرقية، واللون الأصفر كيعني أن التشوير مؤقت.",
+      "optionGroups": [
+        {
+          "description": "نقصان من عدد المسالك :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "تشوير طرقي مؤقت :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_28.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_28.mp3",
+      "description": "شرب الكحول كيؤدي لتقلص",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "شرب الكحول كيقلص الحقل البصري والقدرة على التحليل، وكيزيد من وقت رد الفعل.",
+      "optionGroups": [
+        {
+          "options": [
+            "الحقل البصري",
+            "القدرة على التحليل",
+            "وقت رد الفعل"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_29.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_29.mp3",
+      "description": "إلا كان السائق فحالة سكر وقت وقوع الحادثة، غيتعرض",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "إلا وقع حادث والسائق في حالة سكر، غادي يتعرض لغرامة مالية وسحب رخصة السياقة.",
+      "optionGroups": [
+        {
+          "description": "لغرامة مالية : ",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "لسحب الرخصة : ",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_30.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_30.mp3",
+      "description": "يقدر وقت رد الفعل فالمتوسط ب",
+      "answer": [
+        2
+      ],
+      "explanation": "متوسط وقت رد الفعل كيقدر بثانية واحدة.",
+      "optionGroups": [
+        {
+          "options": [
+            "1/10 ثانية",
+            "ثانية",
+            "3 ثواني",
+            "5 ثواني"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_31.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_31.mp3",
+      "description": "اثناء السياقة وضعية السائق كتاثر على",
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "explanation": "وضعية السائق أثناء السياقة كتأثر على النظر وراحة الجلوس واستعمال أجهزة التحكم.",
+      "optionGroups": [
+        {
+          "options": [
+            "النظر",
+            "الراحة اثناء السياقة",
+            "انضباط السيارة على الطريق",
+            "استعمال اجهزة التحكم"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_32.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_32.mp3",
+      "description": "اللون ديال الاضواء الجاذبية اللي كينبه السائق لوجود عطب هو",
+      "answer": [
+        2
+      ],
+      "explanation": "لون الأضواء الجادبة اللي كتنبه السائق بوجود عطب هو الأحمر.",
+      "optionGroups": [
+        {
+          "options": [
+            "اللون الازرق",
+            "اللون الاحمر",
+            "اللون الاخضر",
+            "اللون برتقالي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_33.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_33.mp3",
+      "description": "الفحص التقني لسيارة عمرها اكثر من 5 سنين كيكون",
+      "answer": [
+        2
+      ],
+      "explanation": "إلا فات عمر السيارة 5 سنوات، خاصها الفحص التقني كل عام.",
+      "optionGroups": [
+        {
+          "options": [
+            "كل 6 شهور",
+            "كل عام",
+            "كل عامين",
+            "كل اربع سنين"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_34.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_34.mp3",
+      "description": "يمكن لي نندمج دبا",
+      "answer": [
+        1
+      ],
+      "explanation": "المراة الجانبية كتوضح ما كايناش طوموبيلات جاية من الخلف، يمكن نندمج في حركة السير.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_35.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_35_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_35.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_35.mp3",
+      "description": "هاد الضوء كيرفرف",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "الإشارة الضوئية كترفرف يعني غير شغالة، خاصني ننقص السرعة. والإشارة الطرقية اللي تحتها كتعني عندي حق الأسبقية فهاد الملتقى.",
+      "optionGroups": [
+        {
+          "description": "ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نعطي حق الاسبقية لجميع مستعملي الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_36.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_36_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_36.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_36.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الطوموبيل اللي على اليسار ما نعطيهاش حق الأسبقية حيث غادا تبدل الاتجاه وغادي نولي على يمينها، يعني عندي حق الأسبقية. الطوموبيل اللي جاية من اليمين خاصني نعطيها حق الأسبقية.",
+      "optionGroups": [
+        {
+          "description": "نعطي حق الاسبقية للي جاي قبالتي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نعطي حق الاسبقية للي جاي من ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_37.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_37.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "عندنا علامة قف، خاص نوقف ونتأكد الطريق فارغة قبل المرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "ننقص من السرعة و ندوز ولا",
+            "نوقف لبعض الوقت و ندوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_38.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_38.mp3",
+      "description": "شرطي المرور كيشير لي انه من الواجب علي",
+      "answer": [
+        2
+      ],
+      "explanation": "إلا كان شرطي المرور كيشوف لينا مباشرة، هاد الإشارة تعني الوقوف.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز على ليمن",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_39.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_39.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "حنا فطريق رئيسية والطوموبيل اللي على اليمين فالطريق غير معبدة، خاصها تنتظر حتى تولي الطريق فارغة باش تمر، يعني أنا اللي نمر أول.",
+      "optionGroups": [
+        {
+          "options": [
+            "نسمح للسيارة بالمرور",
+            "ندوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_40.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_13/quiz_13_40_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_13/quiz_s_13_40.mp3",
+      "mp3": "files/audio/quiz_13/quiz_s_13_40.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "الإشارة الضوئية الخضراء كتعني المرور ولكن خاصني نعطي حق الأسبقية لسيارة الإسعاف حيث فمهمة مستعجلة.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نعطي حق الاسبقية"
+          ]
+        }
+      ]
+    }
+  ]
+}

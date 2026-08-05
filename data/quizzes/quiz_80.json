@@ -1,0 +1,891 @@
+{
+  "id": 80,
+  "title": "Quiz 80",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_1.gif",
+  "source": "siya9ati_v2",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_1.gif",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_1.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_1.mp3",
+      "description": "يمكن لي نتجاوز هاذ السيارة من ليمين",
+      "answer": [
+        1
+      ],
+      "explanation": "عملية التّجاوز تكون دائما من الجهة اليسرى، لكن يوجد حالة استثنائية واحدة يمكنني فيها من التّجاوز على اليمين، وهي عندما تكون عربة تستعد للانعطاف على اليسار مثل الصورة، مثل هذه الحالة يمكنني التّجاوز على اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_2.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_2.mp3",
+      "description": "",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "لدي تشوير أفقي (خط متقطع) يسمح لي بتجاوز الراجلين، لكن في هذه الحالة لا يمكنني تجاوزهما، أولا نحن نتواجد قرب منعرج وفي المنعرجات لا يمكننا التّجاوز وثانيا توجد شاحنة قادمة في الإتّجاه المعاكس، بالنسبة هل يمكنني تشغيل مؤشر تغيير الإتّجاه، فبما أنه لن أقوم بعملية التّجاوز إذن لن أقوم بتشغيله. إذن في هذه الحالة لا يمكنني تجاوز هؤلاء الرّاجلين ولا أقوم بتشغيل مؤشر تغيير الاتجاه.",
+      "optionGroups": [
+        {
+          "description": "يمكن لي نتجاوز هاذ الراجلين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نشغل مؤشر تغيير الاتجاه :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_3.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_3.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "كما توضّح الصورة فيوجد عربة من الخلف تستعد للتّجاوز إذن لا يمكنني التّجاوز الان، ويجب عليّ التزام أقصى اليمين.",
+      "optionGroups": [
+        {
+          "description": "نتجاوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نشد لليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_4.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_4.mp3",
+      "description": "من الواجب عليا ننحاز لاقصى ليمين",
+      "answer": [
+        2
+      ],
+      "explanation": "ليس من الواجب عليّ الانحياز إلى أقصى اليمين، لأنه كما توضح العلامة التّكميلية أسفل علامة الانحياز لليمين على أن هذا الانحياز لأقصى اليمين فهو خاص بالعربات ذات الوزن الثقيل أي الشاحنات، وهذا الانحياز لا يعنيني. إذن ليس من الواجب عليّ الانحياز لأقصى اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_5.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_5.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "التّشوير الأفقي خط المتّصل، غذن بما بما أن الخط المتّصل فلا يمكنني التّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز",
+            "ما نتجاوزش"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_6.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_6.mp3",
+      "description": "باش نتجاوز هاذ الراجل، نخلي مسافة ما كتقلش على",
+      "answer": [
+        2
+      ],
+      "explanation": "داخل التّجمع السّكني لكي أقوم بتجاوز راجل فيجب علينا ترك مسافة جانبية لا تقل عن متر واحد، وخارج التجمع السكني فأقوم بترك مسافة جانبية لا تقل عن متر ونصف، في هذه الحالة فيظهر في الصورة وجود منازل إذن نحن نتواجد داخل تجمع سكني، إذن بما أنني أتواجد داخل تجمع سكني فيحب عليّ ترك مسافة جانبية لا تقل عن متر واحد لكي أقوم بتجاوز هذا الرّاجل. الإجابة الصّحيحة هي رقم 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "50 سنتيمتر",
+            "متر",
+            "1,5 متر",
+            "2 متر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_7.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_7.mp3",
+      "description": "",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "في هذه الحالة فإن التّشوير الأفقي خط متّصل (لا يظهر جيّدا، استعمل أصابعك لتقريب الصورة لكي يظهر لك) إذن ممنوع التّجاوز، وبما أنه لن أقوم بالتّجاوز إذن لن أقوم بتشغيل مؤشِّر تغير الاتجاه.",
+      "optionGroups": [
+        {
+          "description": "من الواجب ننتظر قبل ما نتجاوز هاذ سائق الدراجة النارية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نشغل مؤشر تغيير الاتجاه :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_8.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_8.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "لديّ مسلكين للسّير بالنسبة لي، واحد للسّير العادي (الذي أتواجد فيه حاليا) والاخر خاص بالتّجاوز، بما أنه لا توجد عربة قادمة من الخلف تقوم بتجاوزي إذن في هذه الحالة يمكنني استعمال المسلك الذي على اليسار لكي أقوم بتجاوز هذه الحافلة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز",
+            "ما نتجاوزش"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_9.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_9.mp3",
+      "description": "يمكن للتعب يزيد من",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "التّعب يمكن أن يزيد من فترة استرجاع بعد الإبهار، لكي نشرح أكثر بالنسبة لفترة استرجاع بعد الإبهار فهي أن الشخص مثلا عندما يكون متعب وسيارة في الاتجاه المقابل استعملت أضواء الطّريق فهذا السائق بما أنه متعب سوف ينبهر وسوف يستغرق وقت أطول لاستيعاب الوضعية التي هو فيها. بالنسبة للتّعب يمكن أن يزيد كذلك من وقت رد الفعل، فمثلا لو كنت متعب فسوف أستغرق وقت أطول لكي أقوم باتخاذ قرار أثناء السياقة أي وقت رد الفعل سوف يصبح أطول.",
+      "optionGroups": [
+        {
+          "description": "فترة الاسترجاع بعد الابهار :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "الفترة الزمنية ديال رد الفعل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_10.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_10.mp3",
+      "description": "قبل التجاوز، يمكن لي ننبه هاذ السيارة باستعمال اشارة ضوئية",
+      "answer": [
+        1
+      ],
+      "explanation": "عندما نقوم بتجاوز عربة خارج التّجمع السّكني فيمكننا التّنبيه بواسطة إشارة ضوئية أو بواسطة المنبّه الصوتي، إذن في هذه الحالة وعندما أريد البدا بعملية التّجاوز فيمكنني استعمال الإشارة الضّوئية لكي أقوم بتنبيه هذه السيّارة التي أمامي.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_11.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_11.mp3",
+      "description": "الخط الموجود فالطريق من جهتي دليسر، يمكن لي نتجاوزو",
+      "answer": [
+        2
+      ],
+      "explanation": "يوجد 2 خطوط على الجهة اليسرى، ودائما الخط الذي يعنيني في مثل هذه الحالات فهو أول خط، الخط الاول بالنسبة لي هو خط متّصل وبعد ذلك يوجد خط متقطّع، الخط المتّصل هو الأول يعني لا يمكنني أن أتخطاه. إذن في هذه الحالة الخط الموجود على جهتي اليسرى لا يمكنني تجاوزه.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_12.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_12.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "لا توجد عربة قادمة من الخلف تقوم بعملية التّجاوز وأيضا التّشوير الأفقي فهو خط متقطع يسمح لي بتجاوزه (لا يوجد شيئ يمنعني من التّجاوز)، إذن في هذه الحالة يمكنني التّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "يمكن لي نتجاوز",
+            "ما يمكنش لي نتجاوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_13.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_13.mp3",
+      "description": "باش نتجاوز هاذ الراجل، نخلي مسافة امان ما تقلش على",
+      "answer": [
+        2
+      ],
+      "explanation": "داخل التّجمع السّكني لكي أقوم بتجاوز راجل فيجب علينا ترك مسافة جانبية لا تقل عن متر واحد، وخارج التجمع السكني فأقوم بترك مسافة جانبية لا تقل عن متر ونصف، في هذه الحالة فيظهر في الصورة وجود منازل إذن نحن نتواجد داخل تجمع سكني، إذن بما أنني أتواجد داخل تجمع سكني فيحب عليّ ترك مسافة جانبية لا تقل عن متر واحد لكي أقوم بتجاوز هذا الرّاجل. الإجابة الصّحيحة هي رقم 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "50 سنتيمتر",
+            "متر",
+            "1,5 متر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_14.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_14.mp3",
+      "description": "الخط الموجود فالطريق من جهتي دليسر، يمكن لي نتجاوزو",
+      "answer": [
+        1
+      ],
+      "explanation": "يوجد 2 خطوط على الجهة اليسرى، ودائما الخط الذي يعنيني في مثل هذه الحالات فهو أول خط، الخط الاول بالنسبة لي هو خط متقطّع وبعد ذلك يوجد خط متّصل، الخط المتقطّع هو الأول يعني يمكنني أن أتخطاه. إذن في هذه الحالة الخط الموجود على جهتي اليسرى يمكنني تجاوزه.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_15.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_15.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "أقوم بالتّنبيه بإشارة ضوئية لكي أنبّه الراجل أنّني أسير خلفه (بما أن استعمال المنبّه الصوتي ممنوع استعماله على الرّاجلين) وأيضا لكي تقوم السّيارة التي توجد في الاتجاه المعاكس بتغيير الأضواء التي تسير بها من أضواء الطّريق إلى أضواء التّقابل، و دائما عند وجود خطر أمامي فأقوم بالإنقاص من السّرعة (الخطر هنا هو الرّاجل الذي يسير على الطّريق)، إذن في هذه الحالة أقوم بالتّنبيه بإشارة ضوئية وأقوم بالإنقاص من السّرعة.",
+      "optionGroups": [
+        {
+          "description": "ننبه باشارة ضوئية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_16.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_16.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "العربة التي أمامي فهي متوقّفة ويجب عليّ أن أقوم بتجاوزها لكي أكمل السّير، لكن لا يمكنني التّجاوز الان، توجد سيارة قادمة في الاتجاه المعاكس. يجب عليّ الانتظار لكي أقوم بالتّجاوز. إذن في هذه الحالة لا أتّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز",
+            "ما نتجاوزش"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_17.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_17.mp3",
+      "description": "نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "يوجد منعرج على اليمين والرؤية غير واضحة، لا يمكنني التّجاوز عندما أتواجد قرب منعرج. إذن في هذه الحالة لا أتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_18.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_18.mp3",
+      "description": "نتجاوز هاذ الراجلين",
+      "answer": [
+        2
+      ],
+      "explanation": "المرآة الدّاخلية للسيّارة توضّح أنه توجد سيّارة تستعد لتجاوزي. إذن في هذه الحالة لا يمكنني تجاوز هؤلاء الرّاجلين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_19.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_19.mp3",
+      "description": "نتجاوز سائق الدراجة",
+      "answer": [
+        2
+      ],
+      "explanation": "المرآة الدّاخلية للسيّارة توضّح أنه توجد سيّارة تستعد لتجاوزي. إذن في هذه الحالة لا يمكنني تجاوز سائق الدَّراجة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_20.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_20.mp3",
+      "description": "نتجاوز هاذ الحافلة",
+      "answer": [
+        1
+      ],
+      "explanation": "المرآة الدّاخلية للسيّارة توضّح أنه لا توجد عربة تستعد لتجاوزي. إذن في هذه الحالة بما أنه لا توجد عربة تستعد لتجاوزي والطّريق التي أتواجد فيها فهي ذات إتّجاه واحد إذن يمكنني تجاوز هذه الحافلة. (لا يوجد تشوير يوضّح أنها طريق ذات إتّجاه واحد، لكن لو لاحظت جيّدا في الصورة ففي الجهة الأخرى توجد سيارات قادمة من الاتجاه المعاكس وهذا يدل على أن هذه الطّريق ذات إتّجاه واحد).",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_21.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_21.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "يوجد راجل على الطّريق ولكي أقوم بتجاوزه يجب عليّ انتظار مرور السيّارة التي توجد في الاتجاه المقابل. إذن في هذه الحالة أنتظر لكي أقوم بالتّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز بسرعة",
+            "ننتظر باش نتجاوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_22.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_22.mp3",
+      "description": "قبل ما نتجاوز، ننبه سائق هذا الدراجة",
+      "answer": [
+        1
+      ],
+      "explanation": "إستعمال الاشارة الضّوئية لن يكون لها تأثير ولن ينتبه لها سائق الدّراجة  ولن يعرف أنني قمت بتنبيهه، غذن في هذه الحالة بما أنني أتواجد خارج التّجمع السكني والمنبّه الصوتي مسموح به إذن أقوم بالتّنبيه بالمنبّه الصّوتي قبل تجاوز صاحب الدرّاجة.",
+      "optionGroups": [
+        {
+          "options": [
+            "بالمنبه الصوتي",
+            "باشارة ضوئية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_23.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_23.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "المرآة الدّاخلية للسيّارة توضّح أنه توجد سيّارة إسعاف من الخلف وهي في مهمّة استعجالية، وهذا واضح من خلال الأضواء الحمراء الموجودة فوقها،. إذن بما أن سيارة الإسعاف توجد في مهمّة استعجالية فإن الأسبقية لها في المرور أولا. إذن في هذه الحالة أقوم بالانتظار للتّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز بسرعة",
+            "ننتظر باش نتجاوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_24.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_24.mp3",
+      "description": "يمكن لي نتجاوز هاذ الراجل",
+      "answer": [
+        2
+      ],
+      "explanation": "يوجد راجل يسير في وسط الطّريق ولكي أقوم بتجاوزه يجب أن تكون الظروف تسمح لي بالتّجاوز. الظّروف الان لا تسمح لي بالتّجاوز لأنه توجد عربات قادمة في الإتّجاه المعاكس. إذن لا يمكنني تجاوز هذا الرّاجل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_25.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_25.mp3",
+      "description": "هاد العلامة كتمنع تجاوز",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "علامة المنع فهي تعني ممنوع تجاوز العربات ذات محرّك باستثناء الدراجات التي ليس بها مقعد جانبي، يعني العلامة الطّرقية تمنعني من تجاوز العربات التي لديها محرك و 4 عجلات والدّراجات التي لها مقعد جانبي، ولا تمنعني من تجاوز أنواع الدّراجات الأخرى. إذن في هذه الحالة العلامة تمنع تجاوز السيارات والعربات ذات الوزن الثقيل.",
+      "optionGroups": [
+        {
+          "options": [
+            "السيارات",
+            "العربات ذات الوزن الثقيل",
+            "الدراجات"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_26.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_26.mp3",
+      "description": "نعلم بلي غنتجاوز باستعمال اشارة ضوئية بواسطة اضواء الطريق",
+      "answer": [
+        1
+      ],
+      "explanation": "عندما أريد تنبيه عربة أمامي على أنّني سوف أقوم بعملية التّجاوز فأقوم بتنبيهها بإستعمال أضواء الطّريق.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_27.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_27.mp3",
+      "description": "نتجاوز صاحب الدراجة",
+      "answer": [
+        1
+      ],
+      "explanation": "كما توضّح الصورة فالطّريق ذات إتّجاه واحد يعني يوجد مسلكين للسّير، المسلك الأول الذي أتواجد فيه الان وهو خاص بالسّير العادي والمسلك الثاني على اليسار فهو خاص بالتّجاوز، بما أنه لا توجد عربة تقوم بعملية التّجاوز من الخلف إذن يمكنني التّجاوز. إذن في هذه الحالة يمكنني تجاوز صاحب الدراجة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_28.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_28.mp3",
+      "description": "نستعمل المنبه الصوتي قبل التجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "نحن نعلم أن استعمال المنبّه الصوتي ممنوع داخل التجمّع السّكني لكن صيغة السؤال والحالة فهي تشير إلى عملية التّجاوز، بمعنى أن السؤال ليس فقط هل أستعمل المنبّه الصوتي، لكن السؤال صيغته تقول هل أستعمل المنبّه الصوتي لكي أتجاوز، وهنا يقصد التّجاوز، ونحن نعلم أنه عندما نريد التّجاوز فيجب علينا التّنبيه بإشارة ضوئية أو بالمنبّه الصوتي، الإشارة الضوئية هنا ليست فعّالة ولن يراها سائقو الدّراجات خصوصا في النّهار لذلك سوف أقوم بإستعمال منبّه الصوتي قبل عملية التّجاوز. إذن في هذه الحالة أقوم بإستعمال المنبّه الصوتي قبل التّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_29.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_29.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "إذا كانت الطّريق ليست طريق ذات إتّجاه واحد (مثلا طّريق السيّار) فلا يمكنني أن أقوم بعملية التّجاوز لسلسلة من العربات. في هذه الطّريق كما هو واضح يمكن أن أجد عربات قادمة من الاتجاه المعاكس وإذا قمت بعملية التّجاوز ففي تلك اللحظة لن أستطيع السّير في المسلك الخاص بي لأنه توجد عربات أتجاوزها. لذلك في هذه الحالة لا أقوم بتّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز",
+            "ما نتجاوزش"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_30.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_30.mp3",
+      "description": "",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "التّشوير الأفقي خط متقطّع فهو يسمح بعملية التّجاوز، لكن لن أقوم بتجاوز هذه السيّارة الان، أولا لأن السيّارة توقفت لإعطاء حق الأسبقية للرّاجل الذي يقوم بقطع الطّريق ويسير فوق ممر الرّاجلين وثانيا لو قمت بالتّجاوز فسوف أرتكب مخالفة لأنه سوف يكون خطر الاصطدام بالراجل ولم أقم بإعطائه حق الأسبقية في المرور. إذن في هذه الحالة التّشوير الأفقي الخط المتقطّع يسمح بالتّجاوز لكن لا يمكنني تجاوز السيّارة الان.",
+      "optionGroups": [
+        {
+          "description": "التشوير الطرقي كيسمح بالتجاوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نتجاوز هاذ السيارة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_31.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_31.mp3",
+      "description": "باش نتجاوز، نستعمل",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "الطّريق ذات إتّجاه واحد وهذا واضح من خلال الخط المتّصل أقصى اليسار، وهذا يعني أنه لن توجد عربات قادمة في الاتجاه المعاكس. إذن لكي أقوم بالتّجاوز على اليسار فدائما أقوم بإستعمال مؤشر تغيير الاتجاه لليسار، بما أنه نتواجد خارج التّجمع السّكني ونتواجد في النّهار فيمكنني استعمال منبّه الصوتي للتّنبيه قبل التّجاوز. إذن في هذه الحالة لكي أقوم بالتّجاوز فأقوم بإستعمال مؤشر تغيير الاتجاه لليسار وأقوم بالتّنبيه بالمنبّه الصّوتي.",
+      "optionGroups": [
+        {
+          "description": "ضوء تغيير الاتجاه ديال ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "المنبه الصوتي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_32.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_32.mp3",
+      "description": "قبل ما نتجاوز، ننبه سائق الشاحنة بالمنبه الصوتي",
+      "answer": [
+        1
+      ],
+      "explanation": "دائما قبل التّجاوز أقوم بتنبيه العربة التي أمامي بالمنبّه الصوتي أو بإشارة ضوئية (على حسب الحالة)، في هذه الحالة نتواجد في النّهار وخارج التّجمع السّكني إذن المنبّه الصوتي مسموح به لكي أقوم بتنبيه سائق الشاحنة قبل التّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_33.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_33.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "يوجد عربات من الخلف ويوجد خطر أن تصطدم بي في حالة إذا قمت بالحصر بقوّة، لذلك لا أقوم بالحصر بقوة. استعمال المنبّه الصوتي فهو منوع داخل التجمّع السكني (كما توضّح الصورة يوجد منازل وهذا يعني على أننا داخل تجمّع سكني) إضافة على أنه استعمال منبّه الصوتي على الدّراجات فهو ممنوع. وفي حالات الخطر أقوم بالإنقاص من السّرعة، وهنا يوجد خطر سائق الدراجة يسير في وسط الطّريق. إذن في هذه الحالة أقوم بالإنقاص من السّرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نقوم بالحصر بقوة",
+            "ننقص من السرعة",
+            "نستعمل المنبه الصوتي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_34.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_34.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "التّّشوير الأفقي الخط المتّصل يمنعني من التّجاوز. إذن في هذه الحالة لا أقوم بالتّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز",
+            "مانتجاوزش"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_35.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_35.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "لا توجد عربة تستعد لتجاوزي من الخلف، ولا توجد عربة قادمة من الإتّجاه المعاكس، كما أن التّشوير الأفقي الخط المتقطّع فهو يسمح لي بالتّجاوز. إذن في هذه الحالة يمكن لي التّجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "يمكن لي نتجاوز",
+            "ما يمكنش لي نتجاوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_36.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_36.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "نتواجد قرب منعرج والطّريق ذات اتّجاهين يعني توجد عربات قادمة من الاتجاه المعاكس (لكي أعرف هل الطّريق ذات إتّجاه واحد أو اتّجاهين فأقوم بالتحقق أقصى اليسار هل يوجد خط متّصل أم لا، في هذه الصورة كما نلاحظ في أقصى اليسار لا يوجد أصلا خط وهذا يعني أن الطّريق ذات اتّجاهين)، إذن بما أنه يوجد خطر وجود عربات قادمة من الاتجاه المعاكس وكذلك نتواجد قرب منعرج إذن لا أقوم بالتّجاوز. (لو كانت الطّريق ذات إتّجاه واحد فيمكنني التّجاوز رغم وجود منعرج لأنه في تلك الحالة لن تتواجد عربات قادمة من الاتّجاه المعاكس).",
+      "optionGroups": [
+        {
+          "options": [
+            "نتجاوز بسرعة",
+            "ما نتجاوزش"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_37.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_37.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "توجد سيارة تستعد لتجاوزي من الخلف، عندما تستعد سيارة لتجاوزي فلا أقوم بالزيادة في السّرعة ولا أقوم بالإنقاص من السّرعة، أحتفظ بالسرعة التي أسير بها وألتزم اليمين. إذن في هذه الحالة ألتزم اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "يمكن لي نزيد فالسرعة",
+            "نشد ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_38.gif",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_38.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_38.mp3",
+      "description": "",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "توجد سيارة تستعد لتجاوزي من الخلف، عندما تستعد سيارة لتجاوزي فلا أقوم بالزيادة في السّرعة ولا أقوم بالإنقاص من السّرعة، أحتفظ بالسرعة التي أسير بها وألتزم اليمين. إذن في هذه الحالة أحتفظ بالسّرعة التي أسير بها و ألتزم اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نحتفظ بالسرعة ديالي",
+            "ننقص من السرعة",
+            "نزيد من السرعة",
+            "نشد ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_39.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_39.mp3",
+      "description": "خطر النعاس كيزيد",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "عندما تكون الطّريق طويلة بدون منعرجات وبدون عربات كثيرة فيوجد الملل الذي يؤدي إلى خطر النّوم، على عكس الطريق عندما تكون فيها عربات وتكون فيها منعرجات فدائما السائق يكون حذر ولا يشعر بالملل الذي يؤدي إلى النّوم. بالنسبة للحرارة فهي تؤدي أيضا بخطر النّوم، لأن الحرارة تشعر السائق بالارتخاء وبالتالي خطر النّوم.",
+      "optionGroups": [
+        {
+          "description": "إلا كانت الطريق مملة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "إلا كانت الحرارة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_80/quiz_80_40.gif",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_80/quiz_s_80_40.mp3",
+      "mp3": "files/audio/quiz_80/quiz_s_80_40.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "توجد شاحنة تستعد لتجاوزي من الخلف، عندما تستعد عربة لتجاوزي فلا أقوم بالزيادة في السّرعة ولا أقوم بالإنقاص من السّرعة، أحتفظ بالسرعة التي أسير بها وألتزم اليمين. إذن في هذه الحالة أحتفظ بالسّرعة التي أسير بها.",
+      "optionGroups": [
+        {
+          "options": [
+            "نحتفظ بالسرعة ديالي",
+            "ننقص من السرعة",
+            "نزيد فالسرعة"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "folder": "khatar-asba9ia",
+    "title_fr": "Signaux de danger et de priorité",
+    "title_ar": "علامات الخطر والأسبقية",
+    "count": 57
+  },
+  {
+    "id": 2,
+    "folder": "louihat",
+    "title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق",
+    "count": 45
+  },
+  {
+    "id": 3,
+    "folder": "alman3",
+    "title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "title_ar": "عالمات المنع ونهاية المنع",
+    "count": 71
+  },
+  {
+    "id": 4,
+    "folder": "ijbar",
+    "title_fr": "Obligation et fin d'obligation",
+    "title_ar": "علامات الإجبار ونهاية الإجبار",
+    "count": 33
+  },
+  {
+    "id": 5,
+    "folder": "mawaqi3",
+    "title_fr": "Signaux de localisation",
+    "title_ar": "علامات المواقع",
+    "count": 47
+  }
+]

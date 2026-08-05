@@ -1,0 +1,62 @@
+[
+  {
+    "id": "safety",
+    "label_fr": "Sécurité et urgences",
+    "label_ar": "السلامة و الطوارئ",
+    "count": 73
+  },
+  {
+    "id": "documents",
+    "label_fr": "Documents, permis et infractions",
+    "label_ar": "الوثائق و الرخصة",
+    "count": 33
+  },
+  {
+    "id": "highway",
+    "label_fr": "Conduite sur autoroute",
+    "label_ar": "الطريق السيار",
+    "count": 20
+  },
+  {
+    "id": "priority",
+    "label_fr": "Priorité et droit de passage",
+    "label_ar": "الأسبقية",
+    "count": 8
+  },
+  {
+    "id": "parking",
+    "label_fr": "Arrêt et stationnement",
+    "label_ar": "الوقوف و التوقف",
+    "count": 8
+  },
+  {
+    "id": "lighting",
+    "label_fr": "Visibilité et éclairage",
+    "label_ar": "الرؤية و الإضاءة",
+    "count": 6
+  },
+  {
+    "id": "speed",
+    "label_fr": "Vitesse et distances",
+    "label_ar": "السرعة و المسافات",
+    "count": 5
+  },
+  {
+    "id": "signs",
+    "label_fr": "Signalisation routière",
+    "label_ar": "التشوير الطرقي",
+    "count": 5
+  },
+  {
+    "id": "overtaking",
+    "label_fr": "Dépassement et croisement",
+    "label_ar": "التجاوز و التقابل",
+    "count": 1
+  },
+  {
+    "id": "maneuvering",
+    "label_fr": "Manoeuvres",
+    "label_ar": "المناورات",
+    "count": 1
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "commercial",
+    "group": "vehicle",
+    "label_fr": "Transport commercial",
+    "label_ar": "النقل التجاري",
+    "count": 33
+  },
+  {
+    "id": "truck",
+    "group": "vehicle",
+    "label_fr": "Camion",
+    "label_ar": "الشاحنة",
+    "count": 30
+  },
+  {
+    "id": "highway",
+    "group": "context",
+    "label_fr": "Autoroute",
+    "label_ar": "الطريق السيار",
+    "count": 22
+  },
+  {
+    "id": "tachograph",
+    "group": "equipment",
+    "label_fr": "Chronotachygraphe",
+    "label_ar": "جهاز قياس الزمن",
+    "count": 15
+  },
+  {
+    "id": "cargo-weight",
+    "group": "cargo",
+    "label_fr": "Poids du chargement",
+    "label_ar": "وزن الحمولة",
+    "count": 12
+  },
+  {
+    "id": "cargo-loading",
+    "group": "cargo",
+    "label_fr": "Arrimage du chargement",
+    "label_ar": "شد الحمولة",
+    "count": 11
+  },
+  {
+    "id": "passenger",
+    "group": "people",
+    "label_fr": "Passager",
+    "label_ar": "الركاب",
+    "count": 11
+  },
+  {
+    "id": "registration",
+    "group": "documents",
+    "label_fr": "Carte d'immatriculation",
+    "label_ar": "شهادة التسجيل",
+    "count": 9
+  },
+  {
+    "id": "intersection",
+    "group": "context",
+    "label_fr": "Intersection",
+    "label_ar": "ملتقى الطرق",
+    "count": 7
+  },
+  {
+    "id": "cargo-dimensions",
+    "group": "cargo",
+    "label_fr": "Dimensions du chargement",
+    "label_ar": "أبعاد الحمولة",
+    "count": 7
+  },
+  {
+    "id": "license-missing",
+    "group": "documents",
+    "label_fr": "Permis manquant",
+    "label_ar": "غياب الرخصة",
+    "count": 7
+  },
+  {
+    "id": "speeding",
+    "group": "speed",
+    "label_fr": "Excès de vitesse",
+    "label_ar": "تجاوز السرعة",
+    "count": 6
+  },
+  {
+    "id": "lighting-equipment",
+    "group": "equipment",
+    "label_fr": "Équipement d'éclairage",
+    "label_ar": "أجهزة الإنارة",
+    "count": 6
+  },
+  {
+    "id": "drugs",
+    "group": "behavior",
+    "label_fr": "Stupéfiants",
+    "label_ar": "المخدرات",
+    "count": 6
+  },
+  {
+    "id": "refusal-to-stop",
+    "group": "behavior",
+    "label_fr": "Refus d'obtempérer",
+    "label_ar": "رفض الوقوف",
+    "count": 6
+  },
+  {
+    "id": "license-suspended",
+    "group": "documents",
+    "label_fr": "Permis suspendu",
+    "label_ar": "رخصة موقوفة",
+    "count": 6
+  },
+  {
+    "id": "night",
+    "group": "context",
+    "label_fr": "Nuit",
+    "label_ar": "الليل",
+    "count": 5
+  },
+  {
+    "id": "brakes",
+    "group": "equipment",
+    "label_fr": "Freins",
+    "label_ar": "الفرامل",
+    "count": 4
+  },
+  {
+    "id": "pedestrian",
+    "group": "people",
+    "label_fr": "Piéton",
+    "label_ar": "الراجل",
+    "count": 4
+  },
+  {
+    "id": "alcohol",
+    "group": "behavior",
+    "label_fr": "Alcool",
+    "label_ar": "الكحول",
+    "count": 4
+  },
+  {
+    "id": "bridge",
+    "group": "context",
+    "label_fr": "Pont",
+    "label_ar": "القنطرة",
+    "count": 3
+  },
+  {
+    "id": "railway-crossing",
+    "group": "context",
+    "label_fr": "Passage à niveau",
+    "label_ar": "تقاطع السكة الحديدية",
+    "count": 3
+  },
+  {
+    "id": "trailer",
+    "group": "vehicle",
+    "label_fr": "Remorque",
+    "label_ar": "المقطورة",
+    "count": 3
+  },
+  {
+    "id": "motorcycle",
+    "group": "vehicle",
+    "label_fr": "Moto",
+    "label_ar": "الدراجة النارية",
+    "count": 3
+  },
+  {
+    "id": "injury",
+    "group": "crimes",
+    "label_fr": "Blessures",
+    "label_ar": "الإصابات",
+    "count": 3
+  },
+  {
+    "id": "one-way",
+    "group": "context",
+    "label_fr": "Sens interdit",
+    "label_ar": "اتجاه ممنوع",
+    "count": 2
+  },
+  {
+    "id": "technical-inspection",
+    "group": "documents",
+    "label_fr": "Contrôle technique",
+    "label_ar": "الفحص التقني",
+    "count": 2
+  },
+  {
+    "id": "tunnel",
+    "group": "context",
+    "label_fr": "Tunnel",
+    "label_ar": "النفق",
+    "count": 2
+  },
+  {
+    "id": "tires",
+    "group": "equipment",
+    "label_fr": "Pneus",
+    "label_ar": "العجلات",
+    "count": 2
+  },
+  {
+    "id": "seatbelt",
+    "group": "equipment",
+    "label_fr": "Ceinture de sécurité",
+    "label_ar": "حزام السلامة",
+    "count": 2
+  },
+  {
+    "id": "phone",
+    "group": "behavior",
+    "label_fr": "Téléphone",
+    "label_ar": "الهاتف",
+    "count": 2
+  },
+  {
+    "id": "speed-limiter",
+    "group": "speed",
+    "label_fr": "Limiteur de vitesse",
+    "label_ar": "محدد السرعة",
+    "count": 2
+  },
+  {
+    "id": "extinguisher",
+    "group": "equipment",
+    "label_fr": "Extincteur",
+    "label_ar": "قارورة الإطفاء",
+    "count": 2
+  },
+  {
+    "id": "license-expired",
+    "group": "documents",
+    "label_fr": "Permis expiré",
+    "label_ar": "رخصة منتهية",
+    "count": 2
+  },
+  {
+    "id": "homicide",
+    "group": "crimes",
+    "label_fr": "Homicide involontaire",
+    "label_ar": "القتل غير العمدي",
+    "count": 2
+  },
+  {
+    "id": "medication",
+    "group": "behavior",
+    "label_fr": "Médicaments",
+    "label_ar": "الأدوية",
+    "count": 2
+  },
+  {
+    "id": "fatigue",
+    "group": "behavior",
+    "label_fr": "Fatigue",
+    "label_ar": "التعب",
+    "count": 2
+  },
+  {
+    "id": "speed-30-50",
+    "group": "speed",
+    "label_fr": "Excès 30-50 km/h",
+    "label_ar": "تجاوز 30-50 كلم/س",
+    "count": 1
+  },
+  {
+    "id": "speed-20-30",
+    "group": "speed",
+    "label_fr": "Excès 20-30 km/h",
+    "label_ar": "تجاوز 20-30 كلم/س",
+    "count": 1
+  },
+  {
+    "id": "emergency-vehicle",
+    "group": "people",
+    "label_fr": "Véhicule de secours",
+    "label_ar": "سيارة الإسعاف",
+    "count": 1
+  },
+  {
+    "id": "children",
+    "group": "people",
+    "label_fr": "Enfants",
+    "label_ar": "الأطفال",
+    "count": 1
+  },
+  {
+    "id": "agricultural",
+    "group": "vehicle",
+    "label_fr": "Véhicule agricole",
+    "label_ar": "المركبة الفلاحية",
+    "count": 1
+  },
+  {
+    "id": "helmet",
+    "group": "equipment",
+    "label_fr": "Casque",
+    "label_ar": "الخوذة",
+    "count": 1
+  },
+  {
+    "id": "insurance",
+    "group": "documents",
+    "label_fr": "Assurance",
+    "label_ar": "التأمين",
+    "count": 1
+  },
+  {
+    "id": "mirrors",
+    "group": "equipment",
+    "label_fr": "Rétroviseurs",
+    "label_ar": "المرايا",
+    "count": 1
+  },
+  {
+    "id": "hit-and-run",
+    "group": "behavior",
+    "label_fr": "Délit de fuite",
+    "label_ar": "الفرار بعد حادثة",
+    "count": 1
+  },
+  {
+    "id": "speed-50-plus",
+    "group": "speed",
+    "label_fr": "Excès 50+ km/h",
+    "label_ar": "تجاوز 50+ كلم/س",
+    "count": 1
+  },
+  {
+    "id": "fog",
+    "group": "context",
+    "label_fr": "Brouillard",
+    "label_ar": "الضباب",
+    "count": 1
+  }
+]

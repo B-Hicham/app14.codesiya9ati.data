@@ -1,0 +1,932 @@
+{
+  "id": 22,
+  "title": "Quiz 22",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_1.jpg",
+  "source": "siya9a_maroc",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_1.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_1.mp3",
+      "description": "يمكن لي نتجاوز هاذ الشاحنة دابا",
+      "answer": [
+        2
+      ],
+      "explanation": "ملي كنكونو في طريق بجوج اتجاهات بحال طريق وطنية، ما يمكنش نتبعو طوموبيل كدير تجاوز لطوموبيل أخرى. فهاذ الحالة، ما يمكنش نتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_2.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_2.mp3",
+      "description": "احسن طريقة باش نزول مفعول الكحول قبل ما نقبط الطريق هو",
+      "answer": [
+        4
+      ],
+      "explanation": "خاص نصبر باش يزول مفعول الشراب قبل ما نسوق.",
+      "optionGroups": [
+        {
+          "options": [
+            "ناخذ حمام بسرعة",
+            "نشرب كاس ديال القهوة مالحة",
+            "نقوم بالتقيء",
+            "ننتظر بعض الساعات"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_3.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_3.mp3",
+      "description": "فحالة استعجالية",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "إلى وقع شي عطب مفاجئ ولا كنت في حالة استعجالية، نقدر نستعمل جهاز طلب الإغاثة، وحتى مطفأة الحريق يمكن لأي واحد يستعملها فحالات الاستعجال وماشي غير رجال المطافئ.",
+      "optionGroups": [
+        {
+          "description": "نستعمل جهاز طلب الإغاثة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "رجال المطافئ وحدهم عندهم الحق يستعملوا مطفئة الحريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_4.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_4.mp3",
+      "description": "فهاد الطريق ذات اتجاه واحد، يمكن لي نوقف",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "فطريق باتجاه واحد يمكن لينا نوقفو ونحبسو فالجهة اليمنى أو اليسرى، فهاذ الحالة التوقف ممنوع حيت العلامة كتشير للمنع، ولكن الوقوف ممكن حيث ما كايناش علامة كتمنع الوقوف فاليمين أو فاليسار.",
+      "optionGroups": [
+        {
+          "description": "على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_5.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_5.mp3",
+      "description": "باش ندوز على ليمن ، يمكن لي نبدل المسار",
+      "answer": [
+        2
+      ],
+      "explanation": "ما نقدرش نبدل المسلك حيث كاين خط متّصل اللي ما خاصنيش نتخطاه.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_6.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_6.mp3",
+      "description": "مسافة الامان الدنيوية من الواجب تكون",
+      "answer": [
+        1
+      ],
+      "explanation": "تحديد السرعة هو 70 كلم ف الساعة كيفما كتشير العلامة، والمسافة اللي خاصني نحتافظ بيها هي على الأقل 150 متر بيني وبين الطوموبيل اللي قدامي كيفما كتشير العلامة الثانية.",
+      "optionGroups": [
+        {
+          "options": [
+            "150 مترو",
+            "70 مترو",
+            "40 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_7.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_7.mp3",
+      "description": "باش نتوقف فهاد المكان، من الواجب نترك اضواء الوضع مشعولة",
+      "answer": [
+        2
+      ],
+      "explanation": "فهاذ البلاصة باش نحبس ما خاصنيش نخلي الاضواء شاعلين، حيث كاين الإنارة ديال الشارع.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_8.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_8.mp3",
+      "description": "اشعل هاذ الضو الجاذب فالحين",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "الضو الأحمر الجاذب الوحيد اللي ما كنوقفش الى شعل هو ضوّ البطارية، يمكن نكمل ونتأكد منها حتى نوصل، ولكن باقي الأضواء ملي يشعلو بالأحمر خاصني نشعل ضوّ النجدة ونوقف فالجهة اليمنى.",
+      "optionGroups": [
+        {
+          "options": [
+            "نشعل اضواء النجدة",
+            "نكمل طريقي",
+            "نوقف فوق المساحة المخططة على ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_9.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_9.mp3",
+      "description": "على هذ النوع ديال الطرقات، يمكن لي نوجد",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "فالطريق السيار، نقدر نلقى الدراجات النارية السريعة (لي كيخصها رخصة سياقة)، ولكن ما نلقاش أصحاب الدراجات العادية حيت ممنوع عليهم السياقة فالطريق السيار.",
+      "optionGroups": [
+        {
+          "description": "أصحاب الدراجات النارية السريعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "أصحاب الدراجات العادية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_10.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_10.mp3",
+      "description": "عند اخذ المسار باش نغير الاتجاه على ليمن، من الواجب علي",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة كتشير لملتقى الطرق، باش نبدل الاتجاه لليمين في ملتقيات الطرق دائما نعطي حق الأسبقية للطوموبيلات اللي جاية من اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعطي حق الاسبقية للي جlocaleاين من ليمن",
+            "نعطي حق الاسبقية للي جايين من ليسر",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_11.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_11.mp3",
+      "description": "يمكن لي نتجاوز هاذ السيارة",
+      "answer": [
+        1
+      ],
+      "explanation": "ما كايناش طوموبيل كتوجد للتجاوز من ورايا وما كايناش طوموبيل جاية من الاتجاه المعاكس، الخط المتقطع كيسمح ليا بالتجاوز، إذن يمكنني نتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_12.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_12.mp3",
+      "description": "من الواجب ندور على ليمن",
+      "answer": [
+        2
+      ],
+      "explanation": "السهم الأخضر فالضوّ يعني يمكن ندور لليمين ولكن ماكيجبرنيش.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_13.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_13.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "الإشارة الخاصة بالمنع كتعني أن الطوموبيلات اللي كيتجاوز طولها الرقم المشار اليه فالعلامة ممنوعة من المرور، والإشارة الصفراء المؤقتة كتقول أن الطريق غادي تضيق من الجهتين.",
+      "optionGroups": [
+        {
+          "description": "ممنوع المرور على العربات اللي كيتجاوز لعلو ديالها 4,60 مترو :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "غتضياق الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_14.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_14.mp3",
+      "description": "على بعد 400 متر، غنوجد",
+      "answer": [
+        4
+      ],
+      "explanation": "الإشارة الطُرقيّة كتقول أن بعد 400 متر غادي نلقى طريق ذات أولوية.",
+      "optionGroups": [
+        {
+          "options": [
+            "الضو احمر",
+            "الضو اخضر",
+            "علامة قف",
+            "طريق ذات الاولوية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_15.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_15.mp3",
+      "description": "من الواجب علي نسمح بمرور الحافلة",
+      "answer": [
+        1
+      ],
+      "explanation": "الحافلة بدلات الاتجاه نحو اليسار شوية باش تقدر تمر بسبب الأشغال، وأنا بعيد، إذن خاصني نخليها تمر باش ما نعرقلوش حركة السير.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_16.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_16.mp3",
+      "description": "على طول هاذ الرصيف، يمكن لي نوقف باش ننزل راكب",
+      "answer": [
+        2
+      ],
+      "explanation": "الرصيف مصبوغ باللون الأصفر، فهاد الحالة ما يمكنش نوقف ولا نتوقف.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_17.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_17.mp3",
+      "description": "انا فالمكان المناسب باش نتوجه لممر الخروج الموجود",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "فالرومبوان إلى كنت فالجهة اليسرى (يعني مني للرومبوان)، فهذا يعني غادي ندور لليسار من بعد الرومبوان. باش نتجه للأمام خاصني نكون فالمسلك اليمين، إذن أنا فالمكان المناسب باش نخرج من الرومبوان فاليسار ولكن ماشي باش نكمل للأمام.",
+      "optionGroups": [
+        {
+          "description": "فالقدام :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_18.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_18.mp3",
+      "description": "يمكن لي السير",
+      "answer": [
+        2
+      ],
+      "explanation": "فالفترة الليلية وداخل المدينة، مع وجود إنارة الشارع يمكنني نستعمل أضواء الوضع أو أضواء التقابل. أضواء الطريق ما تستعملش داخل المدينة إلاّ للتنبيه.",
+      "optionGroups": [
+        {
+          "options": [
+            "باضواء الوضع وحدهم",
+            "باضواء التقابل",
+            "باضواء الطريق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_19.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_19.mp3",
+      "description": "السرعة محددة في 60 كلم/س",
+      "answer": [
+        3
+      ],
+      "explanation": "الإشارة الطُرقيّة تعني تحديد السرعة في 60 كلم ف الساعة فمدينة بنسليمان كاملة.",
+      "optionGroups": [
+        {
+          "options": [
+            "غير فهاد الطريق",
+            "فالحي كلو",
+            "فمدينة بنسليمان كلها"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_20.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_20.mp3",
+      "description": "عند هاد الملتقى، من الواجب",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "كاينة علامة قف، إذن ضروري نوقف فملتقى الطرق ونعطي حق الأسبقية للطوموبيلات اللي جاية من الجهة اليسرى فقط حيث ما كايناش طوموبيلات جاية من اليمين.",
+      "optionGroups": [
+        {
+          "description": "نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نعطي حق الاسبقية للي جايين من ليسر وحدهوم :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_21.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_21.mp3",
+      "description": "صديق ديالي سلف لي مقطورة مجموع الوزن ديالها المرخص مع الحمولة 250 كلغ، من الواجب علي",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "ملي كنجر مقطورة من الخلف خاصني نركب لوح تسجيل فالمقطورة بنفس أرقام الطوموبيل، وما خاصنيش نبدل الورقة الرمادية حيث الحمولة لا تتعدى 750 كجم.",
+      "optionGroups": [
+        {
+          "description": "توضع على المقطورة لوحة تسجيل مشابهة للعربة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "من الواجب علي نبدل الورقة الرمادية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_22.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_22.mp3",
+      "description": "غندور على ليمن، نعطي حق الاسبقية",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الأسبقية خاصني نعطيها للطوموبيلات اللي جاية من اليمين، ما نعطيش الأسبقية للطوموبيل السوداء حيث هي فليسار، ولكن الراجلين ضروري نعطيهم الأسبقية.",
+      "optionGroups": [
+        {
+          "description": "للسيارة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "للراجلين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_23.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_23.mp3",
+      "description": "غنتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "الخط المتصل كيمنعني من التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_24.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_24_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_24.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_24.mp3",
+      "description": "السير كيتم بالتناوب",
+      "answer": [
+        2
+      ],
+      "explanation": "كاينة أشغال كما كتوضح العلامة الطُرقيّة المؤقتة، وعلامة تحديد السرعة في 20 كلم ف الساعة، وكاينة إشارة ضوئية برتقالية كترفرف، ما كايناش إشارة كتقول أن السير بالتناوب.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_25.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_25.mp3",
+      "description": "يمكن لي ندور على لليمن",
+      "answer": [
+        2
+      ],
+      "explanation": "فهاد الحالة ما يمكنش ندور لليمين حيث كاين خط مرسوم على الأرض كيعني أن الطريق ذات اتجاه واحد يعني غير كيجيب و ماكايديش. ",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_26.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_26.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "الإشارة الضوئية خضراء كتسمح لي بالمرور، الراجلين واقفين والطوموبيلات اللي قدامي مشات، إذن ننتبه ونمشي حيث الإشارة كتسمح.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_27.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_27.mp3",
+      "description": "يمكن لي نتجاوز صاحب الدراجة",
+      "answer": [
+        2
+      ],
+      "explanation": "ما يمكنش نتجاوز صاحب الدراجة، أولا حيث كاينة طوموبيل جاية من الاتجاه المعاكس، وثانيا الضوء الأحمر عند السكة كيجبّرني نوقف.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_28.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_28.mp3",
+      "description": "وضعية التوقف ديال السيارة الكحلا",
+      "answer": [
+        2
+      ],
+      "explanation": "الطوموبيل السوداء واقفة بشكل غير قانوني لأن الطريق ذات اتجاهين والطوموبيلات جاية من الاتجاه المعاكس، يعني خاصها توقف فالجهة اليمنى ماشي فاليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "مسموح بها",
+            "ممنوعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_29.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_29.mp3",
+      "description": "غندور على ليمن، ندوز",
+      "answer": [
+        1
+      ],
+      "explanation": "غادي ندور لليمين، فالملتقى الأسبقية للطوموبيلات الجاية من اليمين، وأنا فاليمن ديال الطوموبيل الصفراء، إذن خاصها تعطيني الأسبقية وندوز قبل منها.",
+      "optionGroups": [
+        {
+          "options": [
+            "قبل السيارة الصفرا",
+            "بعد السيارة الصفرا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_30.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_30.mp3",
+      "description": "النقوش على العجلة كتمكن من",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "النقوش الموجودة فالعجلة كتساعد فالتفريغ ديال الما خصوصا وقت الشتا، ومن خلال النقوش نعرف حالة العجلة واش مزيانة ولا لا ودرجة التلف ديالها.",
+      "optionGroups": [
+        {
+          "description": "تفريغ المياه :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "معرفة درجة التلف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_31.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_31.mp3",
+      "description": "",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "فمحطة الأداء فالطريق السيار ما يمكنش نبدل المسار للجهة الأخرى للدفع، خاصني نبقى فالمسار اللي كنت فيه وننتظر حتى يوصل دوري.",
+      "optionGroups": [
+        {
+          "description": "يمكن لي نبقى فهاد المسار :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "يمكن لي نغير المسار :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_32.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_32_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_32.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_32.mp3",
+      "description": "يمكن لي نتجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "الخط المتقطع كيسمح ليا بالتجاوز، الطوموبيل اللي ورايا شغّلت ضوء تغيير الاتجاه فاليمين، هذا يعني أنها ما بغاتش تتجاوزني ولكن بغات تمشي للمسلك اليمني باش تمشي لمدينة تمارة، إذن يمكنني نتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_33.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_33.mp3",
+      "description": "السرعة محدددة ف",
+      "answer": [
+        3
+      ],
+      "explanation": "فطريق وطنية، السرعة محددة في 100 كلم ف الساعة. فالطريق السيار السرعة محددة في 120 كلم ف الساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "80 كلم/س",
+            "90 كلم/س",
+            "100 كلم/س",
+            "120 كلم/س"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_34.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_34.mp3",
+      "description": "من الواجب علي نمشي بسرعة 40 كلم/س",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الإشارة الطُرقيّة كتحدد السرعة في 40 كلم ف الساعة للشاحنات كما كتشير العلامة التكميلية، إذن ما خاصنيش نسوق بسرعة 40 كلم ف الساعة. المنحدر كيبدا بعد 250 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "options": [
+            "المنحدر كيبدا على بعد 250 مترو",
+            "المنحدر كيمتد على مسافة 250 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_35.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_35.mp3",
+      "description": "نندمج فالمسلك للي على ليسر ديالي",
+      "answer": [
+        2
+      ],
+      "explanation": "الإشارة الطُرقيّة كتقول أن الأسبقية للطوموبيلات الجاية من الاتجاه المعاكس (السهم الأسود)، كاينة طوموبيل جاية خاصني ننتظر حتى تمر باش نقدر ندمج فالمسلك اليساري.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_36.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_36.mp3",
+      "description": "فهاد الطريق، التوقف بالخلاص",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة اللي فيها حرف P كتقول أن التوقف ماشي مجاني.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_37.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_37.mp3",
+      "description": "باش نمشي للرباط غناخد",
+      "answer": [
+        2
+      ],
+      "explanation": "باش نمشي لمدينة الرباط خاصني نسلك الطريق الثانية كما كتوضح العلامة، الطريق الأول هو طريق سلا، والطريق الثاني هو لمدينة الرباط.",
+      "optionGroups": [
+        {
+          "options": [
+            "الطريق لول",
+            "الطريق الثاني",
+            "الطريق الثالث"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_38.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_38.mp3",
+      "description": "يمكن لي نتابع عملية التجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "يمكنني نكمل التجاوز، أسهم الانحياز تخص الطوموبيلات الجاية من الاتجاه المعاكس.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_39.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_39.mp3",
+      "description": "يمكن لي نستعمل",
+      "answer": [
+        1,
+        3,
+        4
+      ],
+      "explanation": "فالضباب نستعمل أضواء التقابل وأضواء الضباب الأمامية والخلفية.",
+      "optionGroups": [
+        {
+          "options": [
+            "أضواء التقابل",
+            "أضواء الطريق",
+            "أضواء الضبابة ديال القدام",
+            "أضواء الضبابة ديال الخلف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_22/quiz_22_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_22/quiz_s_22_40.mp3",
+      "mp3": "files/audio/quiz_22/quiz_s_22_40.mp3",
+      "description": "يمكن لي نوجد",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "العلامات الطُرقيّة كتقول أن على طول 2 كيلومتر غادي نلقى أحجار متساقطة، وعلى طول 5 كيلومتر غادي نلقى حيوانات كما كتقول الإشارة الثانية.",
+      "optionGroups": [
+        {
+          "description": "احجار متساقطة على الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "حيوانات متوحشة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    }
+  ]
+}

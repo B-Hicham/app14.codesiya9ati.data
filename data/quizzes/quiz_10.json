@@ -1,0 +1,964 @@
+{
+  "id": 10,
+  "title": "Quiz 10",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_1.jpg",
+  "source": "siya9a_maroc",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_1.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_1.mp3",
+      "description": "يمكن لي نتجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "الطريق ذات اتجاه واحد، نقدر ندوز، ما كايناش علامة منع. العلامة كتعني الشاحنات فقط، ماشي السيارات.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_2.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_2.mp3",
+      "description": "يمكن لي نتوقف",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الطريق بجوج اتجاهات، ما نقدرش نوقف فالجهة المعاكسة، خاصنا نوقفو غير فاليمين.",
+      "optionGroups": [
+        {
+          "description": "على اليسار :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على اليمين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_3.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_3.mp3",
+      "description": "سبب طقطقة عند المرور من مستوى لآخر يمكن يكون ناتج عن",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "صوت الطرطقة كيجا من الاستعمال السريع لعلبة التحكم، أو الحالة السيئة للواصل.",
+      "optionGroups": [
+        {
+          "description": "استعمال سريع لعلبة التحكم :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "الحالة السيئة للواصل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_4.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_4.mp3",
+      "description": "يمكن لي نتجاوز السيارة البيضا",
+      "answer": [
+        2
+      ],
+      "explanation": "السيارة البيضاء غادي تبدل الاتجاه لليمين، السهم كيجبرنا ننعطفو لليسار، ما نقدرش نضوبل فالمسلك الثاني. خاصنا نردو البال نقسو السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_5.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_5.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "ملي يدخل الراجلين فالمسلك، خاصنا نعطيوهم حق الأسبقية ونصبر حتى يدوزو.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_6.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_6.mp3",
+      "description": "واجب تطبيق تحديد السرعة",
+      "answer": [
+        1
+      ],
+      "explanation": "علامة 30 كلم في الساعة كتطبق من العلامة ديالها مباشرة.",
+      "optionGroups": [
+        {
+          "options": [
+            "فورا",
+            "على بعد 150 متر",
+            "عند المنعرج المقبل"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_7.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_7.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "كاين خطر فالصورة، السيارة ولا الشاحنة واقفة مزيان فلطريق، وخطر فالجنب اليسر، خاصنا نقسو السرعة ونديرو التنبيه الصوتي.",
+      "optionGroups": [
+        {
+          "description": "ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "يمكن لي ننبه بالمنبه الصوتي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_8.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_8.mp3",
+      "description": "التوقف ممنوع",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "العلامة الطرقية كيبدا المنع ديالها من عند العلامة، مكاينش علامة تكميلية لي كتحدد واش المنع كيطبق حتا قبل العلامة.",
+      "optionGroups": [
+        {
+          "description": "قبل هاذ العلامة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بعد هاذ العلامة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_9.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_9.mp3",
+      "description": "يمكن لي نبدل المسلك باش ندخل لهاد المحطة",
+      "answer": [
+        2
+      ],
+      "explanation": "ما نقدرش نبدل المسلك حيت وصلنا للخط المتصل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_10.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_10.mp3",
+      "description": "",
+      "answer": [
+        3
+      ],
+      "explanation": "العلامات الطرقية كتقول ما عندناش حق الأسبقية، ولكن الإشارات الضوئية كتغلب. عندنا الضوء الأخضر، خاصنا ندوزو.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعطي حق الاسبقية لليمن",
+            "نعطي حق الاسبقية لليسر",
+            "ندوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_11.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_11.mp3",
+      "description": "يمكن لي",
+      "answer": [
+        3
+      ],
+      "explanation": "السهم فالطريق كيجبّر على الانعطاف لليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتابع السير للقدام",
+            "ندور على ليسر",
+            "ندور على ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_12.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_12.mp3",
+      "description": "بيني وبين العربة لي قدامي، واجب علي نخلي مسافة كتقدر",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "علامة 200 متر كتخص الشاحنات، مسافة الأمان كتقدر بثانيتين.",
+      "optionGroups": [
+        {
+          "description": "ب 200 متر:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بثانيتين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_13.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_13.mp3",
+      "description": "نتجاوز سائق الدراجة",
+      "answer": [
+        2
+      ],
+      "explanation": "سائق الشاحنة دار مخالفة، ما نقدرش ندوز الخط المتصل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_14.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_14.mp3",
+      "description": "الاشارات المرسومة على الارض كتسمح",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "الخط المتقطع على الأرض كيسمح بالتجاوز، لكن العلامة العمودية كتمنعنا دابا.",
+      "optionGroups": [
+        {
+          "description": "- بالتجاوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "- نتجاوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_15.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_15.mp3",
+      "description": "بعد ساعتين ديال السياقة، انا مازال فحالة جيدة",
+      "answer": [
+        2
+      ],
+      "explanation": "بعد ساعتين ديال السياقة، خاص 15 دقيقة راحة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتابع السير",
+            "نقوم بوقفة للاستراحة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_16.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_16_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_16.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_16.mp3",
+      "description": "",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "ملي شي سيارة بغات تدوزنا، ما نغيروش السرعة ونبقاو فمسلكنا.",
+      "optionGroups": [
+        {
+          "description": "ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نشد ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_17.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_17.mp3",
+      "description": "باش ندور ليسر، نستعمل المسلك لي على ليسر",
+      "answer": [
+        1
+      ],
+      "explanation": "بغيت نبدل لليسار، خاصني نبدل المسلك دابا حيت السهم كيجبرني.",
+      "optionGroups": [
+        {
+          "options": [
+            "من دابا",
+            "من عند السهم الاول"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_18.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_18.mp3",
+      "description": "انا في الوضع المناسب باش",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "ماشي فالمكان المناسب للانعطاف لليمين ولا ليسار، خاصني نكون فالمسلك اللي على اليمين.",
+      "optionGroups": [
+        {
+          "description": "نغير الاتجاه ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نتبع انعطاف المنعرج ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_19.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_19.mp3",
+      "description": "ماربطش حزام السلامة، يمكن لي نمسك نفسي إلا وقع الاصطدام بسرعة 30 كلم فالساعة",
+      "answer": [
+        2
+      ],
+      "explanation": "حزام السلامة ضروري مهما كانت سرعة، ما نقدرش نتحكم فراسي عند الاصطدام.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_20.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_20.mp3",
+      "description": "غادي نتجه للمخرج لي على ليمن، نقوم بالحصر الان",
+      "answer": [
+        2
+      ],
+      "explanation": "حنا فطريق سيار، ما زال ما وصلناش للمخرج اليمين باش نبطأ السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_21.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_21.mp3",
+      "description": "العلامات الطرقية كتعلم على",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "العلامة الطرقية كتعني طريق اتجاه واحد، ماشي مسلك واحد. الطريق فيها جوج مسالك.",
+      "optionGroups": [
+        {
+          "description": "طريق ذو اتجاه واحد :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "وجود مسلك واحد للسير :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_22.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_22.mp3",
+      "description": "هاد السيارة وقفات",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "فالصورة، علامة قف كتعني السيارة السوداء خاصها توقف، حنا ننسو السرعة ونمرو.",
+      "optionGroups": [
+        {
+          "options": [
+            "ننقص من السرعة",
+            "ندوز",
+            "نوقف",
+            "نتحاز لليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_23.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_23.mp3",
+      "description": "عاد حصلت على رخصة السياقة من صنف ب (B) يمكن لي نسوق دراجة نارية عادية",
+      "answer": [
+        2
+      ],
+      "explanation": "رخصة السياقة صنف (B) كتخص السيارات فقط، الدراجة النارية كتحتاج (A).",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_24.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_24.mp3",
+      "description": "يمكن لي ندور",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "فهاد الحالة نقدر ننعطف لليمين ولا نكمل الطريق، ممنوع الانعطاف ليسار.",
+      "optionGroups": [
+        {
+          "description": "على لليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_25.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_25.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "السير متوقف، ما كايناش مشكلة ندمجو السيارة فالسير.",
+      "optionGroups": [
+        {
+          "description": "يمكن لي نخلي تخرج هاذ السيارة اللي كتستعد باش تندمج فحركة السير :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_26.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_26.mp3",
+      "description": "مني ندور على ليمن، واجب علي نعطي حق الاسبقية",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "عند الانعطاف لليمين، خاصنا نعطيو الأسبقية للراجلين والدراجة اللي ورانا.",
+      "optionGroups": [
+        {
+          "description": "للراجل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "لسائق الدراجة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_27.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_27.mp3",
+      "description": "مازال يمكن لي ناخذ الطريق اللي على ليمن ديالي",
+      "answer": [
+        2
+      ],
+      "explanation": "ما نقدرش نغير الاتجاه لليمين حيت الخط متصل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_28.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_28.mp3",
+      "description": "للقيام بالتوقف على ليمن، من الافضل القيام بهاد العملية",
+      "answer": [
+        1
+      ],
+      "explanation": "التوقف على اليمين مسموح، لكن من الأفضل التراجع للخلف باش الخروج يكون سهل وآمن.",
+      "optionGroups": [
+        {
+          "options": [
+            "ونا راجع للخلف",
+            "ونا سير للقدام"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_29.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_29.mp3",
+      "description": "من الواجب علي ندور على ليسر",
+      "answer": [
+        2
+      ],
+      "explanation": "السهم المرسوم على الأرض كيجبّر على الانعطاف لليسار، لكن ما وصلناش ليه دابا.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_30.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_30.mp3",
+      "description": "انا فالوضع المناسب للسير",
+      "answer": [
+        2
+      ],
+      "explanation": "المسلك الأول على اليمين خاص بالسير العادي، أنا دابا فمسلك التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_31.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_31.mp3",
+      "description": "فهاد الظروف من الاحسن",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "فحالة المطر، خاصنا نسيروا فمسلكنا، ونستعملوا مسّاحات الزجاج فالسرعة القصوى.",
+      "optionGroups": [
+        {
+          "description": "نشد ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ندير مساحات الزجاج فالسرعة القصوى :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_32.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_32.mp3",
+      "description": "باش نتجاوز سائق هاذ الدراجة، واجب نخلي مسافة امان ما تقلش على",
+      "answer": [
+        2
+      ],
+      "explanation": "تجاوز الدراجات داخل المدينة خاص يكون بمسافة متر، وخارج المدينة متر ونصف.",
+      "optionGroups": [
+        {
+          "options": [
+            "0,50 متر",
+            "1,00 متر",
+            "1,50 متر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_33.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_33.mp3",
+      "description": "العلامات الطرقية كتسمح بتجاوز",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "العلامة الطرقية كتعني منع التجاوز للعربات ب 4 عجلات، الجرار عندو 4 عجلات ما نقدرش نتجاوزو، الدراجة النارية عندها جوج عجلات نقدر نتجاوزها.",
+      "optionGroups": [
+        {
+          "description": "جرار",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "دراجة نارية",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_34.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_34.mp3",
+      "description": "من هاذ المركز لي كتشير ليه العلامة يمكن لي نتصل ب",
+      "answer": [
+        1
+      ],
+      "explanation": "حنا فطريق سيار وفيه مركز النجدة، للاتصال بالنجدة فقط.",
+      "optionGroups": [
+        {
+          "options": [
+            "النجدة",
+            "ميكانيكي",
+            "صديق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_35.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_35.mp3",
+      "description": "نتحاز ليسر",
+      "answer": [
+        1
+      ],
+      "explanation": "فالمطر، القانون كيقول خاصنا نترك مسافة عند التقابل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_36.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_36.mp3",
+      "description": "غنفقلل من تاثير التعب وانا سايق إلا",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "تقليل تأثير التعب كيتعلق ببرنامج السير، الوقفة ديال الراحة كل ساعتين ضرورية.",
+      "optionGroups": [
+        {
+          "description": "كنت موجد خط السير ديالي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نقوم بوقفة للاستراحة كل ساعتين :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_37.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_37.mp3",
+      "description": "فهاد التجمع السكني، يمكن لي السير",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "فالليل، الأضواء ضرورية حتى بوجود إنارة المدينة.",
+      "optionGroups": [
+        {
+          "options": [
+            "بدون اضواء",
+            "باضواء الوضع وحدهم",
+            "باضواء التقابل",
+            "باضواء الطريق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_38.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_38.mp3",
+      "description": "العربة كترجع للخلف ببطء ننبه بالمنبه الصوتي",
+      "answer": [
+        2
+      ],
+      "explanation": "المنبّه الصوتي ممنوع فالمدينة إلا للضرورة القسوى، ما نستعملوش.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_39.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_39.mp3",
+      "description": "كنتوفر على تامين \"خسائر اصطدام\". ازلقت بيا السيارة فالمنعرج ووقعوا لي خسائر. غناخد تعويض",
+      "answer": [
+        2
+      ],
+      "explanation": "التأمين كيتنوع، مثلا عندنا تأمين السرقة، الحريق، والخسائر المادية. فحالة السؤال التأمين خاص بخسائر الإصطدام، ما يعوضونيش على شي حاجة أخرى.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_10/quiz_10_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_10/quiz_s_10_40.mp3",
+      "mp3": "files/audio/quiz_10/quiz_s_10_40.mp3",
+      "description": "نعطي حق الاسبقية",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "نعطي حق الأسبقية للراجلين فممر الراجلين، وللشاحنة لأن الأسبقية للعربات القادمة من الجهة اليمنى.",
+      "optionGroups": [
+        {
+          "description": "للراجل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "للشاحنة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    }
+  ]
+}

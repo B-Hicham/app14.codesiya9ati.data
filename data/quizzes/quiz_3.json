@@ -1,0 +1,939 @@
+{
+  "id": 3,
+  "title": "Quiz 3",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_1.jpg",
+  "source": "siya9a_maroc",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_1.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_1_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_1.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_1.mp3",
+      "description": "يمكن ليا نتقدم في ملتقى الطرق",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "خاصني نوقف عند خط الوقوف ونحترم الضوء الحمر إلا بغيت نمشي مباشرة، ولكن إلا بغيت نبدل الاتجاه لليمين يمكن حيث كاينة إشارة ضوئية خضرا كتسمح بتبديل الاتجاه لليمين.",
+      "optionGroups": [
+        {
+          "description": "باش نتابع السير للقدام :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "باش نغير الاتجاه على لليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_2.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_2_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_2.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_2.mp3",
+      "description": "واجب علي نسمح بمرور",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "فملتقى الطرق وما كاينش بوليسي أو إشارة تنظم حركة السير، الأسبقية للطوموبيلات اللي جاية من اليمين، فهاد الحالة الطوموبيل الحمرا تدوز اللولا حيث هي على اليمين، ومن بعد نكمل أنا السير مباشرة، ومن بعد الطوموبيل الكحلا.",
+      "optionGroups": [
+        {
+          "description": "السيارة الحمرا :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "السيارة الكحلا :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_3.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_3.mp3",
+      "description": "قبل ما نتجاوز هاذ العربة يمكن ليا",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "حنا فالصباح وبرّا المدينة، فهاد الحالة يمكن نستعملو الكلاكسون وأضواء الطريق حيث العربة اللي قدامنا فيها مراية عاكسة اللي تمكنها تشوف الضوء، وحيث سائق الشاحنة ممكن ما يسمعش الكلاكسون.",
+      "optionGroups": [
+        {
+          "description": "نستعمل المنبه الصوتي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نستعمل ضو الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_4.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_4.mp3",
+      "description": "يمكن لي",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "العلامة الطرقية كتعني أن الطريق مسدودة فالآخر وما كاينش مخرج، ما كتمنعنيش ندوز، وبالنسبة لتبديل الاتجاه لليمين يمكن ندير هادشي حيث ما كايناش علامة طرقية كتمنع.",
+      "optionGroups": [
+        {
+          "description": "- نتابع السير للقدام :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "- نغير الاتجاه لليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_5.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_5.mp3",
+      "description": "يمكن ليا السير بسرعة",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "حنا فطريق وطنية والسرعة فيها محدودة فـ100 كلم في الساعة. العلامة الطرقية كتعني أن المنع اللي كان قبل انتهى، يعني يمكنني نمشي بسرعة 70 كلم في الساعة، وبما أنها طريق وطنية والسرعة القصوى فيها 100 كلم في الساعة، يعني يمكنني نمشي حتى بسرعة 80 كلم في الساعة.",
+      "optionGroups": [
+        {
+          "description": "70 كلم/س :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "80 كلم/س :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_6.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_6.mp3",
+      "description": "نسمح بالمرور للي جايين من",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "اللافتة الطرقية كتعني الانتباه وما عندناش حق الأسبقية، يعني خاصنا نسمحو للي جايين من اليسار واللي جايين من اليمين يدوزو.",
+      "optionGroups": [
+        {
+          "description": "ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_7.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_7.mp3",
+      "description": "سائق السيارة البيضا تقدم فملتقى الطرق، يمكن ليا نتبعو بلا ما نوقف عند خط الوقوف",
+      "answer": [
+        2
+      ],
+      "explanation": "أول حاجة عندنا إشارة \"قف\"، خاصني نوقف عند خط الوقوف، خاص نحترم الإشارات المرورية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_8.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_8_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_8.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_8.mp3",
+      "description": "يمكن لي نغير الاتجاه ل",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "ما كايناش شي علامة كتمنعني نبدل الاتجاه لليسار أو اليمين، العلامة الطرقية كتعني أن الطريق اللي قدام ما فيهاش مخرج، والضوء خضر يمكنني نبدل الاتجاه لليمين أو اليسار.",
+      "optionGroups": [
+        {
+          "description": "جهة ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "جهة ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_9.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_9.mp3",
+      "description": "هاد الاشارات كتعني ان",
+      "answer": [
+        3,
+        4
+      ],
+      "explanation": "كاينة علامة أفقية اللي هي الخط المتصل اللي كتعني ممنوع التجاوز، وكاينة إشارة كتشير أن الطريق كيزلق، وعلامة تحديد السرعة، يعني وسط الطريق كيزلق وممنوع التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "الطريق محفرة",
+            "حادثة",
+            "وسط الطريق كيزلق",
+            "ممنوع التجاوز"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_10.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_10.mp3",
+      "description": "وضعي مناسب باش نغير الاتجاه لليسر",
+      "answer": [
+        2
+      ],
+      "explanation": "باش نبدل الاتجاه لليسار، خاصني نكون فالمسار على اليمين، هاد المسلك غير للتجاوز، يعني وضعي غير مناسب باش نبدل الاتجاه لليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_11.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_11.mp3",
+      "description": "اول منعرج كتعلم به العلامة موجود على",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقية كتشير أن المنعرج اللول غادي يكون على اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "ليمن",
+            "ليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_12.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_12.mp3",
+      "description": "احسن ليا نستعمل",
+      "answer": [
+        1
+      ],
+      "explanation": "فهاد الحالة كيف ما كتشوفو، كاين الثلج، إلا استعملنا الفرامل الرئيسية ديال العجلات ما غاديش يكون عندها مفعول مزيان فالثلج، من الأحسن نستعملو فرامل المحرك.",
+      "optionGroups": [
+        {
+          "options": [
+            "فرامل المحرك",
+            "فرامل الرئيسي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_13.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_13.mp3",
+      "description": "للوقوف فهاد المكان واجب علي نخلي اضواء الوضع مشعولة",
+      "answer": [
+        2
+      ],
+      "explanation": "أنا برا الطريق ومتوقف مزيان على جنب الطريق، ماشي ضروري نخلي أضواء الوضع شاعلة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_14.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_14.mp3",
+      "description": "التدخين فوقت السياقة يمكن يقلل التركيز",
+      "answer": [
+        1
+      ],
+      "explanation": "التدخين والأدوية والمشروبات الكحولية والتعب كينقصو التركيز أثناء السياقة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_15.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_15.mp3",
+      "description": "انقص من السرعة",
+      "answer": [
+        1
+      ],
+      "explanation": "عندنا جوج علامات، علامة الخطر وعلامة المنع، بالنسبة لعلامة المنع خاصها تطبق من عند العلامة، وبالنسبة لعلامة الخطر كتعلمني أن الخطر كاين بعد 50 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "في الحال",
+            "حتى لعند حدبات الطريق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_16.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_16_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_16.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_16.mp3",
+      "description": "يمكن لي نتجاوز الشاحنة من جهة لليمن",
+      "answer": [
+        1
+      ],
+      "explanation": "الحالة الوحيدة اللي كاتسمح لينا نتجاوزو من الجهة اليمنى هي ملي تكون العربة اللي قدامنا غادي تبدل الاتجاه لليسار، فهاد الحالة يمكننا نتجاوزوها من الجهة اليمنى باش نقدر ندوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_17.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_17.mp3",
+      "description": "باقي يمكن ليا نغير الممر باش نغير الاتجاه لليسر",
+      "answer": [
+        2
+      ],
+      "explanation": "ما يمكنش نبدل الممر للاتجاه لليسار حيث كاينة طوموبيل فالمسلك الآخر كاتجاوز، يعني ما يمكنش نبدل المسلك دابا حيث ما عنديش الوقت الكافي.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_18.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_18.mp3",
+      "description": "من هاذ المركز اللي كتشير ليه العلامة، يمكن لي نتصل ب",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقية كتعني مركز خاص بالنجدة، وغادي يكون بعد 200 متر ف الطريق السيار، وهو خاص غير بطلب النجدة وماشي لشي حاجة أخرى.",
+      "optionGroups": [
+        {
+          "options": [
+            "النجدة",
+            "مول الكراج",
+            "صاحبي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_19.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_19.mp3",
+      "description": "نتنحى على ليسر",
+      "answer": [
+        1
+      ],
+      "explanation": "فهاد الحالة الجو ممطر وكاينين بعض الراجلين، باش نحافظ على سلامتهم وما نرش عليهم الماء المتواجد فالطريق، خاصني نتنحى شوية لليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_20.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_20.mp3",
+      "description": "يمكن لي نغير الاتجاه ل",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "عندنا جوج علامات كاتمنعنا من تغيير الاتجاهات، علامة أفقية كتمنعنا نبدلو الاتجاه لليسار اللي هي الخط المتصل وعلامة عمودية كاتمنعنا نبدلو الاتجاه لليمين.",
+      "optionGroups": [
+        {
+          "description": "ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_21.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_21.mp3",
+      "description": "هاد العلامة كتعلمني بوجود ممر خاص بالدراجات",
+      "answer": [
+        2
+      ],
+      "explanation": "العلامات الطرقية اللي كتعلمنا بوجود ممرات خاصة كتكون باللون الأزرق. بالنسبة لهاد اللافتة فهي علامة خطر وكتعلمنا بوجود دراجات هوائية ماشي ممر خاص بالدراجات.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_22.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_22.mp3",
+      "description": "مازال يمكن لي ناخذ الطريق اللي على ليمن",
+      "answer": [
+        2
+      ],
+      "explanation": "ملي يكون الخط متصل، ما يمكنش نبدلو المسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_23.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_23.mp3",
+      "description": "يمكن لي نستمر في السير فهاد الاتجاه",
+      "answer": [
+        2
+      ],
+      "explanation": "ملي تكون كلمة BUS مكتوبة فالطريق، هاد الشي كيعني أن هاد المسلك خاص بالحافلات فقط، يعني ما يمكنش نكمل فهاد الاتجاه خاصني نمشي فالمسلك اللي على اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_24.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_24_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_24.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_24.mp3",
+      "description": "السيارات اللي قدامي واقفة، واش نسمح للسيارة الرمادية بالمرور",
+      "answer": [
+        1
+      ],
+      "explanation": "وبما أن حركة السير واقفة، ما فيها باس نسمح للطوموبيل الرمادية تدوز باش نسهل حركة المرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_25.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_25.mp3",
+      "description": "يمكنني التوقف",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "فطريق وطنية وبدون إشارات طرقية، ما يمكنش ليا نوقف فوسط الطريق، وحتى فجنب الطريق ما يمكنش نوقف حيث كاينة علامة طرقية كاتمنعني من التوقف.",
+      "optionGroups": [
+        {
+          "description": "وسط الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "فجنب الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_26.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_26.mp3",
+      "description": "ممنوع التوقف على",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "كاينة علامة ممنوع التوقف وكاينة علامة تكميلية خاصة بالشاحنات الصغيرة والكبيرة.",
+      "optionGroups": [
+        {
+          "options": [
+            "عربات السكن المجرورة",
+            "الشاحنات الصغيرة",
+            "الشاحنات الكبيرة",
+            "الحافلات"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_27.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_27.mp3",
+      "description": "فهاد الوضعية احسن ليا",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "خاصني نسوق في اليمين مزيان، ولازم نضبط مساحات الزجاج على سرعة كبيرة حيث الجو ممطر بزاف.",
+      "optionGroups": [
+        {
+          "description": "نشد ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نضبط مساحات الزجاج على السرعة الكبيرة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_28.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_28.mp3",
+      "description": "تناول المخدرات الخفيفة، كياثر على السياقة",
+      "answer": [
+        1
+      ],
+      "explanation": "المخدرات أو الدواء أو التعب أو المشروبات الكحولية كيأثرو على السياقة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_29.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_29.mp3",
+      "description": "التوقف ممكن",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "فالطريق السيار ممنوع الوقوف والتوقف نهائيا إلا للضرورة القصوى.",
+      "optionGroups": [
+        {
+          "description": "على شريط الوقوف الاستعجالي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "فجنب الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_30.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_30.mp3",
+      "description": "يمكن لي",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "كاينة علامة عمودية فالطريق كتعني ممنوع نكملو السير للقدام، وكاينين أسهم فالطريق كيسمحوا ليا نبدل الاتجاه لليمين أو اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نتابع السير القدام",
+            "نغير الاتجاه لليمن",
+            "نغير الاتجاه لليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_31.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_31.mp3",
+      "description": "تحديد السرعة اصبح واجب",
+      "answer": [
+        1
+      ],
+      "explanation": "بالنسبة لعلامات المنع، تطبق من عند العلامة.",
+      "optionGroups": [
+        {
+          "options": [
+            "فالحال",
+            "من بعد 150 متر",
+            "عند المنعرج اللي جاي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_32.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_32.mp3",
+      "description": "يمكن لي نتجاوز",
+      "answer": [
+        1
+      ],
+      "explanation": "الطوموبيل اللي ورايا ما كتحضرش للتجاوز وكاين خط متقطع كيخليني نتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_33.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_33_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_33.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_33.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "هاد المؤشر كيعلمنا بضرورة الوقوف حيث باللون الأحمر، وغالبا كيكون قرب المطارات أو السكك الحديدية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نخفف من السرعة و نكمل طريقي",
+            "نوقف",
+            "نكمل طريقي بلا ما ننقص من السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_34.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_34.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "الضوء لونه برتقالي وكيعلمنا بقرب الضوء الأحمر، يعني خاصني نوقف.",
+      "optionGroups": [
+        {
+          "options": [
+            "نكمل طريقي",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_35.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_35.mp3",
+      "description": "الطريق اللي كيكون الا بدلت السرعة يمكن ينتج على",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "الصوت والطرطقة غالبا كيكونو بسبب تحريك قبضة مبدل السرعة بسرعة، والسبب الآخر ممكن يكون أن الواصل قديم.",
+      "optionGroups": [
+        {
+          "description": "السرعة في تحريك قبضة مبدل السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "الواصل بالي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_36.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_36.mp3",
+      "description": "الكيس الواقي اللي كيتنفخ وقت الاصطدام كيغني على استعمال حزام السلامة",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "الكيس الواقي (Airbag) ما كيعوضش حزام السلامة لا بالنسبة للسائق ولا الركاب، هو تكميلي لحزام السلامة.",
+      "optionGroups": [
+        {
+          "description": "بالنسبة للسائق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "بالنسبة للركاب :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_37.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_37.mp3",
+      "description": "إلا شفت هاذ العلامة واجب علي",
+      "answer": [
+        1
+      ],
+      "explanation": "دائما فعلامات الخطر خاصني ننقص من السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نقص من السرعة",
+            "نحافظ على نفس السرعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_38.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_38.mp3",
+      "description": "هاد العلامة كتقول لي",
+      "answer": [
+        1
+      ],
+      "explanation": "بالنسبة لهاد العلامة الطرقية الخاصة بالخطر، فهي كتعلم بوجود منحدر.",
+      "optionGroups": [
+        {
+          "options": [
+            "كاين منحدر",
+            "وسط الطريق كيزلق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_39.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_39.mp3",
+      "description": "إلا شفت هذه العلامة واجب علي",
+      "answer": [
+        1
+      ],
+      "explanation": "بالنسبة لعلامات الخطر بصفة عامة، خاصني ننقص من السرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "ننقص من السرعة",
+            "نحافظ على نفس السرعة",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_3/quiz_3_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_3/quiz_s_3_40.mp3",
+      "mp3": "files/audio/quiz_3/quiz_s_3_40.mp3",
+      "description": "هاد الطريق غاديا",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامات الطرقية اللي كاينة على جنب الطريق هي أسهم متجهة نحو اليسار، يعني الطريق غادي تتجه نحو اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندور على ليسر",
+            "تضياق",
+            "ندور على ليمن"
+          ]
+        }
+      ]
+    }
+  ]
+}

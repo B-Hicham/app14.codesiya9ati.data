@@ -1,0 +1,929 @@
+{
+  "id": 59,
+  "title": "Quiz 59",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_1.jpg",
+  "source": "siya9ati_v2",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_1.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_1.mp3",
+      "description": "يمكن لي نستعمل المسلك ديال الوسط باش نتجاوز هاد العربة",
+      "answer": [
+        2
+      ],
+      "explanation": "في هذه الحالة كما نرى فإن العربة التي أمامي سوف تنعطف على اليمين وقامت بتشغيل مؤشر تغيير الاتجاه إلى اليمين، يوجد مسلك ثاني على اليسار والتّشوير الأفقي الخط المتقطّع يسمح لي بتجاوزها على اليسار بما أنه لا يوجد عربة قادمة من الخلف، لكن المسلك الثاني على اليسار يحتوي على تشوير أفقي إجباري سهم مرسوم على الأرض يجبرني على الانعطاف إلى اليسار إذا قمت باستعماله يعني سوف أضطر إلى الانعطاف الى اليسار لو قمت باستعماله والإشارة الضوئية خضراء. إذن في هذه الحالة يجب عليّ انتظار العربة التي أمامي لكي تنعطف إلى اليمين وبعد ذلك يمكنني إكمال السير إلى الأمام، لأنه لو قمت بإستعمال المسلك الذي على اليسار سوف أكون مجبر للانعطاف على اليسار ولا يمكنني إكمال السّير إلى الأمام.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_2.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_2.mp3",
+      "description": "انا فالوضع المناسب باش",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "العلامة الطرقية العمودية التي تمنع تغيير الاتجاه إلى اليسار فهي تخص الشاحنات ولا تخصني، في هذه الحالة أنا في وضع مناسب لكي أنعطف إلى اليسار كما أنني أيضا في وضع مناسب لتجاوز هذه الشاحنة ولا يوجد شيئ يمنعني من عملية التجاوز لأنه مسلك ثاني خاص بي بحكم تواجدنا في طريق سيّار.",
+      "optionGroups": [
+        {
+          "description": "ندور على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نتجاوز هاذ الشاحنة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_3.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_3.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "العربة الزرقاء لديها علامة طرقية تشير إلى أنها ليس لها حق الأسبقية ويجب عليها إعطائي حق الأسبقية والسماح لي بالمرور لأنها لا تمتلك حق الأسبقية، إذن أقوم بالمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نسمح بمرور العربة الزرقا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_4.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_4.mp3",
+      "description": "يمكن لي التجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "انتهاء تحديد السرعة، كما أن التّشوير الأفقي يسمح لي بالتجاوز الخط المتقطع والسيارة التي في الخلف لا تستعد لي التجاوز إذن يمكننا التجاوز؟ لكن لا يمكننا التجاوز مع وجود كل هذه الشروط لأننا نتواجد في منعرج ولا توجد وضوح للرؤية (انعدام الرؤية) ولا يمكننا معرفة هل هنالك سيارات قادمة في الاتجاه المعاكس، لذلك لا يمكنني التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_5.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_5.mp3",
+      "description": "ما زال عندي الوقت باش ندوز",
+      "answer": [
+        2
+      ],
+      "explanation": "ليس لدينا الوقت للمرور، لأن الإشارة المرور حمراء ويجب علينا الوقوف حتى يصبح الضوء أخضر.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_6.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_6.mp3",
+      "description": "اسهم الانحياز كتعلم على",
+      "answer": [
+        1
+      ],
+      "explanation": "بالنسبة لتّشوير الأفقي أسهم الانحياز المرسومة على الأرض فهي تعني قرب الخط المتّصل.",
+      "optionGroups": [
+        {
+          "options": [
+            "خط متصل",
+            "نقصان فعدد المسالك"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_7.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_7.mp3",
+      "description": "يمكن لي نتبع السيارة اللي كتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "في طريق وطنية أو في طريق ذات اتجاهين، فلا يمكننا أن نتبع سيارة أخرى تقوم بعملية التجاوز (عكس الطريق السّيار).",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_8.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_8.mp3",
+      "description": "انا فالمكان المناسب",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة للمسلك الذي أتواجد فيه الان فهو مسلك للعربات التي تريد إكمال السير للأمام. (المسلك الموجود على اليمين فهو خاص للعربات التي تريد الانعطاف لليمين، والمسلك الموجود على اليسار فهو خاص بالعربات التي تريد الانعطاف إلى اليسار).",
+      "optionGroups": [
+        {
+          "options": [
+            "باش ندور على ليسر",
+            "باش نكمل السير للقدام",
+            "باش ندور على ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_9.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_9.mp3",
+      "description": "هاد العلامة كتعلم على",
+      "answer": [
+        4
+      ],
+      "explanation": "بالنسبة للعلامة الطّرقية فهي تشير إلى خطر على بعد 150 متر وهي تشير إلى خطر أن الطريق ضيقة.",
+      "optionGroups": [
+        {
+          "options": [
+            "طريق عندها اتجاه واحد",
+            "منعرج خطير",
+            "طريق كتزلق",
+            "طريق ضيقة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_10.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_10.mp3",
+      "description": "نعطي حق الاسبقية للعربات للي جايين من ليسر فقط",
+      "answer": [
+        1
+      ],
+      "explanation": "في الرومبوان (المدار) نعطي حق الأسبقية للعربات القادمة من الجهة اليسرى فقط. (عكس ملتقى الطرق).",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_11.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_11.mp3",
+      "description": "ممنوع الدخول لباحة الاستراحة",
+      "answer": [
+        2
+      ],
+      "explanation": "غير ممنوع الدخول إلى باحة الاستراحة، كما تشير الصورة فكانت هنالك أشغال منعتني من الدخول مسبقا لباحة الاستراحة، لكن الان لدي بعض الوقت الكافي لكي أستطيع الدخول كما أنه لا توجد سيارة من خلفي، إذن غير ممنوع الدخول إلى باحة الاستراحة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_12.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_12.mp3",
+      "description": "يمكن لي نتجاوز هاذ الشاحنة",
+      "answer": [
+        1
+      ],
+      "explanation": "عند وجود خط متّصل أقصى اليسار فهذا يعني أن الطريق ذات إتجاه واحد، وعندما تكون الطّريق ذات إتجاه واحد فيمكننا التجاوز حتى مع انعدام الرؤية لانه لا توجد عربات قادمة في الاتجاه المعاكس، بالنسبة للعلامة الطرقية العمودية فهي تمنع عملية التجاوز بالنسبة للشاحنات وليس للسيارات.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_13.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_13.mp3",
+      "description": "يمكن لي ندور على ليمن",
+      "answer": [
+        1
+      ],
+      "explanation": "نحن نتواجد في ملتقى الطرق، كما هو واضح في الصورة فإذا أردت تغيير الاتجاه إلى الجهة اليمنى فيمكنني ذلك، الخط المتصل الذي تقف عنده السيارة فهو يعني علامة قف بالنسبة لها وهو غير مكتمل  أي على طول الطريق، فقط النصف وهذا يعني أنه يمكنني تغيير الاتجاه إلى الجهة اليمنى. لو كان الخط متصل على طول تلك الطريق في هذه الحالة لا يمكنني تغيير الاتجاه إلى اليمين لأنه يعني في هذه الحالة على أن الطريق ذات إتجاه واحد ولا يمكنني المرور وتغيير الاتجاه. ويصبح ممنوع، إذن في هذه الحالة بما أن الخط مرسوم ويصل الى الوسط فقط  فيمكنني تغيير الاتجاه الى اليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_14.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_14.mp3",
+      "description": "نعطي حق الاسبقية للسيارة الزرقا",
+      "answer": [
+        2
+      ],
+      "explanation": "في ملتقى الطرق فإن الأسبقية دائما للعربات القادمة من اليمين، لكن في وجود علامة قف بالنسبة للعربات المتواجدة على اليمين تعطيني حق الأسبقية في هذه الحالة. توجد علامة قف بالنسبة للعربة المتواجدة على الجهة اليمنى، ايظا يوجد خط أفقي مرسوم على الأرض يعني كذلك علامة قف بالنسبة لتلك السيارة، إذن لا أعطي حق الأسبقية للسيارة الزرقاء.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_15.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_15.mp3",
+      "description": "يمكن لي نتبع هاذ الشاحنة باش نتجاوز الجرار",
+      "answer": [
+        2
+      ],
+      "explanation": "في طريق وطنية أو في طريق ذات اتجاهين فلا يمكننا أن نتبع الشاحنة تقوم بعملية التجاوز بالنسبة للجرّار على الرغم من أن السرعة البطيئة للجرّار (عكس الطريق السّيار). ",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_16.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_16.mp3",
+      "description": "بعد العلامة يمكن لي",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "العلامة الطرقية العمودية تعني منع الوقوف والتوقّف، ويوجد علامة تكميلية صورة شاحنة، إذن علامة المنع الخاصة بالوقوف والتوقّف فهي تخص الشاحنات وليس السيارات. إذن بعد العلامة يمكنني الوقوف والتوقّف.",
+      "optionGroups": [
+        {
+          "description": "نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نتوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_17.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_17.mp3",
+      "description": "الريح جاي من ليسر، هناك خطر نحاز",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "بالنسبة لهذا النوع من الأسئلة فهي أسئلة فخ، فالرّياح تأتي من الجهتين اليمنى واليسرى وليس من جهة واحدة، لذلك يوجد خطر الانحياز لليسار وايظا خطر الانحياز لليمين.",
+      "optionGroups": [
+        {
+          "description": "ليسر:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ليمن:",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_18.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_18.mp3",
+      "description": "من الواجب علي نشعل اضواء التقابل دابا",
+      "answer": [
+        2
+      ],
+      "explanation": "يمكنني أن أقوم بتشغيل أضواء التقابل في المنعرج لكن في هذه الحالة فإن المنعرج إنتهى (الحاجز الحديدي على اليمين يشير إلى ذلك) لذلك ليس من الواجب عليّ تشغيل أضواء التّقابل الان.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_19.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_19.mp3",
+      "description": "يمكن لي نستعمل المسلك على ليمن باش نتجاوز هاذ العربة",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة للمسلك المتواجد على اليمين فهو مسلك يخص العربات البطيئة مثل الجرّار أو الشاحنات أو الالات الخ.. العربات التي تسير ب 60 كلم في الساعة  (الخط المتقطّع عريض)، كما أن التجاوز من الجهة اليمنى ممنوع، التجاوز نقوم به من الجهة اليسرى.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_20.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_20.mp3",
+      "description": "من الواجب ترك مسافة امان ما تقلش على 50 مترو بيني وبين العربة اللي قدامي",
+      "answer": [
+        1
+      ],
+      "explanation": "العلامة الطرقية العمودية فهي تعني المنع وهي تطبّق من عند العلامة، تعني الإجبار على ترك مسافة أمان لا تقل عن 50 متر بيني وبين العربة التي توجد أمامي مهما كانت السرعة التي أسير بها.",
+      "optionGroups": [
+        {
+          "options": [
+            "كيفما كانت السرعة اللي كنمشي بها",
+            "فقط إلا كنت كنمشي ب 90 كلم فالساعة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_21.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_21.mp3",
+      "description": "الطريق اللي كنمشي فيها، هي طريق ذات اولوية",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "العلامة الرقية تعني أنه لدي حق الأسبقية لذلك فإن الطريق التي أسير فيها الان هي ذات أولوية بالنسبة لي فقط في ملتقى الطرق القادم وليس في جميع ملتقيات الطرق.",
+      "optionGroups": [
+        {
+          "description": "فملتقى الطرق الجاي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "فجميع الملتقيات :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_22.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_22.mp3",
+      "description": "نكمل التجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "في هذه الحالة لا يمكنني أن نكمل التجاوز يجب علينا أن نقوم بالانحياز إلى المسلك المتواجد على اليمين، لأنه يوجد تشوير أفقي مرسوم على الأرض وهي أسهم الانحياز والتي تجبرني على الانحياز إلى اليمين وذلك لأنها تعلمني بقرب الخط المتّصل وكذلك لأنه يوجد تشوير عمودي يشير إلى نقصان عدد المسالك. لذلك لا يمكنني إكمال عملية التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_23.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_23.mp3",
+      "description": "يمكن ليا نستعمل المنبه الصوتي",
+      "answer": [
+        2
+      ],
+      "explanation": "داخل المدنية فالقانون يمنع استعمال المنبّه الصوتي إلاّ للضرورة وفي حالة وجود خطر، في هذه الحالة لا يوجد خطر، لذلك لا داعي لاستعمال المنبّه الصوتي.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_24.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_24.mp3",
+      "description": "يمكن لي السير",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "يمكننا استعمال أضواء التقابل للسير لأنه في المدينة من الواجب عليّ السير بأضواء التقابل، لكن لا يمكننا إستعمال أضواء الطريق لأنه ممنوع.",
+      "optionGroups": [
+        {
+          "description": "باضواء التقابل :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "باضواء الطريق :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_25.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_25.mp3",
+      "description": "هاد الشاحنة كتمشي غير بشويا. يمكن لي نتجاوزها الان",
+      "answer": [
+        2
+      ],
+      "explanation": "بالرغم من أن الشّاحنة تسير ببطئ و التّشوير الأفقي الخط المتقطّع يسمح لنا بالتّجاوز فلا يمكننا أن نقوم بتجاوز الشاحنة لأنه توجد علامة عمودية تشير إلى وجود أشغال لذلك يجب الإنقاص من السرعة والانتباه لأنه لا نعلم ما الذي سوف نجده من أشغال أثناء الطريق، لذلك لا يمكننا أن نتجاوز الشاحنة الان.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_26.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_26.mp3",
+      "description": "على بعد 300 متر، الطريق مغتبقاش ذات اولوية المرور",
+      "answer": [
+        2
+      ],
+      "explanation": "بالعكس العلامة الطرقية تعني أنه بعد 300 متر سوف تصبح الطريق ذات أولوية بالنسبة لي كسائق.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_27.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_27.mp3",
+      "description": "يمكن لي التجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "التّشوير الأفقي الأسهم المرسومة على الأرض تعني الانحياز إلى الجهة اليمنى والتي تعني بدورها أنه سوف يصبح الخط المتقطّع متّصل بعد قليل، لذلك لا يمكنني التجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_28.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_28.mp3",
+      "description": "",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "بالنسبة للعلامات الطّرقية التي تكون ذات لون أصفر فهي علامات طرقية مؤقتة، في هذه الحالة هذه العلامة الطّرقية تعني أنه في ملتقى الطرق القادم لا يمكنني متابعة السير للامام لأن العلامة الطرقية تشير إلى ذلك وتشير إلى الانعطاف إلى اليسار في ملتقى الطرق القادم.",
+      "optionGroups": [
+        {
+          "description": "هاد الاشارات الطرقية مؤقتة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "فملتقى الطرق الجاي، يمكن لي متابعة السير للقدام :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_29.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_29.mp3",
+      "description": "قبل ما نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "أول شيئ نقوم به قبل عملية التّجاوز هو مراقبة الطريق هل هنالك سيارة تقوم بتجاوزنا، هل التّشوير الطرقي تسمح لنا بعملية التجاوز وهل كذلك يوجد سيارات قادمة في الاتجاه المعاكس، بعد ذلك نقوم بتنبيه السيارة التي أريد أن أقوم بتجاوزها يا إما تنبيه ضوئي أو صوتي، وبعد ذلك أنحاز إلى الجهة اليسرى لكي أقوم بعملية التجاوز. الإجابة الصحيحة رقم 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "ننبه، نراقب، ثم ننحاز",
+            "نراقب، ننبه، ثم ننحاز",
+            "ننحاز، ننبه، ثم نراقب"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_30.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_30.mp3",
+      "description": "هاد الاشارة كتجبرني على متابعة السير للقدام",
+      "answer": [
+        2
+      ],
+      "explanation": "يمكننا الانعطاف إلى اليمين إذا أردت ذلك، بالنسبة لهذه العلامة الطّرقية فهي لا تعني الإجبار ولكنها تعني أن الطريق ذات إتّجاه واحد. إذن العلامة الطّرقية لا تجبرني على متابعة السير للأمام.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_31.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_31.mp3",
+      "description": "بعد ما وقفت عند علامة قف، من الواجب نعطي حق الاسبقية",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "العلامة الطرقية قف فهي تعني الوقوف الإجباري وهي تجبرنا على الوقوف وعلى إعطاء حق الأسبقية بالنسبة للعربات القادمة من الجهة اليمنى وكذلك إعطاء حق الأسبقية بالنسبة للعربات القادمة من الجهة اليسرى.",
+      "optionGroups": [
+        {
+          "description": "للي جايين من ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "للي جايين من ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_32.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_32.mp3",
+      "description": "بعد العلامة، و فهاد المكان يمكن لي",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "بالنسبة للعلامة الطرقية الخاصة بالنقل فهي تشير إلى مكان خاص بالنقل، وبالنسبة للأماكن الخاصة مثل هذه الحالة فلا يمكننا الوقوف ولا يمكننا كذلك التوقّف لأنه مكان خاص.",
+      "optionGroups": [
+        {
+          "description": "التوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "الوقوف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_33.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_33.mp3",
+      "description": "الاشارات الطرقية كتشير",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "بالنسبة للإشارة الطّرقية فهي تعني أن الطريق سوف يكون على إتجاه واحد وليس لطريق سريع، بالنسبة للأسهم الموجودة في الإشارة التكميلية 300 متر فهي تعني على مسافة و تعني كذلك على إمتداد و تعني كذلك على طول (لديها نفس المعنى)، إذن في هذه الحالة الإشارة الطرقية لا تشير إلى طريق سريع، ولكنها تشير إلى أن الطريق سوف تصبح ذات إتّجاه واحد على مسافة 300 متر.",
+      "optionGroups": [
+        {
+          "description": "لطريق سريع :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "طريق عندها اتجاه واحد على مسافة 300 مترو :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_34.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_34.mp3",
+      "description": "يمكن لي نتبع هاذ العربة اللي كتقوم بتجاوز الجرار",
+      "answer": [
+        2
+      ],
+      "explanation": "أول شيئ نتواجد في ملتقى الطّرق، وفي ملتقى الطّرق ممنوع التّجاوز، ثاني شيئ عندما نتواجد في طريق ذات اتجاهين فلا يمكننا إتباع عربة تقوم بعملية التجاوز (عكس الطّريق السّيار) إذن لا يمكننا إتباع هذه العربة التي تقوم بعملية التجاوز للجرّار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_35.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_35.mp3",
+      "description": "توقفت الثلوج عن النزول نطفئ",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "إذا توقفت الثلوج عن الهطول فيمكننا إطفاء أضواء الضّباب الأمامية وكذلك الخلفية.",
+      "optionGroups": [
+        {
+          "description": "أضواء الضباب الأمامية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "أضواء الضباب الخلفية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_36.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_36.mp3",
+      "description": "الممر على السكة الحديدية كيتواجد",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "عندما تكون هنالك صوى تحتوي على خط أحمر واحد فهذا يعني على بعد 50 متر (لو كان هنالك 2 خطوط حمراء ف على بعد 100 متر، كل خط يشير إلى 50 متر)، كما أن الإشارة الضوئية تحتوي على اللون الأحمر إذن ليس لديّ الوقت للمرور.",
+      "optionGroups": [
+        {
+          "options": [
+            "على بعد 50 مترو",
+            "على بعد 100 مترو"
+          ]
+        },
+        {
+          "description": "عندي مازال الوقت باش ندوز :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_37.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_37.mp3",
+      "description": "الخط المرسوم على ليسر ديالي يمكن ليا نتخطاه",
+      "answer": [
+        1
+      ],
+      "explanation": "يوجد 2 خطوط على الجهة اليسرى، ودائما الخط الذي يعنينا في مثل هذه الحالة هو أول خط، الخط الاول بالنسبة لنا هو خط متقطع وبعد ذلك يوجد خط متصل، الخط المتقطع هو الأول يعني يمكنني أن أتخطاه لا مشكلة وبالنسبة للخط المتّصل فهو خاص بالعربات القادمة من الإتّجاه المعاكس، في بعض الحالات يوجد الخط المتصل هو الاول وبعد ذلك الخط المتقطع، في هذه الحالة لا يمكنني أن أتخطّاء. دائما أرى من هو أول خط بالنسبة لي هل متقطع ام متصل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_38.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_38.mp3",
+      "description": "وقت رد الفعل فالمتوسط هو ثانية",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "بالنسبة لوقت رد الفعل في المتوسط فيقدّر ب ثانية واحدة مهما كانت السرعة التي أسير بها.",
+      "optionGroups": [
+        {
+          "description": "مني كنمشي ب 80 كلم فالساعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "مني كنمشي ب 100 كلم فالساعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_39.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_39.mp3",
+      "description": "فهاذ الظروف، يمكن لي نستعمل زيادة على اضواء التقابل اضواء الضبابة ديال القدام",
+      "answer": [
+        1
+      ],
+      "explanation": "يوجد ضباب في الطريق، أستعمل أضواء التقابل كما أنه من الواجب عليّ استعمال أضواء الضباب الأمامية والخلفية. (نجيب على السؤال على حسب سياقه حتى وإن كان السؤال يحتوي على اضواء الضباب الأمامية فقط، فنجيب بنعم يمكننا استعمال اضواب الضباب الأمامية).",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_59/quiz_59_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_59/quiz_s_59_40.mp3",
+      "mp3": "files/audio/quiz_59/quiz_s_59_40.mp3",
+      "description": "ن ABR كيمكن في حالة الحصر الاستعجالي من",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "بالنسبة ل ABR خاصية في العربة يمكّن في حالة الحصر الإستعجالي من التحكم في مسار العربة بشكل أفضل، كما أنه ليس لديه علاقة بإنقاص مسافة الحصر. الإجابة الصحيحة 1 و 4.",
+      "optionGroups": [
+        {
+          "description": "التحكم في مسار العربة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ينقص من مسافة الحصر بقدر كبير :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    }
+  ]
+}

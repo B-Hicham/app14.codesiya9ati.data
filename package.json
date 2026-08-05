@@ -1,0 +1,16 @@
+{
+  "name": "conduire-ma-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scrapers for public content on conduire.ma (permis de conduire Maroc): quizzes + road signs + glossary + infractions + situations",
+  "scripts": {
+    "scrape": "node scripts/quizzes/scrape-quizzes.mjs",
+    "download-media": "node scripts/quizzes/download-media.mjs",
+    "organize-audio": "node scripts/quizzes/organize-audio.mjs",
+    "scrape-panneaux": "node scripts/panneaux/scrape-panneaux.mjs --media",
+    "scrape-lexique": "node scripts/lexique/scrape-lexique.mjs",
+    "scrape-infractions": "node scripts/infractions/scrape-infractions.mjs",
+    "scrape-situations": "node scripts/situations/scrape-situations.mjs --media"
+  }
+}

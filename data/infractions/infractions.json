@@ -1,0 +1,2958 @@
+[
+  {
+    "id": "inf_c1_001",
+    "tier_id": "classe_1",
+    "narsa_original_id": 1,
+    "points": 4,
+    "title_fr": "Dépassement non réglementaire",
+    "title_ar": "التجاوز المعيب",
+    "description_fr": "Le dépassement non réglementaire.",
+    "description_ar": "التجاوز المعيب",
+    "category": "overtaking",
+    "subcategory": "overtaking.procedure",
+    "tags": [],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-overtaking",
+      "no-overtaking-trucks"
+    ]
+  },
+  {
+    "id": "inf_c1_002",
+    "tier_id": "classe_1",
+    "narsa_original_id": 2,
+    "points": 4,
+    "title_fr": "Non respect de l'arrêt imposé par un panneau de stop",
+    "title_ar": "عدم احترام الوقوف المفروض بعلامة قف",
+    "description_fr": "Le non respect par un conducteur d'un véhicule de l'arrêt imposé par un panneau de stop.",
+    "description_ar": "عدم احترام الوقوف المفروض بعلامة قف من طرف سائق مركبة",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "stop",
+      "stop-arabic"
+    ]
+  },
+  {
+    "id": "inf_c1_003",
+    "tier_id": "classe_1",
+    "narsa_original_id": 3,
+    "points": 4,
+    "title_fr": "Non respect de l'arrêt imposé par un feu rouge",
+    "title_ar": "عدم احترام الوقوف المفروض بضوء التشوير الأحمر",
+    "description_fr": "Le non respect par conducteur d'un véhicule de l'arrêt imposé par un feu rouge de signalisation.",
+    "description_ar": "عدم احترام الوقوف المفروض بضوء التشوير الأحمر من طرف سائق مركبة",
+    "category": "priority",
+    "subcategory": "priority.signs",
+    "tags": [
+      "intersection"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "warning-traffic-lights"
+    ]
+  },
+  {
+    "id": "inf_c1_004",
+    "tier_id": "classe_1",
+    "narsa_original_id": 4,
+    "points": 4,
+    "title_fr": "Excès de vitesse de 30 à moins de 50 km/h",
+    "title_ar": "تجاوز السرعة من 30 إلى أقل من 50 كلم/ساعة",
+    "description_fr": "Le dépassement de la vitesse de 30 à moins de 50 Km/h, au dessus de la vitesse autorisée.",
+    "description_ar": "تجاوز السرعة القصوى المسموح بها بما يعادل 30 كلم/ساعة إلى أقل من 50 كلم/ساعة فوق السرعة المأذون بها",
+    "category": "speed",
+    "subcategory": "speed.limits",
+    "tags": [
+      "speeding",
+      "speed-30-50"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "speed-limit-60"
+    ]
+  },
+  {
+    "id": "inf_c1_005",
+    "tier_id": "classe_1",
+    "narsa_original_id": 5,
+    "points": 4,
+    "title_fr": "Circulation en sens interdit",
+    "title_ar": "السير في اتجاه ممنوع",
+    "description_fr": "La circulation de véhicule en sens interdit.",
+    "description_ar": "السير في اتجاه ممنوع (السير في الاتجاه المعاكس)",
+    "category": "signs",
+    "subcategory": "signs.prohibition",
+    "tags": [
+      "one-way"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-entry"
+    ]
+  },
+  {
+    "id": "inf_c1_006",
+    "tier_id": "classe_1",
+    "narsa_original_id": 6,
+    "points": 3,
+    "title_fr": "Stationnement de nuit sans éclairage hors agglomération",
+    "title_ar": "التوقف ليلا بدون إضاءة خارج التجمع العمراني",
+    "description_fr": "Stationnement en infraction aux textes en vigueur, de nuit, sans lumière en dehors d'une agglomération.",
+    "description_ar": "التوقف في مخالفة للنصوص الجاري بها العمل، ليلا، وبدون إضاءة خارج التجمعات العمرانية",
+    "category": "parking",
+    "subcategory": "parking.rules",
+    "tags": [
+      "night"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_007",
+    "tier_id": "classe_1",
+    "narsa_original_id": 8,
+    "points": 3,
+    "title_fr": "Circulation de nuit sans éclairage hors agglomération (non actionnés)",
+    "title_ar": "السير ليلا بدون إنارة خارج التجمع العمراني (أضواء غير مشغلة)",
+    "description_fr": "Circulation de véhicule sur la voie publique de nuit, sans éclairage, hors agglomération (dispositifs d'éclairage fonctionnels mais non actionnés par le conducteur).",
+    "description_ar": "سير المركبة على الطريق العمومية ليلا بدون إنارة خارج التجمع العمراني (رغم توفر المركبة على أجهزة إنارة صالحة للاستعمال لكن لم يتم تشغيلها من طرف السائق)",
+    "category": "lighting",
+    "subcategory": "lighting.usage",
+    "tags": [
+      "night"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "obligation-dipped-headlights"
+    ]
+  },
+  {
+    "id": "inf_c1_008",
+    "tier_id": "classe_1",
+    "narsa_original_id": 9,
+    "points": 3,
+    "title_fr": "Circulation de nuit sans éclairage hors agglomération (dispositifs défectueux)",
+    "title_ar": "السير ليلا بدون إنارة خارج التجمع العمراني (أجهزة معيبة)",
+    "description_fr": "Circulation de nuit sans éclairage hors agglomération (dispositifs d'éclairage étant défectueux).",
+    "description_ar": "السير ليلا بدون إنارة خارج التجمع العمراني بسبب كون أجهزة الإنارة معيبة",
+    "category": "lighting",
+    "subcategory": "lighting.usage",
+    "tags": [
+      "night",
+      "lighting-equipment"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "obligation-dipped-headlights"
+    ]
+  },
+  {
+    "id": "inf_c1_009",
+    "tier_id": "classe_1",
+    "narsa_original_id": 10,
+    "points": 3,
+    "title_fr": "Conduite d'un véhicule sans certificat de contrôle technique",
+    "title_ar": "سياقة مركبة بدون شهادة الفحص التقني",
+    "description_fr": "La conduite d'un véhicule en absence du certificat de contrôle technique.",
+    "description_ar": "عدم الخضوع للمراقبة التقنية (عدم التوفر على شهادة الفحص التقني)",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "technical-inspection"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_010",
+    "tier_id": "classe_1",
+    "narsa_original_id": 11,
+    "points": 0,
+    "title_fr": "Stationnement dangereux (visibilité insuffisante, virage, sommet, pont, tunnel ou intersection)",
+    "title_ar": "التوقف الخطير (نقص الرؤية، منعرج، قمة عقبة، قنطرة، نفق أو ملتقى طرق)",
+    "description_fr": "Stationnement dangereux d'un véhicule, lorsque la visibilité est insuffisante, à proximité d'un virage ou d'un sommet de côte, sur un pont, dans un tunnel, le stationnement masquant la signalisation ou le stationnement à moins de 10 mètres d'une intersection de routes.",
+    "description_ar": "التوقف الخطير لمركبة، عندما تكون الرؤية غير كافية، بالقرب من منعرج أو قمة عقبة، أو فوق قنطرة، أو داخل نفق، أو التوقف الذي يحجب علامات التشوير، أو التوقف على بعد أقل من 10 أمتار من ملتقى للطرق",
+    "category": "parking",
+    "subcategory": "parking.prohibited",
+    "tags": [
+      "intersection",
+      "tunnel",
+      "bridge"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-stopping-no-parking",
+      "no-parking"
+    ]
+  },
+  {
+    "id": "inf_c1_011",
+    "tier_id": "classe_1",
+    "narsa_original_id": 12,
+    "points": 0,
+    "title_fr": "Arrêt sur ou sous les ponts, dans les tunnels et passages souterrains",
+    "title_ar": "الوقوف فوق أو تحت القناطر، داخل الأنفاق والممرات التحت أرضية",
+    "description_fr": "Arrêt d'un véhicule sur ou sous les ponts, dans les tunnels et passages souterrains ou sur un passage supérieur sauf en cas de force majeure.",
+    "description_ar": "وقوف المركبة فوق أو تحت القناطر، داخل الأنفاق والممرات التحت أرضية أو على ممر علوي، إلا في حالات القوة القاهرة",
+    "category": "parking",
+    "subcategory": "parking.prohibited",
+    "tags": [
+      "tunnel",
+      "bridge"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-stopping-no-parking"
+    ]
+  },
+  {
+    "id": "inf_c1_012",
+    "tier_id": "classe_1",
+    "narsa_original_id": 13,
+    "points": 0,
+    "title_fr": "Arrêt ou stationnement à proximité d'un passage à niveau",
+    "title_ar": "الوقوف أو التوقف بالقرب من تقاطع طريق مع سكة حديدية",
+    "description_fr": "Arrêt ou stationnement d'un véhicule au niveau ou à proximité d'un passage à niveau.",
+    "description_ar": "الوقوف أو التوقف بمركبة في مستوى أو بالقرب من تقاطع طريق مع سكة حديدية",
+    "category": "parking",
+    "subcategory": "parking.prohibited",
+    "tags": [
+      "railway-crossing"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-stopping-no-parking",
+      "warning-railway-guarded",
+      "warning-railway-crossing-no-gates"
+    ]
+  },
+  {
+    "id": "inf_c1_013",
+    "tier_id": "classe_1",
+    "narsa_original_id": 14,
+    "points": 0,
+    "title_fr": "Franchissement d'une ligne continue",
+    "title_ar": "تجاوز الخط المتصل",
+    "description_fr": "Franchissement d'une ligne continue.",
+    "description_ar": "تجاوز الخط المتصل",
+    "category": "signs",
+    "subcategory": "signs.markings",
+    "tags": [],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_014",
+    "tier_id": "classe_1",
+    "narsa_original_id": 15,
+    "points": 0,
+    "title_fr": "Engagement sur passage à niveau sans barrières sans précaution",
+    "title_ar": "ولوج تقاطع طريق مع سكة حديدية غير مجهز بحواجز دون احتياط",
+    "description_fr": "Le véhicule s'engageant sur un passage à niveau non muni de barrières sans s'assurer qu'aucun train n'est visible ou annoncé.",
+    "description_ar": "ولوج المركبة لتقاطع طريق مع سكة حديدية غير مجهز بحواجز دون التأكد من عدم وجود أي قطار مرئي أو معلن عنه",
+    "category": "priority",
+    "subcategory": "priority.special",
+    "tags": [
+      "railway-crossing"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "warning-railway-crossing-no-gates",
+      "level-crossing-no-barrier-position",
+      "level-crossing-approach-beacons"
+    ]
+  },
+  {
+    "id": "inf_c1_015",
+    "tier_id": "classe_1",
+    "narsa_original_id": 16,
+    "points": 0,
+    "title_fr": "Non-dégagement immédiat de la voie ferrée à l'approche d'un train",
+    "title_ar": "عدم إخلاء السكة الحديدية فورا عند اقتراب القطار",
+    "description_fr": "Le véhicule ne dégageant pas immédiatement la voie ferrée à l'approche d'un train.",
+    "description_ar": "عدم قيام السائق بإخلاء السكة الحديدية فورا عند اقتراب القطار من قبل المركبة",
+    "category": "priority",
+    "subcategory": "priority.special",
+    "tags": [
+      "railway-crossing"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "warning-railway-guarded",
+      "warning-railway-crossing-no-gates",
+      "level-crossing-no-barrier-position"
+    ]
+  },
+  {
+    "id": "inf_c1_016",
+    "tier_id": "classe_1",
+    "narsa_original_id": 17,
+    "points": 0,
+    "title_fr": "Accès ou sortie d'autoroute par un endroit non autorisé",
+    "title_ar": "ولوج أو خروج من الطريق السيار عبر أماكن غير مخصصة لذلك",
+    "description_fr": "L'accès et la sortie des autoroutes par tout endroit non destiné à cette manœuvre.",
+    "description_ar": "ولوج الطريق السيار أو الخروج منه من أي مكان غير مخصص لهذه المناورة",
+    "category": "highway",
+    "subcategory": "highway.entry_exit",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_017",
+    "tier_id": "classe_1",
+    "narsa_original_id": 18,
+    "points": 0,
+    "title_fr": "Défaut de freins réglementaires",
+    "title_ar": "غياب أو خلل في الفرامل القانونية",
+    "description_fr": "Le défaut de freins réglementaires des véhicules, ensemble de véhicules, véhicules articulés, trains routiers doubles ou remorques.",
+    "description_ar": "عدم توفر المركبات أو مجموعة مركبات أو المركبات المفصلة أو قطارات الطرق المزدوجة أو المقطورات على فرامل مطابقة للمعايير القانونية",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "brakes",
+      "truck",
+      "trailer"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_018",
+    "tier_id": "classe_1",
+    "narsa_original_id": 19,
+    "points": 0,
+    "title_fr": "Absence de dispositifs d'éclairage",
+    "title_ar": "انعدام أجهزة الإنارة",
+    "description_fr": "Absence de dispositifs d'éclairage.",
+    "description_ar": "انعدام أجهزة الإنارة بالمركبة",
+    "category": "lighting",
+    "subcategory": "lighting.types",
+    "tags": [
+      "lighting-equipment",
+      "night"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_019",
+    "tier_id": "classe_1",
+    "narsa_original_id": 20,
+    "points": 0,
+    "title_fr": "Pneus lisses ou endommagés (sculptures insuffisantes ou déchirures)",
+    "title_ar": "إطارات مطاطية ملساء أو متضررة (عمق النقوش غير كاف أو وجود تمزقات)",
+    "description_fr": "Si la profondeur des sculptures sur la bande de roulement du pneu est devenue inférieure au niveau fixé par l'administration ou pneu présentant des déchirures ou coupures laissant apparaître la toile sur les flancs ou la bande de roulement.",
+    "description_ar": "إذا أصبح عمق النقوش على الشريط الدارج للإطارات المطاطية يقل عن المستوى المحدد من قبل الإدارة، أو إذا كان الإطار يحمل تمزقات أو شقوقا تظهر الفتائل على جانب الإطارات المطاطية أو على الشريط الدارج",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "tires"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_020",
+    "tier_id": "classe_1",
+    "narsa_original_id": 21,
+    "points": 0,
+    "title_fr": "Absence de dispositif de la ceinture de sécurité",
+    "title_ar": "غياب جهاز حزام السلامة",
+    "description_fr": "Absence de dispositif de la ceinture de sécurité.",
+    "description_ar": "عدم توفر المركبة على جهاز حزام السلامة",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "seatbelt"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_021",
+    "tier_id": "classe_1",
+    "narsa_original_id": 22,
+    "points": 0,
+    "title_fr": "Défectuosité des organes de direction",
+    "title_ar": "خلل في أجهزة التوجيه",
+    "description_fr": "Le véhicule présente une défectuosité des organes de direction.",
+    "description_ar": "المركبة التي تظهر خللا في أجهزة التوجيه",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_022",
+    "tier_id": "classe_1",
+    "narsa_original_id": 23,
+    "points": 0,
+    "title_fr": "Défectuosité du système de suspension",
+    "title_ar": "خلل في نظام التعليق",
+    "description_fr": "Le véhicule présente une défectuosité du système de suspension.",
+    "description_ar": "المركبة التي تتوفر على نظام تعليق معيب",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_023",
+    "tier_id": "classe_1",
+    "narsa_original_id": 24,
+    "points": 0,
+    "title_fr": "Absence de dispositif de collecte des eaux huileuses",
+    "title_ar": "عدم التوفر على جهاز تجميع المياه الزيتية",
+    "description_fr": "Absence de dispositif de collecte des eaux huileuses pour les véhicules soumis à l'obligation d'en être équipés.",
+    "description_ar": "عدم توفر المركبات الخاضعة لإلجبارية على جهاز تجميع المياه الزيتية",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_024",
+    "tier_id": "classe_1",
+    "narsa_original_id": 25,
+    "points": 0,
+    "title_fr": "Accès interdit à l'autoroute (piétons, montures ou animaux)",
+    "title_ar": "ولوج الطريق السيار من طرف الراجلين أو الدواب أو الحيوانات",
+    "description_fr": "L'accès à l'autoroute par des piétons, des personnes à dos de montures ou par des animaux.",
+    "description_ar": "ولوج الطريق السيار من طرف الراجلين أو الأشخاص الراكبين دواب أو من طرف الحيوانات",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway",
+      "pedestrian"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-pedestrians",
+      "no-entry-herds"
+    ]
+  },
+  {
+    "id": "inf_c1_025",
+    "tier_id": "classe_1",
+    "narsa_original_id": 26,
+    "points": 0,
+    "title_fr": "Circulation de véhicule de transport exceptionnel sans autorisation",
+    "title_ar": "سير مركبة للنقل الاستثنائي بدون ترخيص",
+    "description_fr": "Le véhicule de transport exceptionnel circulant sans autorisation.",
+    "description_ar": "سير المركبة التي تقوم بنقل استثنائي دون الحصول على الإذن أو الترخيص الخاص بذلك",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "commercial",
+      "cargo-dimensions",
+      "cargo-weight"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_026",
+    "tier_id": "classe_1",
+    "narsa_original_id": 27,
+    "points": 0,
+    "title_fr": "Non respect des conditions de l'autorisation de transport exceptionnel",
+    "title_ar": "عدم احترام الشروط الخاصة المحددة في رخصة النقل الاستثنائي",
+    "description_fr": "Non respect des conditions spéciales fixées par l'autorisation de transport exceptionnel.",
+    "description_ar": "عدم احترام الشروط الخاصة المحددة في رخصة النقل الاستثنائي",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "truck",
+      "cargo-dimensions",
+      "cargo-weight"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": [
+      "no-entry-weight-limit-5-5-tons",
+      "no-entry-height-limit-4-5",
+      "no-entry-width-limit-2-5"
+    ]
+  },
+  {
+    "id": "inf_c1_027",
+    "tier_id": "classe_1",
+    "narsa_original_id": 28,
+    "points": 0,
+    "title_fr": "Accès à l'autoroute pour transport exceptionnel sans autorisation",
+    "title_ar": "ولوج الطريق السيار للنقل الاستثنائي بدون ترخيص",
+    "description_fr": "Accès à l'autoroute des véhicules effectuant le transport exceptionnel, sans autorisation motivée accordé par l'administration gestionnaire de l'autoroute concernée ou, en cas de concession, par le concessionnaire.",
+    "description_ar": "ولوج الطريق السيار من طرف المركبات التي تقوم بالنقل الاستثنائي، دون الحصول على ترخيص معلل من طرف الإدارة المسيرة للطريق السيار المعني أو من طرف صاحب الامتياز في حالة وجود عقد امتياز",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway",
+      "cargo-dimensions",
+      "cargo-weight"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_028",
+    "tier_id": "classe_1",
+    "narsa_original_id": 29,
+    "points": 0,
+    "title_fr": "Dépassement du poids total en charge autorisé de 30 à 40 %",
+    "title_ar": "تجاوز الوزن الإجمالي المأذون به عند الشحن بنسبة 30 إلى 40 في المائة",
+    "description_fr": "Le dépassement du poids total en charge autorisé de 30 à 40 % ([30%,40%]).",
+    "description_ar": "تجاوز الوزن الإجمالي المأذون به عند الشحن بنسبة تتراوح ما بين 30% و 40%",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "cargo-weight",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": [
+      "no-entry-weight-limit-5-5-tons",
+      "axle-weight-limit-5t",
+      "weight-limit-5-5-tons"
+    ]
+  },
+  {
+    "id": "inf_c1_029",
+    "tier_id": "classe_1",
+    "narsa_original_id": 30,
+    "points": 0,
+    "title_fr": "Absence de précautions pour éviter l'écoulement ou l'éparpillement du chargement",
+    "title_ar": "عدم اتخاذ الاحتياطات اللازمة لتفادي سيلان أو تبعثر الحمولة",
+    "description_fr": "L'absence des précautions nécessaires pour éviter l'écoulement des liquides huileux ou de produits qui causent le dérapage ou l'éparpillement du gravier ou du sable ou tout ou partie du chargement du véhicule.",
+    "description_ar": "عدم اتخاذ الاحتياطات اللازمة لتفادي سيلان السوائل الزيتية أو المواد التي تسبب الانزلاق أو تبعثر الحصى أو الرمل أو كل أو جزء من حمولة المركبة",
+    "category": "safety",
+    "subcategory": "safety.conditions",
+    "tags": [
+      "cargo-loading",
+      "cargo-weight"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_030",
+    "tier_id": "classe_1",
+    "narsa_original_id": 31,
+    "points": 0,
+    "title_fr": "Dépassement du nombre de passagers autorisé en transport en commun",
+    "title_ar": "تجاوز عدد الركاب المأذون به في وسائل النقل العمومي للأشخاص",
+    "description_fr": "Dépassement du nombre autorisé de passagers en cas de transport en commun de personnes.",
+    "description_ar": "تجاوز عدد الركاب المأذون به في حالة النقل العمومي للأشخاص",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "passenger",
+      "commercial"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_031",
+    "tier_id": "classe_1",
+    "narsa_original_id": 32,
+    "points": 0,
+    "title_fr": "Transport de personnes sur le toit des véhicules",
+    "title_ar": "نقل الأشخاص على سطح المركبات",
+    "description_fr": "Le transport de personnes sur le toit des véhicules.",
+    "description_ar": "نقل الأشخاص على سطح المركبات",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "passenger"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_032",
+    "tier_id": "classe_1",
+    "narsa_original_id": 33,
+    "points": 0,
+    "title_fr": "Transport non réglementé de personnes debout",
+    "title_ar": "النقل غير القانوني لأشخاص واقفين",
+    "description_fr": "Le transport non réglementé de personnes debout.",
+    "description_ar": "النقل غير القانوني لأشخاص في وضعية وقوف داخل المركبة",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "passenger"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_033",
+    "tier_id": "classe_1",
+    "narsa_original_id": 34,
+    "points": 0,
+    "title_fr": "Arrêt pour ramassage ou dépôt de voyageurs sur autoroute",
+    "title_ar": "الوقوف لنقل أو إنزال المسافرين بالطريق السيار",
+    "description_fr": "L'arrêt pour le ramassage et le dépôt des voyageurs sur les autoroutes et leurs bretelles de raccordement.",
+    "description_ar": "الوقوف لنقل أو إنزال المسافرين بالطرق السيارة أو بمسالك الربط المؤدية إليها",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway",
+      "passenger"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-stopping-no-parking"
+    ]
+  },
+  {
+    "id": "inf_c1_034",
+    "tier_id": "classe_1",
+    "narsa_original_id": 35,
+    "points": 0,
+    "title_fr": "Dépannage ou remorquage non agréé sur autoroute",
+    "title_ar": "مزاولة إغاثة أو قطر المركبات على الطريق السيار بدون ترخيص",
+    "description_fr": "L'exercice sur les autoroutes et leurs bretelles de raccordement, par des personnes non agréées par le gestionnaire de l'autoroute ou en cas de concession par le concessionnaire de l'autoroute dans des conditions fixées par l'administration, du dépannage et du remorquage des véhicules en panne ou accidentés.",
+    "description_ar": "مزاولة عمليات إغاثة أو قطر المركبات المتعطلة أو التي تعرضت لحادثة سير على الطرق السيارة ومسالك الربط التابعة لها، من طرف أشخاص غير معتمدين من طرف مسير الطريق السيار أو صاحب الامتياز وفق الشروط المحددة من طرف الإدارة",
+    "category": "highway",
+    "subcategory": "highway.rules",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_035",
+    "tier_id": "classe_1",
+    "narsa_original_id": 36,
+    "points": 0,
+    "title_fr": "Non-conformité des plaques d'immatriculation",
+    "title_ar": "عدم مطابقة لوحات التسجيل",
+    "description_fr": "Non conformité des plaques d'immatriculation avec les dispositions du code de la route.",
+    "description_ar": "عدم مطابقة لوحات تسجيل المركبة للمقتضيات المنصوص عليها في مدونة السير",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "registration"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_036",
+    "tier_id": "classe_1",
+    "narsa_original_id": 37,
+    "points": 0,
+    "title_fr": "Défaut de la visite médicale obligatoire",
+    "title_ar": "عدم الخضوع للفحص الطبي الإجباري",
+    "description_fr": "Défaut de la visite médicale obligatoire.",
+    "description_ar": "عدم توفر السائق على شهادة الفحص الطبي الإجباري التي تثبت أهليته البدنية والعقلية للسياقة",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "license-missing"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_037",
+    "tier_id": "classe_1",
+    "narsa_original_id": 38,
+    "points": 0,
+    "title_fr": "Non-paiement du péage autoroutier",
+    "title_ar": "عدم أداء واجبات استعمال الطريق السيار",
+    "description_fr": "Non paiement du montant applicable à l'utilisation des autoroutes, dont l'usage est soumis au paiement en vertu des textes législatifs en vigueur.",
+    "description_ar": "عدم أداء مبلغ الأداء المطبق على استعمال الطرق السيارة الخاضعة للأداء بموجب النصوص التشريعية الجاري بها العمل",
+    "category": "highway",
+    "subcategory": "highway.rules",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "toll-booth-stop"
+    ]
+  },
+  {
+    "id": "inf_c1_038",
+    "tier_id": "classe_1",
+    "narsa_original_id": 39,
+    "points": 0,
+    "title_fr": "Indications manquantes sur la feuille d'enregistrement du chronotachygraphe",
+    "title_ar": "غياب أو نقص البيانات الواجب تدوينها في ورقة تسجيل جهاز قياس السرعة وزمن السياقة",
+    "description_fr": "Défaut ou manque des indications qui doivent êtres portées sur la feuille d'enregistrement du dispositif de mesure de la vitesse et du temps de conduite (chrono tachygraphe).",
+    "description_ar": "عدم توفر أو نقص البيانات التي يجب تدوينها في ورقة تسجيل جهاز قياس السرعة وزمن السياقة (جهاز التاكوغراف)",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "tachograph",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_039",
+    "tier_id": "classe_1",
+    "narsa_original_id": 40,
+    "points": 0,
+    "title_fr": "Absence de feuille d'enregistrement dans le chrono tachygraphe",
+    "title_ar": "عدم وضع ورقة التسجيل في جهاز قياس السرعة وزمن السياقة",
+    "description_fr": "Défaut de mise en place de la feuille d'enregistrement dans le dispositif de mesure de la vitesse et du temps de conduite (chrono tachygraphe).",
+    "description_ar": "عدم وضع ورقة التسجيل في جهاز قياس السرعة وزمن السياقة (جهاز التاكوغراف)",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "tachograph",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_040",
+    "tier_id": "classe_1",
+    "narsa_original_id": 41,
+    "points": 0,
+    "title_fr": "Non remplacement des feuilles d'enregistrement retirées par les agents verbalisateurs",
+    "title_ar": "عدم تعويض أوراق التسجيل المسحوبة من طرف أعوان المراقبة",
+    "description_fr": "Non remplacement des feuilles d'enregistrement retirées par les agents verbalisateurs.",
+    "description_ar": "عدم قيام السائق بتعويض أوراق التسجيل (الخاصة بجهاز قياس السرعة وزمن السياقة) التي تم سحبها من طرف الأعوان المكلفين بتحرير المحاضر",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "tachograph",
+      "commercial",
+      "truck"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_041",
+    "tier_id": "classe_1",
+    "narsa_original_id": 42,
+    "points": 0,
+    "title_fr": "Utilisation d'une même feuille d'enregistrement par plusieurs conducteurs",
+    "title_ar": "استعمال نفس ورقة التسجيل من طرف أكثر من سائق واحد",
+    "description_fr": "Utilisation de la même feuille d'enregistrement par plus d'un conducteur.",
+    "description_ar": "استعمال نفس ورقة التسجيل من طرف أكثر من سائق واحد",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "tachograph",
+      "commercial",
+      "truck"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_042",
+    "tier_id": "classe_1",
+    "narsa_original_id": 43,
+    "points": 0,
+    "title_fr": "Non utilisation d'une nouvelle feuille d'enregistrement après le repos journalier",
+    "title_ar": "عدم استعمال ورقة تسجيل جديدة بعد انتهاء وقت الراحة اليومي",
+    "description_fr": "Non utilisation d'une nouvelle feuille d'enregistrement après la fin du temps de repos journalier et la prise en charge de la conduite du véhicule.",
+    "description_ar": "عدم استعمال ورقة تسجيل جديدة بعد انتهاء وقت الراحة اليومي والشروع في سياقة المركبة",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "tachograph",
+      "commercial",
+      "truck"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_043",
+    "tier_id": "classe_1",
+    "narsa_original_id": 44,
+    "points": 0,
+    "title_fr": "Retrait de la feuille d'enregistrement du chrono tachygraphe avant la fin",
+    "title_ar": "سحب ورقة تسجيل جهاز قياس السرعة وزمن السياقة قبل نهاية المدة",
+    "description_fr": "Retrait de la feuille d'enregistrement du dispositif de mesure de la vitesse et du temps de conduite (chrono tachygraphe) avant la fin de la période de conduite.",
+    "description_ar": "سحب ورقة التسجيل من جهاز قياس السرعة وزمن السياقة (جهاز التاكوغراف) قبل نهاية فترة السياقة المحددة",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "tachograph",
+      "commercial",
+      "truck"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_044",
+    "tier_id": "classe_1",
+    "narsa_original_id": 45,
+    "points": 0,
+    "title_fr": "Défaut de fonctionnement du chrono tachygraphe pendant la conduite et le repos",
+    "title_ar": "عدم الحفاظ على جهاز قياس السرعة وزمن السياقة (التاكوغراف) في حالة اشتغال",
+    "description_fr": "Défaut de maintenir en état de fonctionnement le dispositif de mesure de la vitesse et du temps de conduite (chrono tachygraphe) pendant la période de conduite et celle du repos.",
+    "description_ar": "عدم الحفاظ في حالة اشتغال على جهاز قياس السرعة وزمن السياقة (جهاز التاكوغراف) خلال فترة السياقة وفترة الراحة",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "tachograph",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_045",
+    "tier_id": "classe_1",
+    "narsa_original_id": 46,
+    "points": 0,
+    "title_fr": "Non remplacement ou non conservation de feuille d'enregistrement souillée ou endommagée",
+    "title_ar": "عدم استبدال أو عدم الاحتفاظ بورقة التسجيل المتسخة أو التالفة",
+    "description_fr": "Non remplacement de la feuille d'enregistrement comportant des indications souillées ou endommagées par une nouvelle feuille de réserve valable et la non conservation de la feuille remplacée.",
+    "description_ar": "عدم استبدال ورقة التسجيل التي تتضمن بيانات متسخة أو تالفة بورقة احتياطية جديدة صالحة، وعدم الاحتفاظ بالورقة المستبدلة",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "tachograph",
+      "commercial",
+      "truck"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_046",
+    "tier_id": "classe_1",
+    "narsa_original_id": 47,
+    "points": 0,
+    "title_fr": "Défaut de présentation des documents d'enregistrement de vitesse et de repos",
+    "title_ar": "عدم تقديم وثائق تسجيل السرعة وأوقات الراحة",
+    "description_fr": "Défaut de présentation aux agents verbalisateurs habilités à opérer des opérations de contrôle sur la voie publique des documents qui permettent d'enregistrer la vitesse et le temps de repos relatifs au jour où le contrôle a été effectué ainsi que ceux des 28 jours précédents.",
+    "description_ar": "عدم تقديم الوثائق التي تمكن من تسجيل السرعة وأوقات الراحة المتعلقة بيوم إجراء المراقبة وكذا الوثائق الخاصة بثمانية وعشرين (28) يوما السابقة للأعوان المحررين للمحاضر المؤهلين لإجراء عمليات المراقبة على الطريق العمومية",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "tachograph",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c1_047",
+    "tier_id": "classe_1",
+    "narsa_original_id": 48,
+    "points": 0,
+    "title_fr": "Non report manuel des indications de conduite (panne du chronotachygraphe)",
+    "title_ar": "عدم التدوين اليدوي لبيانات السياقة (عند عطل جهاز قياس السرعة وزمن السياقة)",
+    "description_fr": "Non report manuel des indications relatives au temps de conduite et de repos durant la période de panne du chronotachygraphe ou son fonctionnement défectueux sur une feuille qui sera jointe au support d'enregistrement sur laquelle il reporte les éléments permettant de l'identifier notamment ses nom et prénom, le numéro de son permis de conduire et appose sa signature.",
+    "description_ar": "عدم التدوين اليدوي للبيانات المتعلقة بمدة السياقة وزمن الراحة خلال فترة تعطل جهاز قياس السرعة وزمن السياقة أو اشتغاله بشكل معيب، على ورقة ترفق بحامل التسجيل وتتضمن العناصر التي تمكن من تحديد هوية السائق، لاسيما الاسم الشخصي والعائلي ورقم رخصة السياقة مع وضع توقيعه عليها",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "tachograph",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_001",
+    "tier_id": "classe_2",
+    "narsa_original_id": 1,
+    "points": 3,
+    "title_fr": "Arrêt sur autoroute ou bande d'arrêt d'urgence hors nécessité absolue",
+    "title_ar": "الوقوف على قارعة الطريق السيار أو أشرطة التوقف الاستعجالي",
+    "description_fr": "L'arrêt sur les chaussées d'une autoroute ou sur les bandes d'arrêt d'urgence ou sur les bretelles de raccordement d'une autoroute, sauf en cas de nécessité absolue.",
+    "description_ar": "الوقوف على قارعة الطريق السيار أو على أشرطة التوقف الاستعجالي أو على مسالك الربط للطريق السيار، ما عدا في حالة الضرورة القصوى",
+    "category": "highway",
+    "subcategory": "highway.rules",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-stopping-no-parking"
+    ]
+  },
+  {
+    "id": "inf_c2_002",
+    "tier_id": "classe_2",
+    "narsa_original_id": 2,
+    "points": 3,
+    "title_fr": "Stationnement sur autoroute ou bande d'arrêt d'urgence",
+    "title_ar": "التوقف بالطريق السيار أو بشريط التوقف العاجل",
+    "description_fr": "Le stationnement sur les chaussées d'une autoroute ou sur les bandes d'arrêt d'urgence ou sur les bretelles de raccordement d'une autoroute, sauf en cas de nécessité absolue.",
+    "description_ar": "التوقف على قارعة الطريق السيار أو على أشرطة التوقف العاجل أو على مسالك الربط للطريق السيار، إلا في حالة الضرورة القصوى",
+    "category": "highway",
+    "subcategory": "highway.rules",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-stopping-no-parking"
+    ]
+  },
+  {
+    "id": "inf_c2_003",
+    "tier_id": "classe_2",
+    "narsa_original_id": 3,
+    "points": 3,
+    "title_fr": "Circulation sur bande d'arrêt d'urgence d'une autoroute",
+    "title_ar": "السير على شريط التوقف العاجل بالطريق السيار",
+    "description_fr": "La circulation sur une bande d'arrêt d'urgence d'une autoroute.",
+    "description_ar": "السير على شريط التوقف العاجل بالطريق السيار",
+    "category": "highway",
+    "subcategory": "highway.rules",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_004",
+    "tier_id": "classe_2",
+    "narsa_original_id": 4,
+    "points": 2,
+    "title_fr": "Non-respect de la priorité sur bretelle de raccordement d'autoroute",
+    "title_ar": "عدم احترام الأسبقية عند ولوج الطريق السيار عبر مسلك الربط",
+    "description_fr": "Le conducteur empruntant une bretelle de raccordement ne respectant pas la priorité des usagers circulant sur l'autoroute.",
+    "description_ar": "السائق الذي يسلك مسلك الربط ولا يحترم حق الأسبقية لمستعملي الطريق السيار",
+    "category": "priority",
+    "subcategory": "priority.special",
+    "tags": [
+      "highway",
+      "intersection"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "yield"
+    ]
+  },
+  {
+    "id": "inf_c2_005",
+    "tier_id": "classe_2",
+    "narsa_original_id": 5,
+    "points": 2,
+    "title_fr": "Réparations importantes sur bande d'arrêt d'urgence ou non-évacuation du véhicule",
+    "title_ar": "إجراء إصلاحات كبرى بشريط التوقف العاجل أو عدم إخلاء المركبة من الطريق السيار",
+    "description_fr": "Les réparations importantes des véhicules sur les bandes d'arrêt d'urgence d'une autoroute ou le fait de ne pas faire évacuer de l'autoroute un véhicule nécessitant des réparations importantes.",
+    "description_ar": "القيام بإصلاحات كبرى للمركبات على أشرطة التوقف العاجل بالطريق السيار أو عدم العمل على إخلاء الطريق السيار من كل مركبة تتطلب إصلاحات كبرى",
+    "category": "highway",
+    "subcategory": "highway.rules",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_006",
+    "tier_id": "classe_2",
+    "narsa_original_id": 6,
+    "points": 2,
+    "title_fr": "Excès de vitesse de 20 à moins de 30 km/h",
+    "title_ar": "تجاوز السرعة من 20 إلى أقل من 30 كلم/ساعة",
+    "description_fr": "Le dépassement de la vitesse de 20 à moins de 30 Km/h, au dessus de la vitesse autorisée.",
+    "description_ar": "تجاوز السرعة القصوى المسموح بها بما يعادل 20 كلم في الساعة إلى أقل من 30 كلم في الساعة فوق السرعة المأذون بها",
+    "category": "speed",
+    "subcategory": "speed.limits",
+    "tags": [
+      "speeding",
+      "speed-20-30"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "speed-limit-60"
+    ]
+  },
+  {
+    "id": "inf_c2_007",
+    "tier_id": "classe_2",
+    "narsa_original_id": 7,
+    "points": 2,
+    "title_fr": "Non respect du droit de priorité",
+    "title_ar": "عدم احترام حق الأسبقية",
+    "description_fr": "Le non respect du droit de priorité.",
+    "description_ar": "عدم احترام حق الأسبقية",
+    "category": "priority",
+    "subcategory": "priority.right",
+    "tags": [
+      "intersection"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "yield",
+      "stop",
+      "warning-priority-to-the-right"
+    ]
+  },
+  {
+    "id": "inf_c2_008",
+    "tier_id": "classe_2",
+    "narsa_original_id": 8,
+    "points": 2,
+    "title_fr": "Non respect de la priorité aux véhicules de secours",
+    "title_ar": "عدم احترام الأسبقية لمركبات الإغاثة",
+    "description_fr": "Le non respect de la priorité accordée, en vertu du Code de la Route et des textes pris pour son application, aux véhicules de service de gendarmerie, de police ou de protection civile ou aux ambulances, faisant usage de leurs avertisseurs spéciaux.",
+    "description_ar": "عدم احترام الأسبقية الواجبة، بمقتضى مدونة السير والنصوص المتخذة لتطبيقها، لمركبات مصالح الدرك أو الشرطة أو الوقاية المدنية أو سيارات الإسعاف التي تستعمل منبهاتها الخاصة",
+    "category": "priority",
+    "subcategory": "priority.special",
+    "tags": [
+      "emergency-vehicle",
+      "intersection"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_009",
+    "tier_id": "classe_2",
+    "narsa_original_id": 9,
+    "points": 2,
+    "title_fr": "Non-respect de la priorité donnée au piéton",
+    "title_ar": "عدم احترام الأسبقية الواجبة للراجلين",
+    "description_fr": "Le conducteur ne respectant pas la priorité donnée au piéton.",
+    "description_ar": "السائقون الذين لا يحترمون الأسبقية الواجبة للراجلين",
+    "category": "priority",
+    "subcategory": "priority.special",
+    "tags": [
+      "pedestrian",
+      "intersection"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "warning-pedestrian-crossing"
+    ]
+  },
+  {
+    "id": "inf_c2_010",
+    "tier_id": "classe_2",
+    "narsa_original_id": 10,
+    "points": 1,
+    "title_fr": "Transport d'enfants de moins de 10 ans au siège avant",
+    "title_ar": "نقل الأطفال الذين يقل عمرهم عن 10 سنوات في المقعد الأمامي",
+    "description_fr": "Le transport d'enfants dont l'âge est inférieur à 10 ans sur le siège avant d'un véhicule.",
+    "description_ar": "نقل الأطفال الذين يقل عمرهم عن 10 سنوات في المقعد الأمامي للمركبة",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "children",
+      "passenger"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_011",
+    "tier_id": "classe_2",
+    "narsa_original_id": 11,
+    "points": 1,
+    "title_fr": "Usage du téléphone tenu en main ou dispositif similaire",
+    "title_ar": "استعمال الهاتف ممسوكا باليد أو أي جهاز مماثل",
+    "description_fr": "Utilisez ou parler au téléphone tenu en main, pendant la conduite d'un véhicule, ou tout autre dispositif ayant les fonctionnalités du téléphone.",
+    "description_ar": "الاستعمال أو التحدث بالهاتف ممسوكا باليد أثناء سياقة المركبة، أو أي جهاز آخر يتوفر على وظائف الهاتف",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "phone"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_012",
+    "tier_id": "classe_2",
+    "narsa_original_id": 12,
+    "points": 1,
+    "title_fr": "Défaut de port de ceinture de sécurité",
+    "title_ar": "عدم وضع حزام السلامة",
+    "description_fr": "Défaut de port de ceinture de sécurité. L'amende s'applique au conducteur ou au passager qui a commis l'infraction (1 point lorsque l'infraction est enregistrée au nom du conducteur).",
+    "description_ar": "عدم احترام إجبارية استعمال حزام السلامة. تطبق الغرامة على السائق أو الراكب الذي ارتكب المخالفة (خصم نقطة واحدة عندما تسجل المخالفة في حق السائق)",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "seatbelt",
+      "passenger"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_013",
+    "tier_id": "classe_2",
+    "narsa_original_id": 13,
+    "points": 0,
+    "title_fr": "Non respect des bandes ou pistes réservées aux cycles",
+    "title_ar": "عدم احترام الأشرطة أو الممرات المخصصة للدراجات",
+    "description_fr": "Non respect par les conducteurs des bandes ou pistes réservées aux cycles, cyclomoteurs, tricycles et quadricycles.",
+    "description_ar": "عدم احترام السائقين للأشرطة أو الممرات المخصصة للدراجات العادية والدراجات النارية بمحرك والدراجات ثلاثية العجلات والدراجات رباعية العجلات",
+    "category": "signs",
+    "subcategory": "signs.markings",
+    "tags": [
+      "motorcycle"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "obligation-bicycle-path",
+      "end-compulsory-cycle-path"
+    ]
+  },
+  {
+    "id": "inf_c2_014",
+    "tier_id": "classe_2",
+    "narsa_original_id": 14,
+    "points": 0,
+    "title_fr": "Arrêt ou stationnement sur trottoirs ou passages piétons",
+    "title_ar": "الوقوف أو التوقف فوق الرصيف أو ممرات الراجلين",
+    "description_fr": "Stationnement ou arrêt sur les trottoirs ou les passages réservés aux piétons.",
+    "description_ar": "الوقوف أو التوقف فوق الأرصفة أو الممرات المخصصة للراجلين",
+    "category": "parking",
+    "subcategory": "parking.prohibited",
+    "tags": [
+      "pedestrian"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-stopping-no-parking",
+      "warning-pedestrian-crossing"
+    ]
+  },
+  {
+    "id": "inf_c2_015",
+    "tier_id": "classe_2",
+    "narsa_original_id": 15,
+    "points": 0,
+    "title_fr": "Non respect des mentions de restriction sur le permis de conduire",
+    "title_ar": "عدم احترام قيود رخصة السياقة",
+    "description_fr": "Le non respect des mentions de restriction sur le permis de conduire.",
+    "description_ar": "عدم احترام البيانات التقييدية الواردة في رخصة السياقة",
+    "category": "documents",
+    "subcategory": "documents.license",
+    "tags": [
+      "license-missing"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_016",
+    "tier_id": "classe_2",
+    "narsa_original_id": 16,
+    "points": 0,
+    "title_fr": "Usage du téléphone ou d'un appareil réduisant l'attention",
+    "title_ar": "استعمال الهاتف أو أي جهاز يحد من الانتباه",
+    "description_fr": "La tenue en main d'appareil téléphonique pendant la conduite d'un véhicule ou tout autre appareil susceptible de réduire l'attention ou le mouvement.",
+    "description_ar": "الاستعمال أو التحدث بالهاتف ممسوكا باليد أثناء سياقة المركبة أو أي جهاز آخر من شأنه أن يحد من الانتباه أو الحركة",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "phone"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_017",
+    "tier_id": "classe_2",
+    "narsa_original_id": 17,
+    "points": 0,
+    "title_fr": "Accès à l'autoroute par un véhicule incapable d'atteindre 60 km/h",
+    "title_ar": "ولوج الطريق السيار بمركبة لا تتجاوز سرعتها 60 كلم في الساعة",
+    "description_fr": "L'accès à l'autoroute par un véhicule à moteur non capable d'atteindre en palier une vitesse de 60 kilomètres à l'heure.",
+    "description_ar": "ولوج الطريق السيار من طرف مركبة ذات محرك غير قادرة على بلوغ سرعة 60 كيلومترا في الساعة في مستوى أفقي",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": [
+      "minimum-speed-30"
+    ]
+  },
+  {
+    "id": "inf_c2_018",
+    "tier_id": "classe_2",
+    "narsa_original_id": 18,
+    "points": 0,
+    "title_fr": "Accès à l'autoroute par véhicule à traction non mécanique",
+    "title_ar": "ولوج الطريق السيار بمركبة ذات جر غير ميكانيكي",
+    "description_fr": "L'accès à l'autoroute par un véhicule à traction non mécanique.",
+    "description_ar": "ولوج الطريق السيار من طرف مركبة ذات جر غير ميكانيكي",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": [
+      "no-animal-drawn-vehicles",
+      "no-hand-carts"
+    ]
+  },
+  {
+    "id": "inf_c2_019",
+    "tier_id": "classe_2",
+    "narsa_original_id": 19,
+    "points": 0,
+    "title_fr": "Accès interdit à l'autoroute pour cycles et motocycles de faible cylindrée",
+    "title_ar": "ولوج الطريق السيار من طرف الدراجات العادية والنارية ذات سعة أسطوانة ضعيفة",
+    "description_fr": "L'accès à l'autoroute par des cycles, des tricycles, des quadricycles, des cyclomoteurs et de motocycles, tricycles à moteur et quadricycles à moteur dont la cylindrée est inférieure à 125 cm3.",
+    "description_ar": "ولوج الطريق السيار من طرف الدراجات العادية، الدراجات ثلاثية العجلات، الدراجات رباعية العجلات، الدراجات بمحرك، والدراجات النارية، الدراجات ثلاثية العجلات بمحرك والدراجات رباعية العجلات بمحرك التي تقل سعة أسطوانتها عن 125 سنتيمتر مكعب",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway",
+      "motorcycle"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-entry-motorcycles",
+      "no-entry-mopeds",
+      "end-no-entry-bicycles"
+    ]
+  },
+  {
+    "id": "inf_c2_020",
+    "tier_id": "classe_2",
+    "narsa_original_id": 20,
+    "points": 0,
+    "title_fr": "Pénétration ou séjour sur la bande centrale séparative d'autoroute",
+    "title_ar": "ولوج أو مكوث المركبات بالشريط المركزي الفاصل بالطريق السيار",
+    "description_fr": "Le fait par un véhicule de pénétrer ou de séjourner sur la bande centrale séparative des chaussées d'une autoroute.",
+    "description_ar": "ولوج أو مكوث المركبات بالشريط المركزي الفاصل بين قارعتي الطريق السيار",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_021",
+    "tier_id": "classe_2",
+    "narsa_original_id": 21,
+    "points": 0,
+    "title_fr": "Dépassement des dimensions autorisées du véhicule",
+    "title_ar": "تجاوز الأبعاد المسموح بها للمركبة",
+    "description_fr": "Largeur, longueur ou hauteur du véhicule toutes saillies dépassant les limites autorisées.",
+    "description_ar": "تجاوز العرض أو الطول أو العلو المسموح به للمركبة، مع احتساب جميع الأجزاء البارزة، للحدود القانونية المرخص بها",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "cargo-dimensions",
+      "truck",
+      "cargo-loading"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": [
+      "no-entry-height-limit-4-5",
+      "no-entry-width-limit-2-5",
+      "no-entry-length-limit-10m"
+    ]
+  },
+  {
+    "id": "inf_c2_022",
+    "tier_id": "classe_2",
+    "narsa_original_id": 22,
+    "points": 0,
+    "title_fr": "Dysfonctionnement du chrono tachygraphe",
+    "title_ar": "عدم اشتغال جهاز قياس زمن السياقة والسرعة",
+    "description_fr": "Le non fonctionnement du dispositif de mesure du temps de conduite et de la vitesse (chrono tachygraphe) (pour les véhicules qui sont soumis à l'obligation d'en être équipés).",
+    "description_ar": "عدم اشتغال جهاز قياس زمن السياقة والسرعة (جهاز التاكوغراف) بالنسبة للمركبات الخاضعة لإلزامية التجهيز به",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "tachograph",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_023",
+    "tier_id": "classe_2",
+    "narsa_original_id": 23,
+    "points": 0,
+    "title_fr": "Dysfonctionnement du limiteur de vitesse, ralentisseur ou système ABS",
+    "title_ar": "عدم اشتغال جهاز تحديد السرعة أو مخفض السرعة أو نظام الحصر (ABS)",
+    "description_fr": "Le non fonctionnement du dispositif de limitation de vitesse, du ralentisseur ou du système de freinage dit (ABS) (pour les véhicules qui sont soumis à l'obligation d'en être équipés).",
+    "description_ar": "عدم اشتغال جهاز تحديد السرعة أو مخفض السرعة أو نظام الحصر (ABS) بالنسبة للمركبات الخاضعة لإلزامية التوفر عليها",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "speed-limiter",
+      "brakes",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_024",
+    "tier_id": "classe_2",
+    "narsa_original_id": 24,
+    "points": 0,
+    "title_fr": "Absence de deux feux de position avant",
+    "title_ar": "غياب ضوئي الوضع الأماميين",
+    "description_fr": "L'absence de deux feux de position avant du véhicule automobile, ensemble de véhicules, véhicules agricole à moteur, appareils agricoles, forestiers en engin de travaux publics.",
+    "description_ar": "عدم توفر المركبة ذات محرك أو مجموعة مركبات أو المركبات الفلاحية أو الغابوية أو آلات الأشغال العمومية على ضوئي الوضع الأماميين",
+    "category": "lighting",
+    "subcategory": "lighting.types",
+    "tags": [
+      "lighting-equipment",
+      "agricultural"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_025",
+    "tier_id": "classe_2",
+    "narsa_original_id": 25,
+    "points": 0,
+    "title_fr": "Absence de reproduction du numéro d'immatriculation sur la remorque",
+    "title_ar": "عدم وضع رقم تسجيل المركبة الجارة على المقطورة",
+    "description_fr": "La remorque arrière d'un ensemble de véhicules ne reproduisant pas le numéro d'immatriculation du véhicule tracteur.",
+    "description_ar": "عدم توفر المقطورة الخلفية لمجموعة مركبات على رقم تسجيل المركبة الجارة",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "registration",
+      "trailer"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_026",
+    "tier_id": "classe_2",
+    "narsa_original_id": 26,
+    "points": 0,
+    "title_fr": "Utilisation d'attaches de fortune pour le remorquage",
+    "title_ar": "استعمال أدوات ربط غير ملائمة للقطر",
+    "description_fr": "L'utilisation d'attaches de fortune pour tout remorquage.",
+    "description_ar": "استعمال أدوات ربط غير ملائمة (أدوات الحظ) للقيام بعملية قطر مركبة",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "trailer"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_027",
+    "tier_id": "classe_2",
+    "narsa_original_id": 27,
+    "points": 0,
+    "title_fr": "Leçons de conduite et essais de véhicules sur autoroute",
+    "title_ar": "دروس السياقة وتجارب المركبات على الطريق السيار",
+    "description_fr": "Les leçons de conduite des véhicules et les essais de véhicules ou de châssis, sur autoroute ou sur ses bretelles de raccordement.",
+    "description_ar": "دروس سياقة المركبات وتجارب المركبات أو الإطارات الحديدية (الشاصي) على الطريق السيار أو على مسالك الربط المؤدية إليه",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_028",
+    "tier_id": "classe_2",
+    "narsa_original_id": 28,
+    "points": 0,
+    "title_fr": "Absence de pré-signalisation d'un chargement tombé sur la chaussée",
+    "title_ar": "عدم التشوير المسبق لحمولة سقطت على قارعة الطريق",
+    "description_fr": "L'absence de pré-signalisation de tout ou partie d'un chargement de véhicule tombé sur la chaussée sans pouvoir être immédiatement enlevé.",
+    "description_ar": "عدم التشوير المسبق لكل أو جزء من حمولة مركبة سقطت على قارعة الطريق وتعذر سحبها فورا",
+    "category": "safety",
+    "subcategory": "safety.breakdown",
+    "tags": [
+      "cargo-loading"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_029",
+    "tier_id": "classe_2",
+    "narsa_original_id": 29,
+    "points": 0,
+    "title_fr": "Chargement non signalé dépassant les dimensions du véhicule",
+    "title_ar": "حمولة غير مشار إليها تتجاوز أبعاد المركبة",
+    "description_fr": "Le chargement non signalé dépassant la largeur ou la longueur hors tout du véhicule.",
+    "description_ar": "الحمولة غير المشار إليها التي تتجاوز العرض أو الطول الإجمالي للمركبة",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "cargo-dimensions",
+      "cargo-loading"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_030",
+    "tier_id": "classe_2",
+    "narsa_original_id": 30,
+    "points": 0,
+    "title_fr": "Chargement masquant les feux ou la plaque d'immatriculation",
+    "title_ar": "حمولة تحجب الأضواء أو لوحة التسجيل",
+    "description_fr": "Le chargement masquant les feux d'éclairage ou de signalisation y compris les feux 'Stop', les indicateurs de direction, les signaux de véhicules ou les numéros d'immatriculation des véhicules.",
+    "description_ar": "الحمولة التي تحجب أضواء الإنارة أو التشوير بما في ذلك أضواء التوقف 'Stop'، ومؤشرات تغيير الاتجاه، أو إشارات المركبات أو أرقام تسجيل المركبات",
+    "category": "lighting",
+    "subcategory": "lighting.usage",
+    "tags": [
+      "cargo-loading",
+      "lighting-equipment",
+      "registration"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_031",
+    "tier_id": "classe_2",
+    "narsa_original_id": 31,
+    "points": 0,
+    "title_fr": "Chargement compromettant la visibilité ou la stabilité du véhicule",
+    "title_ar": "حمولة تعيق الرؤية أو تخل بتوازن المركبة",
+    "description_fr": "Le chargement disposé de manière à nuire à la visibilité du conducteur ou qui compromet la stabilité ou la conduite du véhicule.",
+    "description_ar": "وضع الحمولة بطريقة تحجب رؤية السائق أو تخل بتوازن المركبة أو سياقتها",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "cargo-loading"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_032",
+    "tier_id": "classe_2",
+    "narsa_original_id": 32,
+    "points": 0,
+    "title_fr": "Non respect des limites de poids par essieu",
+    "title_ar": "عدم احترام حدود الوزن المسموح بها لكل محور",
+    "description_fr": "Le non respect des limites de poids autorisées par essieu.",
+    "description_ar": "عدم احترام حدود الوزن المأذون بها لكل محور",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "cargo-weight",
+      "truck"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": [
+      "axle-weight-limit-5t",
+      "no-entry-axle-weight-2-tons"
+    ]
+  },
+  {
+    "id": "inf_c2_033",
+    "tier_id": "classe_2",
+    "narsa_original_id": 33,
+    "points": 0,
+    "title_fr": "Remorquage non conforme par un véhicule de dépannage",
+    "title_ar": "مركبة السحب غير المطابقة للقانون",
+    "description_fr": "Le véhicule de dépannage remorquant plus d'un véhicule, traînant ou transportant des objets autres que ceux nécessaires pour le remorquage des véhicules.",
+    "description_ar": "قيام مركبة السحب بقطر أكثر من مركبة واحدة، أو جر أو نقل أشياء غير تلك الضرورية لعملية قطر المركبات",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "cargo-loading",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_034",
+    "tier_id": "classe_2",
+    "narsa_original_id": 34,
+    "points": 0,
+    "title_fr": "Dépassement du poids total en charge autorisé de 10% à 30%",
+    "title_ar": "تجاوز الوزن الإجمالي المأذون به عند الشحن بنسبة 10% إلى 30%",
+    "description_fr": "Le dépassement du poids total en charge autorisé de 10 à 30 % ([10%,30%[).",
+    "description_ar": "تجاوز الوزن الإجمالي المأذون به للمركبة عند الشحن بنسبة تتراوح بين 10% وأقل من 30%",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "cargo-weight",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": [
+      "no-entry-weight-limit-5-5-tons",
+      "axle-weight-limit-5t"
+    ]
+  },
+  {
+    "id": "inf_c2_035",
+    "tier_id": "classe_2",
+    "narsa_original_id": 35,
+    "points": 0,
+    "title_fr": "Absence d'issues de secours ou de boîte de premiers secours",
+    "title_ar": "غياب مخارج الإغاثة أو علبة الإسعافات الأولية",
+    "description_fr": "Le véhicule automobile de transport en commun de personnes non équipé de glaces de sécurité (issues de secours) ou d'une boite des premiers secours.",
+    "description_ar": "مركبة النقل الجماعي للأشخاص غير المجهزة بزجاج الأمان (مخارج الإغاثة) أو بعلبة للإسعافات الأولية",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "passenger",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_036",
+    "tier_id": "classe_2",
+    "narsa_original_id": 36,
+    "points": 0,
+    "title_fr": "Issues de secours non signalées par inscriptions permanentes et ineffaçables",
+    "title_ar": "مخارج الإغاثة غير المشار إليها بكتابة دائمة وغير قابلة للمحو",
+    "description_fr": "Les issues de secours non signalées par des inscriptions permanentes et ineffaçables.",
+    "description_ar": "عدم الإشارة إلى مخارج الإغاثة بواسطة كتابة دائمة وغير قابلة للمحو",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "commercial",
+      "passenger"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": [
+      "emergency-exit-right-100m",
+      "emergency-exit-left-200m"
+    ]
+  },
+  {
+    "id": "inf_c2_037",
+    "tier_id": "classe_2",
+    "narsa_original_id": 37,
+    "points": 0,
+    "title_fr": "Absence d'indications obligatoires sur véhicule de transport en commun",
+    "title_ar": "غياب البيانات الإجبارية على مركبة للنقل العمومي للأشخاص",
+    "description_fr": "L'absence d'indication à l'extérieur du véhicule de transport en commun de personnes, du nom et du domicile du transporteur, de la catégorie du véhicule, des classes qu'il comporte, du numéro d'autorisation d'effectuer un service public de transport en commun et l'indication relative à l'itinéraire à suivre.",
+    "description_ar": "عدم وضع الإرشادات الخارجية على مركبة للنقل العمومي للأشخاص، والمتعلقة باسم وموطن الناقل، وصنف المركبة، والدرجات التي تشتمل عليها، ورقم الترخيص بالقيام بخدمة عمومية للنقل الجماعي، وكذا الإرشاد المتعلق بالمسار الواجب اتباعه",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "commercial",
+      "passenger"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_038",
+    "tier_id": "classe_2",
+    "narsa_original_id": 38,
+    "points": 0,
+    "title_fr": "Absence d'extincteurs fonctionnels dans un véhicule de transport en commun",
+    "title_ar": "عدم توفر مركبة النقل الجماعي للأشخاص على أجهزة إطفاء الحريق صالحة للاستعمال",
+    "description_fr": "Le véhicule de transport en commun de personnes non muni d'extincteurs fonctionnels tels que prévus par les textes pris pour l'application du CR.",
+    "description_ar": "عدم توفر مركبة النقل الجماعي للأشخاص على أجهزة إطفاء الحريق (مطفآت) صالحة للاستعمال كما هو منصوص عليه في النصوص المتخذة لتطبيق مدونة السير",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "extinguisher",
+      "commercial",
+      "passenger"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c2_039",
+    "tier_id": "classe_2",
+    "narsa_original_id": 39,
+    "points": 0,
+    "title_fr": "Absence d'extincteurs fonctionnels sur véhicule de transport de marchandises (>3,5t)",
+    "title_ar": "غياب أجهزة إطفاء الحريق المشغلة بمركبات نقل البضائع (أكثر من 3.5 طن)",
+    "description_fr": "Le véhicule affecté au transport de marchandises dont le poids total en charge autorisé dépasse 3,5 tonnes non muni d'extincteurs fonctionnels tels que prévus par les textes pris pour l'application du CR.",
+    "description_ar": "المركبة المخصصة لنقل البضائع التي يتجاوز وزنها الإجمالي المأذون به محملة 3.5 طن وغير المجهزة بأجهزة إطفاء الحريق المشغلة كما هو منصوص عليه في النصوص المتخذة لتطبيق مدونة السير",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "extinguisher",
+      "truck",
+      "cargo-weight"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_001",
+    "tier_id": "classe_3",
+    "narsa_original_id": 1,
+    "points": 4,
+    "title_fr": "Emprunt d'une route expresse à contre courant",
+    "title_ar": "سلك طريق سريع في الاتجاه المعاكس للسير",
+    "description_fr": "L'emprunt d'une route expresse à contre courant de la circulation.",
+    "description_ar": "سلك طريق سريع في الاتجاه المعاكس لحركة السير",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway",
+      "one-way"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-entry"
+    ]
+  },
+  {
+    "id": "inf_c3_002",
+    "tier_id": "classe_3",
+    "narsa_original_id": 2,
+    "points": 3,
+    "title_fr": "Arrêt ou stationnement de nuit sans éclairage sur chaussée non éclairée",
+    "title_ar": "الوقوف أو التوقف ليلا بدون إضاءة في قارعة طريق غير مضاءة",
+    "description_fr": "L'arrêt ou stationnement de véhicule, de nuit ou dans un lieu avec visibilité insuffisante, sans éclairage ou sans signalisation, sur une chaussée dépourvue d'éclairage public.",
+    "description_ar": "الوقوف أو التوقف بمركبة، ليلا أو في مكان تكون فيه الرؤية غير كافية، بدون إضاءة أو بدون تشوير، على قارعة طريق تفتقر للإضاءة العمومية",
+    "category": "parking",
+    "subcategory": "parking.rules",
+    "tags": [
+      "night",
+      "lighting-equipment"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_003",
+    "tier_id": "classe_3",
+    "narsa_original_id": 3,
+    "points": 3,
+    "title_fr": "Marche arrière ou demi-tour sur route express via bande centrale",
+    "title_ar": "الرجوع إلى الخلف أو القيام بنصف دورة في الطريق السريع عبر الشريط الفاصل",
+    "description_fr": "La marche arrière ou le demi-tour sur une route express en traversant la bande centrale séparative des chaussées.",
+    "description_ar": "الرجوع إلى الخلف أو القيام بنصف دورة في الطريق السريع عبر عبور الشريط المركزي الفاصل بين قارعتي الطريق",
+    "category": "maneuvering",
+    "subcategory": "maneuvering.uturn",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-u-turn"
+    ]
+  },
+  {
+    "id": "inf_c3_004",
+    "tier_id": "classe_3",
+    "narsa_original_id": 4,
+    "points": 2,
+    "title_fr": "Non-port du casque homologué (motocycle, tricycle ou quadricycle)",
+    "title_ar": "عدم ارتداء الخوذة المصادق عليها",
+    "description_fr": "La conduite d'un motocycle, d'un tricycle à moteur ou d'un quadricycle à moteur, non carrossé, sans port d'un casque homologué.",
+    "description_ar": "سياقة دراجة نارية أو دراجة ثالثية العجلات بمحرك أو دراجة رباعية العجلات بمحرك، غير مهيأة بهيكل، دون ارتداء خوذة واقية مصادق عليها",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "helmet",
+      "motorcycle"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_005",
+    "tier_id": "classe_3",
+    "narsa_original_id": 5,
+    "points": 0,
+    "title_fr": "Stationnement irrégulier ou dangereux en l'absence du conducteur",
+    "title_ar": "التوقف غير القانوني أو الخطير في غياب السائق",
+    "description_fr": "Le stationnement irrégulier ou dangereux en l'absence du conducteur.",
+    "description_ar": "التوقف غير القانوني أو الخطير في غياب السائق",
+    "category": "parking",
+    "subcategory": "parking.prohibited",
+    "tags": [],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-parking",
+      "no-stopping-no-parking",
+      "zone-no-parking"
+    ]
+  },
+  {
+    "id": "inf_c3_006",
+    "tier_id": "classe_3",
+    "narsa_original_id": 6,
+    "points": 0,
+    "title_fr": "Défaut de présentation du permis de conduire",
+    "title_ar": "عدم تقديم رخصة السياقة",
+    "description_fr": "Le défaut de présentation du permis de conduire.",
+    "description_ar": "عدم تقديم رخصة السياقة عند كل مراقبة من طرف الأعوان المكلفين بذلك",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "license-missing"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_007",
+    "tier_id": "classe_3",
+    "narsa_original_id": 7,
+    "points": 0,
+    "title_fr": "Défaut de présentation de l'attestation d'assurance",
+    "title_ar": "عدم تقديم شهادة التأمين",
+    "description_fr": "Le défaut de présentation de l'attestation d'assurance du véhicule ou de l'ensemble des véhicules.",
+    "description_ar": "عدم تقديم شهادة التأمين للمركبة أو لمجموعة المركبات",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "insurance"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_008",
+    "tier_id": "classe_3",
+    "narsa_original_id": 8,
+    "points": 0,
+    "title_fr": "Défaut de présentation du document de contrôle technique",
+    "title_ar": "عدم تقديم وثيقة المراقبة التقنية",
+    "description_fr": "Le défaut de présentation du document attestant le contrôle technique.",
+    "description_ar": "عدم تقديم الوثيقة التي تثبت الخضوع للمراقبة التقنية",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "technical-inspection",
+      "license-missing"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_009",
+    "tier_id": "classe_3",
+    "narsa_original_id": 9,
+    "points": 0,
+    "title_fr": "Défaut de présentation du certificat d'immatriculation",
+    "title_ar": "عدم تقديم شهادة التسجيل",
+    "description_fr": "Le défaut de présentation du certificat d'immatriculation.",
+    "description_ar": "عدم تقديم شهادة التسجيل (البطاقة الرمادية)",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "registration"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_010",
+    "tier_id": "classe_3",
+    "narsa_original_id": 10,
+    "points": 0,
+    "title_fr": "Véhicule présentant un dispositif de freinage défectueux",
+    "title_ar": "مركبة بها خلل في جهاز الفرملة",
+    "description_fr": "Le véhicule présentant un défaut du dispositif de freinage.",
+    "description_ar": "سياقة مركبة بها خلل في جهاز الفرملة (نظام الكبح)",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "brakes"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_011",
+    "tier_id": "classe_3",
+    "narsa_original_id": 11,
+    "points": 0,
+    "title_fr": "Dispositifs de sécurité non conformes ou défectueux",
+    "title_ar": "أجهزة السلامة غير المطابقة للمعايير أو المعيبة",
+    "description_fr": "Les dispositifs de sécurité n'étant pas conformes aux normes réglementaires ou étant défectueux.",
+    "description_ar": "أجهزة السلامة التي لا تتطابق مع المعايير القانونية أو التي بها خلل",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "brakes",
+      "tires",
+      "mirrors"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_012",
+    "tier_id": "classe_3",
+    "narsa_original_id": 12,
+    "points": 0,
+    "title_fr": "Dispositifs d'éclairage non conformes ou défectueux",
+    "title_ar": "أجهزة إنارة غير مطابقة للمعايير أو معيبة",
+    "description_fr": "Les dispositifs d'éclairage n'étant pas conformes aux normes réglementaires ou étant défectueux, sauf s'il est prouvé que la panne est fortuite (ART 189).",
+    "description_ar": "أجهزة الإنارة التي لا تتطابق مع المعايير القانونية أو التي بها خلل، ما لم يثبت أن العطب كان مفاجئا",
+    "category": "lighting",
+    "subcategory": "lighting.types",
+    "tags": [
+      "lighting-equipment"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_013",
+    "tier_id": "classe_3",
+    "narsa_original_id": 13,
+    "points": 0,
+    "title_fr": "Émission de fumée ou de gaz dépassant le seuil autorisé",
+    "title_ar": "انبعاث دخان أو غازات تتجاوز الحد المسموح به",
+    "description_fr": "L'émission de fumée ou de gaz émanant du moteur du véhicule dont le taux dépasse le seuil fixé par l'administration.",
+    "description_ar": "انبعاث دخان أو غازات من محرك المركبة تتجاوز نسبتها الحد الذي تحدده الإدارة",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_014",
+    "tier_id": "classe_3",
+    "narsa_original_id": 14,
+    "points": 0,
+    "title_fr": "Non-conformité du dispositif de mesure de la vitesse et du temps de conduite",
+    "title_ar": "عدم مطابقة جهاز قياس السرعة وزمن السياقة",
+    "description_fr": "Non conformité du dispositif de mesure de la vitesse et du temps de la conduite pour les véhicules qui sont soumis à l'obligation d'en être équipés.",
+    "description_ar": "عدم مطابقة جهاز قياس السرعة وزمن السياقة (جهاز التاكوغراف) للمركبات الخاضعة لإلجبارية التجهيز به",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "tachograph",
+      "commercial",
+      "truck"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_015",
+    "tier_id": "classe_3",
+    "narsa_original_id": 15,
+    "points": 0,
+    "title_fr": "Dépassement des dimensions autorisées du chargement",
+    "title_ar": "تجاوز الأبعاد المسموح بها للحمولة",
+    "description_fr": "Le dépassement des dimensions autorisées du chargement.",
+    "description_ar": "تجاوز الأبعاد المسموح بها للحمولة",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "cargo-dimensions",
+      "cargo-loading"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": [
+      "no-entry-height-limit-4-5",
+      "no-entry-width-limit-2-5",
+      "no-entry-length-limit-10m"
+    ]
+  },
+  {
+    "id": "inf_c3_016",
+    "tier_id": "classe_3",
+    "narsa_original_id": 16,
+    "points": 0,
+    "title_fr": "Chargement de matériaux non bâché risquant d'aveugler autrui",
+    "title_ar": "حمولة مواد غير مغطاة بغطاء واق تشكل خطرا على مستعملي الطريق",
+    "description_fr": "Le chargement de sable, de terre ou de tous autres matériaux non bâché qui risque d'aveugler ou de porter atteinte aux autres usagers.",
+    "description_ar": "نقل حمولة من الرمل أو الأتربة أو أي مواد أخرى دون تغطيتها بغطاء واق (بلاش)، مما قد يتسبب في حجب الرؤية أو إلحاق الضرر بمستعملي الطريق الآخرين",
+    "category": "safety",
+    "subcategory": "safety.conditions",
+    "tags": [
+      "cargo-loading"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_017",
+    "tier_id": "classe_3",
+    "narsa_original_id": 17,
+    "points": 0,
+    "title_fr": "Défaut de précautions d'arrimage ou de chargement",
+    "title_ar": "عدم اتخاذ الاحتياطات اللازمة لربط الحمولة أو وضعها",
+    "description_fr": "Le défaut de précautions d'arrimage ou de chargement dans les cas suivants: transport de conteneurs, chargement traînant sur le sol, les bâches et autres accessoires, mobiles ou flottants, non fixés au contour extérieur du véhicule.",
+    "description_ar": "عدم اتخاذ الاحتياطات اللازمة لربط الحمولة أو وضعها في الحالات التالية: نقل الحاويات، أو وجود حمولة تجر على الأرض، أو عدم تثبيت الأغطية (الباش) وغيرها من الملحقات المتحركة أو العائمة على الهيكل الخارجي للمركبة",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "cargo-loading",
+      "cargo-weight",
+      "truck"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_018",
+    "tier_id": "classe_3",
+    "narsa_original_id": 18,
+    "points": 0,
+    "title_fr": "Dépassement du nombre de sièges autorisés en transport en commun",
+    "title_ar": "تجاوز عدد المقاعد المسموح بها في النقل الجماعي للأشخاص",
+    "description_fr": "Le dépassement du nombre de sièges autorisés en cas de transport en commun de personnes.",
+    "description_ar": "تجاوز عدد المقاعد المأذون بها في حالة النقل الجماعي للأشخاص",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "passenger",
+      "commercial"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_c3_019",
+    "tier_id": "classe_3",
+    "narsa_original_id": 19,
+    "points": 0,
+    "title_fr": "Dépassement de la vitesse de moins de 20 km/h",
+    "title_ar": "تجاوز السرعة بأقل من 20 كلم في الساعة",
+    "description_fr": "Le dépassement de la vitesse de moins de 20 km/h au dessus de la vitesse autorisée.",
+    "description_ar": "تجاوز السرعة القصوى المسموح بها بما يقل عن عشرين (20) كلم في الساعة فوق السرعة المأذون بها",
+    "category": "speed",
+    "subcategory": "speed.limits",
+    "tags": [
+      "speeding"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "speed-limit-60"
+    ]
+  },
+  {
+    "id": "inf_c3_020",
+    "tier_id": "classe_3",
+    "narsa_original_id": 20,
+    "points": 0,
+    "title_fr": "Non renouvellement du support de permis ou de certificat d'immatriculation",
+    "title_ar": "عدم تجديد حامل رخصة السياقة أو شهادة التسجيل",
+    "description_fr": "Non renouvellement du support de permis de conduire ou du support de certificat d'immatriculation dans les délais fixés dans l'article 309.",
+    "description_ar": "عدم تجديد حامل رخصة السياقة أو حامل شهادة التسجيل داخل الآجال المحددة في المادة 309",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "registration",
+      "license-expired"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_001",
+    "tier_id": "delits",
+    "narsa_original_id": 1,
+    "points": 14,
+    "title_fr": "Homicide involontaire avec circonstances aggravantes",
+    "title_ar": "القتل غير العمدي مع ظروف التشديد",
+    "description_fr": "Homicide involontaire avec circonstances aggravantes, suite à un accident de circulation (si l'annulation du permis de conduire n'est pas prononcée).",
+    "description_ar": "القتل غير العمدي مع ظروف التشديد، إثر حادثة سير (إذا لم يتقرر إلغاء رخصة السياقة)",
+    "category": "safety",
+    "subcategory": "safety.accident",
+    "tags": [
+      "homicide"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_002",
+    "tier_id": "delits",
+    "narsa_original_id": 2,
+    "points": 10,
+    "title_fr": "Blessures involontaires avec infirmité permanente et circonstances aggravantes",
+    "title_ar": "جروح غير عمدية تسببت في عاهة دائمة مع ظروف التشديد",
+    "description_fr": "Blessures involontaires, entraînant une infirmité permanente, avec circonstances aggravantes, suite à un accident de circulation (si l'annulation du permis de conduire n'est pas prononcée).",
+    "description_ar": "الجروح غير العمدية الناتجة عن حادثة سير، والتي تسببت في عاهة دائمة، مع وجود ظروف التشديد (في حالة عدم تقرير إلغاء رخصة السياقة)",
+    "category": "safety",
+    "subcategory": "safety.accident",
+    "tags": [
+      "injury"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_003",
+    "tier_id": "delits",
+    "narsa_original_id": 3,
+    "points": 6,
+    "title_fr": "Homicide involontaire sans circonstances aggravantes",
+    "title_ar": "القتل غير العمدي بدون ظروف تشديد",
+    "description_fr": "Homicide involontaire sans circonstances aggravantes, suite à un accident de circulation.",
+    "description_ar": "القتل غير العمدي بدون ظروف تشديد، إثر حادثة سير",
+    "category": "safety",
+    "subcategory": "safety.accident",
+    "tags": [
+      "homicide",
+      "injury"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_004",
+    "tier_id": "delits",
+    "narsa_original_id": 4,
+    "points": 6,
+    "title_fr": "Blessures involontaires avec circonstances aggravantes",
+    "title_ar": "جروح غير عمدية مع ظروف التشديد",
+    "description_fr": "Blessures involontaires, consécutives à un accident de la circulation, avec circonstances aggravantes.",
+    "description_ar": "الجروح غير العمدية الناتجة عن حادثة سير والمقرونة بظروف التشديد",
+    "category": "safety",
+    "subcategory": "safety.accident",
+    "tags": [
+      "injury"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_005",
+    "tier_id": "delits",
+    "narsa_original_id": 5,
+    "points": 6,
+    "title_fr": "Conduite sous l'empire d'un état alcoolique ou de stupéfiants",
+    "title_ar": "السياقة تحت تأثير الكحول أو المواد المخدرة",
+    "description_fr": "Conduite d'un véhicule sous l'empire d'un état alcoolique ou sous l'effet des substances stupéfiantes.",
+    "description_ar": "سياقة المركبة تحت تأثير حالة سكر أو تحت تأثير المواد المخدرة",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "alcohol",
+      "drugs"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_006",
+    "tier_id": "delits",
+    "narsa_original_id": 6,
+    "points": 6,
+    "title_fr": "Délit de fuite ou modification de l'état des lieux après accident",
+    "title_ar": "جنحة الفرار أو تغيير حالة مكان الحادثة",
+    "description_fr": "Le fait de ne pas s'arrêter, après avoir causé ou occasionné un accident de la circulation et de tenter ainsi d'échapper à la responsabilité, en prenant la fuite ou en modifiant l'état des lieux ou par tout autre moyen.",
+    "description_ar": "عدم التوقف بعد التسبب في حادثة سير أو وقوعها ومحاولة التملص من المسؤولية بالفرار أو بتغيير حالة مكان الحادثة أو بأي وسيلة أخرى",
+    "category": "safety",
+    "subcategory": "safety.accident",
+    "tags": [
+      "hit-and-run",
+      "refusal-to-stop"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_007",
+    "tier_id": "delits",
+    "narsa_original_id": 7,
+    "points": 6,
+    "title_fr": "Dépassement de la vitesse de 50 Km/h ou plus",
+    "title_ar": "تجاوز السرعة القصوى بـ 50 كلم في الساعة أو أكثر",
+    "description_fr": "Le dépassement de la vitesse de 50 Km/h ou plus, au dessus de la vitesse maximale autorisée.",
+    "description_ar": "تجاوز السرعة القصوى المسموح بها بما يعادل أو يفوق خمسين (50) كلم في الساعة فوق السرعة المأذون بها",
+    "category": "speed",
+    "subcategory": "speed.limits",
+    "tags": [
+      "speeding",
+      "speed-50-plus"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "speed-limit-60"
+    ]
+  },
+  {
+    "id": "inf_d_008",
+    "tier_id": "delits",
+    "narsa_original_id": 9,
+    "points": 6,
+    "title_fr": "Conduite sous l'influence de l'alcool ou de stupéfiants",
+    "title_ar": "السياقة تحت تأثير الكحول أو المواد المخدرة",
+    "description_fr": "Conduite sous l'influence de l'alcool ou de substances stupéfiantes.",
+    "description_ar": "السياقة تحت تأثير الكحول أو المواد المخدرة",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "alcohol",
+      "drugs"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_009",
+    "tier_id": "delits",
+    "narsa_original_id": 10,
+    "points": 6,
+    "title_fr": "Refus de se soumettre aux tests de dépistage d'alcool ou de drogues",
+    "title_ar": "الرفض الخضوع لاختبارات الكشف عن الكحول أو المخدرات",
+    "description_fr": "Refus de se soumettre au test visé à l'article 207 de la loi 52-05 ou aux vérifications ou aux tests de dépistage cités aux articles 208 et 213 du code de la route.",
+    "description_ar": "رفض الخضوع للاختبارات المنصوص عليها في المادة 207 أو التحققات أو اختبارات الكشف المشار إليها في المادتين 208 و 213 من مدونة السير",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "alcohol",
+      "drugs",
+      "refusal-to-stop"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_010",
+    "tier_id": "delits",
+    "narsa_original_id": 11,
+    "points": 4,
+    "title_fr": "Emprunt de l'autoroute à contre courant de la circulation",
+    "title_ar": "السير في الاتجاه المعاكس بالطريق السيار",
+    "description_fr": "L'emprunt de l'autoroute à contre courant de la circulation.",
+    "description_ar": "السير في الطريق السيار في اتجاه معاكس لحركة السير",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-entry"
+    ]
+  },
+  {
+    "id": "inf_d_011",
+    "tier_id": "delits",
+    "narsa_original_id": 12,
+    "points": 4,
+    "title_fr": "Dépassement du poids autorisé au passage d'un ouvrage de franchissement",
+    "title_ar": "تجاوز الوزن المسموح به عند عبور منشأة عبور",
+    "description_fr": "Le dépassement du poids autorisé au passage d'un ouvrage de franchissement.",
+    "description_ar": "تجاوز الوزن المسموح به عند عبور منشأة عبور (قنطرة أو جسر)",
+    "category": "signs",
+    "subcategory": "signs.prohibition",
+    "tags": [
+      "cargo-weight",
+      "bridge",
+      "truck"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": [
+      "no-entry-weight-limit-5-5-tons",
+      "no-entry-axle-weight-2-tons"
+    ]
+  },
+  {
+    "id": "inf_d_012",
+    "tier_id": "delits",
+    "narsa_original_id": 13,
+    "points": 4,
+    "title_fr": "Non-dépôt du permis de conduire suite à une suspension",
+    "title_ar": "عدم إيداع رخصة السياقة بعد قرار التوقيف",
+    "description_fr": "La personne se trouvant sous le coup d'une décision judiciaire ou d'une décision administrative de suspension de PC qui ne dépose pas dans les délais qui lui ont été impartis son PC auprès de l'administration.",
+    "description_ar": "الشخص الذي صدر في حقه قرار قضائي أو إداري بتوقيف رخصة السياقة ولم يقم بإيداعها لدى الإدارة داخل الآجال المحددة له",
+    "category": "documents",
+    "subcategory": "documents.license",
+    "tags": [
+      "license-suspended"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_013",
+    "tier_id": "delits",
+    "narsa_original_id": 14,
+    "points": 4,
+    "title_fr": "Conduite malgré une suspension judiciaire ou administrative du permis",
+    "title_ar": "السياقة رغم توقيف رخصة السياقة بقرار قضائي أو إداري",
+    "description_fr": "La personne se trouvant sous le coup d'une décision judiciaire ou d'une décision administrative de suspension de PC qui conduit un véhicule dont la conduite nécessite l'obtention d'un PC.",
+    "description_ar": "قيام شخص صدر في حقه قرار قضائي أو إداري بتوقيف رخصة السياقة بسياقة مركبة تتطلب سياقتها الحصول على رخصة سياقة",
+    "category": "documents",
+    "subcategory": "documents.license",
+    "tags": [
+      "license-suspended"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_014",
+    "tier_id": "delits",
+    "narsa_original_id": 15,
+    "points": 3,
+    "title_fr": "Marche arrière ou demi-tour sur autoroute via la bande centrale",
+    "title_ar": "الرجوع إلى الخلف أو القيام بنصف دورة في الطريق السيار عبر الشريط الفاصل",
+    "description_fr": "La marche arrière ou le demi-tour sur une autoroute en traversant la bande centrale séparative des chaussées.",
+    "description_ar": "الرجوع إلى الخلف أو القيام بنصف دورة في الطريق السيار عبر عبور الشريط المركزي الفاصل بين قارعتي الطريق",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "no-u-turn"
+    ]
+  },
+  {
+    "id": "inf_d_015",
+    "tier_id": "delits",
+    "narsa_original_id": 16,
+    "points": 2,
+    "title_fr": "Conduite professionnelle sans carte de conducteur professionnel",
+    "title_ar": "السياقة المهنية بدون بطاقة السائق المهني",
+    "description_fr": "La conduite à titre professionnel sans disposer de la carte de conducteur professionnel.",
+    "description_ar": "السياقة بصفة مهنية دون التوفر على بطاقة السائق المهني",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_016",
+    "tier_id": "delits",
+    "narsa_original_id": 17,
+    "points": 2,
+    "title_fr": "Refus d'obtempérer aux injonctions légales de l'agent verbalisateur",
+    "title_ar": "رفض الامتثال للأوامر القانونية الصادرة عن العون محرر المحضر",
+    "description_fr": "Conducteur sommé de s'arrêter a refusé de s'exécuter ou de se soumettre aux vérifications prescrites ou ne respecte pas l'ordre d'immobilisation du véhicule ou refuse de conduire ou de faire conduire son véhicule en fourrière ou refuse d'obtempérer aux injonctions légales qui lui sont faites (cas du stationnement irrégulier ou dangereux en présence du conducteur qui refuse d'exécuter l'ordre de l'agent verbalisateur pour cesser l'infraction).",
+    "description_ar": "السائق الذي صدر إليه أمر بالتوقف فرفض الامتثال أو الخضوع للتحققات المقررة، أو لم يحترم أمر توقيف المركبة، أو رفض سياقة مركبتة أو العمل على سياقتها إلى المحجز، أو رفض الامتثال للأوامر القانونية الصادرة إليه (حالة التوقف غير القانوني أو الخطير بوجود السائق الذي يرفض تنفيذ أمر العون محرر المحضر لإنهاء المخالفة).",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "refusal-to-stop"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "stop-road-control",
+      "stop-police-checkpoint",
+      "stop-gendarmerie"
+    ]
+  },
+  {
+    "id": "inf_d_017",
+    "tier_id": "delits",
+    "narsa_original_id": 18,
+    "points": 2,
+    "title_fr": "Refus d'obtempérer aux injonctions légales des agents de l'autorité",
+    "title_ar": "رفض الامتثال للأوامر القانونية الصادرة عن أعوان السلطة",
+    "description_fr": "Conducteur sommé de s'arrêter a refusé de s'exécuter ou de se soumettre aux vérifications prescrites ou ne respecte pas l'ordre d'immobilisation du véhicule ou refuse de conduire ou de faire conduire son véhicule en fourrière ou refuse d'obtempérer aux injonctions légales qui lui sont faites.",
+    "description_ar": "رفض السائق الامتثال لأمر التوقف أو الخضوع للتحققات المأمور بها، أو عدم احترام أمر توقيف المركبة، أو رفض سوقها أو العمل على سوقها إلى المحجز، أو رفض الامتثال للإنذارات القانونية الموجهة إليه",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "refusal-to-stop"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "stop-police-checkpoint",
+      "stop-gendarmerie",
+      "stop-road-control"
+    ]
+  },
+  {
+    "id": "inf_d_018",
+    "tier_id": "delits",
+    "narsa_original_id": 19,
+    "points": 2,
+    "title_fr": "Refus d'obtempérer à la fermeture d'une barrière",
+    "title_ar": "رفض الامتثال في حالة عرقلة إغلاق حاجز السير",
+    "description_fr": "Le refus d'obtempérer en cas d'entrave à la fermeture d'une barrière interdisant le passage pendant les périodes d'inondations, de gel et de dégel, de neige ou d'ensablement ou de restriction de la circulation.",
+    "description_ar": "رفض الامتثال في حالة عرقلة إغلاق حاجز يمنع المرور خلال فترات الفيضانات أو الجليد أو ذوبان الثلوج أو الترمل أو عند وجود قيود على حركة السير",
+    "category": "signs",
+    "subcategory": "signs.prohibition",
+    "tags": [
+      "refusal-to-stop",
+      "fog"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": [
+      "snow-barrier",
+      "stop-road-control"
+    ]
+  },
+  {
+    "id": "inf_d_019",
+    "tier_id": "delits",
+    "narsa_original_id": 20,
+    "points": 2,
+    "title_fr": "Conduite sous l'influence de substances médicamenteuses contre-indiquées",
+    "title_ar": "السياقة تحت تأثير مواد دوائية يمنع معها السياقة",
+    "description_fr": "Conduite sous l'influence de substances médicamenteuses contre indiquées pour la conduite des véhicules.",
+    "description_ar": "السياقة تحت تأثير مواد دوائية يمنع معها سياقة المركبات",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "medication",
+      "drugs"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_020",
+    "tier_id": "delits",
+    "narsa_original_id": 21,
+    "points": 2,
+    "title_fr": "Refus d'obtempérer aux ordres d'arrêt ou d'immobilisation",
+    "title_ar": "رفض الامتثال لأوامر التوقف أو توقيف المركبة",
+    "description_fr": "Refus, d'une façon intentionnelle, de tout conducteur sommé de s'arrêter de s'exécuter ou de respecter l'ordre d'immobilisation du véhicule ou de conduire ou de faire conduire son véhicule en fourrière ou d'obtempérer aux injonctions légales qui lui sont faites.",
+    "description_ar": "رفض السائق، بصفة عمدية، الامتثال لأمر التوقف أو احترام أمر توقيف المركبة أو سياقتها أو العمل على سياقتها إلى المحجز أو الامتثال للإنذارات القانونية الموجهة إليه",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "refusal-to-stop"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": [
+      "stop-gendarmerie",
+      "stop-police-checkpoint",
+      "stop-road-control"
+    ]
+  },
+  {
+    "id": "inf_d_021",
+    "tier_id": "delits",
+    "narsa_original_id": 22,
+    "points": 0,
+    "title_fr": "Absence d'inscriptions réglementaires sur le véhicule",
+    "title_ar": "غياب البيانات أو الكتابات القانونية على المركبة",
+    "description_fr": "Lorsque le véhicule est dépourvu d'inscriptions prévues par les textes en vigueur.",
+    "description_ar": "خلو المركبة من البيانات أو الكتابات المفروضة بموجب النصوص التنظيمية الجاري بها العمل",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "commercial",
+      "truck"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_022",
+    "tier_id": "delits",
+    "narsa_original_id": 23,
+    "points": 0,
+    "title_fr": "Utilisation de dispositifs anti-radars ou perturbateurs de contrôle",
+    "title_ar": "استعمال أجهزة الكشف أو التشويش على أجهزة رصد المخالفات",
+    "description_fr": "Le fait de placer, d'adapter, d'utiliser ou d'appliquer un appareil, dispositif ou produit destiné soit à déceler la présence, soit à perturber le fonctionnement d'instrument servant à la constatation des infractions au code de la route.",
+    "description_ar": "وضع أو ملاءمة أو استعمال أو تطبيق جهاز أو أداة أو منتج مخصص إما للكشف عن وجود أو لعرقلة عمل أجهزة قياس ومعاينة المخالفات لقانون السير",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "speeding"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_023",
+    "tier_id": "delits",
+    "narsa_original_id": 24,
+    "points": 0,
+    "title_fr": "Utilisation d'un appareil antiradar non confiscable",
+    "title_ar": "استعمال جهاز مضاد للرادار لا يمكن حجز المركبة بسببه",
+    "description_fr": "Le fait de placer, d'adapter, d'utiliser ou d'appliquer un appareil, dispositif ou produit destiné soit à déceler la présence, soit à perturber le fonctionnement d'instrument servant à la constatation des infractions au code de la route (cas du véhicule dont le conducteur fait usage d'un instrument ou appareil antiradar qui ne peut être confisqué).",
+    "description_ar": "وضع أو ملاءمة أو استعمال أو تطبيق آلة أو جهاز أو منتوج مخصص إما للكشف عن وجود أو عرقلة عمل أجهزة قياس ومعاينة المخالفات لقانون السير (حالة المركبة التي يستعمل سائقها جهازا مضادا للرادار لا يمكن حجزه)",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "speeding"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_024",
+    "tier_id": "delits",
+    "narsa_original_id": 25,
+    "points": 0,
+    "title_fr": "Moniteur accompagnant un élève sous l'influence de l'alcool ou stupéfiants",
+    "title_ar": "مرافق لمتعلم السياقة تحت تأثير الكحول أو المواد المخدرة",
+    "description_fr": "Cas du moniteur: Conduite sous l'influence de l'alcool ou de substances stupéfiantes et accompagnant un élève conducteur.",
+    "description_ar": "حالة المدرب: السياقة تحت تأثير الكحول أو المواد المخدرة أثناء مرافقة مرشح لتعلم السياقة",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "alcohol",
+      "drugs"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_025",
+    "tier_id": "delits",
+    "narsa_original_id": 26,
+    "points": 0,
+    "title_fr": "Moniteur accompagnant sous l'influence de substances médicamenteuses contre-indiquées",
+    "title_ar": "مدرب مرافق تحت تأثير مواد دوائية يمنع استعمالها أثناء السياقة",
+    "description_fr": "Cas du moniteur: Conduite sous l'influence de substances médicamenteuses contre indiquées pour la conduite des véhicules et accompagnant un élève conducteur.",
+    "description_ar": "حالة المدرب: السياقة تحت تأثير مواد دوائية يمنع استعمالها أثناء سياقة المركبات، وذلك أثناء مرافقة متدرب",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "medication",
+      "drugs"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_026",
+    "tier_id": "delits",
+    "narsa_original_id": 27,
+    "points": 0,
+    "title_fr": "Non respect des conditions de l'autorisation de transport exceptionnel",
+    "title_ar": "عدم احترام الشروط الخاصة المحددة في رخصة النقل الاستثنائي",
+    "description_fr": "Non respect des conditions spéciales fixées par l'autorisation de transport exceptionnel.",
+    "description_ar": "عدم احترام الشروط الخاصة المحددة في رخصة النقل الاستثنائي",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "truck",
+      "cargo-dimensions",
+      "cargo-weight"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": [
+      "no-entry-weight-limit-5-5-tons",
+      "no-entry-height-limit-4-5",
+      "no-entry-width-limit-2-5"
+    ]
+  },
+  {
+    "id": "inf_d_027",
+    "tier_id": "delits",
+    "narsa_original_id": 28,
+    "points": 0,
+    "title_fr": "Non usage du dispositif de mesure de la vitesse et du temps de conduite",
+    "title_ar": "عدم استعمال جهاز قياس السرعة وزمن السياقة",
+    "description_fr": "Non usage du dispositif de mesure de la vitesse et du temps de la conduite.",
+    "description_ar": "عدم استعمال جهاز قياس السرعة وزمن السياقة (التاكوغراف)",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "tachograph",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_028",
+    "tier_id": "delits",
+    "narsa_original_id": 29,
+    "points": 0,
+    "title_fr": "Organisation de courses ou manifestations sportives sur autoroute",
+    "title_ar": "تنظيم سباقات أو تظاهرات رياضية على الطريق السيار",
+    "description_fr": "Organisation des courses de véhicules à moteur ou toutes autres manifestations sportives, qu'elle qu'en soit la dénomination, sur les autoroutes ou sur leurs bretelles de raccordement.",
+    "description_ar": "تنظيم سباقات المركبات ذات محرك أو أي تظاهرات رياضية أخرى، مهما كان مسمى هذه التظاهرات، على الطرق السيارة أو على المسالك الموصلة إليها",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_029",
+    "tier_id": "delits",
+    "narsa_original_id": 30,
+    "points": 0,
+    "title_fr": "Organisation de courses de véhicules sans autorisation sur la voie publique",
+    "title_ar": "تنظيم سباقات المركبات بدون ترخيص في الطريق العمومية",
+    "description_fr": "Organisation sans autorisation préalable des autorités compétentes, sur la voie publique, autre que les autoroutes et leurs bretelles de raccordement, des courses de véhicules à moteur ou toutes autres manifestations sportives, qu'elle qu'en soit la dénomination.",
+    "description_ar": "تنظيم سباقات للمركبات ذات محرك أو تظاهرات رياضية كيفما كان نوعها، بدون ترخيص مسبق من السلطات المختصة، وذلك في الطريق العمومية باستثناء الطرق السيار ومنافذها",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_030",
+    "tier_id": "delits",
+    "narsa_original_id": 31,
+    "points": 0,
+    "title_fr": "Jet d'objets sur une voie empruntée par une manifestation sportive",
+    "title_ar": "رمي منشورات أو أشياء على طريق مخصص لتظاهرة رياضية",
+    "description_fr": "Le fait de jeter des imprimés ou des objets quelconques sur une voie empruntée par une manifestation sportive.",
+    "description_ar": "رمي منشورات أو أشياء كيفما كان نوعها على طريق تمر منه تظاهرة رياضية",
+    "category": "safety",
+    "subcategory": "safety.conditions",
+    "tags": [],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_031",
+    "tier_id": "delits",
+    "narsa_original_id": 32,
+    "points": 0,
+    "title_fr": "Vente ou distribution d'objets sur voie de manifestation sportive",
+    "title_ar": "بيع أو توزيع مطبوعات أو أشياء بمسار تظاهرة رياضية",
+    "description_fr": "Le fait de vendre ou de distribuer des imprimés ou des objets quelconques sur une voie empruntée par une manifestation sportive.",
+    "description_ar": "بيع أو توزيع مطبوعات أو أشياء كيفما كان نوعها على طريق تسلكها تظاهرة رياضية",
+    "category": "safety",
+    "subcategory": "safety.conditions",
+    "tags": [],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_032",
+    "tier_id": "delits",
+    "narsa_original_id": 33,
+    "points": 0,
+    "title_fr": "Jet d'objets sur voie de manifestation sportive",
+    "title_ar": "رمي منشورات أو أشياء على طريق مخصص لتظاهرة رياضية",
+    "description_fr": "Le fait de jeter des imprimés ou des objets quelconques sur une voie empruntée par une manifestation sportive (courses pédestres ou cyclistes).",
+    "description_ar": "رمي منشورات أو مطبوعات أو أشياء كيفما كان نوعها على طريق تمر منه تظاهرة رياضية (سباق المشاة أو الدراجات)",
+    "category": "safety",
+    "subcategory": "safety.conditions",
+    "tags": [],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_033",
+    "tier_id": "delits",
+    "narsa_original_id": 34,
+    "points": 0,
+    "title_fr": "Vente ou distribution d'objets sur voie de manifestation sportive",
+    "title_ar": "بيع أو توزيع مطبوعات أو أشياء بمسار تظاهرة رياضية",
+    "description_fr": "Le fait de vendre ou de distribuer des imprimés ou des objets quelconques sur une voie empruntée par une manifestation sportive (courses pédestres ou cyclistes).",
+    "description_ar": "بيع أو توزيع مطبوعات أو أشياء كيفما كان نوعها في طريق تسلكه تظاهرة رياضية (سباقات المشي أو الدراجات)",
+    "category": "safety",
+    "subcategory": "safety.conditions",
+    "tags": [
+      "pedestrian"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_034",
+    "tier_id": "delits",
+    "narsa_original_id": 35,
+    "points": 0,
+    "title_fr": "Organisation de courses pédestres ou cyclistes sur autoroute",
+    "title_ar": "تنظيم سباقات للراجلين أو الدراجات على الطريق السيار",
+    "description_fr": "Organisation des courses pédestres ou cyclistes sur les autoroutes ou sur leurs bretelles de raccordement.",
+    "description_ar": "تنظيم سباقات للراجلين أو الدراجات على الطرق السيارة أو على مسالك الربط المؤدية إليها",
+    "category": "highway",
+    "subcategory": "highway.prohibited",
+    "tags": [
+      "highway"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": [
+      "no-pedestrians",
+      "no-entry-mopeds",
+      "end-no-entry-bicycles"
+    ]
+  },
+  {
+    "id": "inf_d_035",
+    "tier_id": "delits",
+    "narsa_original_id": 36,
+    "points": 0,
+    "title_fr": "Organisation de courses pédestres ou cyclistes sans autorisation",
+    "title_ar": "تنظيم سباقات للمشاة أو الدراجات بدون ترخيص",
+    "description_fr": "Organisation sans autorisation préalable des autorités compétentes, sur la voie publique, autres que les autoroutes et leurs bretelles de raccordement, des courses pédestres ou cyclistes.",
+    "description_ar": "تنظيم سباقات للمشاة أو الدراجات على الطريق العمومية (باستثناء الطرق السيار ومنافذها) دون الحصول على ترخيص مسبق من السلطات المختصة",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_036",
+    "tier_id": "delits",
+    "narsa_original_id": 37,
+    "points": 0,
+    "title_fr": "Mise en circulation d'un véhicule sans certificat d'immatriculation",
+    "title_ar": "وضع مركبة في السير بدون شهادة التسجيل",
+    "description_fr": "Mise en circulation d'un véhicule, soumis à l'immatriculation, sans avoir obtenu un certificat d'immatriculation.",
+    "description_ar": "وضع مركبة خاضعة للتسجيل في السير دون الحصول على شهادة التسجيل",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "registration"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_037",
+    "tier_id": "delits",
+    "narsa_original_id": 38,
+    "points": 0,
+    "title_fr": "Mise en circulation d'un véhicule dépourvu de plaques d'immatriculation",
+    "title_ar": "وضع مركبة في السير بدون صفائح التسجيل",
+    "description_fr": "Mise en circulation ou autorisation de mise en circulation d'un véhicule dépourvu de plaques d'immatriculation.",
+    "description_ar": "وضع مركبة في السير أو الإذن بوضعها في السير وهي غير مزودة بصفائح التسجيل",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "registration"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_038",
+    "tier_id": "delits",
+    "narsa_original_id": 39,
+    "points": 0,
+    "title_fr": "Véhicule muni sciemment de fausses plaques d'immatriculation",
+    "title_ar": "استعمال صفائح تسجيل مزورة عمدا",
+    "description_fr": "Véhicule muni sciemment de fausses plaques d'immatriculation.",
+    "description_ar": "سياقة مركبة تحمل صفائح تسجيل مزورة مع العلم بذلك",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "registration"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_039",
+    "tier_id": "delits",
+    "narsa_original_id": 40,
+    "points": 0,
+    "title_fr": "Circulation d'un véhicule muni d'une fausse plaque d'immatriculation",
+    "title_ar": "سير مركبة تحمل صفائح تسجيل مزورة",
+    "description_fr": "Tout conducteur qui a sciemment fait circuler un véhicule muni d'une fausse plaque d'immatriculation.",
+    "description_ar": "كل سائق قام عمدا بسياقة مركبة تحمل صفائح تسجيل مزورة",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "registration"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_040",
+    "tier_id": "delits",
+    "narsa_original_id": 41,
+    "points": 0,
+    "title_fr": "Conduite d'un véhicule sans permis de conduire",
+    "title_ar": "سياقة مركبة بدون رخصة سياقة",
+    "description_fr": "Conduite d'un véhicule dont la conduite nécessite l'obtention d'un permis de conduire par un conducteur non titulaire du permis de conduire.",
+    "description_ar": "سياقة مركبة تتطلب سياقتها الحصول على رخصة سياقة من طرف سائق غير حاصل على هذه الرخصة",
+    "category": "documents",
+    "subcategory": "documents.license",
+    "tags": [
+      "license-missing"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_041",
+    "tier_id": "delits",
+    "narsa_original_id": 42,
+    "points": 0,
+    "title_fr": "Conduite d'un véhicule avec catégorie de permis non conforme",
+    "title_ar": "سياقة مركبة بصنف رخصة غير مطابق",
+    "description_fr": "Conduite d'un véhicule dont la conduite nécessite l'obtention d'un permis de conduire par un conducteur muni d'un permis de conduire dont la catégorie n'est pas conforme à celle du véhicule.",
+    "description_ar": "سياقة مركبة تتطلب سياقتها الحصول على رخصة سياقة من طرف سائق يتوفر على رخصة سياقة لا يتطابق صنفها مع صنف المركبة",
+    "category": "documents",
+    "subcategory": "documents.license",
+    "tags": [
+      "license-missing"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_042",
+    "tier_id": "delits",
+    "narsa_original_id": 43,
+    "points": 0,
+    "title_fr": "Non-dépôt du permis de conduire suite à retrait judiciaire ou administratif",
+    "title_ar": "عدم إيداع رخصة السياقة بعد قرار سحب قضائي أو إداري",
+    "description_fr": "La personne se trouvant sous le coup d'une décision judiciaire ou d'une décision administrative de retrait de PC qui ne dépose pas dans les délais qui lui ont été impartis son PC auprès de l'administration.",
+    "description_ar": "عدم قيام الشخص الصادر في حقه قرار قضائي أو إداري بسحب رخصة السياقة بإيداع رخصته لدى الإدارة داخل الآجال المحددة له",
+    "category": "documents",
+    "subcategory": "documents.penalties",
+    "tags": [
+      "license-suspended"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_043",
+    "tier_id": "delits",
+    "narsa_original_id": 44,
+    "points": 0,
+    "title_fr": "Non-restitution du permis de conduire suite à une annulation",
+    "title_ar": "عدم إيداع رخصة السياقة بعد قرار الإلغاء",
+    "description_fr": "La personne se trouvant sous le coup d'une décision judiciaire ou d'une décision administrative d'annulation de PC qui ne dépose pas dans les délais qui lui ont été impartis son PC auprès de l'administration.",
+    "description_ar": "عدم قيام الشخص الصادر في حقه قرار قضائي أو إداري بإلغاء رخصة السياقة بإيداع هذه الرخصة لدى الإدارة داخل الآجال المحددة له",
+    "category": "documents",
+    "subcategory": "documents.penalties",
+    "tags": [
+      "license-suspended"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_044",
+    "tier_id": "delits",
+    "narsa_original_id": 45,
+    "points": 0,
+    "title_fr": "Conduite malgré un retrait judiciaire ou administratif du permis",
+    "title_ar": "السياقة رغم سحب رخصة السياقة بقرار قضائي أو إداري",
+    "description_fr": "La personne se trouvant sous le coup d'une décision judiciaire ou d'une décision administrative de retrait de PC qui conduit un véhicule dont la conduite nécessite l'obtention d'un PC.",
+    "description_ar": "قيام شخص صدر في حقه قرار قضائي أو إداري بسحب رخصة السياقة بسياقة مركبة تتطلب سياقتها الحصول على رخصة سياقة",
+    "category": "documents",
+    "subcategory": "documents.license",
+    "tags": [
+      "license-suspended"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_045",
+    "tier_id": "delits",
+    "narsa_original_id": 46,
+    "points": 0,
+    "title_fr": "Conduite malgré l'annulation du permis de conduire",
+    "title_ar": "السياقة رغم إلغاء رخصة السياقة",
+    "description_fr": "La personne se trouvant sous le coup d'une décision judiciaire ou d'une décision administrative d'annulation de PC qui conduit un véhicule dont la conduite nécessite l'obtention d'un PC.",
+    "description_ar": "قيام شخص صدر في حقه مقرر قضائي أو قرار إداري بإلغاء رخصة السياقة بسياقة مركبة تتطلب سياقتها الحصول على رخصة سياقة",
+    "category": "documents",
+    "subcategory": "documents.license",
+    "tags": [
+      "license-suspended"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_046",
+    "tier_id": "delits",
+    "narsa_original_id": 47,
+    "points": 0,
+    "title_fr": "Conduite d'un véhicule avec un faux permis de conduire",
+    "title_ar": "سياقة مركبة برخصة سياقة مزورة",
+    "description_fr": "La personne qui conduit avec un faux PC un véhicule dont la conduite nécessite l'obtention d'un PC.",
+    "description_ar": "قيام شخص بسياقة مركبة تتطلب سياقتها الحصول على رخصة سياقة، وذلك باستعمال رخصة سياقة مزورة",
+    "category": "documents",
+    "subcategory": "documents.license",
+    "tags": [
+      "license-missing"
+    ],
+    "consumer_relevance": "high",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_047",
+    "tier_id": "delits",
+    "narsa_original_id": 48,
+    "points": 0,
+    "title_fr": "Utilisation professionnelle du permis sans renouvellement de la carte de conducteur professionnel",
+    "title_ar": "استعمال رخصة السياقة مهنيا دون تجديد بطاقة السائق المهني",
+    "description_fr": "Toute personne qui utilise à titre professionnel son PC sans renouvellement de la carte de conducteur professionnel dans le délai d'un mois à compter de la date d'expiration de sa validité.",
+    "description_ar": "كل شخص يستعمل رخصة سياقته بصفة مهنية دون تجديد بطاقة السائق المهني داخل أجل شهر واحد من تاريخ انتهاء صلاحيتها",
+    "category": "documents",
+    "subcategory": "documents.required",
+    "tags": [
+      "commercial",
+      "license-expired"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_048",
+    "tier_id": "delits",
+    "narsa_original_id": 49,
+    "points": 0,
+    "title_fr": "Absence de dispositif de mesure de vitesse et de temps de conduite",
+    "title_ar": "غياب جهاز قياس السرعة وزمن السياقة",
+    "description_fr": "Non respect de l'obligation pour les véhicules de transport de marchandises ou de transport de voyageurs d'être équipés du dispositif de mesure de vitesse et du temps de conduite (absence du dispositif).",
+    "description_ar": "عدم احترام إجبارية توفر مركبات نقل البضائع أو نقل المسافرين على جهاز قياس السرعة وزمن السياقة (غياب الجهاز)",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "tachograph",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_049",
+    "tier_id": "delits",
+    "narsa_original_id": 50,
+    "points": 0,
+    "title_fr": "Dépassement de la durée maximum de la conduite",
+    "title_ar": "تجاوز مدة السياقة القصوى",
+    "description_fr": "Dépassement de la durée maximum de la conduite.",
+    "description_ar": "تجاوز مدة السياقة القصوى المسموح بها",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "fatigue",
+      "commercial",
+      "truck"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_050",
+    "tier_id": "delits",
+    "narsa_original_id": 51,
+    "points": 0,
+    "title_fr": "Non respect de la durée de repos",
+    "title_ar": "عدم احترام مدة الراحة",
+    "description_fr": "Non respect de la durée de repos.",
+    "description_ar": "عدم احترام مدة الراحة المفروضة قانونا",
+    "category": "safety",
+    "subcategory": "safety.driver",
+    "tags": [
+      "fatigue",
+      "commercial",
+      "truck"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  },
+  {
+    "id": "inf_d_051",
+    "tier_id": "delits",
+    "narsa_original_id": 52,
+    "points": 0,
+    "title_fr": "Dépassement du poids total autorisé de plus de 40%",
+    "title_ar": "تجاوز الوزن الإجمالي المأذون به بأكثر من 40%",
+    "description_fr": "Le dépassement du poids total en charge autorisé de plus de 40% de surcharge.",
+    "description_ar": "تجاوز الوزن الإجمالي المأذون به عند التحميل بنسبة تفوق 40% من الحمولة الزائدة",
+    "category": "safety",
+    "subcategory": "safety.equipment",
+    "tags": [
+      "cargo-weight",
+      "truck",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": [
+      "no-entry-weight-limit-5-5-tons",
+      "axle-weight-limit-5t",
+      "no-entry-axle-weight-2-tons"
+    ]
+  },
+  {
+    "id": "inf_d_052",
+    "tier_id": "delits",
+    "narsa_original_id": 53,
+    "points": 0,
+    "title_fr": "Abandon de véhicule ou de chargement sur la voie publique",
+    "title_ar": "تخلي عن مركبة أو حمولة في الطريق العمومي",
+    "description_fr": "Véhicule et/ou chargement abandonnés sur la voie publique ou sur ses dépendances.",
+    "description_ar": "تخلي صاحب المركبة عن مركبته و/أو حمولته في الطريق العمومي أو ملحقاته",
+    "category": "parking",
+    "subcategory": "parking.prohibited",
+    "tags": [
+      "cargo-loading"
+    ],
+    "consumer_relevance": "medium",
+    "related_signs": [
+      "no-stopping-no-parking",
+      "no-parking"
+    ]
+  },
+  {
+    "id": "inf_d_053",
+    "tier_id": "delits",
+    "narsa_original_id": 54,
+    "points": 0,
+    "title_fr": "Circulation de véhicule susceptible de causer des dégâts à la voie publique",
+    "title_ar": "سير مركبة من شأنها إلحاق أضرار بالطريق العمومية",
+    "description_fr": "Le fait de faire circuler sur la voie publique ou ses dépendances, un véhicule ou un autre appareil ou engin susceptible de causer des dégâts à ladite voie ou à ses dépendances.",
+    "description_ar": "سير مركبة أو أي جهاز أو آلة أخرى على الطريق العمومية أو ملحقاتها، من شأنها أن تتسبب في إلحاق أضرار بالطريق المذكورة أو بملحقاتها",
+    "category": "safety",
+    "subcategory": "safety.conditions",
+    "tags": [],
+    "consumer_relevance": "low",
+    "related_signs": [
+      "no-entry-weight-limit-5-5-tons",
+      "no-entry-axle-weight-2-tons",
+      "no-entry-width-limit-2-5"
+    ]
+  },
+  {
+    "id": "inf_d_054",
+    "tier_id": "delits",
+    "narsa_original_id": 55,
+    "points": 0,
+    "title_fr": "Modification du dispositif de limitation de vitesse ou du temps de conduite",
+    "title_ar": "تعديل جهاز تحديد السرعة أو جهاز قياس مدة السياقة",
+    "description_fr": "Le fait de modifier ou de laisser modifier le dispositif de limitation de vitesse ou le dispositif de mesure de vitesse ou du temps de conduite.",
+    "description_ar": "تعديل أو السماح بتعديل جهاز تحديد السرعة أو جهاز قياس السرعة أو مدة السياقة",
+    "category": "speed",
+    "subcategory": "speed.limits",
+    "tags": [
+      "speed-limiter",
+      "tachograph",
+      "commercial"
+    ],
+    "consumer_relevance": "low",
+    "related_signs": []
+  }
+]

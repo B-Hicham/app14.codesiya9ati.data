@@ -1,0 +1,839 @@
+{
+  "id": 67,
+  "title": "Quiz 67",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_1.jpg",
+  "source": "siya9ati_v2",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_1.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_1.mp3",
+      "description": "لون اشتعال الضو الجاذب لاضواو الطريق",
+      "answer": [
+        3
+      ],
+      "explanation": "لون إشتعال ضوء الجاذب لأضواء الطّريق فيكون باللّون الأزرق.",
+      "optionGroups": [
+        {
+          "options": [
+            "اخضر",
+            "برتقالي",
+            "ازرق"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_2.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_2.mp3",
+      "description": "عجلات غير متوازية يمكن تسبب فتلف مبكر و غير عادي للعجلات",
+      "answer": [
+        1
+      ],
+      "explanation": "من بين الأسباب التي تُؤدي إلى تَلف مبكّر وغير عادي للعجلات فنجد مثلا أن العجلات لا تكون متوازية، لذل ينصح دائما أن يتم مراقبة العجلات هل هي متوازية أم لا لكي لا تتلف بسرعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_3.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_3.mp3",
+      "description": "هاد الضو الجاذب كيشير على ان",
+      "answer": [
+        1
+      ],
+      "explanation": "الضوء الجاذب يشير على أن أضواء الضباب الخلفية تعمل. (لون الضوء الجاذب لأضواء الضباب الخلفية عندما تكون تعمل فيكون باللون الأصفر كما في الصورة).",
+      "optionGroups": [
+        {
+          "options": [
+            "ضواو الضبابة ديال الخلف مشعولة",
+            "ضواو الضبابة ديال القدام مشعولة",
+            "ضواو الطريق مشعولة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_4.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_4.mp3",
+      "description": "مستوى ماء التبريد",
+      "answer": [
+        2
+      ],
+      "explanation": "كما تبيّن الصورة فإن قارورة سائل التبريد تحتوي على سائل التبريد، وهذا معناه أن مستوى سائل التبريد كافي.",
+      "optionGroups": [
+        {
+          "options": [
+            "ما كافيش",
+            "كاف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_5.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_5.mp3",
+      "description": "تاريخ صلاحية التامين كيتبرز",
+      "answer": [
+        1
+      ],
+      "explanation": "تاريخ صلاحية التأمين يظهر على شهادة التأمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "على شهادة التامين",
+            "على الورقة الرمادية",
+            "على شهادة الفحص التقني"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_6.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_6.mp3",
+      "description": "مستوى الزيت ديال الفرامل كافي",
+      "answer": [
+        1
+      ],
+      "explanation": "كما توضّح الصورة فإن زيت الفرامل يتواجد بين (MAXI) و بين (MINI) وهذا يدل على أن المستوى كاف (يكون مستوى زيت الفرامل غير كافي لو كانت الزيت تحت (MINI) لكن في الصورة فمستوى زيت الفرامل فهو فوق (MINI) ويمكنني السّير بهذا المستوى لأنه مستوى كاف. الإجابة الصحيحة هي 1.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_7.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_7.mp3",
+      "description": "مني يبدا هاذ الضو الجاذب تيرف هذا كيعني ان الاكياس الواقية",
+      "answer": [
+        1
+      ],
+      "explanation": "عندما يبدأ هذا الضوء الجاذب كَايْرَفْرَفْ فهذا يعني على أن الأكياس الواقية (AirBag) لا تعمل.",
+      "optionGroups": [
+        {
+          "options": [
+            "ماخداماش",
+            "كتعمل مزيان"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_8.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_8.mp3",
+      "description": "مني تكون سيارة متوقفة، وجود بقايا الزيت تحت منها هو",
+      "answer": [
+        3
+      ],
+      "explanation": "عندما نجد بقايا زيت تحت سيارة متوقّفة فهذا بسبب فلترات الزيت، لذلك في هذه الحالة فيجب علينا القيام بمراقبة المستويات.",
+      "optionGroups": [
+        {
+          "options": [
+            "عادي",
+            "لازم فالحال طلب سيارة الاغاثة",
+            "من الواجب القيام بمراقبة المستويات"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_9.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_9.mp3",
+      "description": "الرمز اللي كيشير للمنبه الصوتي هو الرمز",
+      "answer": [
+        2
+      ],
+      "explanation": "الرمز الذي يشير إلى المنبّه الصوتي فهو الرمز رقم 2.",
+      "optionGroups": [
+        {
+          "options": [
+            "رقم 1",
+            "رقم 2",
+            "رقم 3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_10.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_10.mp3",
+      "description": "يمكن لي نستعمل اي زيت محرك بالنسبة لاي نوع من المحركات",
+      "answer": [
+        2
+      ],
+      "explanation": "لا يمكن إستعمال أي زيت محرّك لأي نوع من المحركات، لأن لِكل محرك لديه زيت خاصة به وتتناسب معه، وليس جميع الزيوت صالحة لجميع  أنواع المحرّكات",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_11.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_11.mp3",
+      "description": "إلا شعل هاذ الضو الجاذب أثناء السير هاذا كيعني أن",
+      "answer": [
+        2
+      ],
+      "explanation": "إذا إشتغل هذا الضوء الجاذب الأحمر أثناء السّير فهذا يعني على وقوع عطب في جهاز تزويد البطّارية بالطاقة.",
+      "optionGroups": [
+        {
+          "options": [
+            "البطارية فارغة",
+            "وقوع عطب فجهاز تزويد البطارية بالطاقة",
+            "الماء قليل فالبطارية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_12.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_12.mp3",
+      "description": "باش نغير مصباح الضو ديال القدام من الواجب",
+      "answer": [
+        1
+      ],
+      "explanation": "لكي نقوم بتغيير مصباح الضوء الأمامي للسيارة فمن الواجب تغييره من الخلف، (فتح غطاء المحرك ونقوم بتغييره).",
+      "optionGroups": [
+        {
+          "options": [
+            "نغيرو من الخلف",
+            "نزول الزاج",
+            "نستعمل اداة خاصة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_13.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_13.mp3",
+      "description": "هاد الجهاز كيمكن",
+      "answer": [
+        3
+      ],
+      "explanation": "هذا الجهاز فهو يمكِّنُنا من زيادة أو إنقاص مستوى صوت المِذْياع.",
+      "optionGroups": [
+        {
+          "options": [
+            "من التنبيه",
+            "من ضبط لعلو ديال الضواو",
+            "من الزيادة او النقصان من صوت المذياع"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_14.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_14.mp3",
+      "description": "قبل الانطلاق ومني تكون العربة محملة، من الضروري",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "قبل الإنطلاق وإذا كانت العربة محملة، فيجب علينا التحقق من ضبط الأضواء الأمامية وأيضا الزيادة في ضغط العجلات لأنها مْحَمْلَة.",
+      "optionGroups": [
+        {
+          "options": [
+            "ضبط الاضواء الامامية",
+            "تغيير ضبط النوابض",
+            "الزيادة فضبط العجلات"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_15.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_15.mp3",
+      "description": "شنو هو الرمز اللي كيشير لغسالة الزاج",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة للرّمز الذي يشير إلى غسّالة الزجاج فهو الرّمز رقم 2. (الرمز الاخر فهو خاص بالمِمْسحة (Essuie-glace)).",
+      "optionGroups": [
+        {
+          "options": [
+            "رقم 1",
+            "رقم 2"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_16.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_16.mp3",
+      "description": "باش نزيد سائل خاص بغسل الزجاج نوضعوا فالخزان",
+      "answer": [
+        3
+      ],
+      "explanation": "الخزّان المسؤول عن سائل غسل الزجاج فهو الخزّان رقم 3.",
+      "optionGroups": [
+        {
+          "options": [
+            "رقم 1",
+            "رقم 2",
+            "رقم 3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_17.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_17.mp3",
+      "description": "اثناء السير هاذ المؤشر كيشير",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة للمؤشر الظاهر في الصورة فهو خاص بسرعة دوران المحرك أثناء السّير (في 1000).",
+      "optionGroups": [
+        {
+          "options": [
+            "السرعة اللي كتمشي بها العربة",
+            "سرعة دوران المحرك",
+            "استهلاك الوقود"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_18.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_18.mp3",
+      "description": "مني كتكون العجلة ما منفوخاش بالشكل الكافي، يمكن تعرض للفرقعة",
+      "answer": [
+        1
+      ],
+      "explanation": "بطبيعة الحال فيجب على أن تكون عجلة السّيارة تحتوى على ضغط هوائي كافي، وإذا كان ضغط الهواء في العجلة غير كافي فهنالك إحتمال تعرّضها للفرقعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_19.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_19.mp3",
+      "description": "الضوء الجاذب اللي كيشير لاستعمال مؤشرات تغيير الاتجاه هو",
+      "answer": [
+        3
+      ],
+      "explanation": "الضوء الجاذب الذي يشير إلى إستعمال مؤشرات تغيير الإتّجاه فهو رقم 3.",
+      "optionGroups": [
+        {
+          "options": [
+            "رقم 1",
+            "رقم 2",
+            "رقم 3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_20.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_20.mp3",
+      "description": "يمكن نبدل صهيرة مابقاتش صالحة بصهيرة عندها",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "يمكنني تغيير صهيرة لم تعد تعمل بصهيرة أخرى لديها نفس الأمبير وأيظا لا مشكل إذا كانت من شركة أخرى (فقط يجب إستعمال نفس الأمبير لأنه لو كان الأمبير أكثر فيمكن أن يسبب هذا الأمر في حريق).",
+      "optionGroups": [
+        {
+          "options": [
+            "نفس الامبير",
+            "الامبير زايد",
+            "من صنع مختلف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_21.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_21.mp3",
+      "description": "يمكن لي مراقبة عدد الكيلومترات المتبقية قبل الفحص اللي جاي (Vidange) بمقارنة عداد الكيلومترات ب",
+      "answer": [
+        2
+      ],
+      "explanation": "يمكن لي مراقبة عدد الكيلومترات المتبقية قبل الفحص القادم (Vidange) بمقارنة عدّاد الكيلومترات في كُتَيِّبْ الصِّيانة.",
+      "optionGroups": [
+        {
+          "options": [
+            "شهادة الفحص التقني",
+            "كتيب الصيانة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_22.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_22.mp3",
+      "description": "من الممكن استعمال هاذ الضواو باش نبه التواجد ديالي",
+      "answer": [
+        1
+      ],
+      "explanation": "الضوء الجاذب الأزرق الموجود على اليمين فهو ضوء الطّريق، والضوء الجاذب الأخضر على اليسار فهو ضوء التّقابل. يمكن إستعمالهما للتّنبيه على مكان تواجدي.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_23.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_23.mp3",
+      "description": "شنو هو لون الضو الجاذب اللي كيشير ان سائل الفرامل ناقص بزاف",
+      "answer": [
+        3
+      ],
+      "explanation": "أضواء الخطر التي تكون في الأضواء الجاذبة فهي تكون باللون الأحمر، إذن في هذه الحالة لون الضوء الجاذب والذي يشير إلى أن سائل الفرامل ناقص فهو اللون الأحمر.",
+      "optionGroups": [
+        {
+          "options": [
+            "اخضر",
+            "البرتقالي",
+            "الاحمر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_24.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_24.mp3",
+      "description": "تتم مراقبة مستوى سائل التبريد، مني يكون",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "تتم عملية مراقبة مستوى سائل التبريد عندما يكون المحرّك بارد، وأيظا عندما تكون الطريق واطية (أي ان العربة لا تتواجد في مرتفع أو منحذر، يجب أن تتواجد في طريق عادية أي واطية) لكي يظهر مستوى سائل التبريد بشكل صحيح.",
+      "optionGroups": [
+        {
+          "options": [
+            "المحرك بارد",
+            "المحرك سخون",
+            "على طريق واطية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_25.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_25.mp3",
+      "description": "هاد الجهاز كيمكن من تشغيل",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة للجهاز المشار إليه في الصورة فهو يقوم بإغلاق الأبواب.",
+      "optionGroups": [
+        {
+          "options": [
+            "جهاز التبريد و إزالة الجليد",
+            "من إغلاق الأبواب"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_26.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_26.mp3",
+      "description": "هذا الخزان كيحتوي على سائل الفراميل",
+      "answer": [
+        2
+      ],
+      "explanation": "هذا الخزّان فهو غير خاص بسائل الفرامل، أي أنه لا يحتوي على سائل الفرامل.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_27.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_27.mp3",
+      "description": "اشتعال هاذ الضو الجاذب اثناء السير كيشير",
+      "answer": [
+        2
+      ],
+      "explanation": "إذا إشتغل هذا الضوء الجاذب أثناء السّير فإنه يشير لوجود خلل في جهاز توجيه العربة (Volant).",
+      "optionGroups": [
+        {
+          "options": [
+            "ان مضاد السرقة مغلق باحكام",
+            "الوجود خلل فجهاز توجيه العربة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_28.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_28.mp3",
+      "description": "كيشعل الضو ديال لوحة التسجيل اللي فالخلف عند اشتعال ضواو الوضع",
+      "answer": [
+        1
+      ],
+      "explanation": "عند إشتغال أضواء الوضع، فإنه وبشكل أوتوماتيكي يتم أيظا تشغيل أضواء لوحة تسجيل العربة في الخلف.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_29.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_29.mp3",
+      "description": "مني كنجر هاذ الجهاز لعندي، انا كنقوم",
+      "answer": [
+        3
+      ],
+      "explanation": "إذا قمت بِجَرْ هذا الجهاز الظاهر في الصورة إليّ فسوف أقوم بالتّنبيه بالأضواء.",
+      "optionGroups": [
+        {
+          "options": [
+            "بالتنبيه بواسطة المنبه الصوتي",
+            "باشعال ضواو الوضع",
+            "التنبيه بواسطة الضواو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_30.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_30.mp3",
+      "description": "الزجاج ديال القدام موسخ",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "إذا كان زجاج العربة الأمامي متّسخ فسوف تكون الرؤية صعبة أي حجب الرؤية، وأيظا سوف يسبب لنا إزعاج في الفترة الليلية لكونه متسخ ولا يمكننا الرؤية جيدا في الليل كذلك. (ولا علاقة للزجاج المتّسخ بإجتناب التعرّض للإبهار.",
+      "optionGroups": [
+        {
+          "options": [
+            "كيحجب الرؤية",
+            "كيجنب التعرض للابهار",
+            "كيزعج السياقة بالاخص بليل"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_31.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_31.mp3",
+      "description": "مني مكيکون حتى مشكل، هاذ الضو الجاذب",
+      "answer": [
+        2
+      ],
+      "explanation": "عندما لا يوجد أي مشكل في العربة فهذا الضوء الجاذب يشتغل فقط عندما نقوم بوضع مفتاح العربة (contact) وبعد ذلك ينطفئ.",
+      "optionGroups": [
+        {
+          "options": [
+            "كيبقى دائما مطفي",
+            "كيشعل مني كنوضع المفتاح CONTACT",
+            "كيشعل مني كيبدا المحرك فالدوران"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_32.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_32.mp3",
+      "description": "إلا كنت غادي بضو التقابل مخدإمش، هناك خطر أن مستعملي الطريق الآخرين يظنو أني صاحب دراجة نارية",
+      "answer": [
+        1
+      ],
+      "explanation": "إذا كنت أسير بأضواء التقابل وهي غير شغّالة، فإن العربات القادمة من الإتّجاه المعاكس سوف تظن على أنني دراجة نارية. لأن أضواء التّقابل غير شغّالة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_33.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_33.mp3",
+      "description": "عامة، مني كنجر الجهاز الموجود على ليمن ديال المقود، كنشغل",
+      "answer": [
+        3
+      ],
+      "explanation": "في الغالب وعامة وعندما أقوم بسحب هذا الجهاز إلى اليمين المِقْود فسوف تشتغل مسّاحات الزُّجاج.",
+      "optionGroups": [
+        {
+          "options": [
+            "المنبه الصوتي",
+            "المنبه الضوئي",
+            "مساحات الزجاج"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_34.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_34.mp3",
+      "description": "إلا الضواو توسخات بسبب الغبار أو الوحل كتصبح",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "إذا كانت أضواء العربة متّسخة بسبب الغبار أو الوحل فسوف تصبح مرئية بشكل أقل وأيظا سوف لن تضيئ الطريق بشكل جيد بسبب الغبار أو الوحل الذي عليها والذي يمنع الإضاءة الجيّدة (ولن تتلف الإضاءة لأن الغبار والوحل فهو في الخارج وليس داخل مكان الإظاءة).",
+      "optionGroups": [
+        {
+          "options": [
+            "مرئية بصورة أقل",
+            "كترض لتلف بسرعة",
+            "مكتبقاش كتضوي بصورة مزيانة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_35.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_35.mp3",
+      "description": "وضعت المفتاح CONTACT، قبل ما نشغل المحرك Demarreur ننتظر حتى يطفا الضو الجاذب",
+      "answer": [
+        2
+      ],
+      "explanation": "الضوء الجاذب رقم 2 فهو مؤشر التسخين وهو خاص بسيارات الديزل، يسمح نظام التسخين المسبق لسيارتك التي تعمل بمحرك الديزل بالتشغيل في أفضل الظروف. حتى لو كان المحرك باردًا. لذلك عندما نضع مفتاح السّيارة (contact) وقبل أن أقوم بتشغيل المحرّك (démarreur) فيجب عليّ أن أنتظر إلى حين أن ينطفأ هذا الضوء الجاذب وبعد ذلك يمكنني إقلاع السّيارة.",
+      "optionGroups": [
+        {
+          "options": [
+            "رقم 1",
+            "رقم 2",
+            "رقم 3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_36.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_36.mp3",
+      "description": "كيشير مقياس الزيت على اني",
+      "answer": [
+        3
+      ],
+      "explanation": "كما توضّح الصورة فمستوى الزيت في المقياس فهو جيّد، لذلك يمكنني مواصلة السّير.",
+      "optionGroups": [
+        {
+          "options": [
+            "من الواجب ننقص شوية من الزيت",
+            "من الواجب نزيد الزيت",
+            "يمكن لي نكمل السير فهاذ الحالة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_37.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_37.mp3",
+      "description": "هذا الزر كيمكنني نرد لمستوى الصفر",
+      "answer": [
+        2
+      ],
+      "explanation": "بالنسبة لهذا الجهاز فهو يُمَكِّنُني من إرجاع عدّاد الكيلومترات اليومي لمُستوى الصّفر. (لا يمكن إرجاع عدّاد الكيلومترات العام للعربة لمستوى الصّفر).",
+      "optionGroups": [
+        {
+          "options": [
+            "عداد الكيلومترات العام",
+            "عداد الكيلومترات اليومي"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_38.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_38.mp3",
+      "description": "فهاد الحالة، مسموح زيادة على ضواو الطريق نستعمل ضواو الضبابة دلقدام",
+      "answer": [
+        1
+      ],
+      "explanation": "بما أنه يوجد ضباب فمسموح لي إستعمال أضواء الضباب الأمامية.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_39.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_39.mp3",
+      "description": "باش نشغل ضواو التقابل، نوضع علامة قدام الرمز",
+      "answer": [
+        3
+      ],
+      "explanation": "لكي أقوم بتشغيل أضواء التّقابل فيجب عليّ وضع العلامة قرب الرّمز رقم 3، لأن الرّمز رقم 3 هو الرّمز الذي يشير إلى إضواء التّقابل.",
+      "optionGroups": [
+        {
+          "options": [
+            "رقم 1",
+            "رقم 2",
+            "رقم 3"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_67/quiz_67_40.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_67/quiz_s_67_40.mp3",
+      "mp3": "files/audio/quiz_67/quiz_s_67_40.mp3",
+      "description": "يمكن لي نوجد الضغط الهوائي اللي كينصحو باستعمالو",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "يُمكنني أن أجد الضغط الهوائي الذي ينصح بإستعماله في ملصق على باب السيّارة وأيظا في كُتَيِب تعليمات السّائق.",
+      "optionGroups": [
+        {
+          "options": [
+            "على ملصق فباب السيارة",
+            "على العجلات",
+            "في كتيب تعليمات السائق"
+          ]
+        }
+      ]
+    }
+  ]
+}

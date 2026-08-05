@@ -1,0 +1,4578 @@
+[
+  {
+    "key": "1.1.1",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 1,
+    "slug": "warning-sharp-turn-right",
+    "title_fr": "Virage à droite",
+    "title_ar": "خطر منعرج لليمين",
+    "meaning_fr": "Réduisez votre vitesse et serrez à droite car un virage à droite se trouve devant vous.",
+    "meaning_ar": "نقص من السرعة وشد اليمين ديالك حيت كاين فيراج داير لليمين قدامك",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p1_1.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.6",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 6,
+    "slug": "warning-sharp-turn-left",
+    "title_fr": "Virage à gauche",
+    "title_ar": "خطر منعرج لليسار",
+    "meaning_fr": "Réduisez votre vitesse et serrez à droite car un virage à gauche se trouve devant vous.",
+    "meaning_ar": "نقص من السرعة وشد اليمين ديالك حيت كاين فيراج داير على اليسار قدامك",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p1_0.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.2",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 2,
+    "slug": "warning-double-curve-left",
+    "title_fr": "Succession de virages dont le premier est à gauche",
+    "title_ar": "منعرجات متتابعة أولها على اليسار",
+    "meaning_fr": "Réduisez votre vitesse car il y a plusieurs virages successifs, dont le premier tourne à gauche.",
+    "meaning_ar": "نقص من السرعة حيت كاينين بزاف ديال الفيراجات، اللول فيهم داير على اليسار.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p1_2.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.3",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 3,
+    "slug": "warning-double-bend-right",
+    "title_fr": "Succession de virages dont le premier est à droite",
+    "title_ar": "منعرجات متتابعة أولها على اليمين",
+    "meaning_fr": "Réduisez votre vitesse et faites attention car il y a une succession de virages dont le premier tourne à droite.",
+    "meaning_ar": "نقص من السرعة ورد البال حيت كاينين بزاف ديال الفيراجات، اللول فيهم داير لليمن.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p1_3.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.4",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 4,
+    "slug": "warning-steep-descent-6",
+    "title_fr": "Descente dangereuse 6%",
+    "title_ar": "خطر منحدر حاد 6%",
+    "meaning_fr": "Faites attention car il y a une descente raide, utilisez le frein moteur et réduisez votre vitesse pour garder le contrôle du véhicule.",
+    "meaning_ar": "رد بالك كاين هبطة قاصحة، استعمل فرامل المحرك ونقص من السرعة باش تتحكم فالموبيل.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p1_4.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.5",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 5,
+    "slug": "warning-steep-descent-10",
+    "title_fr": "Descente dangereuse à 10%",
+    "title_ar": "منحدر خطير بنسبة 10%",
+    "meaning_fr": "Réduisez votre vitesse et utilisez le frein moteur car une descente très raide se trouve devant vous.",
+    "meaning_ar": "نقص من السرعة واستعمل فرامل المحرك حيت كاينة هبطة حادرة بزاف قدامك",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p1_5.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.7",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 7,
+    "slug": "warning-road-narrows-right",
+    "title_fr": "Chaussée rétrécie par la droite",
+    "title_ar": "خطر طريق ضيق من جهة اليمين",
+    "meaning_fr": "Faites attention car la chaussée va rétrécir par la droite, réduisez votre vitesse et serrez à gauche.",
+    "meaning_ar": "رد البال الطريق غادي تضياق من جيهة اليمين، نقص السرعة وشد ليسر ديالك.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_0.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.8",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 8,
+    "slug": "warning-road-narrows-both-sides",
+    "title_fr": "Chaussée rétrécie des deux côtés",
+    "title_ar": "خطر طريق ضيق من الجهتين",
+    "meaning_fr": "Réduisez votre vitesse et faites attention car la chaussée va rétrécir par la droite et par la gauche.",
+    "meaning_ar": "نقص من السرعة ورد البال حيت الطريق غادي تضيق من اليمين ومن اليسار.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_1.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.9",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 9,
+    "slug": "warning-road-narrows-locally",
+    "title_fr": "Chaussée rétrécie localement",
+    "title_ar": "خطر طريق ضيق محليا",
+    "meaning_fr": "Faites attention car la chaussée va rétrécir par la droite et par la gauche, réduisez votre vitesse et soyez vigilant avec les véhicules qui arrivent.",
+    "meaning_ar": "رد البال الطريق غادي تضياق من اليمين ومن اليسار، نقص السرعة وحضي مع اللي جايين.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_2.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.10",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 10,
+    "slug": "warning-road-narrows-left",
+    "title_fr": "Chaussée rétrécie par la gauche",
+    "title_ar": "خطر طريق ضيق من جهة اليسار",
+    "meaning_fr": "Faites attention et réduisez votre vitesse car la chaussée va se rétrécir sur votre gauche.",
+    "meaning_ar": "رد البال ونقص من السرعة حيت الطريق غادي تضياق من جيهة ليسر ديالك.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_3.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.11",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 11,
+    "slug": "warning-quayside-or-riverbank",
+    "title_fr": "Débouché sur un quai ou une berge",
+    "title_ar": "خطر منفذ إلى رصيف أو ضفة نهر",
+    "meaning_fr": "Faites attention car la chaussée mène vers un oued ou la mer, réduisez votre vitesse pour ne pas tomber dans l'eau.",
+    "meaning_ar": "رد بالك الطريق كدي لجهة الواد ولا البحر، نقص السرعة باش ما تطيحش فالما.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_4.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.12",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 12,
+    "slug": "warning-mobile-bridge",
+    "title_fr": "Danger pont mobile",
+    "title_ar": "خطر جسر متحرك",
+    "meaning_fr": "Faites attention car il y a un pont mobile, réduisez votre vitesse et arrêtez-vous si le pont est levé.",
+    "meaning_ar": "رد البال كاين قنطرة كتحرك، نقص السرعة ووقف إلا كانت القنطرة طالعة.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_5.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.13",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 13,
+    "slug": "warning-speed-bump",
+    "title_fr": "Cassis ou dos-d'âne",
+    "title_ar": "خطر مخفض السرعة",
+    "meaning_fr": "Réduisez votre vitesse car il y a un ralentisseur devant vous afin de ne pas endommager votre véhicule.",
+    "meaning_ar": "نقص من السرعة حيت كاين دودان قدامك باش ما تضرش الطوموبيل ديالك.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_6.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.14",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 14,
+    "slug": "warning-uneven-road",
+    "title_fr": "Cassis ou dos-d'âne",
+    "title_ar": "خطر طريق محدب أو وهدة",
+    "meaning_fr": "Réduisez votre vitesse car la chaussée présente des bosses ou des creux afin de ne pas endommager le véhicule.",
+    "meaning_ar": "نقص من السرعة حيت الطريق فيها حدبات أو حفر باش ما تضرش الطوموبيل.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_7.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.15",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 15,
+    "slug": "warning-flooded-road",
+    "title_fr": "Chaussée inondable",
+    "title_ar": "خطر طريق تغمرها المياه",
+    "meaning_fr": "Ralentissez : la chaussée peut être recouverte d'eau, risque d'aquaplaning.",
+    "meaning_ar": "نقص من السرعة، الطريق يقدر يكون فيها الما وتزلق بيك الطوموبيل.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_8.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.16",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 16,
+    "slug": "warning-slippery-road",
+    "title_fr": "Chaussée glissante",
+    "title_ar": "خطر طريق زلقة",
+    "meaning_fr": "Réduisez votre vitesse et soyez prudent car la chaussée est glissante et votre voiture pourrait déraper.",
+    "meaning_ar": "نقص من السرعة وكون حذر حيت الطريق زلقة وتقدر تزلق بيك الطوموبيل",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_9.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.17",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 17,
+    "slug": "warning-falling-rocks",
+    "title_fr": "Risque de chutes de pierres",
+    "title_ar": "خطر تساقط الأحجار",
+    "meaning_fr": "Soyez vigilant et réduisez votre vitesse car des pierres peuvent tomber de la montagne ou se trouver sur la chaussée.",
+    "meaning_ar": "رد بالك ونقص السرعة حيت يقدر يطيح الحجر من الجبل أو تلقاه فالتريق",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_10.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.18",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 18,
+    "slug": "warning-loose-gravel",
+    "title_fr": "Projection de gravillons",
+    "title_ar": "خطر تطاير الحصى",
+    "meaning_fr": "Réduisez votre vitesse et éloignez-vous des voitures devant vous car les gravillons peuvent être projetés et briser le pare-brise.",
+    "meaning_ar": "نقص من السرعة وبعد على الطوموبيلات اللي قدامك حيت الحصى كيطير وممكن يهرس الزجاج.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p2_11.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.19",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 19,
+    "slug": "warning-children",
+    "title_fr": "Attention endroit fréquenté par des enfants",
+    "title_ar": "انتباه مكان يرتاده الأطفال",
+    "meaning_fr": "Réduisez votre vitesse et faites attention car des enfants pourraient surgir sur la chaussée.",
+    "meaning_ar": "نقص من السرعة ورد البال حيت كاينين الدراري الصغار يقدروا يخرجوا للطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p3_0.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.20",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 20,
+    "slug": "warning-pedestrian-crossing",
+    "title_fr": "Danger passage pour piétons",
+    "title_ar": "خطر ممر الراجلين",
+    "meaning_fr": "Réduisez votre vitesse et faites attention car un passage piéton se trouve à proximité.",
+    "meaning_ar": "نقص من السرعة ورد البال حيت كاين ممر الراجلين قريب ليك",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p3_1.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.21",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 21,
+    "slug": "warning-domestic-animals-cattle",
+    "title_fr": "Danger passage d'animaux domestiques",
+    "title_ar": "خطر مرور حيوانات أليفة",
+    "meaning_fr": "Soyez vigilant et réduisez votre vitesse car vous pourriez trouver des bovins ou des ovins au milieu de la chaussée.",
+    "meaning_ar": "رد البال ونقص السرعة حيت تقدر تلقى البقر أو الغنم فوسط الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p3_2.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.22",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 22,
+    "slug": "warning-cyclists",
+    "title_fr": "Débouché de cyclistes",
+    "title_ar": "خطر مرور الدراجات",
+    "meaning_fr": "Faites attention et réduisez votre vitesse car un cycliste pourrait déboucher devant vous.",
+    "meaning_ar": "رد بالك ونقص من السرعة حيت يقدر يخرج ليك شي واحد راكب على بيكالة",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p3_3.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.23",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 23,
+    "slug": "warning-camels-crossing",
+    "title_fr": "Danger passage de chameaux",
+    "title_ar": "خطر مرور الجمال",
+    "meaning_fr": "Réduisez votre vitesse et faites attention car vous pouvez trouver des chameaux qui traversent la chaussée à cet endroit.",
+    "meaning_ar": "نقص من السرعة ورد بالك حيت تقدر تلقى جمال كيقطعو الطريق فهاد البلاصة.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p3_4.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.24",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 24,
+    "slug": "warning-domestic-animals-sheep",
+    "title_fr": "Danger passage d'animaux domestiques",
+    "title_ar": "خطر مرور حيوانات أليفة",
+    "meaning_fr": "Faites attention et réduisez votre vitesse car vous pourriez trouver des animaux domestiques ou du bétail traversant la chaussée.",
+    "meaning_ar": "رد بالك ونقص من السرعة حيت تقدر تلقى البهائم أو الماشية كتقطع الطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p3_5.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.25",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 25,
+    "slug": "warning-horse-riders",
+    "title_fr": "Danger cavaliers",
+    "title_ar": "خطر مرور الفرسان",
+    "meaning_fr": "Réduisez votre vitesse et faites attention car vous pouvez trouver des cavaliers traversant au milieu de la chaussée.",
+    "meaning_ar": "نقص من السرعة ورد البال حيت تقدر تلقى خيالة دايزين فوسط الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p3_6.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.26",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 26,
+    "slug": "warning-wild-animals",
+    "title_fr": "Danger passage d'animaux sauvages",
+    "title_ar": "خطر مرور حيوانات برية",
+    "meaning_fr": "Réduisez votre vitesse et faites attention car des animaux sauvages pourraient surgir sur la chaussée.",
+    "meaning_ar": "نقص من السرعة ورد بالك حيت تقدر تخرج ليك شي حيوانات برية فالطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p3_7.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.27",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 27,
+    "slug": "warning-low-flying-aircraft",
+    "title_fr": "Danger de survol d'avions à basse altitude",
+    "title_ar": "خطر مرور طائرات على علو منخفض",
+    "meaning_fr": "Faites attention au bruit soudain des avions car vous êtes proche d'un aéroport et ne paniquez pas.",
+    "meaning_ar": "رد بالك من الصداع المفاجئ ديال الطيارات حيت قريب من المطار وما تدهشرش.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p3_8.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.28",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 28,
+    "slug": "warning-traffic-lights",
+    "title_fr": "Annonce de signaux lumineux",
+    "title_ar": "انتباه أضواء المرور الثلاثية",
+    "meaning_fr": "Réduisez votre vitesse et préparez-vous car un feu tricolore se trouve prochainement devant vous.",
+    "meaning_ar": "نقص من السرعة ووجد راسك حيت كاين ضو أحمر قريب قدامك",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p3_9.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.29",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 29,
+    "slug": "warning-two-way-traffic",
+    "title_fr": "Circulation dans les deux sens",
+    "title_ar": "خطر السير في الاتجاهين",
+    "meaning_fr": "Faites attention car la chaussée devient à double sens dès le panneau.",
+    "meaning_ar": "رد البال الطريق غتولي كتدي وتجيب من عند العلامة نيت.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p4_0.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.30",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 30,
+    "slug": "warning-side-wind",
+    "title_fr": "Danger vent latéral",
+    "title_ar": "خطر رياح جانبية قوية",
+    "meaning_fr": "Faites attention et tenez fermement le volant car il y a un vent fort qui peut faire dévier votre voiture.",
+    "meaning_ar": "رد البال وشبر فالمقود مزيان حيت كاين ريح مجهد يقدر يميل ليك الطوموبيل.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p4_1.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.31",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 31,
+    "slug": "warning-railway-guarded",
+    "title_fr": "Passage à niveau avec barrières",
+    "title_ar": "سكة حديدية بحواجز",
+    "meaning_fr": "Réduisez votre vitesse et faites attention, il y a un passage à niveau avec un garde ou des barrières.",
+    "meaning_ar": "نقص من السرعة ورد البال، كاينة سكة ديال التران فيها العساس أو الحواجز.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p4_2.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.32",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 32,
+    "slug": "warning-other-dangers",
+    "title_fr": "Danger divers",
+    "title_ar": "انتباه أخطار متنوعة",
+    "meaning_fr": "Faites attention car il y a un danger non spécifié, réduisez votre vitesse et soyez prêt à toute éventualité.",
+    "meaning_ar": "رد بالك كاين خطر ممعروفش، نقص من السرعة وكون مستعد لأي حاجة.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p4_3.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.33",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 33,
+    "slug": "warning-railway-crossing-no-gates",
+    "title_fr": "Passage à niveau sans barrières",
+    "title_ar": "خطر سكة حديدية بدون حواجز",
+    "meaning_fr": "Faites attention car il y a un passage à niveau sans garde et sans barrières, réduisez votre vitesse et vérifiez bien avant de traverser.",
+    "meaning_ar": "رد البال كاين ممر السكة الحديدية بلا عساس وبلا حواجز، نقص السرعة وتأكد قبل ما تدوز",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p4_4.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.34",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 34,
+    "slug": "warning-tramway-crossing",
+    "title_fr": "Danger traversée de tramway",
+    "title_ar": "خطر مرور الترامواي",
+    "meaning_fr": "Faites attention et réduisez votre vitesse car une traversée de tramway se trouve devant vous.",
+    "meaning_ar": "رد البال ونقص السرعة حيت كاين ممر ديال الترامواي قدامك",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p4_5.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.35",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 35,
+    "slug": "warning-agricultural-tractors",
+    "title_fr": "Danger passage de tracteurs agricoles",
+    "title_ar": "خطر مرور جرارات فلاحية",
+    "meaning_fr": "Soyez vigilant et réduisez votre vitesse car vous pourriez rencontrer des tracteurs agricoles débouchant sur la route.",
+    "meaning_ar": "رد البال ونقص من السرعة حيت تقدر تلقى تراكتورات فلاحية خارجة للطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p4_6.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.36",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 36,
+    "slug": "warning-animal-drawn-vehicles",
+    "title_fr": "Danger passage de véhicules à traction animale",
+    "title_ar": "خطر مرور عربات مجرورة بالحيوانات",
+    "meaning_fr": "Faites attention et réduisez votre vitesse car vous pourriez trouver des véhicules à traction animale devant vous.",
+    "meaning_ar": "رد بالك ونقص من السرعة حيت تقدر تلقى كرويلات مجرورة بالحيوانات قدامك",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p4_7.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.37",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 37,
+    "slug": "warning-temporary-uneven-road-temporary",
+    "title_fr": "Cassis ou dos-d'âne temporaire",
+    "title_ar": "خطر طريق محدب أو وهدة مؤقت",
+    "meaning_fr": "Réduisez votre vitesse car la chaussée présente un creux ou un dos-d'âne temporaire afin de ne pas endommager le véhicule.",
+    "meaning_ar": "نقص من السرعة حيت الطريق فيها حفرة ولا حدبة مؤقتة باش ما تضرش الطوموبيل.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p4_8.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.38",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 38,
+    "slug": "warning-road-narrows-both-sides-temporary",
+    "title_fr": "Chaussée rétrécie des deux côtés",
+    "title_ar": "خطر طريق ضيق من الجهتين",
+    "meaning_fr": "Réduisez votre vitesse et faites attention car la chaussée va rétrécir par la droite et par la gauche.",
+    "meaning_ar": "نقص من السرعة ورد البال حيت الطريق غادي تضيق من اليمين ومن اليسار.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p4_9.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.39",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 39,
+    "slug": "warning-temporary-road-narrows-right-temporary",
+    "title_fr": "Danger temporaire: Chaussée rétrécie par la droite",
+    "title_ar": "خطر مؤقت: طريق تضيق من جهة اليمين",
+    "meaning_fr": "Faites attention car la chaussée va rétrécir par la droite, réduisez votre vitesse et serrez à gauche.",
+    "meaning_ar": "رد بالك الطريق غادي تضيق من جيهة اليمين، نقص من السرعة وشد ليسر ديالك.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p5_0.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.40",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 40,
+    "slug": "warning-temporary-road-narrows-left-temporary",
+    "title_fr": "Danger temporaire: chaussée rétrécie par la gauche",
+    "title_ar": "خطر مؤقت: طريق تضيق من جهة اليسار",
+    "meaning_fr": "Faites attention et réduisez votre vitesse car la chaussée va se rétrécir par la gauche à cause des travaux.",
+    "meaning_ar": "رد البال ونقص السرعة حيت الطريق غادي تضيق من جيهة اليسار بسبب الأشغال.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p5_1.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.41",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 41,
+    "slug": "warning-slippery-road-temporary",
+    "title_fr": "Chaussée glissante temporaire",
+    "title_ar": "خطر طريق زلقة مؤقت",
+    "meaning_fr": "Réduisez votre vitesse et faites attention car la chaussée est très glissante à cet endroit.",
+    "meaning_ar": "نقص من السرعة ورد بالك حيت الطريق زلقة بزاف فهاد البلاصة.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p5_2.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.42",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 42,
+    "slug": "warning-temporary-roadworks-temporary",
+    "title_fr": "Travaux temporaires",
+    "title_ar": "خطر أشغال مؤقتة",
+    "meaning_fr": "Réduisez votre vitesse et soyez vigilant, il y a des travaux et des ouvriers qui travaillent sur la route devant vous.",
+    "meaning_ar": "نقص من السرعة ورد بالك، كاينين أشغال وعمال خدامين فلطريق قدامك.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p5_3.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.43",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 43,
+    "slug": "warning-other-dangers-temporary",
+    "title_fr": "Danger temporaire divers",
+    "title_ar": "انتباه أخطار متنوعة مؤقتة",
+    "meaning_fr": "Faites attention car il y a un danger imprévu devant vous, réduisez votre vitesse et soyez très vigilant sur la route.",
+    "meaning_ar": "رد بالك كاين خطر مامتوقعش قدامك، نقص السرعة ورد البال مزيان للطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p5_4.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.44",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 44,
+    "slug": "temporary-warning-traffic-lights-temporary",
+    "title_fr": "Annonce temporaire de feux tricolores",
+    "title_ar": "إعلان مؤقت عن إشارات ضوئية",
+    "meaning_fr": "Faites attention et réduisez votre vitesse car il y a des feux de signalisation devant vous dans une zone de travaux.",
+    "meaning_ar": "رد البال ونقص السرعة حيت كاينين أضواء المرور قدامك فبلاصة فيها أشغال.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p5_5.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.45",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 45,
+    "slug": "warning-temporary-loose-gravel-temporary",
+    "title_fr": "Danger temporaire: projections de gravillons",
+    "title_ar": "خطر مؤقت: تطاير الحصى",
+    "meaning_fr": "Réduisez votre vitesse et éloignez-vous des voitures devant vous car il y a des projections de gravillons sur la chaussée.",
+    "meaning_ar": "نقص من السرعة وبعد على الطوموبيلات اللي قدامك حيت كاين الحجر كيطير من الطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p5_6.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.46",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 46,
+    "slug": "warning-temporary-accident-temporary",
+    "title_fr": "Danger temporaire: Accident",
+    "title_ar": "خطر مؤقت: حادثة سير",
+    "meaning_fr": "Réduisez votre vitesse et faites attention car il y a un accident devant vous sur la route.",
+    "meaning_ar": "نقص من السرعة ورد البال حيت كاينة كسيدة قدامك فلطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p5_7.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.1.47",
+    "section_id": 1,
+    "category_id": 1,
+    "item_id": 47,
+    "slug": "warning-temporary-traffic-jam-temporary",
+    "title_fr": "Danger temporaire: Bouchon",
+    "title_ar": "خطر مؤقت: ازدحام مروري",
+    "meaning_fr": "Réduisez votre vitesse et faites attention, il y a un encombrement de voitures à l'arrêt sur la chaussée devant vous.",
+    "meaning_ar": "نقص من السرعة ورد بالك، الطريق قدامك فيها الزحام ديال الطوموبيلات واقفين.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p5_8.png"
+    ],
+    "category_title_fr": "Signaux de danger",
+    "category_title_ar": "عالمات الخطر",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.2.57",
+    "section_id": 1,
+    "category_id": 2,
+    "item_id": 57,
+    "slug": "end-priority-road",
+    "title_fr": "Fin de route à caractère prioritaire",
+    "title_ar": "نهاية طريق ذات أولوية",
+    "meaning_fr": "Vous n'avez plus la priorité, vous devez faire attention et céder le passage à ceux qui viennent de droite à la prochaine intersection.",
+    "meaning_ar": "مبقاتش عندك الأسبقية، خاصك ترد البال وتسمح للي جايين من اليمين فملتقى الطرق الجاي.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p7_1.png"
+    ],
+    "category_title_fr": "Signaux d'intersection et de priorité",
+    "category_title_ar": "علامات ملتقى الطرق والأسبقية",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.2.56",
+    "section_id": 1,
+    "category_id": 2,
+    "item_id": 56,
+    "slug": "priority-road",
+    "title_fr": "Route à caractère prioritaire",
+    "title_ar": "طريق ذات أولوية",
+    "meaning_fr": "Vous avez la priorité de passage à toutes les prochaines intersections jusqu'à ce que vous rencontriez le panneau de fin de priorité.",
+    "meaning_ar": "عندك حق الأسبقية فجميع الملتقيات اللي جاية حتى تلقى علامة نهاية الأولوية.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p7_0.png"
+    ],
+    "category_title_fr": "Signaux d'intersection et de priorité",
+    "category_title_ar": "علامات ملتقى الطرق والأسبقية",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.2.54",
+    "section_id": 1,
+    "category_id": 2,
+    "item_id": 54,
+    "slug": "priority-intersection",
+    "title_fr": "Intersection avec priorité de passage",
+    "title_ar": "ملتقى طرق مع أولوية المرور",
+    "meaning_fr": "Vous avez la priorité au prochain carrefour, mais réduisez votre vitesse et faites attention à ceux qui viennent des côtés.",
+    "meaning_ar": "عندك حق الأسبقية فالمتلقى الجاي، ولكن نقص السرعة ورد البال من اللي جايين من الجناب.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p6_6.png"
+    ],
+    "category_title_fr": "Signaux d'intersection et de priorité",
+    "category_title_ar": "علامات ملتقى الطرق والأسبقية",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.2.55",
+    "section_id": 1,
+    "category_id": 2,
+    "item_id": 55,
+    "slug": "warning-roundabout",
+    "title_fr": "Annonce d'un carrefour à sens giratoire",
+    "title_ar": "انتباه ملتقى طرقي دوراني",
+    "meaning_fr": "Réduisez votre vitesse car il y a un rond-point devant vous et cédez le passage à ceux qui viennent de gauche.",
+    "meaning_ar": "نقص من السرعة حيت كاين مدار قدامك وعطي حق الأسبقية للي جايين من اليسار.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p6_7.png"
+    ],
+    "category_title_fr": "Signaux d'intersection et de priorité",
+    "category_title_ar": "علامات ملتقى الطرق والأسبقية",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.2.53",
+    "section_id": 1,
+    "category_id": 2,
+    "item_id": 53,
+    "slug": "warning-priority-to-the-right",
+    "title_fr": "Croisement avec priorité à droite",
+    "title_ar": "ملتقى طرق الأسبقية لليمين",
+    "meaning_fr": "Réduisez votre vitesse et cédez le passage à ceux qui viennent de votre droite.",
+    "meaning_ar": "نقص من السرعة وعطي حق الأسبقية للي جاي من جيهة اليمين ديالك.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p6_5.png"
+    ],
+    "category_title_fr": "Signaux d'intersection et de priorité",
+    "category_title_ar": "علامات ملتقى الطرق والأسبقية",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.2.52",
+    "section_id": 1,
+    "category_id": 2,
+    "item_id": 52,
+    "slug": "advance-warning-stop-150m",
+    "title_fr": "Signal avancé d'arrêt Stop à 150 mètres",
+    "title_ar": "إشارة متقدمة لعلامة قف على بعد 150 متر",
+    "meaning_fr": "Préparez-vous à marquer l'arrêt complet au prochain croisement situé à 150 mètres.",
+    "meaning_ar": "وجد راسك باش توقف تماما فملتقى الطرق اللي جاي على بعد 150 متر.",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p6_4.png"
+    ],
+    "category_title_fr": "Signaux d'intersection et de priorité",
+    "category_title_ar": "علامات ملتقى الطرق والأسبقية",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.2.51",
+    "section_id": 1,
+    "category_id": 2,
+    "item_id": 51,
+    "slug": "yield-ahead-150m",
+    "title_fr": "Cédez le passage à 150 mètres",
+    "title_ar": "إعطاء حق الأسبقية على بعد 150 متر",
+    "meaning_fr": "Préparez-vous à céder le passage aux usagers venant de droite et de gauche au prochain croisement.",
+    "meaning_ar": "وجد راسك باش تعطي حق الأسبقية للي جايين من اليمن واليسار فملتقى الطرق الجاي",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p6_3.png"
+    ],
+    "category_title_fr": "Signaux d'intersection et de priorité",
+    "category_title_ar": "علامات ملتقى الطرق والأسبقية",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.2.50",
+    "section_id": 1,
+    "category_id": 2,
+    "item_id": 50,
+    "slug": "yield",
+    "title_fr": "Cédez le passage",
+    "title_ar": "إعطاء حق الأسبقية",
+    "meaning_fr": "Vous devez céder le passage aux usagers venant de droite et de gauche au prochain croisement.",
+    "meaning_ar": "خاصك تسمح بالمرور للي جايين من اليمن ومن اليسار فملتقى الطرق الجاي",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p6_2.png"
+    ],
+    "category_title_fr": "Signaux d'intersection et de priorité",
+    "category_title_ar": "علامات ملتقى الطرق والأسبقية",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.2.49",
+    "section_id": 1,
+    "category_id": 2,
+    "item_id": 49,
+    "slug": "stop",
+    "title_fr": "Signal Stop",
+    "title_ar": "علامة قف",
+    "meaning_fr": "Vous devez marquer un arrêt complet à la ligne et céder le passage aux usagers venant de droite et de gauche.",
+    "meaning_ar": "خاصك توقف وقوف تام عند الخط وتسمح للي جايين من اليمن واليسار يدوزو",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p6_1.png"
+    ],
+    "category_title_fr": "Signaux d'intersection et de priorité",
+    "category_title_ar": "علامات ملتقى الطرق والأسبقية",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "1.2.48",
+    "section_id": 1,
+    "category_id": 2,
+    "item_id": 48,
+    "slug": "stop-arabic",
+    "title_fr": "Signal Stop",
+    "title_ar": "علامة قف",
+    "meaning_fr": "Vous devez marquer un arrêt complet à la ligne et céder le passage aux usagers venant de droite et de gauche.",
+    "meaning_ar": "خاصك توقف وقوف تام عند الخط وتسمح للي جايين من اليمن واليسار يدوزو",
+    "images": [
+      "https://assets.conduire.ma/signs/khatar-asba9ia/sign_p6_0.png"
+    ],
+    "category_title_fr": "Signaux d'intersection et de priorité",
+    "category_title_ar": "علامات ملتقى الطرق والأسبقية",
+    "section_title_fr": "Signaux de danger et de priorité",
+    "section_title_ar": "علامات الخطر والأسبقية"
+  },
+  {
+    "key": "2.1.1",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 1,
+    "slug": "category-public-transport-bus",
+    "title_fr": "Panonceau de catégorie transport en commun",
+    "title_ar": "لوحة إضافية لمركبات النقل الجماعي",
+    "meaning_fr": "Ce panonceau signifie que l'interdiction ou l'obligation située au-dessus s'applique uniquement aux bus.",
+    "meaning_ar": "هاد العلامة كتعني بلي المنع ولا الإجبار اللي فوقها كيطبق غير على الحافلات بوحدهم.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p3_0.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.2",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 2,
+    "slug": "category-light-vehicles",
+    "title_fr": "Panonceau de catégorie véhicules légers",
+    "title_ar": "لوحة تكميلية للسيارات الخفيفة",
+    "meaning_fr": "Ce panonceau signifie que l'interdiction ou l'indication située au-dessus s'applique uniquement aux véhicules légers.",
+    "meaning_ar": "هاد العلامة كتعني بلي المنع ولا الإرشاد اللي فوقها كيطبق غير على السيارات الخفيفة.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p2_3.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.3",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 3,
+    "slug": "sos-emergency-phone-extinguisher",
+    "title_fr": "Poste de secours avec téléphone SOS et extincteur",
+    "title_ar": "مركز إغاثة وهاتف استغاثة ومطفأة حريق",
+    "meaning_fr": "Cet endroit dispose d'un téléphone de secours et d'un extincteur pour demander de l'aide en cas d'urgence.",
+    "meaning_ar": "هاد البلاصة فيها تليفون ديال الإغاثة وطفاية العافية باش تطلب المساعدة فالحالات المستعجلة.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_2.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.4",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 4,
+    "slug": "prohibited-1-to-15-of-month",
+    "title_fr": "Interdit du 1 au 15 du mois",
+    "title_ar": "ممنوع من 1 إلى 15 من الشهر",
+    "meaning_fr": "Il est interdit de stationner votre véhicule à cet endroit du 1er au 15 de chaque mois.",
+    "meaning_ar": "ممنوع توقف طوموبيلتك فهاد البلاصة من نهار 1 حتى لنهار 15 فكل شهر.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_3.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.5",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 5,
+    "slug": "stop-distance-150m",
+    "title_fr": "Panonceau Stop à 150 mètres",
+    "title_ar": "لوحة إضافية قف على بعد 150 متر",
+    "meaning_fr": "Préparez-vous à marquer un arrêt complet après 150 mètres au prochain croisement.",
+    "meaning_ar": "وجد راسك باش توقف وقوف تام من بعد 150 متر فملتقى الطرق الجاي.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_4.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.6",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 6,
+    "slug": "category-dangerous-goods-vehicles",
+    "title_fr": "Panonceau pour véhicules transportant des marchandises dangereuses",
+    "title_ar": "لوحة تكميلية لمركبات نقل البضائع الخطيرة",
+    "meaning_fr": "Ce panneau signifie que l'interdiction ou l'indication concerne les camions transportant des marchandises dangereuses.",
+    "meaning_ar": "هاد العلامة كتعني أن المنع أو الإرشاد كيخص الشاحنات اللي هازة مواد خطيرة.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_5.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.7",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 7,
+    "slug": "direction-arrow-right",
+    "title_fr": "Plaque de direction vers la droite",
+    "title_ar": "لوحة إضافية للاتجاه نحو اليمين",
+    "meaning_fr": "Cette flèche signifie que le panneau situé au-dessus s'applique uniquement à la chaussée située sur la droite.",
+    "meaning_ar": "هاد السهم كيعني بلي العلامة اللي فوقو كطبق غير على الطريق اللي على اليمين.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_6.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.8",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 8,
+    "slug": "supplementary-direction-left",
+    "title_fr": "Panonceau de direction à gauche",
+    "title_ar": "لوحة تكميلية للاتجاه نحو اليسار",
+    "meaning_fr": "Cette flèche signifie que le panneau situé au-dessus s'applique à la chaussée située à gauche.",
+    "meaning_ar": "هاد السهم كيعني بلي العلامة اللي فوقو كطبق على الطريق اللي على اليسار.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_7.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.9",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 9,
+    "slug": "category-plate-bicycles",
+    "title_fr": "Panonceau de catégorie cycles",
+    "title_ar": "لوحة تكميلية للدراجات",
+    "meaning_fr": "Ce panonceau signifie que l'interdiction ou l'indication située au-dessus concerne uniquement les cyclistes.",
+    "meaning_ar": "هاد العلامة كتعني بلي المنع ولا الإرشاد اللي فوقها خاص غير بأصحاب الدراجات.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_8.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.10",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 10,
+    "slug": "emergency-phone-plate",
+    "title_fr": "Panonceau poste d'appel d'urgence",
+    "title_ar": "لوحة هاتف الإغاثة",
+    "meaning_fr": "Ce panonceau vous informe de la présence d'un poste d'appel d'urgence pour demander de l'aide en cas de besoin.",
+    "meaning_ar": "هاد اللويحة كتعلمك بلي كاين هاتف ديال الإغاثة باش تطلب المساعدة فاش توقع ليك أزمة",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_9.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.11",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 11,
+    "slug": "weight-limit-5-5-tons",
+    "title_fr": "Panonceau de poids 5,5 tonnes",
+    "title_ar": "لوحة إضافية للوزن 5.5 طن",
+    "meaning_fr": "Ce panneau signifie que l'interdiction s'applique uniquement aux véhicules dont le poids dépasse 5,5 tonnes.",
+    "meaning_ar": "هاد العلامة كتعني أن المنع كيطبق غير على العربات اللي كيفوت وزنها 5.5 طن.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_10.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.12",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 12,
+    "slug": "extent-plate-50m",
+    "title_fr": "Panonceau d'étendue (type M2) : « 50 m » avec double flèche verticale",
+    "title_ar": "علامة إضافية لمسافة الامتداد 50 متر",
+    "meaning_fr": "Le danger ou la prescription indiqué par le panneau au-dessus s'applique sur une longueur de 50 mètres à partir du panneau.",
+    "meaning_ar": "الخطر ولا المنع اللي كاين فالبلاكة الفوقانية كيطبق على مسافة 50 متر ابتداءً من البلاكة.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_11.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.13",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 13,
+    "slug": "directional-arrow-down",
+    "title_fr": "Panonceau directionnel vers le bas",
+    "title_ar": "لوحة تكميلية للاتجاه نحو الأسفل",
+    "meaning_fr": "Cette flèche signifie que le panneau situé au-dessus s'applique précisément à cette voie située en dessous.",
+    "meaning_ar": "هاد السهم كيعني بلي العلامة اللي فوقو كطبق على هاد المسلك بالضبط اللي لتحت",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_12.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.14",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 14,
+    "slug": "snow-chains-category",
+    "title_fr": "Plaque complémentaire chaînes à neige",
+    "title_ar": "لوحة تكميلية لسلاسل الثلج",
+    "meaning_fr": "Ce panneau signifie que l'interdiction ou l'obligation s'applique uniquement aux véhicules équipés de chaînes à neige.",
+    "meaning_ar": "هاد العلامة كتعني أن المنع أو الإجبار كينطبق فقط على العربات اللي دايرة سلاسل الثلج.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_13.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.15",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 15,
+    "slug": "intersection-diagram-right-turn",
+    "title_fr": "Panonceau de schéma d'intersection",
+    "title_ar": "لوحة شكل ملتقى الطرق",
+    "meaning_fr": "Ce panonceau vous indique la direction de la chaussée principale pour savoir qui a la priorité.",
+    "meaning_ar": "هاد اللوحة كاتبين ليك الطريق الرئيسية فين غادة باش تعرف شكون عندو حق الأسبقية.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_14.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.16",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 16,
+    "slug": "warning-avalanche-risk",
+    "title_fr": "Risque d'avalanche",
+    "title_ar": "خطر الانهيار الثلجي",
+    "meaning_fr": "Faites attention car il y a un risque de chute de neige depuis la montagne, réduisez votre vitesse et soyez très vigilant.",
+    "meaning_ar": "رد بالك كاين خطر ديال سقوط الثلج من الجبل، نقص السرعة ورد البال مزيان.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_15.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.17",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 17,
+    "slug": "extension-panel-vertical",
+    "title_fr": "Panonceau d'étendue",
+    "title_ar": "لوحة تكميلية للامتداد",
+    "meaning_fr": "Ce panonceau de rappel indique que l'interdiction ou la règle s'applique avant et continue après le panneau.",
+    "meaning_ar": "هاد البلاكة الصغيرة ديال التذكير كاتبين بلي المنع كيطبق قبل البلاكة وكيستمر حتى من بعدها.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_16.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.18",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 18,
+    "slug": "vehicle-length-limit-10m",
+    "title_fr": "Véhicules d'une longueur supérieure à 10 mètres",
+    "title_ar": "مركبات يتجاوز طولها 10 أمتار",
+    "meaning_fr": "Ce panneau signifie que l'interdiction s'applique aux camions dont la longueur dépasse 10 mètres.",
+    "meaning_ar": "هاد العلامة كتعني المنع كيطبق على الشاحنات اللي الطول ديالها فايت 10 ميترو.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_17.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.19",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 19,
+    "slug": "safety-distance-slope-supplementary",
+    "title_fr": "Panonceau de distance de sécurité en pente",
+    "title_ar": "لوحة إضافية لمسافة الأمان في المنحدر",
+    "meaning_fr": "Ce panneau signifie que vous devez laisser une distance de sécurité suffisante entre vous et le véhicule qui vous précède dans la descente.",
+    "meaning_ar": "هاد العلامة كتعني خاصك تخلي مسافة أمان كافية بينك وبين اللي قدامك فالهبطة.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_18.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.20",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 20,
+    "slug": "axle-weight-limit-5t",
+    "title_fr": "Panonceau de poids par essieu 5t",
+    "title_ar": "لوحة تكميلية للوزن على المحور 5 طن",
+    "meaning_fr": "Ce panneau signifie que l'interdiction s'applique aux véhicules dont le poids dépasse 5 tonnes par essieu.",
+    "meaning_ar": "هاد العلامة كتعني أن المنع كيطبق على العربات اللي كيتجاوز وزنها 5 طن فالمحور الواحد.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_19.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.21",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 21,
+    "slug": "directional-arrow-left-down",
+    "title_fr": "Panonceau de direction vers la gauche",
+    "title_ar": "لوحة إضافية للاتجاه نحو اليسار",
+    "meaning_fr": "Cette flèche signifie que le panneau situé au-dessus s'applique à la chaussée qui se trouve sur la gauche.",
+    "meaning_ar": "هاد السهم كيعني بلي العلامة اللي فوقو كطبق على الطريق اللي كاينة على اليسار.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_20.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.1.22",
+    "section_id": 2,
+    "category_id": 1,
+    "item_id": 22,
+    "slug": "category-mopeds",
+    "title_fr": "Panonceau de catégorie cyclomoteurs",
+    "title_ar": "لوحة إضافية خاصة بالدراجات النارية الصغيرة",
+    "meaning_fr": "Ce panonceau signifie que l'interdiction ou l'obligation s'applique uniquement aux cyclomoteurs seuls.",
+    "meaning_ar": "هاد العلامة كتعني بلي المنع ولا الإجبار كيطبق غير على الموطورات الصغار بوحدهم.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_21.png"
+    ],
+    "category_title_fr": "Panonceaux de catégories",
+    "category_title_ar": "لويحات متعلقة بالفئات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.2.1",
+    "section_id": 2,
+    "category_id": 2,
+    "item_id": 1,
+    "slug": "yield-sign-text",
+    "title_fr": "Cédez le passage",
+    "title_ar": "اترك الأسبقية",
+    "meaning_fr": "Vous devez céder le passage aux usagers venant de droite et de gauche avant de passer.",
+    "meaning_ar": "خاصك تعطي حق الأسبقية للي جايين من اليمين ومن اليسار قبل ما تدوز",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p2_0.png"
+    ],
+    "category_title_fr": "Panneaux additionnels d'arrêt et de stationnement",
+    "category_title_ar": "لويحات مكملة لعالمات الوقوف والتوقف",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.2.2",
+    "section_id": 2,
+    "category_id": 2,
+    "item_id": 2,
+    "slug": "parking-prohibited-1-to-15",
+    "title_fr": "Interdit du 1 au 15 du mois",
+    "title_ar": "ممنوع من 1 إلى 15 من الشهر",
+    "meaning_fr": "Il est interdit de stationner votre voiture de ce côté du 1er au 15 de chaque mois.",
+    "meaning_ar": "ممنوع توقف طوموبيلتك فهاد الجهة من نهار 1 حتى لنهار 15 فكل شهر.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p1_3.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p8_9.png"
+    ],
+    "category_title_fr": "Panneaux additionnels d'arrêt et de stationnement",
+    "category_title_ar": "لويحات مكملة لعالمات الوقوف والتوقف",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.2.4",
+    "section_id": 2,
+    "category_id": 2,
+    "item_id": 4,
+    "slug": "supplementary-plate-length-15km",
+    "title_fr": "Plaquette de longueur 15 km",
+    "title_ar": "لوحة تكميلية للامتداد 15 كلم",
+    "meaning_fr": "Ce panneau signifie que le danger ou l'interdiction va s'étendre sur une distance de 15 kilomètres à venir.",
+    "meaning_ar": "هاد العلامة كتعني بلي الخطر أو المنع غادي يستمر لمسافة 15 كيلومتر جاية",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p2_4.png"
+    ],
+    "category_title_fr": "Panneaux additionnels d'arrêt et de stationnement",
+    "category_title_ar": "لويحات مكملة لعالمات الوقوف والتوقف",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.2.5",
+    "section_id": 2,
+    "category_id": 2,
+    "item_id": 5,
+    "slug": "except-disabled-persons",
+    "title_fr": "Panonceau sauf personnes à mobilité réduite",
+    "title_ar": "لوحة تكميلية باستثناء ذوي الاحتياجات الخاصة",
+    "meaning_fr": "L'arrêt est interdit dans cet endroit sauf pour les personnes en situation de handicap munies de leur carte spéciale.",
+    "meaning_ar": "هاد البلاصة ممنوع فيها الوقوف إلا للناس اللي عندهم إعاقة وعندهم البطاقة الخاصة.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p2_5.png"
+    ],
+    "category_title_fr": "Panneaux additionnels d'arrêt et de stationnement",
+    "category_title_ar": "لويحات مكملة لعالمات الوقوف والتوقف",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.2.6",
+    "section_id": 2,
+    "category_id": 2,
+    "item_id": 6,
+    "slug": "factory-exit",
+    "title_fr": "Sortie d'usine",
+    "title_ar": "مخرج معمل",
+    "meaning_fr": "Soyez vigilant car il y a une sortie d'usine d'où peuvent sortir des camions ou des engins.",
+    "meaning_ar": "رد البال حيت كاين مخرج ديال المعمل وتقدر تخرج منو شاحنات أو آليات",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p2_6.png"
+    ],
+    "category_title_fr": "Panneaux additionnels d'arrêt et de stationnement",
+    "category_title_ar": "لويحات مكملة لعالمات الوقوف والتوقف",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.3.1",
+    "section_id": 2,
+    "category_id": 3,
+    "item_id": 1,
+    "slug": "additional-plate-bus",
+    "title_fr": "Plaque additionnelle pour autobus",
+    "title_ar": "لوحة إضافية خاصة بالحافلات",
+    "meaning_fr": "Ce panneau signifie que l'interdiction ou l'indication située au-dessus s'applique uniquement aux autobus.",
+    "meaning_ar": "هاد العلامة كتعني بلي المنع أو الإرشاد اللي فوقها كطبق غير على الحافلات بوحدهم.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p3_0.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p3_1.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p3_2.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p3_3.png"
+    ],
+    "category_title_fr": "Panonceaux de distance",
+    "category_title_ar": "لويحات مسافة",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.4.1",
+    "section_id": 2,
+    "category_id": 4,
+    "item_id": 1,
+    "slug": "distance-plate-1000m",
+    "title_fr": "Panonceau de distance 1000 m",
+    "title_ar": "لوحة إضافية للمسافة 1000 متر",
+    "meaning_fr": "Ce panneau vous informe que le danger ou l'interdiction commencera après 1000 mètres.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي الخطر أو المنع غادي يبدا من بعد 1000 متر",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p4_0.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p4_1.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p4_2.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p4_3.png"
+    ],
+    "category_title_fr": "Panonceaux d'étendue",
+    "category_title_ar": "لويحات امتداد",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.5.1",
+    "section_id": 2,
+    "category_id": 5,
+    "item_id": 1,
+    "slug": "supplementary-plate-prohibited-hours",
+    "title_fr": "Panonceau d'interdiction à horaires fixes",
+    "title_ar": "لوحة تكميلية للمنع حسب الأوقات",
+    "meaning_fr": "L'interdiction indiquée par le panneau principal s'applique durant ces horaires : de 8h à 9h et de 16h à 17h.",
+    "meaning_ar": "المنع اللي فالبلاكة الرئيسية كيطبق فهاد الأوقات: من 8 لـ 9 دالصباح ومن 4 لـ 5 دالعشية.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p5_0.png"
+    ],
+    "category_title_fr": "Panneaux d'arrêt et de priorité",
+    "category_title_ar": "لويحات الوقوف واألسبقية",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.5.2",
+    "section_id": 2,
+    "category_id": 5,
+    "item_id": 2,
+    "slug": "distance-plate-150m",
+    "title_fr": "Panonceau de distance 150 m",
+    "title_ar": "لوحة إضافية للمسافة 150 متر",
+    "meaning_fr": "Ce panneau indique que la signalisation, le danger ou la règle s'applique à 150 mètres.",
+    "meaning_ar": "هاد البلاكة كتعني بلي التشوير ولا الخطر غادي يبدأ على بعد 150 متر.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p5_1.png"
+    ],
+    "category_title_fr": "Panneaux d'arrêt et de priorité",
+    "category_title_ar": "لويحات الوقوف واألسبقية",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.6.1",
+    "section_id": 2,
+    "category_id": 6,
+    "item_id": 1,
+    "slug": "extension-panel-1000m",
+    "title_fr": "Plaquette d'étendue 1000 m",
+    "title_ar": "لوحة تكميلية للامتداد 1000 متر",
+    "meaning_fr": "Ce panneau signifie que le danger ou l'interdiction va s'étendre sur une distance de 1000 mètres à venir.",
+    "meaning_ar": "هاد العلامة كتعني بلي الخطر أو المنع غادي يمتد على مسافة 1000 متر الجاية.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p6_0.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p6_1.png"
+    ],
+    "category_title_fr": "Panonceaux de position et de directions",
+    "category_title_ar": "لويحات التموقع واالتجاهات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.6.2",
+    "section_id": 2,
+    "category_id": 6,
+    "item_id": 2,
+    "slug": "additional-panel-explosive-materials",
+    "title_fr": "Panonceau matières explosives",
+    "title_ar": "لوحة تكميلية للمواد المتفجرة",
+    "meaning_fr": "Ce panneau signifie que l'interdiction s'applique uniquement aux véhicules transportant des matières explosives ou inflammables.",
+    "meaning_ar": "هاد العلامة كتعني أن المنع كيطبق فقط على العربات اللي هازة مواد متفجرة أو قابلة للاشتعال.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p6_2.png"
+    ],
+    "category_title_fr": "Panonceaux de position et de directions",
+    "category_title_ar": "لويحات التموقع واالتجاهات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.6.3",
+    "section_id": 2,
+    "category_id": 6,
+    "item_id": 3,
+    "slug": "intersection-diagram-priority-path",
+    "title_fr": "Panonceau de schéma d'intersection",
+    "title_ar": "لوحة تكميلية لمخطط الطريق",
+    "meaning_fr": "Ce panonceau vous indique qui a la priorité à l'intersection selon l'épaisseur du trait.",
+    "meaning_ar": "هاد العلامة كاتبين ليك شكون عندو حق الأسبقية فملتقى الطرق حسب غلظ الخط",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p6_3.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p6_4.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p6_5.png"
+    ],
+    "category_title_fr": "Panonceaux de position et de directions",
+    "category_title_ar": "لويحات التموقع واالتجاهات",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.7.1",
+    "section_id": 2,
+    "category_id": 7,
+    "item_id": 1,
+    "slug": "weighing-station",
+    "title_fr": "Panonceau d'indication de pesage",
+    "title_ar": "لوحة إضافية لمحطة الوزن",
+    "meaning_fr": "Indique que le panneau auquel ce panonceau est associé concerne une station de pesage ou un contrôle de poids pour les véhicules.",
+    "meaning_ar": "هاد اللوحة الإضافية كتعلمك بلي العلامة الرئيسية كتعلق بمحطة الوزن أو مراقبة الحمولة ديال المركبات.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p7_0.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p7_1.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p7_2.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p7_3.png"
+    ],
+    "category_title_fr": "Panneaux additionnels d'application du stationnement et d'arrêt",
+    "category_title_ar": "لويحات خاصة بتطبيق تعليمات الوقوف و التوقف",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.7.2",
+    "section_id": 2,
+    "category_id": 7,
+    "item_id": 2,
+    "slug": "distance-direction-left-50m",
+    "title_fr": "Panonceau de distance et de direction à gauche 50m",
+    "title_ar": "لويحة تكميلية للمسافة والاتجاه يسارا 50 متر",
+    "meaning_fr": "Ce panneau indique que la signalisation s'applique à 50 mètres sur la gauche.",
+    "meaning_ar": "هاد البلاكة كاتبين بلي التشوير كيطبق على بعد 50 مترو على اليسار.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p7_4.png"
+    ],
+    "category_title_fr": "Panneaux additionnels d'application du stationnement et d'arrêt",
+    "category_title_ar": "لويحات خاصة بتطبيق تعليمات الوقوف و التوقف",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.7.3",
+    "section_id": 2,
+    "category_id": 7,
+    "item_id": 3,
+    "slug": "category-motorcycles-plate",
+    "title_fr": "Panonceau de catégorie motocyclettes",
+    "title_ar": "لوحة إضافية للدراجات النارية",
+    "meaning_fr": "Ce panonceau signifie que l'interdiction ou l'obligation située au-dessus s'applique uniquement aux motocyclettes seules.",
+    "meaning_ar": "هاد العلامة كتعني بلي المنع ولا الإجبار اللي فوقها كيطبق غير على الموطورات بوحدهم.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p7_5.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p7_6.png"
+    ],
+    "category_title_fr": "Panneaux additionnels d'application du stationnement et d'arrêt",
+    "category_title_ar": "لويحات خاصة بتطبيق تعليمات الوقوف و التوقف",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.8.1",
+    "section_id": 2,
+    "category_id": 8,
+    "item_id": 1,
+    "slug": "paid-parking-horodateur",
+    "title_fr": "Stationnement payant",
+    "title_ar": "موقف سيارات بالأداء",
+    "meaning_fr": "Si vous voulez stationner ici, vous devez payer à l'horodateur situé dans la direction de la flèche.",
+    "meaning_ar": "إلى بغيتي تباركي هنا خاصك تخلص فالمكينة ديال التذاكر اللي فجهة السهم.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p8_0.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p8_1.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p8_2.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p8_3.png"
+    ],
+    "category_title_fr": "Indications diverses",
+    "category_title_ar": "إرشادات مختلفة",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.8.2",
+    "section_id": 2,
+    "category_id": 8,
+    "item_id": 2,
+    "slug": "pedestrian-additional-panel",
+    "title_fr": "Panonceau pour piétons",
+    "title_ar": "لوحة إضافية للراجلين",
+    "meaning_fr": "Ce panonceau signifie que l'indication ou l'interdiction située au-dessus concerne uniquement les piétons.",
+    "meaning_ar": "هاد العلامة كتعني أن الإرشاد أو المنع اللي فوقها خاص غير بالراجلين بوحدهم.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p8_4.png"
+    ],
+    "category_title_fr": "Indications diverses",
+    "category_title_ar": "إرشادات مختلفة",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.8.3",
+    "section_id": 2,
+    "category_id": 8,
+    "item_id": 3,
+    "slug": "direction-arrow-left",
+    "title_fr": "Panonceau de direction vers la gauche",
+    "title_ar": "لوحة تكميلية للاتجاه نحو اليسار",
+    "meaning_fr": "Cette flèche indique que le panneau situé au-dessus s'applique à la chaussée qui se trouve à gauche.",
+    "meaning_ar": "هاد السهم كيبين ليك بلي العلامة اللي فوق منو كطبق على الطريق اللي لليسر",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p8_5.png"
+    ],
+    "category_title_fr": "Indications diverses",
+    "category_title_ar": "إرشادات مختلفة",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.8.4",
+    "section_id": 2,
+    "category_id": 8,
+    "item_id": 4,
+    "slug": "distance-direction-50m-right",
+    "title_fr": "Panonceau de distance et de direction 50m",
+    "title_ar": "لوحة تكميلية للمسافة والاتجاه 50 متر",
+    "meaning_fr": "Ce panneau vous informe que le danger ou l'interdiction se trouve à une distance de 50 mètres vers la droite.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي الخطر أو المنع كاين على بعد 50 متر لجهة اليمين.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p8_6.png"
+    ],
+    "category_title_fr": "Indications diverses",
+    "category_title_ar": "إرشادات مختلفة",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.8.5",
+    "section_id": 2,
+    "category_id": 8,
+    "item_id": 5,
+    "slug": "supplementary-width-limit-2m",
+    "title_fr": "Panonceau de largeur limitée à 2 mètres",
+    "title_ar": "لوحة تكميلية لعرض العربة 2 متر",
+    "meaning_fr": "Ce panneau annonce que la chaussée est étroite et qu'il est interdit de passer pour les véhicules dont la largeur est supérieure à 2 mètres.",
+    "meaning_ar": "هاد العلامة كتعلم بلي الطريق ضيقة، ممنوع يدوزو العربات اللي العرض ديالهم كتر من 2 متر.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p8_7.png"
+    ],
+    "category_title_fr": "Indications diverses",
+    "category_title_ar": "إرشادات مختلفة",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.8.6",
+    "section_id": 2,
+    "category_id": 8,
+    "item_id": 6,
+    "slug": "deformed-carriageway-plate",
+    "title_fr": "Chaussée déformée",
+    "title_ar": "قارعة طريق مشوهة",
+    "meaning_fr": "Soyez vigilant et réduisez votre vitesse car la chaussée est déformée et en mauvais état devant vous.",
+    "meaning_ar": "رد البال ونقص من السرعة حيت الطريق محفرة ومكرفصة قدامك",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p8_8.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p8_9.png"
+    ],
+    "category_title_fr": "Indications diverses",
+    "category_title_ar": "إرشادات مختلفة",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.9.1",
+    "section_id": 2,
+    "category_id": 9,
+    "item_id": 1,
+    "slug": "additional-plate-animal-drawn-vehicles",
+    "title_fr": "Plaque additionnelle pour véhicules à traction animale",
+    "title_ar": "لوحة إضافية للعربات المجرورة بالحيوانات",
+    "meaning_fr": "Ce panneau signifie que l'interdiction ou l'indication située au-dessus concerne uniquement les véhicules à traction animale.",
+    "meaning_ar": "هاد العلامة كتعني أن المنع أو الإرشاد اللي فوقها خاص غير بالعربات اللي كيجرها الحيوان",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p9_0.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p9_1.png"
+    ],
+    "category_title_fr": "Panonceaux de schémas d'intersections",
+    "category_title_ar": "لويحات متعلقة بالرسوم التبيانية لملتقى الطرق",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "2.9.2",
+    "section_id": 2,
+    "category_id": 9,
+    "item_id": 2,
+    "slug": "additional-panel-agricultural-tractors",
+    "title_fr": "Panonceau pour tracteurs agricoles",
+    "title_ar": "لوحة إضافية للجرارات الفلاحية",
+    "meaning_fr": "Ce panonceau signifie que l'interdiction ou l'indication située au-dessus concerne uniquement les tracteurs et les machines agricoles.",
+    "meaning_ar": "هاد العلامة كتعني بلي المنع أو الإرشاد اللي فوقها خاص غير بالجرارات والآلات الفلاحية.",
+    "images": [
+      "https://assets.conduire.ma/signs/louihat/sign_p9_2.png",
+      "https://assets.conduire.ma/signs/louihat/sign_p9_3.png"
+    ],
+    "category_title_fr": "Panonceaux de schémas d'intersections",
+    "category_title_ar": "لويحات متعلقة بالرسوم التبيانية لملتقى الطرق",
+    "section_title_fr": "Sous-axe : Panonceaux de l'axe de formation : Route",
+    "section_title_ar": "المحور الفرعي: اللويحات لمحور التكوين: الطريق"
+  },
+  {
+    "key": "3.1.1",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 1,
+    "slug": "no-entry-buses",
+    "title_fr": "Accès interdit aux autobus",
+    "title_ar": "ممنوع مرور الحافلات",
+    "meaning_fr": "Il est interdit aux bus de circuler sur cette chaussée, ils doivent chercher un autre itinéraire.",
+    "meaning_ar": "ممنوع على الكيران يدوزو من هاد الطريق، خاصهم يقلبو على طريق أخرى.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_0.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.2",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 2,
+    "slug": "no-u-turn",
+    "title_fr": "Interdiction de faire demi-tour",
+    "title_ar": "ممنوع القيام بنصف دورة",
+    "meaning_fr": "Il vous est interdit de faire demi-tour et de revenir sur la même chaussée d'où vous venez.",
+    "meaning_ar": "ممنوع عليك تدور وترجع في نفس الطريق اللي جيتي منها.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_1.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.3",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 3,
+    "slug": "no-animal-drawn-vehicles",
+    "title_fr": "Accès interdit aux véhicules à traction animale",
+    "title_ar": "ممنوع مرور العربات المجرورة بالحيوانات",
+    "meaning_fr": "Il est interdit aux charrettes tirées par des chevaux ou des ânes de circuler sur cette chaussée.",
+    "meaning_ar": "ممنوع على الكرارص اللي كيجرهم العود أو الحمار يدوزو من هاد الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_2.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.4",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 4,
+    "slug": "no-entry-motorcycles",
+    "title_fr": "Accès interdit aux motocyclettes",
+    "title_ar": "ممنوع مرور الدراجات النارية",
+    "meaning_fr": "Il est interdit aux motocyclettes de circuler sur cette chaussée, elles doivent chercher un autre itinéraire.",
+    "meaning_ar": "ممنوع على الموطورات يدوزو من هاد الطريق، خاصهم يقلبو على طريق أخرى.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_3.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.5",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 5,
+    "slug": "no-entry-height-limit-4-5",
+    "title_fr": "Accès interdit aux véhicules d'une hauteur supérieure à 4,5m",
+    "title_ar": "ممنوع مرور المركبات التي يتجاوز علوها 4.5 متر",
+    "meaning_fr": "Il est interdit aux voitures ou aux camions dont la hauteur dépasse 4,5 mètres de passer pour ne pas heurter le pont.",
+    "meaning_ar": "ممنوع يدوزو الطوموبيلات ولا الكاميويات اللي العلو ديالهم فايت 4 مترو ونص باش ما يقيسوش القنطرة.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_4.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.6",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 6,
+    "slug": "no-entry-width-limit-2-5",
+    "title_fr": "Interdiction aux véhicules ayant une largeur supérieure à 2,5m",
+    "title_ar": "ممنوع مرور العربات التي يتجاوز عرضها 2.5 متر",
+    "meaning_fr": "Il est interdit de passer par ici si la largeur de votre véhicule dépasse deux mètres et demi.",
+    "meaning_ar": "ممنوع دوز من هنا إلا كان العرض ديال الطوموبيل فايت جوج متر ونص",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_5.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.7",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 7,
+    "slug": "no-entry-motor-vehicles-with-motorcycles",
+    "title_fr": "Accès interdit aux véhicules à moteur",
+    "title_ar": "ممنوع مرور العربات ذات المحرك",
+    "meaning_fr": "Il est interdit aux voitures et aux motos équipées d'un moteur de circuler sur cette chaussée.",
+    "meaning_ar": "ممنوع يدوزو الطوموبيلات والموطورات اللي عندهم محرك من هاد الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_6.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.8",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 8,
+    "slug": "no-hand-carts",
+    "title_fr": "Accès interdit aux véhicules à bras",
+    "title_ar": "ممنوع مرور العربات اليدوية",
+    "meaning_fr": "Il est interdit à toute personne poussant une charrette à bras de passer par cette chaussée.",
+    "meaning_ar": "ممنوع على أي واحد دافع كروسة ديال اليد يدوز من هاد الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_7.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.9",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 9,
+    "slug": "no-entry-water-pollutants",
+    "title_fr": "Accès interdit aux véhicules transportant des produits de nature à polluer les eaux",
+    "title_ar": "ممنوع مرور العربات التي تحمل مواد ملوثة للمياه",
+    "meaning_fr": "Il est interdit aux véhicules transportant des produits polluants pour l'eau de circuler sur cette chaussée afin de protéger l'environnement.",
+    "meaning_ar": "ممنوع يدوزو الطوموبيلات اللي هازين مواد كتلويث الماء فهاد الطريق باش نحميو البيئة.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_8.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.10",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 10,
+    "slug": "no-entry-dangerous-goods",
+    "title_fr": "Accès interdit aux véhicules transportant des marchandises dangereuses",
+    "title_ar": "ممنوع مرور العربات التي تحمل مواد خطيرة",
+    "meaning_fr": "Interdit aux véhicules transportant des marchandises dangereuses (explosives ou inflammables).",
+    "meaning_ar": "ممنوع يدوزو الطوموبيلات اللي هازين مواد خطيرة ولا قابلة للاشتعال.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_9.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.11",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 11,
+    "slug": "no-entry-weight-limit-5-5-tons",
+    "title_fr": "Accès interdit aux véhicules de plus de 5,5 tonnes",
+    "title_ar": "ممنوع مرور العربات التي يتجاوز وزنها 5.5 طن",
+    "meaning_fr": "Il est interdit de passer par ici si le poids du véhicule et son chargement dépassent 5,5 tonnes.",
+    "meaning_ar": "ممنوع تدوز من هنا إلا كان الوزن ديال الطوموبيل والحمولة فايت 5.5 طن",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_10.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.12",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 12,
+    "slug": "no-entry-motor-vehicles",
+    "title_fr": "Accès interdit aux véhicules à moteur",
+    "title_ar": "ممنوع مرور السيارات الخفيفة",
+    "meaning_fr": "Il est interdit aux voitures et aux véhicules à moteur de circuler sur cette chaussée.",
+    "meaning_ar": "ممنوع على الطوموبيلات والسيارات اللي عندها محرك يدوزو من هاد الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_11.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.13",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 13,
+    "slug": "speed-limit-120",
+    "title_fr": "Limitation de vitesse 120 km/h",
+    "title_ar": "تحديد السرعة في 120 كلم/س",
+    "meaning_fr": "Il est interdit de dépasser la vitesse de 120 kilomètres par heure sur cette chaussée pour préserver votre sécurité.",
+    "meaning_ar": "ممنوع تفوت سرعة 120 كيلومتر في الساعة فهاد الطريق باش تحافظ على سلامتك",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_12.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.14",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 14,
+    "slug": "stop-gendarmerie",
+    "title_fr": "Arrêt obligatoire - Gendarmerie",
+    "title_ar": "قف - الدرك الملكي",
+    "meaning_fr": "Vous devez obligatoirement marquer l'arrêt à la barrière de la Gendarmerie Royale et ne pas repartir avant qu'ils ne vous en donnent le signal.",
+    "meaning_ar": "خاصك توقف ضروري عند حاجز الدرك الملكي وما تزيد حتى يعطيوك الإشارة",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_13.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.15",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 15,
+    "slug": "no-entry-agricultural-vehicles",
+    "title_fr": "Accès interdit aux tracteurs et véhicules agricoles",
+    "title_ar": "ممنوع مرور الجرارات والآليات الفلاحية",
+    "meaning_fr": "Il est interdit aux tracteurs et aux machines agricoles de circuler sur cette chaussée.",
+    "meaning_ar": "ممنوع على الجرارات والماكينات ديال الفلاحة يدوزو من هاد الطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_14.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.16",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 16,
+    "slug": "speed-limit-80",
+    "title_fr": "Limitation de vitesse 80",
+    "title_ar": "تحديد السرعة في 80 كلم",
+    "meaning_fr": "Il est interdit de dépasser la vitesse de 80 kilomètres par heure sur cette chaussée.",
+    "meaning_ar": "ممنوع تفوت سرعة 80 كيلومتر في الساعة فهاد الطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_15.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.17",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 17,
+    "slug": "no-right-turn",
+    "title_fr": "Interdiction de tourner à droite",
+    "title_ar": "ممنوع تغيير الاتجاه نحو اليمين",
+    "meaning_fr": "Il vous est interdit de tourner à droite à la prochaine intersection, continuez tout droit ou tournez à gauche.",
+    "meaning_ar": "ممنوع عليك تدور على ليمن فالمتقاطع اللي جاي، كمل نيشان ولا دور لليسر.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_16.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.18",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 18,
+    "slug": "no-entry-explosive-materials",
+    "title_fr": "Accès interdit aux véhicules transportant des produits explosifs",
+    "title_ar": "ممنوع مرور المركبات التي تحمل مواد متفجرة",
+    "meaning_fr": "Il est interdit aux voitures et aux camions transportant des produits explosifs de circuler sur cette chaussée.",
+    "meaning_ar": "ممنوع يدوزو الطوموبيلات ولا الكاميويات اللي هازين معاهم مواد قابلة للانفجار من هاد الطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_17.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.19",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 19,
+    "slug": "speed-limit-20",
+    "title_fr": "Limitation de vitesse 20",
+    "title_ar": "تحديد السرعة في 20 كلم",
+    "meaning_fr": "Il est interdit de dépasser la vitesse de 20 kilomètres par heure sur cette chaussée.",
+    "meaning_ar": "ممنوع تفوت سرعة 20 كيلومتر في الساعة فهاد الطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_18.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.20",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 20,
+    "slug": "priority-to-oncoming-traffic",
+    "title_fr": "Priorité à la circulation venant en sens inverse",
+    "title_ar": "أسبقية المرور للاتجاه المقابل",
+    "meaning_fr": "Vous devez vous arrêter et laisser passer en priorité les usagers venant en sens inverse car la chaussée est étroite.",
+    "meaning_ar": "خاصك توقف وتسمح للي جايين من القدام يدوزو هما اللولين حيت الطريق ضيقة",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_19.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.21",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 21,
+    "slug": "no-honking",
+    "title_fr": "Interdiction d'user de signaux sonores",
+    "title_ar": "ممنوع استعمال المنبه الصوتي",
+    "meaning_fr": "Il vous est interdit d'utiliser l'avertisseur sonore sauf en cas de danger imminent.",
+    "meaning_ar": "ممنوع عليك تكسكسون بالمنبه الصوتي إلا في حالة خطر محقق",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_20.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.22",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 22,
+    "slug": "speed-limit-60",
+    "title_fr": "Limitation de vitesse 60",
+    "title_ar": "تحديد السرعة في 60 كلم",
+    "meaning_fr": "Il est interdit de dépasser la vitesse de 60 km/h sur cette chaussée.",
+    "meaning_ar": "ممنوع تفوت سرعة 60 كيلومتر في الساعة فهاد الطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_21.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.23",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 23,
+    "slug": "no-entry-mopeds",
+    "title_fr": "Accès interdit aux cyclomoteurs",
+    "title_ar": "ممنوع مرور الدراجات النارية الخفيفة",
+    "meaning_fr": "Il est interdit aux cyclomoteurs d'emprunter cette chaussée, ils doivent chercher un autre itinéraire.",
+    "meaning_ar": "ممنوع يدوزو الموطورات الصغار من هاد الطريق، خاصهم يشوفو طريق أخرى.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_22.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.24",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 24,
+    "slug": "minimum-safety-distance-70m",
+    "title_fr": "Distance de sécurité minimale 70m",
+    "title_ar": "ممنوع ترك مسافة أقل من 70 متر",
+    "meaning_fr": "Vous devez laisser au moins 70 mètres entre vous et la voiture devant vous pour éviter les accidents.",
+    "meaning_ar": "خاصك تخلي على الأقل 70 متر بينك وبين الطوموبيل اللي قدامك باش تتفادى الحوادث.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_23.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.25",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 25,
+    "slug": "no-overtaking-trucks",
+    "title_fr": "Interdiction de dépasser pour les camions",
+    "title_ar": "ممنوع التجاوز على الشاحنات",
+    "meaning_fr": "Il est interdit aux camions dont le poids dépasse 3.5 tonnes de dépasser les voitures sur cette chaussée.",
+    "meaning_ar": "ممنوع على الشاحنات اللي كيفوت وزنها 3.5 طن يضوبلو السيارات فهاد الطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_24.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.26",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 26,
+    "slug": "speed-limit-30",
+    "title_fr": "Limitation de vitesse 30",
+    "title_ar": "تحديد السرعة في 30 كلم",
+    "meaning_fr": "Il est interdit de dépasser la vitesse de 30 kilomètres par heure sur cette chaussée.",
+    "meaning_ar": "ممنوع تفوت سرعة 30 كيلومتر في الساعة فهاد الطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_25.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.27",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 27,
+    "slug": "no-entry-length-limit-10m",
+    "title_fr": "Accès interdit aux véhicules de plus de 10m de longueur",
+    "title_ar": "ممنوع مرور المركبات التي يتجاوز طولها 10 أمتار",
+    "meaning_fr": "Il est interdit de circuler pour les voitures ou les camions dont la longueur dépasse 10 mètres.",
+    "meaning_ar": "ممنوع يدوزو الطوموبيلات ولا الكاميويات اللي الطول ديالهم فايت 10 ميترو",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_26.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.28",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 28,
+    "slug": "no-pedestrians",
+    "title_fr": "Accès interdit aux piétons",
+    "title_ar": "ممنوع مرور الراجلين",
+    "meaning_fr": "Il est interdit aux piétons de circuler sur cette chaussée car cela représente un danger pour eux.",
+    "meaning_ar": "ممنوع على الناس اللي كيتمشاو على رجليهم يدوزو من هاد الطريق حيت خطر عليهم.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_27.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.29",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 29,
+    "slug": "customs",
+    "title_fr": "Douane",
+    "title_ar": "الجمارك",
+    "meaning_fr": "Vous devez vous arrêter à la barrière de la douane et attendre le signal pour continuer votre route.",
+    "meaning_ar": "خاصك توقف عند حاجز الجمارك وتنتظر الإشارة باش تكمل طريقك.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_28.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.30",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 30,
+    "slug": "toll-booth-stop",
+    "title_fr": "Arrêt obligatoire au péage",
+    "title_ar": "قف عند محطة الأداء",
+    "meaning_fr": "Vous devez vous arrêter au poste de péage pour payer la redevance avant de continuer votre route.",
+    "meaning_ar": "خاصك توقف عند محطة الأداء باش تخلص الواجب عاد تكمل طريقك.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_29.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.31",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 31,
+    "slug": "no-overtaking",
+    "title_fr": "Interdiction de dépasser",
+    "title_ar": "ممنوع التجاوز على السيارات",
+    "meaning_fr": "Il vous est interdit de dépasser tout véhicule jusqu'à ce que vous rencontriez le panneau de fin d'interdiction.",
+    "meaning_ar": "ممنوع عليك تضوبل أي سيارة حتى تلقى علامة نهاية المنع.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_30.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.32",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 32,
+    "slug": "no-stopping-no-parking",
+    "title_fr": "Arrêt et stationnement interdits",
+    "title_ar": "ممنوع التوقف والوقوف",
+    "meaning_fr": "Il est strictement interdit de marquer un arrêt ou de stationner votre véhicule à cet endroit car cela gêne la circulation sur la chaussée.",
+    "meaning_ar": "ممنوع عليك تحبس الطوموبيل نهائيا أو تنزل منها فهاد البلاصة حيت كتعرقل الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_31.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.33",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 33,
+    "slug": "no-entry-caravans",
+    "title_fr": "Accès interdit aux caravanes",
+    "title_ar": "ممنوع مرور المقطورات السياحية",
+    "meaning_fr": "Il est interdit aux véhicules tractant une remorque de camping (caravane) de circuler sur cette chaussée.",
+    "meaning_ar": "ممنوع على العربات اللي جارة مقطورة سياحية (كرافان) دوز من هاد الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_32.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.34",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 34,
+    "slug": "no-entry-axle-weight-2-tons",
+    "title_fr": "Interdiction aux véhicules pesant plus de 2 tonnes par essieu",
+    "title_ar": "منع المرور على المركبات التي يتجاوز وزنها 2 طن لكل محور",
+    "meaning_fr": "Il est interdit de circuler pour les véhicules dont le poids dépasse 2 tonnes par essieu.",
+    "meaning_ar": "ممنوع يدوزو الطوموبيلات اللي كيهزو كتر من 2 طن فكل محور ديال الروايض",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_33.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.35",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 35,
+    "slug": "no-parking-1-to-15",
+    "title_fr": "Stationnement interdit du 1 au 15 du mois",
+    "title_ar": "ممنوع الوقوف من 1 إلى 15 في الشهر",
+    "meaning_fr": "Il est interdit de stationner votre voiture de ce côté du 1er au 15 de chaque mois.",
+    "meaning_ar": "ممنوع تسيوني طوموبيلتك فهاد الجهة من نهار 1 حتى لنهار 15 فكل شهر.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_34.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.36",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 36,
+    "slug": "no-parking",
+    "title_fr": "Stationnement interdit",
+    "title_ar": "ممنوع الوقوف",
+    "meaning_fr": "Il est interdit de laisser votre véhicule stationné et sans conducteur, mais vous pouvez effectuer un arrêt simple pour déposer quelqu'un.",
+    "meaning_ar": "ممنوع تخلي طوموبيلتك واقفة وبلا شيفور، ولكن تقدر توقف غير باش تنزل شي حد.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_35.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.37",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 37,
+    "slug": "no-parking-metered",
+    "title_fr": "Stationnement interdit avec parcomètre",
+    "title_ar": "ممنوع الوقوف مع الأداء",
+    "meaning_fr": "Il est interdit de laisser votre voiture stationnée ici sans payer à l'horodateur.",
+    "meaning_ar": "ممنوع تخلي طوموبيلتك واقفة هنا بلا ما تخلص في الماكينة ديال الباركينغ.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_36.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.38",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 38,
+    "slug": "speed-limit-100",
+    "title_fr": "Limitation de vitesse 100",
+    "title_ar": "تحديد السرعة في 100 كلم",
+    "meaning_fr": "Il est interdit de dépasser la vitesse de 100 kilomètres par heure sur cette chaussée.",
+    "meaning_ar": "ممنوع تفوت سرعة 100 كيلومتر في الساعة فهاد الطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_37.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.39",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 39,
+    "slug": "zone-no-parking",
+    "title_fr": "Zone à stationnement interdit",
+    "title_ar": "منطقة يمنع فيها الوقوف",
+    "meaning_fr": "Il est interdit de stationner votre véhicule dans toute cette zone jusqu'à ce que vous en sortiez.",
+    "meaning_ar": "ممنوع عليك تحط طوموبيلتك وتخليها فهاد المنطقة كاملة حتى تخرج منها",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_38.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.40",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 40,
+    "slug": "end-speed-limit-20",
+    "title_fr": "Fin de limitation de vitesse à 20",
+    "title_ar": "نهاية تحديد السرعة في 20 كلم",
+    "meaning_fr": "La signalisation qui interdisait de dépasser 20 km/h prend fin, vous pouvez maintenant augmenter votre vitesse selon l'état de la chaussée.",
+    "meaning_ar": "سالات العلامة اللي كانت كتمنع تفوت 20، دابا تقدر تزيد في السرعة حسب الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_39.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.41",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 41,
+    "slug": "stop-road-control",
+    "title_fr": "Arrêt au poste de contrôle routier",
+    "title_ar": "الوقوف عند حاجز المراقبة الطرقية",
+    "meaning_fr": "Vous devez obligatoirement marquer l'arrêt au poste de contrôle routier et ne pas repartir avant d'en recevoir le signal.",
+    "meaning_ar": "خاصك توقف ضروري عند حاجز المراقبة الطرقية وما تزيد حتى يعطيوك الإشارة",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_40.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.42",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 42,
+    "slug": "end-speed-limit-100",
+    "title_fr": "Fin de limitation de vitesse à 100",
+    "title_ar": "نهاية تحديد السرعة في 100 كلم",
+    "meaning_fr": "Vous n'êtes plus obligé de rouler à moins de 100 km/h, vous pouvez maintenant augmenter votre vitesse selon le code de la chaussée.",
+    "meaning_ar": "مابقاش مفروض عليك تمشي بقل من 100، دابا تقدر تزيد في السرعة حسب قانون الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_41.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.43",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 43,
+    "slug": "end-no-overtaking",
+    "title_fr": "Fin d'interdiction de dépasser",
+    "title_ar": "نهاية منع التجاوز",
+    "meaning_fr": "Maintenant vous êtes autorisé à dépasser car l'interdiction précédente est terminée.",
+    "meaning_ar": "دابا مسموح ليك تضوبل حيت المنع اللي كان قبل سالا",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_42.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.44",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 44,
+    "slug": "snow-barrier",
+    "title_fr": "Barrière de neige",
+    "title_ar": "حاجز الثلج",
+    "meaning_fr": "Vous devez vous arrêter car la chaussée est bloquée par la neige et ne pas passer avant d'en recevoir l'autorisation.",
+    "meaning_ar": "خاصك توقف حيت الطريق مسدودة بالثلج وما دوز حتى يعطيوك الإذن",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_43.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.45",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 45,
+    "slug": "no-entry",
+    "title_fr": "Sens interdit",
+    "title_ar": "ممنوع المرور في هذا الاتجاه",
+    "meaning_fr": "Il est interdit de s'engager sur cette chaussée car elle est à sens unique inverse, cherchez un autre itinéraire.",
+    "meaning_ar": "ممنوع تدخل لهاد الطريق حيت كاتجيب الطوموبيلات وماكاتديش، قلب على طريق أخرى.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_44.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.46",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 46,
+    "slug": "end-no-overtaking-trucks",
+    "title_fr": "Fin d'interdiction de dépasser pour les camions",
+    "title_ar": "نهاية منع التجاوز على الشاحنات",
+    "meaning_fr": "Maintenant, les camions pesant plus de 3,5 tonnes peuvent dépasser les voitures ordinaires.",
+    "meaning_ar": "دابا الشاحنات اللي كايوزنو كتر من 3.5 طن يقدروا يضوبلو السيارات العادية.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_45.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.47",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 47,
+    "slug": "no-parking-semi-monthly-alternating",
+    "title_fr": "Stationnement alterné semi-mensuel",
+    "title_ar": "ممنوع الوقوف بالتناوب نصف شهري",
+    "meaning_fr": "Il est interdit de stationner votre véhicule de ce côté du 1er au 15 et du 16 au 31.",
+    "meaning_ar": "ممنوع تسيوني طوموبيلتك فهاد الجهة من نهار 1 حتى لـ 15 ومن 16 حتى لـ 31.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_46.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.48",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 48,
+    "slug": "no-parking-16-31",
+    "title_fr": "Stationnement interdit du 16 au 31",
+    "title_ar": "ممنوع الوقوف من 16 إلى 31",
+    "meaning_fr": "Il est interdit de laisser votre voiture en stationnement de ce côté du 16 au 31 du mois.",
+    "meaning_ar": "ممنوع عليك تخلي طوموبيلتك واقفة فهاد الجهة من نهار 16 حتى لنهار 31 ف الشهر.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_47.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.49",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 49,
+    "slug": "stop-police-checkpoint",
+    "title_fr": "Arrêt obligatoire - Police",
+    "title_ar": "قف - حاجز الشرطة",
+    "meaning_fr": "Vous devez obligatoirement vous arrêter au barrage de police et ne pas repartir avant qu'ils ne vous en donnent le signal.",
+    "meaning_ar": "خاصك توقف ضروري عند حاجز الشرطة وما تزيد حتى يعطيوك الإشارة",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_48.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.50",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 50,
+    "slug": "no-entry-motor-vehicles-car-motorcycle-moped",
+    "title_fr": "Accès interdit aux véhicules à moteur",
+    "title_ar": "ممنوع مرور العربات ذات المحرك",
+    "meaning_fr": "Il est interdit aux voitures et aux motos équipées d'un moteur de circuler sur cette chaussée.",
+    "meaning_ar": "ممنوع يدوزو الطوموبيلات والموطورات اللي عندهم محرك من هاد الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_49.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.51",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 51,
+    "slug": "end-speed-limit-60",
+    "title_fr": "Fin de limitation de vitesse à 60",
+    "title_ar": "نهاية تحديد السرعة في 60 كلم",
+    "meaning_fr": "Vous n'êtes plus obligé de rouler à moins de 60 km/h, vous pouvez maintenant augmenter votre vitesse selon le code de la chaussée.",
+    "meaning_ar": "مابقاش مفروض عليك تمشي بقل من 60، دابا تقدر تزيد فالسرعة حسب قانون الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_50.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.52",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 52,
+    "slug": "speed-limit-40",
+    "title_fr": "Limitation de vitesse 40",
+    "title_ar": "تحديد السرعة في 40 كلم",
+    "meaning_fr": "Il est interdit de dépasser la vitesse de 40 kilomètres par heure sur cette chaussée.",
+    "meaning_ar": "ممنوع تفوت سرعة 40 كيلومتر في الساعة فهاد الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_51.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.53",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 53,
+    "slug": "no-entry-herds",
+    "title_fr": "Accès interdit aux troupeaux",
+    "title_ar": "ممنوع مرور القطعان",
+    "meaning_fr": "Il est interdit aux troupeaux de bétail de passer par cette chaussée pour ne pas gêner la circulation.",
+    "meaning_ar": "ممنوع يدوزو لقطعان ديال لكسيبة من هاد الطريق باش ما يعرگلوش السير",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_52.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.54",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 54,
+    "slug": "end-zone-speed-limit-30",
+    "title_fr": "Fin de zone de vitesse limitée à 30",
+    "title_ar": "نهاية منطقة تحديد السرعة 30",
+    "meaning_fr": "La zone où la vitesse était limitée à 30 est terminée, vous pouvez maintenant augmenter un peu votre vitesse.",
+    "meaning_ar": "سالات المنطقة اللي كانت فيها السرعة محددة في 30، دابا تقدر تزيد شوية في السرعة.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_53.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.1.55",
+    "section_id": 3,
+    "category_id": 1,
+    "item_id": 55,
+    "slug": "end-prohibition-skiers",
+    "title_fr": "Fin d'interdiction aux skieurs",
+    "title_ar": "نهاية منع مرور المتزلجين",
+    "meaning_fr": "Ce panneau annonce que l'interdiction qui s'appliquait aux skieurs est terminée et qu'ils sont désormais autorisés à passer.",
+    "meaning_ar": "هاد العلامة كتعلم بلي المنع اللي كان على المتزلجين سالا ومسموح ليهم يمروا دابا.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p1_54.png"
+    ],
+    "category_title_fr": "Signaux d'interdiction",
+    "category_title_ar": "علامات المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.1",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 1,
+    "slug": "end-no-left-turn",
+    "title_fr": "Interdiction de tourner à gauche",
+    "title_ar": "ممنوع تغيير الاتجاه نحو اليسار",
+    "meaning_fr": "Il vous est interdit de tourner à gauche à la prochaine intersection, continuez tout droit ou tournez à droite.",
+    "meaning_ar": "ممنوع عليك تدور لليسر فالمتقى الجاي، كمل نيشان ولا دور لليمن.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_0.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.2",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 2,
+    "slug": "end-limited-duration-parking-zone",
+    "title_fr": "Fin de zone de stationnement payant à durée limitée",
+    "title_ar": "نهاية منطقة الوقوف بالمقابل والوقت",
+    "meaning_fr": "Indique au conducteur qu'il sort d'une zone où le stationnement était réglementé, payant et limité dans le temps.",
+    "meaning_ar": "خرجتي من المنطقة اللي كان فيها الباركينغ بالفلوس والوقت محدود، ودابا تقدر تسطاسيوني بلا ما تخلص.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_1.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.3",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 3,
+    "slug": "end-speed-limit-80",
+    "title_fr": "Fin de limitation de vitesse 80",
+    "title_ar": "نهاية تحديد السرعة 80 كلم",
+    "meaning_fr": "Vous n'êtes plus obligé de rouler à moins de 80 km/h, vous pouvez maintenant augmenter votre vitesse selon le code de la chaussée.",
+    "meaning_ar": "مابقاش مفروض عليك تمشي بقل من 80، دابا تقدر تزيد فالسرعة حسب قانون الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_2.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.4",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 4,
+    "slug": "end-no-parking-alternate-semi-monthly",
+    "title_fr": "Fin d'interdiction de stationnement à sens alterné semi-mensuel",
+    "title_ar": "نهاية منع الوقوف بالتناوب الشهري",
+    "meaning_fr": "Le panneau qui interdisait de stationner d'un seul côté de la chaussée selon la date est terminé.",
+    "meaning_ar": "سالات العلامة اللي كانت كتمنع تاسيوني فجيهة وحدة من الطريق على حساب التاريخ.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_3.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.5",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 5,
+    "slug": "end-no-parking",
+    "title_fr": "Fin d'interdiction de stationner",
+    "title_ar": "نهاية منع الوقوف",
+    "meaning_fr": "Maintenant vous êtes autorisé à stationner votre voiture car l'interdiction précédente est terminée.",
+    "meaning_ar": "دابا مسموح ليك توقف الطوموبيل ديالك حيت المنع اللي كان قبل سالا.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_4.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.6",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 6,
+    "slug": "end-speed-limit-40",
+    "title_fr": "Fin de limitation de vitesse à 40",
+    "title_ar": "نهاية تحديد السرعة في 40",
+    "meaning_fr": "Vous n'êtes plus obligé de rouler à moins de 40 km/h, vous pouvez maintenant augmenter votre vitesse selon le code de la chaussée.",
+    "meaning_ar": "مابقيتيش ملزم تمشي بقل من 40، دابا تقدر تزيد فالسرعة حسب قانون الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_5.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.7",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 7,
+    "slug": "end-no-parking-semi-monthly-alternating",
+    "title_fr": "Stationnement alterné semi-mensuel",
+    "title_ar": "ممنوع الوقوف بالتناوب نصف شهري",
+    "meaning_fr": "Il est interdit d'arrêter votre voiture de ce côté du 1 au 15 ou du 16 au 31 de chaque mois.",
+    "meaning_ar": "ممنوع توقف طوموبيلتك فهاد الجهة من 1 لـ 15 ولا من 16 لـ 31 فكل شهر",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_6.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.8",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 8,
+    "slug": "end-semi-monthly-alternating-parking",
+    "title_fr": "Fin d'interdiction de stationnement à alternance semi-mensuelle",
+    "title_ar": "نهاية منع الوقوف بالتناوب الشهري",
+    "meaning_fr": "Maintenant vous êtes autorisé à stationner sur les côtés de la chaussée car l'interdiction de stationnement à alternance semi-mensuelle est terminée.",
+    "meaning_ar": "دابا مسموح ليك توقف فجناب الطريق حيت المنع ديال التناوب الشهري سالا.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_7.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.9",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 9,
+    "slug": "end-no-honking",
+    "title_fr": "Fin d'interdiction d'usage de l'avertisseur sonore",
+    "title_ar": "نهاية منع استعمال المنبه الصوتي",
+    "meaning_fr": "Maintenant, il vous est permis d'utiliser l'avertisseur sonore uniquement en cas de nécessité absolue.",
+    "meaning_ar": "دابا مسموح ليك تستعمل الكلاكصون إلا كانت شي ضرورة قصوى فالحين.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_8.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.10",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 10,
+    "slug": "end-no-parking-zone",
+    "title_fr": "Stationnement interdit",
+    "title_ar": "ممنوع الوقوف",
+    "meaning_fr": "Il est interdit de laisser votre véhicule stationné sans conducteur, mais vous pouvez effectuer un arrêt pour laisser descendre quelqu'un.",
+    "meaning_ar": "ممنوع تخلي طوموبيلتك واقفة وبلا شيفور، ولكن تقدر توقف غير باش تنزل شي حد.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_9.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.11",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 11,
+    "slug": "end-all-restrictions",
+    "title_fr": "Fin de toutes les interdictions",
+    "title_ar": "نهاية جميع قيود المنع",
+    "meaning_fr": "Toutes les interdictions précédentes prennent fin, vous pouvez maintenant conduire normalement selon les règles générales de la chaussée.",
+    "meaning_ar": "كاع المنع اللي كان قبل سالا، دابا تقدر تسوق عادي على حساب قانون الطريق العام.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_10.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.12",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 12,
+    "slug": "end-no-entry-bicycles",
+    "title_fr": "Accès interdit aux cycles",
+    "title_ar": "ممنوع مرور الدراجات",
+    "meaning_fr": "Il est interdit aux cyclistes de circuler sur cette chaussée car cela représente un danger pour eux.",
+    "meaning_ar": "ممنوع على صحاب بيكالات يدوزو من هاد الطريق حيت خطر عليهم",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_11.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.13",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 13,
+    "slug": "zone-speed-limit-30",
+    "title_fr": "Entrée de zone à vitesse limitée à 30",
+    "title_ar": "دخول منطقة تحديد السرعة 30",
+    "meaning_fr": "Vous entrez dans une zone où la vitesse est limitée à 30 km/h dans toutes ses rues.",
+    "meaning_ar": "دخلتي لمنطقة فيها السرعة محدودة ف 30 كلم فالساعة فكاع الزناقي ديالها",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_12.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.14",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 14,
+    "slug": "end-paid-parking-zone",
+    "title_fr": "Fin de zone de stationnement payant",
+    "title_ar": "نهاية منطقة التوقف المؤدى عنه",
+    "meaning_fr": "La zone de stationnement payant est terminée, vous pouvez désormais stationner sans payer.",
+    "meaning_ar": "سالات المنطقة اللي فيها الباركينغ بالفلوس، دابا تقدر تباركي بلا ما تخلص.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_13.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.15",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 15,
+    "slug": "end-no-entry-goods-vehicles",
+    "title_fr": "Accès interdit aux véhicules de transport de marchandises",
+    "title_ar": "ممنوع مرور عربات نقل البضائع",
+    "meaning_fr": "Il est interdit aux camions et aux véhicules de transport de marchandises de circuler sur cette chaussée.",
+    "meaning_ar": "ممنوع على الشاحنات وعربات نقل البضائع يدوزو من هاد الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_14.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "3.2.16",
+    "section_id": 3,
+    "category_id": 2,
+    "item_id": 16,
+    "slug": "end-no-traffic-both-ways",
+    "title_fr": "Circulation interdite dans les deux sens",
+    "title_ar": "ممنوع المرور في الاتجاهين",
+    "meaning_fr": "Cette chaussée est fermée et il est interdit d'y circuler, que ce soit pour vous ou pour ceux venant du sens inverse.",
+    "meaning_ar": "هاد الطريق مقطوعة وممنوع تدوز منها لا نتا لا اللي جايين من الجهة الأخرى",
+    "images": [
+      "https://assets.conduire.ma/signs/alman3/sign_p2_15.png"
+    ],
+    "category_title_fr": "Signaux de fin d'interdiction",
+    "category_title_ar": "علامات نهاية المنع",
+    "section_title_fr": "Signaux d'interdiction et de fin d'interdiction",
+    "section_title_ar": "عالمات المنع ونهاية المنع"
+  },
+  {
+    "key": "4.1.1",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 1,
+    "slug": "obligation-turn-right-before-sign",
+    "title_fr": "Obligation de tourner à droite",
+    "title_ar": "إجبارية الانعطاف نحو اليمين",
+    "meaning_fr": "Vous avez l'obligation de tourner à droite à l'endroit où se trouve ce panneau.",
+    "meaning_ar": "بزز منك تدور على اليمين فالبلاصة اللي فيها هاد العلامة.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_0.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.2",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 2,
+    "slug": "obligation-turn-left-before-sign",
+    "title_fr": "Direction obligatoire à gauche",
+    "title_ar": "إجبارية الانعطاف نحو اليسار",
+    "meaning_fr": "Vous avez l'obligation de tourner à gauche à l'endroit où se trouve ce panneau.",
+    "meaning_ar": "بزز منك تدور على اليسار فالبلاصة اللي فيها هاد العلامة.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_1.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.3",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 3,
+    "slug": "obligation-pass-left",
+    "title_fr": "Contournement obligatoire par la gauche",
+    "title_ar": "إجبارية المرور من جهة اليسار",
+    "meaning_fr": "Vous devez obligatoirement passer par le côté gauche de ce panneau pour continuer votre chemin.",
+    "meaning_ar": "خاصك تدوز بزز منك من جيهة ليسر ديال هاد العلامة باش تكمل طريقك",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_2.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.4",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 4,
+    "slug": "obligation-pass-right",
+    "title_fr": "Contournement obligatoire par la droite",
+    "title_ar": "إجبارية المرور من اليمين",
+    "meaning_fr": "Vous devez obligatoirement passer par le côté droit de cette barrière qui se trouve devant vous.",
+    "meaning_ar": "خاصك ضروري تدوز من جيهة اليمين ديال هاد الحاجز اللي قدامك",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_3.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.5",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 5,
+    "slug": "obligation-straight-ahead",
+    "title_fr": "Direction obligatoire tout droit",
+    "title_ar": "اتجاه إجباري إلى الأمام",
+    "meaning_fr": "Vous devez obligatoirement continuer tout droit, il est interdit de tourner à droite ou à gauche à cette intersection.",
+    "meaning_ar": "بزز منك تزيد نيشان، ممنوع تدور لا لليمن لا لليسر فهاد الملتقى.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_4.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.6",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 6,
+    "slug": "obligation-turn-right-ahead",
+    "title_fr": "Direction obligatoire à droite",
+    "title_ar": "اتجاه إجباري نحو اليمين",
+    "meaning_fr": "Vous avez l'obligation de tourner à droite au prochain croisement et il est interdit de continuer tout droit ou de tourner à gauche.",
+    "meaning_ar": "بزز منك تدور على اليمين فملتقى الطرق اللي جاي وممنوع تمشي نيشان أو ليسر.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_5.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.8",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 8,
+    "slug": "obligation-turn-left-ahead",
+    "title_fr": "Direction obligatoire à gauche",
+    "title_ar": "اتجاه إجباري نحو اليسار",
+    "meaning_fr": "Vous avez l'obligation de tourner à gauche à la prochaine intersection, il est interdit de continuer tout droit ou de tourner à droite.",
+    "meaning_ar": "بزز منك تدور على ليسر فالمتلقى اللي جاي، ممنوع تمشي نيشان أو تدور لليمن.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_7.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.9",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 9,
+    "slug": "obligation-straight-or-right",
+    "title_fr": "Obligation de continuer tout droit ou à droite",
+    "title_ar": "إجبارية المتابعة للأمام أو اليمين",
+    "meaning_fr": "À la prochaine intersection, vous devez obligatoirement continuer tout droit ou tourner à droite, il est interdit de tourner à gauche.",
+    "meaning_ar": "فالملتقى الجاي ضروري تمشي نيشان ولا تدور على اليمن، ممنوع تدور على اليسار.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_8.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.10",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 10,
+    "slug": "obligation-straight-or-left",
+    "title_fr": "Obligation de continuer tout droit ou de tourner à gauche",
+    "title_ar": "إجبارية المتابعة للأمام أو الانعطاف يسارا",
+    "meaning_fr": "À la prochaine intersection, vous devez obligatoirement continuer tout droit ou tourner à gauche, il est interdit de tourner à droite.",
+    "meaning_ar": "فالملتقى الجاي ضروري تمشي نيشان ولا تدور على اليسار، ممنوع تدور على اليمن.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_9.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.11",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 11,
+    "slug": "obligation-turn-right-or-left",
+    "title_fr": "Obligation de tourner à droite ou à gauche",
+    "title_ar": "إجبارية الانعطاف يمينا أو يسارا",
+    "meaning_fr": "À la prochaine intersection, vous devez obligatoirement tourner soit à droite soit à gauche, il est interdit d'aller tout droit.",
+    "meaning_ar": "فالملتقى الجاي ضروري تدور يا لليمن يا لليسر، ممنوع تمشي نيشان.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_10.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.12",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 12,
+    "slug": "compulsory-roundabout",
+    "title_fr": "Sens giratoire obligatoire",
+    "title_ar": "اتجاه دوراني إجباري",
+    "meaning_fr": "Vous devez contourner le rond-point par la droite en suivant la direction de la flèche indiquée sur le panneau.",
+    "meaning_ar": "خاصك تدور على المدار من جيهة اليمين وتتبع السهم اللي كاين فالعلامة",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_11.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.13",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 13,
+    "slug": "obligation-bicycle-path",
+    "title_fr": "Chemin obligatoire pour cycles",
+    "title_ar": "ممر إجباري للدراجات",
+    "meaning_fr": "Cette chaussée est réservée exclusivement aux cycles et il est interdit aux voitures et aux cyclomoteurs d'y circuler.",
+    "meaning_ar": "هاد الطريق خاص غير بالدراجات العادية، وممنوع على السيارات والمواطر يدوزو منها.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_12.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.14",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 14,
+    "slug": "obligation-animal-drawn-vehicles",
+    "title_fr": "Chemin obligatoire pour véhicules à traction animale",
+    "title_ar": "ممر إجباري للعربات المجرورة بالحيوانات",
+    "meaning_fr": "Cette chaussée est réservée et obligatoire uniquement pour le passage des véhicules à traction animale.",
+    "meaning_ar": "هاد الطريق خاص ومفروض غير على العربات اللي كيجرها الحيوان باش يدوزو منها.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_13.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.15",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 15,
+    "slug": "obligation-hand-carts",
+    "title_fr": "Chemin obligatoire pour voitures à bras",
+    "title_ar": "ممر إجباري للعربات اليدوية",
+    "meaning_fr": "Cette chaussée est réservée exclusivement aux voitures à bras et est interdite aux autres usagers de la route.",
+    "meaning_ar": "هاد الطريق خاص غير بالعربات اللي كيدفعوهم باليد وممنوع على مستعملي الطريق الآخرين.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_14.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.16",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 16,
+    "slug": "obligation-cattle-path",
+    "title_fr": "Chemin obligatoire pour bétail",
+    "title_ar": "ممر إجباري للحيوانات الأليفة",
+    "meaning_fr": "Cette chaussée est réservée et obligatoire uniquement pour le bétail comme les vaches, soyez vigilant car ils peuvent passer.",
+    "meaning_ar": "هاد الطريق خاص ومفروض غير على الحيوانات الأليفة بحال البقر، رد البال حيت يقدرو يدوزو.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_15.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.17",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 17,
+    "slug": "obligation-horse-riders",
+    "title_fr": "Chemin obligatoire pour cavaliers",
+    "title_ar": "ممر إجباري للخيالة",
+    "meaning_fr": "Cette chaussée est réservée exclusivement aux cavaliers et elle est interdite aux autres véhicules.",
+    "meaning_ar": "هاد الطريق خاص غير بالناس اللي راكبين على الخيل وممنوع على العربات الأخرى.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_16.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.18",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 18,
+    "slug": "obligation-change-lane-right",
+    "title_fr": "Obligation de changement de voie vers la droite",
+    "title_ar": "إجبارية تغيير المسلك نحو اليمين",
+    "meaning_fr": "Vous devez obligatoirement changer de voie et serrer à droite car la voie sur laquelle vous circuliez va être supprimée.",
+    "meaning_ar": "واجب عليك تغير المسلك وتشد اليمين ديالك حيت المسلك اللي كنتي فيه غادي يتسد",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_17.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.19",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 19,
+    "slug": "obligation-pedestrian-path",
+    "title_fr": "Chemin obligatoire pour piétons",
+    "title_ar": "ممر إجباري للراجلين",
+    "meaning_fr": "Cette voie est réservée exclusivement aux piétons et elle est interdite aux voitures et aux motos.",
+    "meaning_ar": "هاد الطريق خاص غير بالناس اللي كايتمشاو على رجليهم وممنوع على الطوموبيلات والمواطر.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_18.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.20",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 20,
+    "slug": "minimum-speed-30",
+    "title_fr": "Vitesse minimale obligatoire 30",
+    "title_ar": "السرعة الدنيا الإجبارية 30 كلم",
+    "meaning_fr": "Vous êtes obligé de rouler à 30 km/h ou plus et il est interdit de descendre en dessous de cette vitesse.",
+    "meaning_ar": "مفروض عليك تمشي بـ 30 كلم في الساعة أو أكثر وممنوع تهبط عليها",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_19.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.21",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 21,
+    "slug": "obligation-bus-lane",
+    "title_fr": "Voie obligatoire pour bus",
+    "title_ar": "ممر إجباري للحافلات",
+    "meaning_fr": "Cette chaussée est réservée exclusivement aux bus et il est interdit aux voitures ordinaires de l'emprunter.",
+    "meaning_ar": "هاد الطريق خاص غير بالطوبيسات وممنوع على السيارات العادية يدوزو منها",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_20.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.22",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 22,
+    "slug": "obligation-snow-chains",
+    "title_fr": "Chaînes à neige obligatoires",
+    "title_ar": "إجبارية استعمال سلاسل الثلوج",
+    "meaning_fr": "Vous devez installer des chaînes à neige sur les pneus pour pouvoir continuer sur la chaussée sans glisser.",
+    "meaning_ar": "لازم تركب سلاسل الثلج في الرويض باش تقدر تكمل الطريق بلا ما تزلق",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_21.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.23",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 23,
+    "slug": "obligation-dipped-headlights",
+    "title_fr": "Allumage obligatoire des feux de croisement",
+    "title_ar": "إجبارية تشغيل أضواء التقابل",
+    "meaning_fr": "Vous devez obligatoirement allumer vos feux de croisement maintenant pour être visible et bien voir la chaussée.",
+    "meaning_ar": "واجب عليك تشعل ضواو التقابل (الكود) دابا باش تبان وتشوف الطريق مزيان.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_22.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.24",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 24,
+    "slug": "obligation-tramway-lane",
+    "title_fr": "Voie obligatoire pour tramway",
+    "title_ar": "مسلك إجباري للترامواي",
+    "meaning_fr": "Cette chaussée est réservée exclusivement au tramway et il est interdit aux voitures ou aux motos d'y circuler.",
+    "meaning_ar": "هاد الطريق خاص غير بالترامواي وممنوع على السيارات ولا الموطورات يدوزو فيه",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_23.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.1.25",
+    "section_id": 4,
+    "category_id": 1,
+    "item_id": 25,
+    "slug": "obligation-slow-vehicles-lane",
+    "title_fr": "Chemin obligatoire pour véhicules lents",
+    "title_ar": "مسلك إجباري للمركبات البطيئة",
+    "meaning_fr": "Cette voie est réservée et obligatoire pour les véhicules lents afin de ne pas encombrer la chaussée.",
+    "meaning_ar": "هاد المسلك خاص ومفروض على الطوموبيلات اللي كيمشيو بشوية باش ما يعطلوش الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_24.png"
+    ],
+    "category_title_fr": "Signaux d'obligation",
+    "category_title_ar": "عالمات الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.2.26",
+    "section_id": 4,
+    "category_id": 2,
+    "item_id": 26,
+    "slug": "end-minimum-speed-40",
+    "title_fr": "Fin de vitesse minimale obligatoire 40",
+    "title_ar": "نهاية السرعة الدنيا الإجبارية 40",
+    "meaning_fr": "Vous n'êtes plus obligé de rouler à 40 km/h au minimum, vous pouvez désormais réduire votre vitesse si vous le souhaitez.",
+    "meaning_ar": "مابقيتيش مجبر تمشي بـ 40 كلم/ساعة كأقل سرعة، تقدر دابا تنقص عليها إلا بغيتي.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_25.png"
+    ],
+    "category_title_fr": "Signaux de fin d'obligation",
+    "category_title_ar": "عالمات نهاية الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.2.27",
+    "section_id": 4,
+    "category_id": 2,
+    "item_id": 27,
+    "slug": "end-compulsory-cycle-path",
+    "title_fr": "Fin de piste obligatoire pour cycles",
+    "title_ar": "نهاية الممر الإجباري للدراجات",
+    "meaning_fr": "La voie réservée aux vélos se termine, ils peuvent désormais circuler sur la chaussée normale avec les voitures.",
+    "meaning_ar": "سالات الطريق الخاصة بالبيكالات، دابا يقدرو يخرجو للطريق العادية مع الطوموبيلات.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_26.png"
+    ],
+    "category_title_fr": "Signaux de fin d'obligation",
+    "category_title_ar": "عالمات نهاية الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.2.28",
+    "section_id": 4,
+    "category_id": 2,
+    "item_id": 28,
+    "slug": "end-obligation-pedestrian-path",
+    "title_fr": "Fin de chemin obligatoire pour piétons",
+    "title_ar": "نهاية الممر الإجباري للراجلين",
+    "meaning_fr": "Cette chaussée n'est plus réservée uniquement aux piétons, l'obligation prend fin maintenant.",
+    "meaning_ar": "هاد الطريق مابقاتش خاصة غير بالراجلين بوحدهم، دابا سالا الإجبار.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_27.png"
+    ],
+    "category_title_fr": "Signaux de fin d'obligation",
+    "category_title_ar": "عالمات نهاية الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.2.29",
+    "section_id": 4,
+    "category_id": 2,
+    "item_id": 29,
+    "slug": "end-obligation-horse-riders",
+    "title_fr": "Fin de chemin obligatoire pour cavaliers",
+    "title_ar": "نهاية الممر الإجباري للخيالة",
+    "meaning_fr": "Cette chaussée n'est plus réservée uniquement aux cavaliers, les autres usagers de la route peuvent désormais l'utiliser.",
+    "meaning_ar": "هاد الطريق مابقاتش خاصة غير بالخيالة، دابا يقدرو يستعملوها مستعملي الطريق لخرين.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_28.png"
+    ],
+    "category_title_fr": "Signaux de fin d'obligation",
+    "category_title_ar": "عالمات نهاية الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.2.30",
+    "section_id": 4,
+    "category_id": 2,
+    "item_id": 30,
+    "slug": "end-obligation-bus-lane",
+    "title_fr": "Fin de voie obligatoire pour bus",
+    "title_ar": "نهاية الممر الإجباري للحافلات",
+    "meaning_fr": "La chaussée qui était réservée exclusivement aux bus prend fin, vous pouvez maintenant y circuler normalement.",
+    "meaning_ar": "سالات الطريق اللي كانت خاصة غير بالطوبيسات، دابا تقدر تمشي فيها عادي.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_29.png"
+    ],
+    "category_title_fr": "Signaux de fin d'obligation",
+    "category_title_ar": "عالمات نهاية الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.2.31",
+    "section_id": 4,
+    "category_id": 2,
+    "item_id": 31,
+    "slug": "end-obligation-snow-chains",
+    "title_fr": "Fin d'obligation de l'usage des chaînes à neige",
+    "title_ar": "نهاية إجبارية استعمال سلاسل الثلوج",
+    "meaning_fr": "L'usage des chaînes à neige n'est plus obligatoire, vous pouvez les retirer des roues dès maintenant.",
+    "meaning_ar": "مابقاش مفروض عليك تستعمل سلاسل الثلج، تقدر تحيدهم دابا من الروايض.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_30.png"
+    ],
+    "category_title_fr": "Signaux de fin d'obligation",
+    "category_title_ar": "عالمات نهاية الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.2.32",
+    "section_id": 4,
+    "category_id": 2,
+    "item_id": 32,
+    "slug": "end-obligation-lights",
+    "title_fr": "Fin d'obligation d'allumage des feux",
+    "title_ar": "نهاية إجبارية إشعال الأضواء",
+    "meaning_fr": "Il n'est plus obligatoire d'allumer vos feux, vous pouvez désormais les éteindre si la visibilité est claire.",
+    "meaning_ar": "مابقاش مفروض عليك تشعل الضواو، دابا تقدر تطفيهم إلا كانت الرؤية واضحة.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_31.png"
+    ],
+    "category_title_fr": "Signaux de fin d'obligation",
+    "category_title_ar": "عالمات نهاية الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.2.33",
+    "section_id": 4,
+    "category_id": 2,
+    "item_id": 33,
+    "slug": "end-obligation-tramway-lane",
+    "title_fr": "Fin de voie obligatoire pour tramway",
+    "title_ar": "نهاية المسلك الإجباري للترامواي",
+    "meaning_fr": "Ce panneau annonce que la chaussée qui était réservée exclusivement au tramway prend fin maintenant.",
+    "meaning_ar": "هاد العلامة كتعلم بلي الطريق اللي كانت خاصة غير بالترامواي سالات دابا.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_32.png"
+    ],
+    "category_title_fr": "Signaux de fin d'obligation",
+    "category_title_ar": "عالمات نهاية الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "4.2.34",
+    "section_id": 4,
+    "category_id": 2,
+    "item_id": 34,
+    "slug": "end-obligation-slow-vehicle-lane",
+    "title_fr": "Fin de voie obligatoire pour véhicules lents",
+    "title_ar": "نهاية المسلك الإجباري للعربات البطيئة",
+    "meaning_fr": "La voie qui était obligatoire pour les véhicules lents se termine, ils peuvent désormais réintégrer la chaussée normale.",
+    "meaning_ar": "سالي المسلك اللي كان مفروض على الطوموبيلات اللي كيمشيو بشوية، دابا يقدروا يرجعوا للطريق العادية.",
+    "images": [
+      "https://assets.conduire.ma/signs/ijbar/image_33.png"
+    ],
+    "category_title_fr": "Signaux de fin d'obligation",
+    "category_title_ar": "عالمات نهاية الإجبار",
+    "section_title_fr": "Obligation et fin d'obligation",
+    "section_title_ar": "علامات الإجبار ونهاية الإجبار"
+  },
+  {
+    "key": "5.1.1",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 1,
+    "slug": "national-road-number-2",
+    "title_fr": "Numéro de route nationale 2",
+    "title_ar": "رقم الطريق الوطنية 2",
+    "meaning_fr": "Ce panneau vous informe que vous circulez sur la route nationale numéro 2 qui est de couleur rouge.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك غادي فلطريق الوطنية رقم 2 لي لونها أحمر.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_0.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.2",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 2,
+    "slug": "regional-road-312",
+    "title_fr": "Numéro de route régionale 312",
+    "title_ar": "رقم طريق جهوية 312",
+    "meaning_fr": "Ce panneau vous informe que vous circulez sur une route régionale dont le numéro est 312.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك غادي فواحد الطريق جهوية الرقم ديالها هو 312.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_1.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.3",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 3,
+    "slug": "provincial-road-number-5311",
+    "title_fr": "Numéro de route provinciale 5311",
+    "title_ar": "رقم طريق إقليمية 5311",
+    "meaning_fr": "Ce panneau vous informe que vous circulez sur une chaussée provinciale dont le numéro est 5311.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك غادي فواحد الطريق إقليمية الرقم ديالها هو 5311.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_2.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.4",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 4,
+    "slug": "forest-road-number-16",
+    "title_fr": "Numéro de route forestière 16",
+    "title_ar": "رقم طريق غابوية 16",
+    "meaning_fr": "Ce panneau vous informe que vous circulez sur une chaussée forestière dont le numéro est 16.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك غادي فواحد الطريق غابوية الرقم ديالها هو 16.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_3.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.5",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 5,
+    "slug": "entry-agglomeration-chefchaouen",
+    "title_fr": "Entrée d'agglomération Chefchaouen",
+    "title_ar": "دخول تجمع عمراني شفشاون",
+    "meaning_fr": "Vous êtes entré en ville, vous devez réduire votre vitesse à 60 km/h et respecter le code de la route en agglomération.",
+    "meaning_ar": "دخلتي للمدينة، خاصك تنقص السرعة لـ 60 كلم/ساعة وتحترم قوانين السير داخل التجمعات السكنية.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_4.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.6",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 6,
+    "slug": "end-of-built-up-area-chefchaouen",
+    "title_fr": "Fin d'agglomération Chefchaouen",
+    "title_ar": "نهاية التجمع العمراني شفشاون",
+    "meaning_fr": "Vous êtes sorti de la ville, vous pouvez maintenant augmenter votre vitesse tout en restant attentif à la route.",
+    "meaning_ar": "خرجتي من المدينة، دابا تقدر تزيد في السرعة ولكن رد البال للطريق",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_5.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.7",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 7,
+    "slug": "entry-city-tan-tan",
+    "title_fr": "Entrée d'agglomération Tan-Tan",
+    "title_ar": "علامة دخول مدينة طانطان",
+    "meaning_fr": "Vous êtes entré en agglomération, vous devez réduire votre vitesse à 60 km/h et respecter les règles du code de la route urbain.",
+    "meaning_ar": "دخلتي للمدينة، خاصك تنقص السرعة لـ 60 كلم في الساعة وتحترم قوانين السير الحضرية.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_6.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.8",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 8,
+    "slug": "end-of-built-up-area-tan-tan",
+    "title_fr": "Fin d'agglomération Tan-Tan",
+    "title_ar": "نهاية التجمع العمراني طانطان",
+    "meaning_fr": "Vous quittez la ville, vous pouvez maintenant augmenter votre vitesse mais restez vigilant sur la route nationale.",
+    "meaning_ar": "خرجتي من المدينة، دابا تقدر تزيد ف السرعة ولكن رد البال للطريق الوطنية.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_7.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.10",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 10,
+    "slug": "location-sign-akchour",
+    "title_fr": "Panneau de localisation Akchour",
+    "title_ar": "علامة تحديد الموقع أقشور",
+    "meaning_fr": "Ce panneau vous informe que vous êtes arrivé dans la zone d'Akchour.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك وصلتي للمنطقة ديال أقشور.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_9.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.11",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 11,
+    "slug": "watercourse-location-bouregreg",
+    "title_fr": "Signalisation de localisation d'un cours d'eau",
+    "title_ar": "علامة تحديد موقع مجرى مائي",
+    "meaning_fr": "Ce panneau vous informe que vous arrivez à un cours d'eau ou un oued nommé Bouregreg.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك واصل لمجرى مائي أو واد سميتو أبي رقراق.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_10.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.12",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 12,
+    "slug": "highway-rest-area-khemisset",
+    "title_fr": "Aire de repos Khemisset",
+    "title_ar": "باحة الاستراحة الخميسات",
+    "meaning_fr": "Ce panneau vous informe qu'une aire de repos est proche pour vous reposer ou faire le plein de carburant.",
+    "meaning_ar": "هادي علامة كتعلمك بلي كاينة باحة استراحة قريبة باش ترتاح ولا تزيد المازوط",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_11.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.13",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 13,
+    "slug": "street-name-sign",
+    "title_fr": "Plaque de nom de rue",
+    "title_ar": "علامة اسم الشارع",
+    "meaning_fr": "Ce panneau vous informe du nom de la rue ou de l'avenue où vous vous trouvez actuellement.",
+    "meaning_ar": "هاد العلامة كتعلمك بالسمية ديال الزنقة ولا الشارع اللي نتا فيه دابا.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_12.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.14",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 14,
+    "slug": "emergency-exit-right-100m",
+    "title_fr": "Issue de secours à droite 100m",
+    "title_ar": "مخرج إغاثة على اليمين 100 متر",
+    "meaning_fr": "Ce panneau vous indique le chemin vers une issue de secours à droite après 100 mètres en cas d'urgence.",
+    "meaning_ar": "هاد العلامة كاتوريك الطريق لمنفذ الإغاثة على اليمين من بعد 100 متر فالحالات المستعجلة.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_13.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.15",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 15,
+    "slug": "emergency-exit-left-200m",
+    "title_fr": "Issue de secours à gauche à 200 mètres",
+    "title_ar": "مخرج إغاثة لليسار على بعد 200 متر",
+    "meaning_fr": "Ce panneau indique aux piétons qu'il y a une issue de secours à gauche à une distance de 200 mètres.",
+    "meaning_ar": "هاد العلامة كاتوري للراجلين بلي كاين مخرج ديال الإغاثة على ليسر من بعد 200 متر.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_14.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.1.16",
+    "section_id": 5,
+    "category_id": 1,
+    "item_id": 16,
+    "slug": "end-of-rest-area-khemisset",
+    "title_fr": "Fin de l'aire de repos de Khemisset",
+    "title_ar": "نهاية باحة الاستراحة بالخميسات",
+    "meaning_fr": "Ce panneau vous informe que l'aire de repos de Khemisset se termine et que vous en sortez maintenant.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي سالات باحة الاستراحة ديال الخميسات وراك خارج منها دابا.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_15.png"
+    ],
+    "category_title_fr": "Signaux de localisation",
+    "category_title_ar": "",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.2.17",
+    "section_id": 5,
+    "category_id": 2,
+    "item_id": 17,
+    "slug": "national-road-kilometer-marker",
+    "title_fr": "Borne kilométrique de route nationale",
+    "title_ar": "صوة كيلومترية للطريق الوطنية",
+    "meaning_fr": "Ce panneau vous indique le type de chaussée, son numéro, ainsi que la distance restante pour atteindre la ville suivante.",
+    "meaning_ar": "هاد العلامة كاتوريك نوع الطريق، رقمها، والمسافة اللي باقية باش توصل للمدينة الجاية.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_16.png"
+    ],
+    "category_title_fr": "Bornes et signaux de distance",
+    "category_title_ar": "الصوى وعلامات المسافة",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.2.18",
+    "section_id": 5,
+    "category_id": 2,
+    "item_id": 18,
+    "slug": "province-boundary-marker-national-road",
+    "title_fr": "Borne de limite de province sur route nationale",
+    "title_ar": "صوة حدود الإقليم على طريق وطنية",
+    "meaning_fr": "Ce panneau vous informe que vous entrez dans les limites d'une nouvelle province sur une route nationale.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي دخلتي لحدود إقليم جديد فواحد الطريق وطنية.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_17.png"
+    ],
+    "category_title_fr": "Bornes et signaux de distance",
+    "category_title_ar": "الصوى وعلامات المسافة",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.2.19",
+    "section_id": 5,
+    "category_id": 2,
+    "item_id": 19,
+    "slug": "regional-road-milestone",
+    "title_fr": "Borne kilométrique de route régionale",
+    "title_ar": "صوة كيلومترية للطريق الجهوية",
+    "meaning_fr": "Ce panneau vous indique le numéro de la route régionale et la distance restante pour atteindre la prochaine ville.",
+    "meaning_ar": "هاد العلامة كاتوريك رقم الطريق الجهوية والمسافة اللي باقية باش توصل للمدينة اللي جاية.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_18.png"
+    ],
+    "category_title_fr": "Bornes et signaux de distance",
+    "category_title_ar": "الصوى وعلامات المسافة",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.2.20",
+    "section_id": 5,
+    "category_id": 2,
+    "item_id": 20,
+    "slug": "provincial-road-milestone",
+    "title_fr": "Borne kilométrique de route provinciale",
+    "title_ar": "صوة كيلومترية للطريق الإقليمية",
+    "meaning_fr": "Ce panneau vous indique la distance restante pour atteindre la ville ainsi que le numéro de la chaussée provinciale sur laquelle vous circulez.",
+    "meaning_ar": "هاد العلامة كاتوريك شحال باقي ليك باش توصل للمدينة ورقم الطريق الإقليمية اللي نتا فيها.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_19.png"
+    ],
+    "category_title_fr": "Bornes et signaux de distance",
+    "category_title_ar": "الصوى وعلامات المسافة",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.2.21",
+    "section_id": 5,
+    "category_id": 2,
+    "item_id": 21,
+    "slug": "highway-kilometer-marker-a2-51",
+    "title_fr": "Borne kilométrique sur autoroute A2",
+    "title_ar": "علامة التموقع الكيلومتري بالطريق السيار A2",
+    "meaning_fr": "Ce panneau vous informe que vous vous situez au point kilométrique 51 sur l'autoroute A2.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك فالتحديد الكيلومتري 51 على الطريق السيار رقم 2.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_20.png"
+    ],
+    "category_title_fr": "Bornes et signaux de distance",
+    "category_title_ar": "الصوى وعلامات المسافة",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.2.22",
+    "section_id": 5,
+    "category_id": 2,
+    "item_id": 22,
+    "slug": "hectometric-marker-9",
+    "title_fr": "Borne hectométrique numéro 9",
+    "title_ar": "صوة هيكتومترية رقم 9",
+    "meaning_fr": "Ce panneau vous informe que vous avez parcouru 900 mètres depuis le dernier kilomètre pour vous permettre de connaître votre position exacte.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي قطعتي 900 متر من مورا آخر كيلومتر باش تعرف موقعك بالضبط.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_21.png"
+    ],
+    "category_title_fr": "Bornes et signaux de distance",
+    "category_title_ar": "الصوى وعلامات المسافة",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.2.23",
+    "section_id": 5,
+    "category_id": 2,
+    "item_id": 23,
+    "slug": "kilometric-marker-plate",
+    "title_fr": "Plaque de repérage kilométrique",
+    "title_ar": "صفيحة تحديد النقط الكيلومترية",
+    "meaning_fr": "Ce panneau vous indique le numéro de la chaussée sur laquelle vous circulez et le point kilométrique exact où vous vous trouvez.",
+    "meaning_ar": "هاد العلامة كاتوريك رقم الطريق لي نتا فيها و الكيلومتر لي وصلتي ليه بالضبط",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_22.png"
+    ],
+    "category_title_fr": "Bornes et signaux de distance",
+    "category_title_ar": "الصوى وعلامات المسافة",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.24",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 24,
+    "slug": "tourist-site-volubilis-walili-short",
+    "title_fr": "Site archéologique Volubilis",
+    "title_ar": "موقع أثري وليلي",
+    "meaning_fr": "Ce panneau vous informe que vous êtes à proximité du site archéologique historique de Volubilis.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك قريب من الموقع الأثري التاريخي ديال وليلي.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_23.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.25",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 25,
+    "slug": "historical-site-monument",
+    "title_fr": "Site historique ou monument",
+    "title_ar": "موقع تاريخي أو أثري",
+    "meaning_fr": "Ce panneau vous informe qu'un site historique ou des monuments anciens se trouvent à proximité.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي كاين موقع تاريخي أو مآثر قديمة قريبة منك.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_24.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.26",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 26,
+    "slug": "tourist-site-volubilis-walili-illustration",
+    "title_fr": "Site archéologique de Volubilis",
+    "title_ar": "موقع أثري وليلي",
+    "meaning_fr": "Ce panneau vous informe que vous êtes à proximité du site archéologique historique de Volubilis.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك قريب من الموقع الأثري التاريخي ديال وليلي",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_25.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.27",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 27,
+    "slug": "tourist-circuit-toubkal",
+    "title_fr": "Circuit de Toubkal",
+    "title_ar": "علامة مدار توبقال السياحي",
+    "meaning_fr": "Ce panneau vous informe que vous êtes sur un itinéraire touristique spécifique au circuit du mont Toubkal.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك فوحد المسار سياحي خاص بمدار جبل توبقال.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_26.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.28",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 28,
+    "slug": "toubkal-national-park-direction",
+    "title_fr": "Parc National de Toubkal",
+    "title_ar": "المنتزه الوطني توبقال",
+    "meaning_fr": "Ce panneau vous indique la chaussée à suivre pour vous rendre au Parc National de Toubkal qui se trouve dans cette direction.",
+    "meaning_ar": "هاد العلامة كاتوريك الطريق باش تمشي للمنتزه الوطني توبقال لي كاين فهاد الاتجاه.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_27.png",
+      "https://assets.conduire.ma/signs/mawaqi3/image_29.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.29",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 29,
+    "slug": "tourist-sign-kasbah-ait-haddou",
+    "title_fr": "Signalisation touristique Kasbah Ait Haddou",
+    "title_ar": "إشارة سياحية قصبة أيت حدو",
+    "meaning_fr": "Ce panneau vous informe qu'un site touristique historique se trouve à proximité dans cette direction.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي كاين موقع سياحي تاريخي قريب ليك فهاد الاتجاه.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_28.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.31",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 31,
+    "slug": "end-national-park-talassemtane",
+    "title_fr": "Fin du Parc National Talassemtane",
+    "title_ar": "نهاية المنتزه الوطني تالاسمطان",
+    "meaning_fr": "Ce panneau vous informe que vous avez quitté les limites du Parc National Talassemtane.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك خرجتي من حدود المنتزه الوطني تالاسمطان.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_30.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.32",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 32,
+    "slug": "tourist-direction-jamaa-lfna",
+    "title_fr": "Direction vers site touristique Place Jamaa Lfna",
+    "title_ar": "توجيه لموقع سياحي ساحة جامع الفنا",
+    "meaning_fr": "Ce panneau vous indique la chaussée vers la place Jamaa Lfna une fois arrivé au bout de la ruelle.",
+    "meaning_ar": "هاد العلامة كاتوريك الطريق لساحة جامع الفنا فاش توصل لآخر الزقاق.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_31.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.33",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 33,
+    "slug": "tourist-site-volubilis-historical",
+    "title_fr": "Site touristique historique Volubilis",
+    "title_ar": "موقع سياحي تاريخي وليلي",
+    "meaning_fr": "Ce panneau vous informe qu'il y a un site archéologique Volubilis dans cette direction pour le visiter.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي كاين موقع أثري وليلي فهاد الاتجاه باش تزورو",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_32.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.34",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 34,
+    "slug": "tourist-site-volubilis-walili-illustration-2",
+    "title_fr": "Site touristique Volubilis",
+    "title_ar": "موقع سياحي وليلي",
+    "meaning_fr": "Ce panneau vous informe que vous êtes proche du site archéologique de Volubilis pour le visiter.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك قريب من الموقع الأثري ديال وليلي باش تزورو",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_33.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.3.35",
+    "section_id": 5,
+    "category_id": 3,
+    "item_id": 35,
+    "slug": "historical-site-kasbah-ait-haddou",
+    "title_fr": "Site historique Kasbah Ait Ben Haddou",
+    "title_ar": "موقع تاريخي قصبة آيت حدو",
+    "meaning_fr": "Ce panneau vous informe que vous êtes proche d'un site historique et touristique important à visiter.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي راك قريب من موقع تاريخي وسياحي مهم باش تزورو.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_34.png"
+    ],
+    "category_title_fr": "Signalisation d'animation touristique et d'intérêt local",
+    "category_title_ar": "علامات التنشيط السياحي وذات النفع المحلي",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.36",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 36,
+    "slug": "road-classification-markers",
+    "title_fr": "Bornes de jalonnement et de virage",
+    "title_ar": "أعمدة تحديد المسافات والمنعرجات",
+    "meaning_fr": "Ces bornes vous aident à identifier le type de chaussée, qu'elle soit nationale, régionale ou provinciale, et à délimiter les virages.",
+    "meaning_ar": "هاد الأعمدة كيعاونوك تعرف نوع الطريق واش وطنية، جهوية ولا إقليمية وتحدد المنعرجات.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_35.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.37",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 37,
+    "slug": "intersection-marker-beacon",
+    "title_fr": "Balise d'intersection",
+    "title_ar": "صوة ملتقى الطرق",
+    "meaning_fr": "Cette balise vous avertit qu'un carrefour est proche, vous devez être attentif et réduire votre vitesse.",
+    "meaning_ar": "هاد الصوة كتعلمك بلي كاين ملتقى طرق قريب، خاصك ترد البال وتنقص السرعة.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_36.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.38",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 38,
+    "slug": "permanent-signaling-bollard",
+    "title_fr": "Dispositif de renforcement de la signalisation permanente",
+    "title_ar": "جهاز تعزيز التشوير الدائم",
+    "meaning_fr": "Cette balise aide le conducteur à voir clairement le bord de la chaussée la nuit ou lorsqu'il y a du brouillard.",
+    "meaning_ar": "هاد العمود كيعاون السائق باش يشوف حاشية الطريق بوضوح بالليل ولا فاش كتكون الضبابة.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_37.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.39",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 39,
+    "slug": "blue-reinforcement-bollard",
+    "title_fr": "Balise de renforcement de signalisation bleue",
+    "title_ar": "صوة زرقاء لتعزيز التشوير",
+    "meaning_fr": "Cette balise vous aide à mieux voir la chaussée la nuit et délimite les bords de la route pour vous empêcher d'en sortir.",
+    "meaning_ar": "هاد الصوة كتعاونك تشوف الطريق مزيان بالليل وكتحدد ليك الجوانب ديال الطريق باش ما تخرجش.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_38.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.40",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 40,
+    "slug": "road-edge-delineator",
+    "title_fr": "Delineateur de bord de chaussée",
+    "title_ar": "أرمة تحديد حافة الطريق",
+    "meaning_fr": "Cette balise vous indique où se termine la chaussée pour ne pas sortir de l'accotement, surtout la nuit.",
+    "meaning_ar": "هاد العلامة كاتوريك فين كايسالي الطريق باش ما تخرجش على الحاشية خصوصا فليل",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_39.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.41",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 41,
+    "slug": "dangerous-curve-marker-right",
+    "title_fr": "Balise de virage dangereux à droite",
+    "title_ar": "صوة منعرج خطير لليمين",
+    "meaning_fr": "Cette balise vous indique qu'il y a un virage difficile à droite, vous devez réduire votre vitesse et suivre la courbe de la chaussée.",
+    "meaning_ar": "هاد العلامة كاتوريك كاين فيراج صعيب لليمن، خاصك تنقص السرعة وتدور مع الطريق.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_40.png",
+      "https://assets.conduire.ma/signs/mawaqi3/image_42.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.42",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 42,
+    "slug": "obligation-pass-right-square",
+    "title_fr": "Contournement obligatoire par la droite",
+    "title_ar": "إجبارية المرور من جهة اليمين",
+    "meaning_fr": "Vous devez passer par le côté droit de cette barrière pour continuer votre chemin sans danger.",
+    "meaning_ar": "خاصك تدوز من جيهة اليمين ديال هاد الحاجز باش تكمل طريقك بلا خطر",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_41.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.44",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 44,
+    "slug": "lane-divergence-marker",
+    "title_fr": "Balise de divergence de voies",
+    "title_ar": "صوة للإشارة إلى تباعد المسالك",
+    "meaning_fr": "Cette balise vous avertit que la chaussée va se diviser en deux voies et que vous devez choisir votre direction.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي الطريق غادي تفرق لزوج مسالك، خاصك تختار المسلك اللي بغيتي.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_43.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.45",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 45,
+    "slug": "curve-alignment-markers",
+    "title_fr": "Balises de virage",
+    "title_ar": "صوى تحديد منعرج",
+    "meaning_fr": "Ces balises vous indiquent la direction de la chaussée pour que vous fassiez attention et suiviez le virage en toute sécurité.",
+    "meaning_ar": "هاد العلامات كيبينو ليك الطريق فين دايرة باش ترد البال وتتبع المنعرج بأمان.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_44.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.46",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 46,
+    "slug": "wind-sock",
+    "title_fr": "Manche à air",
+    "title_ar": "مؤشر اتجاه الرياح",
+    "meaning_fr": "Faites attention au vent fort qui peut faire dévier votre voiture et tenez fermement votre volant.",
+    "meaning_ar": "رد بالك من الريح القوية اللي تقدر تميل ليك الطوموبيل وشيد الفولون مزيان.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_45.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.47",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 47,
+    "slug": "lane-divergence-beacon",
+    "title_fr": "Balise de divergence de voies",
+    "title_ar": "صوة لتحديد تباعد المسالك",
+    "meaning_fr": "Ce panneau vous informe que la chaussée va se diviser en deux directions et que vous devez choisir la voie que vous souhaitez emprunter.",
+    "meaning_ar": "هاد العلامة كتعلمك بلي الطريق غتفرق لزوج جيهات، خاصك تختار المسلك لي بغيتي تمشي فيه.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_46.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.48",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 48,
+    "slug": "level-crossing-approach-beacons",
+    "title_fr": "Balises de passage à niveau",
+    "title_ar": "أعمدة الاقتراب من سكة حديدية",
+    "meaning_fr": "Ils vous indiquent la distance restante jusqu'aux rails : chaque trait rouge signifie 50 mètres, réduisez votre vitesse et soyez attentif.",
+    "meaning_ar": "كيعلموك شحال باقي للسكة: كل خط أحمر كيعني 50 متر، نقص السرعة ورد البال.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_47.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.49",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 49,
+    "slug": "danger-high-voltage-cables",
+    "title_fr": "Danger Haute Tension",
+    "title_ar": "خطر تيار كهربائي عالي الضغط",
+    "meaning_fr": "Faites attention car il y a un danger de haute tension, il est interdit de passer avec un chargement trop haut pour ne pas toucher les câbles électriques.",
+    "meaning_ar": "رد بالك كاين خطر ديال الضوء العالي، ممنوع تدوز بشي حاجة عالية بزاف باش متقيسش السلوكة.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_48.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  },
+  {
+    "key": "5.4.50",
+    "section_id": 5,
+    "category_id": 4,
+    "item_id": 50,
+    "slug": "level-crossing-no-barrier-position",
+    "title_fr": "Position d'un passage à niveau sans barrières",
+    "title_ar": "موقع سكة حديدية بدون حواجز",
+    "meaning_fr": "Faites attention, vous êtes arrivé exactement au niveau d'une voie ferrée qui ne dispose ni de garde ni de barrières.",
+    "meaning_ar": "رد بالك، راك وصلتي نيشان للسكة ديال التران اللي مافيهاش عساس ولا حواجز.",
+    "images": [
+      "https://assets.conduire.ma/signs/mawaqi3/image_49.png"
+    ],
+    "category_title_fr": "Signaux de localisation de ligne",
+    "category_title_ar": "علامات للدلالة على موقع خط",
+    "section_title_fr": "Signaux de localisation",
+    "section_title_ar": "علامات المواقع"
+  }
+]

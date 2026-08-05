@@ -1,0 +1,961 @@
+{
+  "id": 15,
+  "title": "Quiz 15",
+  "questionCount": 40,
+  "previewImage": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_1.jpg",
+  "source": "siya9a_maroc",
+  "questions": [
+    {
+      "id": 1,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_1.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_1.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_1.mp3",
+      "description": "باش نتجاوز هاذ اصحاب الدراجات، من الواجب علي نخلي مسافة جانبية ما كتقلش على",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "داخل التجمعات السكنية، خاصني نخلي مسافة ديال متر واحد على الأقل باش نتجاوز الدراجات، و خارج التجمعات السكنية نخلي متر ونص. و طبعا، خاصني نشعل اضواء سينيال ليسار حيت غادي نتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "مترو",
+            "2 مترو"
+          ]
+        },
+        {
+          "description": "نشغل مؤشر تغيير الاتجاه ديال ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_2.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_2.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_2.mp3",
+      "description": "هاد العربة كتمشي بقل من 30 كلم فالساعة. نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "الخط مستمر يعني مايمكنش نتجاوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_3.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_3.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_3.mp3",
+      "description": "نتجاوز",
+      "answer": [
+        2
+      ],
+      "explanation": "الإشارة الطّرقية العمودية كتعني نهاية منع التّجاوز، يعني منع التجاوز سالا و من بعد الإشارة نقدر نتجاوز. ولكن كاينة طوموبيل جاية من الجهة المعاكسة، يعني خاص نتسنا.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_4.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_4.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_4.mp3",
+      "description": "انا فالوضع المناسب باش",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "الإشارة كتشير لملتقى الطرق، وفي ملتقى الطرق ممنوع الوقوف والتوقّف.",
+      "optionGroups": [
+        {
+          "description": "نوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نتوقف :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_5.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_5.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_5.mp3",
+      "description": "باش نرتاح يمكن",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "الصورة كتبيّن أنني فطريق سيّار، الخط متصل على اليسار وشريط التوقّف الإستعجالي على اليمين. فشريط التوقّف الإستعجالي ممنوع الوقوف إلا في حالة عطب أو ضرورة، مايمكنش نوقف خلف الطوموبيل الحمراء للراحة ولا التوقّف.",
+      "optionGroups": [
+        {
+          "description": "نوقف خلف السيارة الحمرا :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نتوقف خلف السيارة الحمرا :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_6.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_6.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_6.mp3",
+      "description": "السيارة، كترجع للخلف",
+      "answer": [
+        2,
+        4
+      ],
+      "explanation": "السيارة اللي كتراجع من الموقف ماعندهاش حق الأسبقية، الأسبقية عندي، خاص السائق ينتظر حتى ندوز، ننقص السرعة وندوز بلا ما نبدل المسلك.",
+      "optionGroups": [
+        {
+          "options": [
+            "من الواجب نغير المسلك",
+            "ننقص من السرعة"
+          ]
+        },
+        {
+          "description": "من الواجب نعطي حق الاسبقية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_7.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_7.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_7.mp3",
+      "description": "الحوادث على الطريق",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الحوادث فوسط المدينة كثر من اللي خارج المدينة، حيت فوسط المدينة السير مزدحم والحوادث قليلة الخطورة، ولكن خارج المدينة الحوادث خطيرة بسبب السرعة. الجواب الصحيح هو 2 و 3.",
+      "optionGroups": [
+        {
+          "description": "هم اكثر عدد من الحوادث اللي كيوقعوا فوسط المدينة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "اكثر خطورة من الحوادث اللي كيوقعوا فوسط المدينة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_8.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_8.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_8.mp3",
+      "description": "الحوادث على الطريق السيار هما اكثر خطورة من الحوادث اللي كيوقعوا على الطريق العادية",
+      "answer": [
+        1
+      ],
+      "explanation": "فطريق السيار الحوادث كثر خطورة من الطريق العادية، حيت السرعة القصوى هي 120 كلم/ساعة، والطريق الوطنية السرعة 100 كلم/ساعة.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_9.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_9.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_9.mp3",
+      "description": "كل يوم فالمغرب، فالمتوسط كاين حوالي",
+      "answer": [
+        2
+      ],
+      "explanation": "حسب المبيان، المتوسط ديال الجرحى هو 216 جريح كل نهار والمتوسط ديال القتلى هو 10 كل نهار.",
+      "optionGroups": [
+        {
+          "options": [
+            "216 جريح",
+            "104 جريح",
+            "10 قتلى",
+            "8 قتلى"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_10.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_10.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_10.mp3",
+      "description": "تحديد السرعة كيبدا",
+      "answer": [
+        3
+      ],
+      "explanation": "إشارات المنع كتطبق من عند العلامة، والإشارة التكميلية اللي تحت إشارة تحديد السرعة كتعني أن التحديد كيطبق على مسافة 300 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "على بعد 150 متر",
+            "على بعد 300 متر",
+            "ابتداء من العلامة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_11.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_11.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_11.mp3",
+      "description": "انا فمسلك",
+      "answer": [
+        1
+      ],
+      "explanation": "كاينة إشارة عمودية قدامي كتعني ماعنديش حق الأسبقية، حنا فمسلك الاندماج، خاصني نستعد نندمج فحركة السير. مسلك التباطئ هو المسلك اللي نخرج فيه من الطريق.",
+      "optionGroups": [
+        {
+          "options": [
+            "الاندماج",
+            "التباطؤ"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_12.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_12.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_12.mp3",
+      "description": "شتاء نازلة مجهدة، يمكن لي نسوق",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "في المطر نقدر نستعمل أضواء التقابل وأضواء الضباب الأمامية، أضواء الوضع مايمكنش، أضواء الضباب الخلفية نستعملهم فحالة الضباب ماشي المطر.",
+      "optionGroups": [
+        {
+          "options": [
+            "باضواء الوضع وحدهم",
+            "باضواء التقابل",
+            "باضواء ضبابة ديال لقدام",
+            "باضواء ضبابة ديال لخلف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_13.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_13.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_13.mp3",
+      "description": "باش نتوقف، من الواجب نخلي اضواء الوضع مشعولين",
+      "answer": [
+        1
+      ],
+      "explanation": "باش نوقف على جنب الطريق بالليل خاصني نشعل أضواء الوضع.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_14.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_14.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_14.mp3",
+      "description": "عند الاقتراب من ملتقى الطرق",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "الإشارة كتعني انتباه خطر طريق ذات أولوية، يعني بعد 150 متر غادي نلقى ملتقى الطرق وعندي حق الأسبقية، خاصني ننقص السرعة والتنبيه بالمنبه الصوتي بسبب الضباب.",
+      "optionGroups": [
+        {
+          "description": "من الواجب ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "يمكن لي ننبه بواسطة المنبه الصوتي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_15.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_15.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_15.mp3",
+      "description": "مسافة الكبح كتعلق",
+      "answer": [
+        1,
+        2
+      ],
+      "explanation": "مسافة الكبح هي المسافة اللي نبدأ فيها الفرملة حتى نوقف، تتعلق بالسرعة وحالة الطريق والإطارات، ماعندهاش علاقة بوقت رد الفعل.",
+      "optionGroups": [
+        {
+          "options": [
+            "بالسرعة",
+            "بالالتحام",
+            "بوقت رد الفعل"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_16.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_16.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_16.mp3",
+      "description": "بسرعة 90 كلم فالساعة، وظروف عادية مسافة الوقوف هي تقريبا",
+      "answer": [
+        3
+      ],
+      "explanation": "في طريق ناشفة وبسرعة 90 كلم في الساعة، مسافة الوقوف هي 9 ضرب 9 والنتيجة هي 81. إذن و انا غادي بدرعة 90 كلم/ساعة إذا إضطريت نوقف غادي نحتاج مسافة 81 متر تقريبا.",
+      "optionGroups": [
+        {
+          "options": [
+            "27 مترو",
+            "54 مترو",
+            "81 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_17.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_17.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_17.mp3",
+      "description": "بسرعة 120 كلم فالساعة، وظروف عادية مسافة الوقوف هي تقريبا",
+      "answer": [
+        3
+      ],
+      "explanation": "نسير بسرعة 90 كلم/ساعة، مسافة الوقوف هي 9 ضرب 9 = 81 متر. بنفس الطريقة نحسب مسافة الوقوف بسرعة 120 كلم/ساعة، 12 ضرب 12 = 144 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "72 متر",
+            "81 متر",
+            "144 متر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_18.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_18.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_18.mp3",
+      "description": "المنطقة الخطيرة",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "خطر المنعرج على اليسار بعد 150 متر وخطر المنعرج على طول 200 متر.",
+      "optionGroups": [
+        {
+          "options": [
+            "كتبدى على بعد 200 مترو",
+            "كتبدى على بعد 150 مترو",
+            "كتمتد على طول 200 مترو",
+            "كتمتد على طول 150 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_19.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_19.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_19.mp3",
+      "description": "الاشارات الطرقية كتسمح بالمرور للعربات اللي كتحمل المواد الخطيرة و اللي الوزن ديالها قل من 3,5 طن",
+      "answer": [
+        2
+      ],
+      "explanation": "الإشارة الطّرقية تعني ممنوع مرور العربات اللي تحمل مواد قابلة للاشتعال أو الانفجار، والطريق ممنوع على السيارات اللي وزنها يتجاوز 3.5 طن.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_20.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_20.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_20.mp3",
+      "description": "كيصبح التجاوز ممنوع",
+      "answer": [
+        1
+      ],
+      "explanation": "علامات المنع تطبق من عند العلامة، يعني التجاوز ممنوع من عند الإشارة الطّرقية.",
+      "optionGroups": [
+        {
+          "options": [
+            "من عند العلامة",
+            "على بعد 60 مترو",
+            "على بعد 150 مترو"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_21.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_21.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_21.mp3",
+      "description": "الاشارات الطرقية",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "الإشارة كتعني إنعطاف إجباري لليمين، مايمكنش نستعمل المسلك على اليسار.",
+      "optionGroups": [
+        {
+          "description": "كتعلمني على ان الانعطاف اجباري :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "كتجبرني ندور على ليسر :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_22.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_22.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_22.mp3",
+      "description": "من الواجب نعطي حق الاسبقية للعربات اللي جاية من ليسر وحدهم",
+      "answer": [
+        1
+      ],
+      "explanation": "الإشارة كتعني ماعنديش حق الأسبقية، خاصني نعطي حق الأسبقية للعربات الجاية من الجهة اليمنى واليسرى. فحالة المدار نعطي حق الأسبقية للعربات الجاية من اليسار.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_23.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_23.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_23.mp3",
+      "description": "عند مقربة من هاذ العلامة",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "الإشارة كتعني وجود مستشفى، خاصني نتجنب استعمال المنبه الصوتي ونتوقع مرور عربات ذات الأسبقية للي هي سيارات الاسعاف.",
+      "optionGroups": [
+        {
+          "description": "نتجنب استعمال المنبه الصوتي :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "هناك خطر مرور العربات ذات الاسبقية :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_24.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_24.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_24.mp3",
+      "description": "على بعد 1000 متر",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "فطريق سيار، على بعد 1000 متر محطة الاستراحة فيها كلشي: مطعم، مسجد، مقهى، محطة وقود، مراحيض.",
+      "optionGroups": [
+        {
+          "description": "غادي نوجد مطعم :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "يمكن لي نتزود بالوقود :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_25.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_25.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_25.mp3",
+      "description": "باش نتجه لعين عتيق",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "أستعمل مسلك التباطئ للخروج من الطريق السيار، ننقص السرعة ونستعمل المسلك على اليمين لعين عتيق.",
+      "optionGroups": [
+        {
+          "description": "ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "نشد ليمن :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_26.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_26.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_26.mp3",
+      "description": "هاد الاشارات المرسومة على الطريق",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "الخط المرسوم على الأرض ينبّهني أن التجاوز غادي يصبح ممنوع، من الأفضل نبقى في المسلك اليميني.",
+      "optionGroups": [
+        {
+          "options": [
+            "كتعلمني على ان التجاوز مسموح به فهاد الطريق",
+            "كتنبهني على ان التجاوز غيصبح ممنوع",
+            "من الافضل البقاء فالمسلك ديال ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_27.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_27.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_27.mp3",
+      "description": "على بعد 500 مترو",
+      "answer": [
+        2
+      ],
+      "explanation": "الإشارة الطّرقية مؤقتة (لونها أصفر)، على بعد 500 متر الطريق غادي تولي بمسلكين، والمسلك في الوسط ممنوع للشاحنات.",
+      "optionGroups": [
+        {
+          "options": [
+            "ممنوع على عربات نقل البضائع تكمل فهاد الطريق",
+            "التجاوز ممنوع على عربات نقل البضائع",
+            "المسلك الثاني خاص بعربات نقل البضائع"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_28.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_28.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_28.mp3",
+      "description": "شرب الكحول مع الادوية كيزيد من",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "شرب الكحول مع الأدوية يزيد معدل الكحول في الدم أكثر.",
+      "optionGroups": [
+        {
+          "description": "معدل الكحول فالدم :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "تاثير الكحول :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_29.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_29.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_29.mp3",
+      "description": "عند المراقبة من الواجب علي الادلاء",
+      "answer": [
+        1,
+        2,
+        4
+      ],
+      "explanation": "في المراقبة الطرقية، خاصني نوري رخصة السياقة، البطاقة الرمادية وشهادة التأمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "برخصة السياقة",
+            "الورقة الرمادية",
+            "ورقة التعريف الوطنية",
+            "شهادة التأمين"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_30.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_30.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_30.mp3",
+      "description": "تناول بعض الادوية يمكن يتسبب في زيادة من وقت رد الفعل",
+      "answer": [
+        1
+      ],
+      "explanation": "وقت رد الفعل في المتوسط ثانية، ويزداد مع تناول الأدوية، حالة سكر، التعب، قلة النوم وتناول المخدرات.",
+      "optionGroups": [
+        {
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_31.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_31.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_31.mp3",
+      "description": "على نفس المحور ديال عربة جديدة",
+      "answer": [
+        1,
+        4
+      ],
+      "explanation": "السيارة فيها محورين للعجلات، المحور الامامي و المحور الخلفي، في نفس المحور خاص العجلات تكون بنفس المقاس.",
+      "optionGroups": [
+        {
+          "description": "ممنوع استعمال عجلات ذات بنية مختلفة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "ممنوع استعمال عجلات ذات علامة مصنع مختلفة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_32.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_32.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_32.mp3",
+      "description": "استهلاك البنزين كيتغير نتيجة",
+      "answer": [
+        2,
+        3
+      ],
+      "explanation": "إستهلاك البنزين يتغير بحالة مصفاة الهواء، وتجنب استعمال الفرامل كيوفر الوقود.",
+      "optionGroups": [
+        {
+          "options": [
+            "ضبط المحرك على سرعة قليلة",
+            "حالة مصفاة الهواء"
+          ]
+        },
+        {
+          "description": "لتوفير الوقود، من الواجب :",
+          "options": [
+            "نتجنب الفرملة بقوة",
+            "السياقة بسرعة قليلة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_33.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_33.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_33.mp3",
+      "description": "من الافضل وضع الحقائب",
+      "answer": [
+        2
+      ],
+      "explanation": "من الأفضل ندير الحقائب في حقيبة السيارة (الكوفر) لتجنب الخطر.",
+      "optionGroups": [
+        {
+          "options": [
+            "على سقف ديار السيارة",
+            "فحقيبة السيارة",
+            "فموخر العربة"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_34.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_34.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_34.mp3",
+      "description": "باش ندور على ليمن غادي نعطي حق الاسبقية",
+      "answer": [
+        3
+      ],
+      "explanation": "الإشارة كتعني ماعنديش حق الأسبقية، خاصني نعطي حق الأسبقية للعربات القادمة من الجهة اليمنى واليسرى.",
+      "optionGroups": [
+        {
+          "options": [
+            "ليسر فقط",
+            "ليمن فقط",
+            "ليسر و ليمن"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_35.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_35.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_35.mp3",
+      "description": "باش ندوز على ليمن",
+      "answer": [
+        1
+      ],
+      "explanation": "الإشارات الضوئية: الضوء الأحمر كيمنع المرور، السهم الأخضر كيسمح بلامرور لليمين.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز بحذر",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_36.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_36.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_36.mp3",
+      "description": "",
+      "answer": [
+        2
+      ],
+      "explanation": "الراجل في ممر الراجلين عنده حق الأسبقية، خاصني نوقف ونخليه يدوز.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نوقف"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_37.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_37.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_37.mp3",
+      "description": "نعطي حق الاسبقية",
+      "answer": [
+        2
+      ],
+      "explanation": "الإشارة كتعني خطر ملتقى الطرق والأسبقية للعربات الجاية من الجهة اليمنى.",
+      "optionGroups": [
+        {
+          "options": [
+            "ليسر فقط",
+            "ليمن فقط",
+            "ليسر و ليمن",
+            "ما نعطيش حق الاسبقية"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_38.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_38.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_38.mp3",
+      "description": "",
+      "answer": [
+        1,
+        3
+      ],
+      "explanation": "الإشارة كتعني حق أسبقية المرور في ملتقى الطرق بعد 150 متر، خاصني ننقص السرعة.",
+      "optionGroups": [
+        {
+          "description": "عندي حق اسبقية المرور :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        },
+        {
+          "description": "من الواجب ننقص من السرعة :",
+          "options": [
+            "نعم",
+            "لا"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_39.jpg",
+      "image_1": null,
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_39.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_39.mp3",
+      "description": "عند علامة قف من الواجب",
+      "answer": [
+        2,
+        3,
+        4
+      ],
+      "explanation": "عند الإشارة قف، خاصني نوقف عند الخط المرسوم ونعطي حق الأسبقية للعربات الجاية من الجهتين.",
+      "optionGroups": [
+        {
+          "options": [
+            "نوقف عند العلامة",
+            "نوقف عند الخط",
+            "نعطي حق الاسبقية لليمن",
+            "نعطي حق الاسبقية لليسر"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "image": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_40.jpg",
+      "image_1": "https://assets.conduire.ma/quizzes/quiz_15/quiz_15_40_1.jpg",
+      "audio": "https://assets.conduire.ma/quizzes/quiz_15/quiz_s_15_40.mp3",
+      "mp3": "files/audio/quiz_15/quiz_s_15_40.mp3",
+      "description": "",
+      "answer": [
+        1
+      ],
+      "explanation": "السيارة على اليمين كتستعمل إشارة لليسار باش تدخل للطريق، خاصها تنتظر حتى ندوز انا حيت هي كانت واقفة و يالاه غادي تتحرك.",
+      "optionGroups": [
+        {
+          "options": [
+            "ندوز",
+            "نعطي حق الاسبقية"
+          ]
+        }
+      ]
+    }
+  ]
+}
